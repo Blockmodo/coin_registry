@@ -1,4 +1,6 @@
-<img align="center" src="https://github.com/Blockmodo/art/blob/master/coin_registry/output/coin_registry_logo.png">
+<p align="center">
+    <img src="https://github.com/Blockmodo/art/blob/master/coin_registry/output/coin_registry_logo.png">
+</p>
 
 ## Introduction
 

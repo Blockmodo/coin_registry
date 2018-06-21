@@ -167,6 +167,10 @@ We are always looking for help. If you have a relevant edit, please feel free to
 
 2. Temporal value changes should be done no more than three times a day. If you would like to update temporal values, please drop open an issue.
 
+## Contributors
+
+Icon: [cryptocurrency by mikicon](https://thenounproject.com/mikicon/uploads/?i=1601185)
+
 ## Community
 
 Coin Registry is maintained by Blockmodo and we're on Telegram. Visit us [on Telegram](https://t.me/blockmodo_developers)

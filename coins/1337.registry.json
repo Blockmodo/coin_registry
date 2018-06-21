@@ -1,1 +1,38 @@
-{"type":"COINREGISTRY","version":1,"name":"1337","fromSymbol":"1337","toSymbol":"ALL","website":"-","network":{"t_total_supply":26206241920,"t_available_supply":26206241920,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"X13","description":{"en":""},"quote":["https://blockmodo.com/quotes/1337"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":[],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "1337",
+  "fromSymbol": "1337",
+  "toSymbol": "ALL",
+  "website": "-",
+  "network": {
+    "t_total_supply": 26206241920,
+    "t_available_supply": 26206241920,
+    "t_max_supply": 0,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": "PoW/PoS",
+  "algorithm": "X13",
+  "description": {
+    "en": "Elite coin is the gaming currency that brings the gaming world and cryptoworld together. We plan to achieve this by integrating Elite into games and allowing users to use Elite as an in-game currency. The idea is to make the process of earning and spending fun for everyone."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/1337"
+  ],
+  "explorer": [],
+  "chat": [
+  	"https://t.me/elitecoinofficial",
+  	"https://discordapp.com/invite/np7BmKV"
+  ],
+  "social": [
+    "https://twitter.com/1337CoinUpdates"
+  ],
+  "community": [
+  	"https://www.reddit.com/r/1337Foundation/"
+  ],
+  "source_code": [
+  	"https://github.com/xenonflux/1337"
+  ]
+}

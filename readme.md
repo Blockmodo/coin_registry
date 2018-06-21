@@ -4,6 +4,53 @@ Coin Registry is a collection of JSON formatted information files that is primar
 
 ### Fields
 
+A COINREGISTRY JSON information file: 
+
+```json
+{
+	"type": "COINREGISTRY",
+	"version": 1,
+	"name": "Ethereum",
+	"fromSymbol": "ETH",
+	"toSymbol":"ALL",
+	"website": "https://www.ethereum.org/",
+	"network": {
+		"t_total_supply": 17104062,
+		"t_available_supply": 17104062,
+		"t_max_supply:" 21000000,
+		"t_block_reward": 12.5,
+	},
+	"is_crypto": true,
+	"is_minable": true,
+	"proof_type": "PoW",
+	"algorithm": "SHA256",
+	"description": {
+		"en": "Ethereum is an open-source, public, blockchain-based distributed computing platform and operating system featuring smart contract functionality. It supports a modified version of Nakamoto consensus via transaction-based state transitions."
+	},
+	quote: [
+		"https://blockmodo.com/quotes/ETH"
+	],
+	"explorer": [
+		"https://etherscan.io/"
+	],
+	"chat": [
+		"https://telegram.me/joinchat/AyAwgj-vtnMdUxRvCgicuQ"
+	],
+	"social": [
+		"https://twitter.com/ethereum",
+		"https://www.facebook.com/ethereumproject/"
+	],
+	"community": [
+		"https://www.reddit.com/r/ethereum",
+		"https://www.reddit.com/r/ethtrader"
+	],
+	"source_code": [
+		"https://github.com/ethereum/go-ethereum",
+		"https://github.com/ethereum/cpp-ethereum"
+	]
+}
+```
+
 #### root → type
 
 The Blockmodo API always assigns type names to Payloads for easy parsing. In this paticular case, the type will always be "COINREGISTRY" for this payload.

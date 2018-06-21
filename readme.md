@@ -1,5 +1,4 @@
-[logo]: https://github.com/Blockmodo/art/blob/master/coin_registry/output/coin_registry_logo.png "Coin Registry Logo"
-
+![](https://github.com/Blockmodo/art/blob/master/coin_registry/output/coin_registry_logo.png)
 
 ## Introduction
 

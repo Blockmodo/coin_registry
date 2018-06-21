@@ -1,6 +1,7 @@
 <p align="center">
     <img 
-        src="https://github.com/Blockmodo/art/blob/master/coin_registry/output/coin_registry_logo.png"
+        width="400px"
+        src="https://github.com/Blockmodo/art/blob/master/coin_registry/output/coin_registry_logo.png@3x"
         srcset="https://github.com/Blockmodo/art/blob/master/coin_registry/output/coin_registry_logo@2x.png.png 2x,
                                  https://github.com/Blockmodo/art/blob/master/coin_registry/output/coin_registry_logo@3x.png.png 3x"
     />

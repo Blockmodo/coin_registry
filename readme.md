@@ -154,7 +154,7 @@ An array of community URLs. For example, Sub-Reddi's would be listed here or for
 
 An array of repo URLs. For example, GitHub repos would be listed here.
 
-### Contributions
+## Contributions
 
 We are always looking for help. If you have a relevant edit, please feel free to issue a pull request. Some things to keep in mind:
 
@@ -162,6 +162,6 @@ We are always looking for help. If you have a relevant edit, please feel free to
 
 2. Temporal value changes should be done no more than three times a day. If you would like to update temporal values, please drop open an issue.
 
-### Community
+## Community
 
 Coin Registry is maintained by Blockmodo and we're on Telegram. Visit us [on Telegram](https://t.me/blockmodo_developers)

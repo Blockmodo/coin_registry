@@ -17,7 +17,7 @@ A COINREGISTRY JSON information file:
 	"network": {
 		"t_total_supply": 17104062,
 		"t_available_supply": 17104062,
-		"t_max_supply:" 21000000,
+		"t_max_supply": 21000000,
 		"t_block_reward": 12.5,
 	},
 	"is_crypto": true,
@@ -27,7 +27,7 @@ A COINREGISTRY JSON information file:
 	"description": {
 		"en": "Ethereum is an open-source, public, blockchain-based distributed computing platform and operating system featuring smart contract functionality. It supports a modified version of Nakamoto consensus via transaction-based state transitions."
 	},
-	quote: [
+	"quote": [
 		"https://blockmodo.com/quotes/ETH"
 	],
 	"explorer": [

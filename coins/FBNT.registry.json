@@ -1,0 +1,33 @@
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "FBNT",
+  "fromSymbol": "FBNT",
+  "toSymbol": "ALL",
+  "website": "-",
+  "network": {
+    "t_total_supply": 0,
+    "t_available_supply": 0,
+    "t_max_supply": 100000000000,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": "PoS",
+  "algorithm": null,
+  "description": {
+    "en": "Facebook Network Token is a blockchain based token that's used to credit content in the Facebook ecosystem. Facebook members can award Facebook Tokens to great content they enjoy and also use it to exchange products and services thoughout the Facebook ecosystem. Facebook Token will be backed by a secure blockchain where members will be able to also transfer and trade tokens from their Facebook Wallet on major exchanges worldwide."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/FBNT"
+  ],
+  "explorer": [],
+  "chat": [],
+  "social": [
+    "https://twitter.com/facebook"
+  ],
+  "community": [
+    "https://facebook.com/facebook"
+  ],
+  "source_code": []
+}

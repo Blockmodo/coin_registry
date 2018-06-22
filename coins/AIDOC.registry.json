@@ -1,1 +1,39 @@
-{"type":"COINREGISTRY","version":1,"name":"AI Doctor","fromSymbol":"AIDOC","toSymbol":"ALL","website":"http://www.aidoc.me/","network":{"t_total_supply":443333332,"t_available_supply":443333332,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/AIDOC"],"explorer":[],"chat":[],"social":["https://twitter.com/@AIDOCMe"],"community":[],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "AI Doctor",
+  "fromSymbol": "AIDOC",
+  "toSymbol": "ALL",
+  "website": "http://www.aidoc.me/",
+  "network": {
+    "t_total_supply": 777777777,
+    "t_available_supply": 443333332,
+    "t_max_supply": 0,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": null,
+  "algorithm": null,
+  "description": {
+    "en": "AIDOC uses medical data and smart doctor AI technology to provide you constant health and wellness insight. Our blockchain and advanced imaging technology enable us to build a live 3D visual of your health from vital sign readings. offering you 24-hour health analysis from a digital medical expert capable of anticipating problems and prescribing solutions. By further combining smart hardware with IoT applications we are building a full ecosystem of health services that will one day span all regions of the medical services industry."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/AIDOC"
+  ],
+  "explorer": [
+  	"https://ethplorer.io/address/0x584b44853680ee34a0f337b712a8f66d816df151",
+  	"https://etherscan.io/token/0x584b44853680ee34a0f337b712a8f66d816df151"
+  ],
+  "chat": [
+  	"https://t.me/AidocMe"
+  ],
+  "social": [
+    "https://twitter.com/@AIDOCMe",
+    "https://www.facebook.com/AIDOCMe"
+  ],
+  "community": [
+  	"https://www.reddit.com/r/AIDOC"
+  ],
+  "source_code": []
+}

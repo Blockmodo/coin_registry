@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Aegis","fromSymbol":"AGS","toSymbol":"ALL","website":"-","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"X13","description":{"en":""},"quote":["https://blockmodo.com/quotes/AGS"],"explorer":[],"chat":[],"social":["https://twitter.com/@AegisCoin"],"community":[],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "Aegis",
+  "fromSymbol": "AGS",
+  "toSymbol": "ALL",
+  "website": "-",
+  "network": {
+    "t_total_supply": 0,
+    "t_available_supply": 0,
+    "t_max_supply": 0,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": true,
+  "proof_type": "PoW/PoS",
+  "algorithm": "X13",
+  "description": {
+    "en": "Aegis was designed around our new payment solution Aegis-1.  This open API client will allow vendors, anywhere, to accept payments with little to no setup costs.  Aegis-1 was designed to be adjustable in almost every aspect, customized directly to the vendors needs.  Aegis-1 requires anywhere from zero to four confirmations depending on the payment circumstance. Zero confirmation transactions are suitable to micropayments, such as a vending machine, but unsuitable for larger volume payments which would require more (2 to 4) confirmations."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/AGS"
+  ],
+  "explorer": [],
+  "chat": [],
+  "social": [
+    "https://twitter.com/@AegisCoin"
+  ],
+  "community": [],
+  "source_code": []
+}

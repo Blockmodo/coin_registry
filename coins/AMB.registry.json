@@ -1,1 +1,51 @@
-{"type":"COINREGISTRY","version":1,"name":"Ambrosus","fromSymbol":"AMB","toSymbol":"ALL","website":"https://ambrosus.com/","network":{"t_total_supply":144590975,"t_available_supply":144590975,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/AMB"],"explorer":[],"chat":[],"social":["https://twitter.com/@AmbrosusAMB"],"community":[],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "Ambrosus",
+  "fromSymbol": "AMB",
+  "toSymbol": "ALL",
+  "website": "https://ambrosus.com",
+  "network": {
+    "t_total_supply": 361477438,
+    "t_available_supply": 144590975,
+    "t_max_supply": 0,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": null,
+  "algorithm": null,
+  "description": {
+    "en": "Ambrosus is a blockchain-powered IoT network for food and pharmaceutical enterprises, enabling secure and frictionless dialogue between sensors, distributed ledgers and databases to optimise supply chain visibility and quality assurance."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/AMB"
+  ],
+  "explorer": [
+    "https://ethplorer.io/address/0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce",
+    "https://etherscan.io/token/0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce"
+  ],
+  "chat": [
+    "https://discordapp.com/invite/jbmWg8c",
+    "https://t.me/ambrosuschat"
+  ],
+  "social": [
+    "https://twitter.com/@AmbrosusAMB",
+    "https://www.facebook.com/ambrosusAMB"
+  ],
+  "community": [
+    "https://www.reddit.com/r/ambrosus/"
+  ],
+  "source_code": [
+  	"https://github.com/ambrosus/ipfs-image-web-upload",
+  	"https://github.com/ambrosus/www-dev",
+  	"https://github.com/ambrosus/app-sensor-telemetry",
+  	"https://github.com/ambrosus/Ambrosus",
+    "https://github.com/ambrosus/app-food-market",
+    "https://github.com/ambrosus/ambrosus-protocol",
+    "https://github.com/ambrosus/sdk-android",
+    "https://github.com/ambrosus/sdk-ios",
+    "https://github.com/ambrosus/sdk-javascript",
+    "https://github.com/ambrosus/ambrosus-node"
+  ]
+}

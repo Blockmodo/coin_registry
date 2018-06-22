@@ -1,1 +1,38 @@
-{"type":"COINREGISTRY","version":1,"name":"Agoras Token","fromSymbol":"AGRS","toSymbol":"ALL","website":"http://www.idni.org/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":42000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/AGRS"],"explorer":[],"chat":[],"social":["https://twitter.com/@TauChainOrg"],"community":[],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "Agoras Token",
+  "fromSymbol": "AGRS",
+  "toSymbol": "ALL",
+  "website": "http://www.idni.org",
+  "network": {
+    "t_total_supply": 41987989,
+    "t_available_supply": 41987989,
+    "t_max_supply": 42000000,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": null,
+  "algorithm": null,
+  "description": {
+    "en": "An intelligent market built upon Tau-Chain to feature intelligent personal agents, programming market, computational power market, and a futuristic search engine."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/AGRS"
+  ],
+  "explorer": [
+  	"https://www.omniexplorer.info/asset/58"
+  ],
+  "chat": [
+  	"https://t.me/tauchain"
+  ],
+  "social": [
+    "https://twitter.com/@TauChainOrg",
+    "https://www.facebook.com/groups/tauchain"
+  ],
+  "community": [],
+  "source_code": [
+  	"https://github.com/idni/tau"
+  ]
+}

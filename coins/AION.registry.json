@@ -1,1 +1,56 @@
-{"type":"COINREGISTRY","version":1,"name":"Aion","fromSymbol":"AION","toSymbol":"ALL","website":"https://aion.network/","network":{"t_total_supply":167480575,"t_available_supply":167480575,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/AION"],"explorer":[],"chat":[],"social":["https://twitter.com/@Aion_Network"],"community":["https://www.reddit.com/r/AionNetwork/.rss"],"source_code":["https://github.com/aionnetwork/aion/commits/dev.atom","https://github.com/aionnetwork/aion_fastvm/commits/master.atom","https://github.com/aionnetwork/aion_miner/commits/master.atom"]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "Aion",
+  "fromSymbol": "Aion",
+  "toSymbol": "ALL",
+  "website": "https://aion.network",
+  "network": {
+    "t_total_supply": 465934587,
+    "t_available_supply": 167480575,
+    "t_max_supply": 0,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": null,
+  "algorithm": null,
+  "description": {
+    "en": "A multi-tier system designed to address unsolved questions of scalability, and interoperability in blockchain networks."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/AION"
+  ],
+  "explorer": [
+  	"https://etherscan.io/token/0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466",
+  	"https://ethplorer.io/address/0x4ceda7906a5ed2179785cd3a40a69ee8bc99c466"
+  ],
+  "chat": [
+  	"https://gitter.im/aionnetwork",
+  	"https://discordapp.com/invite/srU4qbS",
+  	"https://t.me/aion_blockchain"
+  ],
+  "social": [
+    "https://twitter.com/@Aion_Network"
+  ],
+  "community": [
+    "https://www.reddit.com/r/AionNetwork"
+  ],
+  "source_code": [
+    "https://github.com/aionnetwork/aion",
+    "https://github.com/aionnetwork/aion_fastvm",
+    "https://github.com/aionnetwork/aion_miner",
+    "https://github.com/aionnetwork/aion_api",
+    "https://github.com/aionnetwork/aion_ui",
+    "https://github.com/aionnetwork/aion_ledger",
+    "https://github.com/aionnetwork/aion_fastvm",
+    "https://github.com/aionnetwork/aion_qa",
+    "https://github.com/aionnetwork/aion_erc",
+    "https://github.com/aionnetwork/aion_wallet",
+    "https://github.com/aionnetwork/aion_explorer",
+    "https://github.com/aionnetwork/aion_pool",
+    "https://github.com/aionnetwork/aion_web3",
+    "https://github.com/aionnetwork/aion_interchain",
+    "https://github.com/aionnetwork/aion_paper"
+  ]
+}

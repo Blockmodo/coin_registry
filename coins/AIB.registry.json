@@ -1,1 +1,37 @@
-{"type":"COINREGISTRY","version":1,"name":"AdvancedInternetBlock","fromSymbol":"AIB","toSymbol":"ALL","website":"-","network":{"t_total_supply":32234319,"t_available_supply":32234319,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/AIB"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":[],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "Advanced Internet Blocks",
+  "fromSymbol": "AIB",
+  "toSymbol": "ALL",
+  "website": "https://www.aib.one/",
+  "network": {
+    "t_total_supply": 32234319,
+    "t_available_supply": 32234319,
+    "t_max_supply": 314159265359,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": true,
+  "proof_type": "PoW",
+  "algorithm": "Scrypt",
+  "description": {
+    "en": "Advanced Internet Block is a project designed to get funds through the value of the coin itself in order to invest in the field of real estate, internet(mobile) application and future infrastructure  and reinvest back in the coin's development. 99.998% of AIB's supply was premined and 500000 AIB remained to be mined during the next 10 years."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/AIB"
+  ],
+  "explorer": [
+  	"https://block.aib.one"
+  ],
+  "chat": [
+  	"https://t.me/aibone"
+  ],
+  "social": [
+    "https://twitter.com/"
+  ],
+  "community": [],
+  "source_code": [
+  	"https://github.com/iobond/aib"
+  ]
+}

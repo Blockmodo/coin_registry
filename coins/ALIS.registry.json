@@ -1,1 +1,49 @@
-{"type":"COINREGISTRY","version":1,"name":"ALISmedia","fromSymbol":"ALIS","toSymbol":"ALL","website":"https://alismedia.jp/","network":{"t_total_supply":38805314,"t_available_supply":38805314,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/ALIS"],"explorer":[],"chat":[],"social":["https://twitter.com/@ALIS_media"],"community":[],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "ALISmedia",
+  "fromSymbol": "ALIS",
+  "toSymbol": "ALL",
+  "website": "https://alismedia.jp/",
+  "network": {
+    "t_total_supply": 38805314,
+    "t_available_supply": 38805314,
+    "t_max_supply": 0,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": null,
+  "algorithm": null,
+  "description": {
+    "en": "ALIS is a social media platform set to revolutionize the news and social media industries by connecting ALIS users with trustworthy articles, news, and people quickly. Our goal is to create a platform that incentivizes reliable information by rewarding authors trusted by you, the ALIS community user, as well as rewarding the consumers of the content, who vote on the level of reliability and quality of news, articles, and blogs. The goal is to set people free from advertisement-saturated conventional media, stealth marketing campaigns, and less-than-reliable information sources."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/ALIS"
+  ],
+  "explorer": [
+  	"https://ethplorer.io/address/0xea610b1153477720748dc13ed378003941d84fab",
+  	"https://etherscan.io/token/0xEA610B1153477720748DC13ED378003941d84fAB"
+  ],
+  "chat": [],
+  "social": [
+    "https://twitter.com/@ALIS_media"
+  ],
+  "community": [],
+  "source_code": [
+  	"https://github.com/AlisProject/ico-fraud-prevention",
+  	"https://github.com/AlisProject/whitepaper",
+  	"https://github.com/AlisProject/mvp-mockup",
+  	"https://github.com/AlisProject/contracts",
+  	"https://github.com/AlisProject/FrozenWallets",
+  	"https://github.com/AlisProject/ico-contracts",
+  	"https://github.com/AlisProject/branding",
+  	"https://github.com/AlisProject/private-chain-contracts",
+  	"https://github.com/AlisProject/environment",
+  	"https://github.com/AlisProject/welcome",
+  	"https://github.com/AlisProject/private-chain",
+  	"https://github.com/AlisProject/frontend-application",
+  	"https://github.com/AlisProject/serverless-application",
+
+  ]
+}

@@ -1,1 +1,38 @@
-{"type":"COINREGISTRY","version":1,"name":"FirstBlood","fromSymbol":"1ST","toSymbol":"ALL","website":"https://firstblood.io","network":{"t_total_supply":85558371,"t_available_supply":85558371,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/1ST"],"explorer":[],"chat":[],"social":["https://twitter.com/@firstbloodio"],"community":[],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "FirstBlood",
+  "fromSymbol": "1ST",
+  "toSymbol": "ALL",
+  "website": "https://firstblood.io",
+  "network": {
+    "t_total_supply": 85558371,
+    "t_available_supply": 85558371,
+    "t_max_supply": 93468691,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": "",
+  "algorithm": "",
+  "description": {
+    "en": "FirstBlood is a decentralized eSports platform built on Ethereum. It allows players to test their skills and to bet on games without being subject to downtime, hacks, traditional money transfers, financial regulations, and middleman corruption and fees. FirstBlood intends to make the eSports industry more transparent and efficient while bringing in a new demographic into the crypto community, thus bringing cryptocurrencies one step closer to mainstream adoption."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/1ST"
+  ],
+  "explorer": [],
+  "chat": [
+  	"https://discord.gg/qAu852P"
+  ],
+  "social": [
+    "https://twitter.com/@firstbloodio",
+    "https://www.facebook.com/firstbloodio"
+  ],
+  "community": [
+  	"https://www.reddit.com/r/FirstBloodio/"
+  ],
+  "source_code": [
+  	"https://github.com/Firstbloodio/token"
+  ]
+}

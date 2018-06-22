@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"8BIT Coin","fromSymbol":"8BIT","toSymbol":"ALL","website":"http://www.8bitcoin.org/","network":{"t_total_supply":1467841,"t_available_supply":1467841,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/8BIT"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":[],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "8BIT Coin",
+  "fromSymbol": "8BIT",
+  "toSymbol": "ALL",
+  "website": "http://www.8bitcoin.org/",
+  "network": {
+    "t_total_supply": 1467841,
+    "t_available_supply": 1467841,
+    "t_max_supply": 0,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": true,
+  "proof_type": "PoW/PoS",
+  "algorithm": "Scrypt",
+  "description": {
+    "en": "8BIT Coin is a proof of stake and proof of work hybrid with the proof of work phase halting after block 1888. The coin then operates through proof of stake with an 8% annualised rate."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/8BIT"
+  ],
+  "explorer": [],
+  "chat": [],
+  "social": [
+    "https://twitter.com/8bit_8bit_8bit"
+  ],
+  "community": [],
+  "source_code": [
+  	"https://github.com/8bit-dev/8bit"
+  ]
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Elite 888","fromSymbol":"8S","toSymbol":"ALL","website":"https://elite888.com/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":888,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/8S"],"explorer":[],"chat":[],"social":["https://twitter.com/@Elite888Token"],"community":[],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "Elite 888",
+  "fromSymbol": "8S",
+  "toSymbol": "ALL",
+  "website": "https://elite888.com/",
+  "network": {
+    "t_total_supply": 0,
+    "t_available_supply": 0,
+    "t_max_supply": 888,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": "",
+  "algorithm": "",
+  "description": {
+    "en": "Elite 888 is the most exclusive ERC20 token available anywhere in the world. The primary use is a status symbol and collectible token. If you own one, you're 1 in 10,000,000."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/8S"
+  ],
+  "explorer": [],
+  "chat": [],
+  "social": [
+    "https://twitter.com/Elite888Token"
+  ],
+  "community": [],
+  "source_code": []
+}

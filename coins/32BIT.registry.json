@@ -1,1 +1,29 @@
-{"type":"COINREGISTRY","version":1,"name":"32Bitcoin","fromSymbol":"32BIT","toSymbol":"ALL","website":"-","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":355000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"X11","description":{"en":""},"quote":["https://blockmodo.com/quotes/32BIT"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":[],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "32Bitcoin",
+  "fromSymbol": "32BIT",
+  "toSymbol": "ALL",
+  "website": "-",
+  "network": {
+    "t_total_supply": 0,
+    "t_available_supply": 0,
+    "t_max_supply": 355000,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": "PoW/PoS",
+  "algorithm": "X11",
+  "description": {
+    "en": ""
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/32BIT"
+  ],
+  "explorer": [],
+  "chat": [],
+  "social": [],
+  "community": [],
+  "source_code": []
+}

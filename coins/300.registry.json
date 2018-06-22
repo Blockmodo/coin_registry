@@ -1,1 +1,35 @@
-{"type":"COINREGISTRY","version":1,"name":"300 token","fromSymbol":"300","toSymbol":"ALL","website":"http://300tokensparta.com/","network":{"t_total_supply":300,"t_available_supply":300,"t_max_supply":300,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/300"],"explorer":[],"chat":[],"social":["https://twitter.com/@300_Token"],"community":[],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "300 Token",
+  "fromSymbol": "300",
+  "toSymbol": "ALL",
+  "website": "http://300tokensparta.com/",
+  "network": {
+    "t_total_supply": 300,
+    "t_available_supply": 300,
+    "t_max_supply": 300,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": "",
+  "algorithm": "",
+  "description": {
+    "en": "We are 300 Token, we are Sparta! Our values are HODL, HONOR and GLORY!"
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/300"
+  ],
+  "explorer": [
+  	"https://etherscan.io/token/0xaec98a708810414878c3bcdf46aad31ded4a4557"
+  ],
+  "chat": [
+  	"https://t.me/Spartan300Token"
+  ],
+  "social": [
+    "https://twitter.com/@300_Token"
+  ],
+  "community": [],
+  "source_code": []
+}

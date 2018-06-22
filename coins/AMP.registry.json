@@ -1,1 +1,42 @@
-{"type":"COINREGISTRY","version":1,"name":"Synereo","fromSymbol":"AMP","toSymbol":"ALL","website":"http://www.synereo.com/","network":{"t_total_supply":100728564,"t_available_supply":100728564,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"Pow/PoSC","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/AMP"],"explorer":[],"chat":[],"social":["https://twitter.com/@Synereo"],"community":[],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "Synereo",
+  "fromSymbol": "AMP",
+  "toSymbol": "ALL",
+  "website": "http://www.synereo.com",
+  "network": {
+    "t_total_supply": 622410799,
+    "t_available_supply": 100728564,
+    "t_max_supply": 0,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": "Pow/PoSC",
+  "algorithm": null,
+  "description": {
+    "en": "Synereo is a company developing software tools and solutions for the Attention Economy based on decentralized organizational principles, set to create a fairer, freer Internet."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/AMP"
+  ],
+  "explorer": [
+  	"https://www.omniexplorer.info/asset/39"
+  ],
+  "chat": [
+  	"https://discordapp.com/invite/xrm56DV"
+  ],
+  "social": [
+    "https://twitter.com/@Synereo"
+  ],
+  "community": [
+  	"https://www.reddit.com/r/Synereo"
+  ],
+  "source_code": [
+  	"https://github.com/synereo/synereo.github.io",
+  	"https://github.com/synereo/crowdsale-lite",
+  	"https://github.com/synereo/synereo-node",
+  	"https://github.com/synereo/synereo"
+  ]
+}

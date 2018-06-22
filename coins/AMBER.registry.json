@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"AmberCoin","fromSymbol":"AMBER","toSymbol":"ALL","website":"http://amber-coin.webnode.com/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":1000000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"X11","description":{"en":""},"quote":["https://blockmodo.com/quotes/AMBER"],"explorer":[],"chat":[],"social":["https://twitter.com/@AmberCoin"],"community":[],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "Amber Coin",
+  "fromSymbol": "AMBER",
+  "toSymbol": "ALL",
+  "website": "http://amber-coin.webnode.com",
+  "network": {
+    "t_total_supply": 0,
+    "t_available_supply": 0,
+    "t_max_supply": 1000000000,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": "PoW/PoS",
+  "algorithm": "X11",
+  "description": {
+    "en": "AMBER Coin - a PoW/POS hybrid coin has been launched by Ninja launch on Aug 17. PoW X11 distribution."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/AMBER"
+  ],
+  "explorer": [],
+  "chat": [],
+  "social": [
+    "https://twitter.com/@AmberCoin"
+  ],
+  "community": [],
+  "source_code": []
+}

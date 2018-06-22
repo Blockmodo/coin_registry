@@ -1,1 +1,40 @@
-{"type":"COINREGISTRY","version":1,"name":"AdCoin","fromSymbol":"ACC","toSymbol":"ALL","website":"https://www.getadcoin.com/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/ACC"],"explorer":[],"chat":[],"social":["https://twitter.com/@getadcoin"],"community":[],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "AdCoin",
+  "fromSymbol": "ACC",
+  "toSymbol": "ALL",
+  "website": "https://www.getadcoin.com/",
+  "network": {
+    "t_total_supply": 71449954,
+    "t_available_supply": 6457471,
+    "t_max_supply": 0,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": true,
+  "proof_type": "PoW",
+  "algorithm": "Scrypt",
+  "description": {
+    "en": "We created AdCoin to further globalize and implement block chain technology in the advertising market."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/ACC"
+  ],
+  "explorer": [
+  	"http://explorer.getadcoin.com:5000"
+  ],
+  "chat": [
+  	"https://t.me/adcoinacc"
+  ],
+  "social": [
+    "https://twitter.com/getadcoin",
+    "https://www.facebook.com/getadcoins"
+  ],
+  "community": [
+  	"https://www.reddit.com/r/adcoin/"
+  ],
+  "source_code": [
+  	"https://github.com/adcoin-project/AdCoin"
+  ]
+}

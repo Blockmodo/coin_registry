@@ -1,1 +1,35 @@
-{"type":"COINREGISTRY","version":1,"name":"ACoin","fromSymbol":"ACOIN","toSymbol":"ALL","website":"http://acoinproject.org/","network":{"t_total_supply":1220085,"t_available_supply":1220085,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"SHA256","description":{"en":""},"quote":["https://blockmodo.com/quotes/ACOIN"],"explorer":[],"chat":[],"social":["https://twitter.com/@acointeam"],"community":[],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "ACoin",
+  "fromSymbol": "ACOIN",
+  "toSymbol": "ALL",
+  "website": "https://acoin.info",
+  "network": {
+    "t_total_supply": 1220085,
+    "t_available_supply": 1220085,
+    "t_max_supply": 1600000,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": true,
+  "proof_type": "PoW",
+  "algorithm": "SHA256",
+  "description": {
+    "en": "ACOIN is a digital currency that enables instant payments to anyone, anywhere in the world. Acoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Acoin Core is the name of open source software which enables the use of this currency. Open Source Code."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/ACOIN"
+  ],
+  "explorer": [
+  	"http://madmando.info",
+  	""],
+  "chat": [],
+  "social": [
+    "https://twitter.com/@acointeam"
+  ],
+  "community": [],
+  "source_code": [
+  	"https://github.com/acoin-project/acoin"
+  ]
+}

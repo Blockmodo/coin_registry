@@ -1,1 +1,51 @@
-{"type":"COINREGISTRY","version":1,"name":"AdEx","fromSymbol":"ADX","toSymbol":"ALL","website":"https://www.adex.network/","network":{"t_total_supply":73430701,"t_available_supply":73430701,"t_max_supply":100000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/ADX"],"explorer":[],"chat":[],"social":["https://twitter.com/@AdEx_Network"],"community":[],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "AdEx",
+  "fromSymbol": "ADX",
+  "toSymbol": "ALL",
+  "website": "https://www.adex.network/",
+  "network": {
+    "t_total_supply": 73430701,
+    "t_available_supply": 73430701,
+    "t_max_supply": 100000000,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": null,
+  "algorithm": null,
+  "description": {
+    "en": "AdEx is a blockchain-based ad exchange aiming at disrupting the existing online advertising landscape and address its significant problems: advertising fraud, privacy and consent to receiving sponsored messages, etc."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/ADX"
+  ],
+  "explorer": [
+  	"https://ethplorer.io/address/0x4470bb87d77b963a013db939be332f927f2b992es",
+  	"https://etherscan.io/token/0x4470bb87d77b963a013db939be332f927f2b992e"
+  ],
+  "chat": [
+  	"https://t.me/AdExNetwork"
+  ],
+  "social": [
+    "https://twitter.com/@AdEx_Network"
+  ],
+  "community": [
+  	"https://www.reddit.com/r/AdEx",
+  	"https://www.facebook.com/AdExNetwork"
+  ],
+  "source_code": [
+  	"https://github.com/AdExNetwork/adex-sample-data",
+  	"https://github.com/AdExNetwork/adex-brand",
+  	"https://github.com/AdExNetwork/adex-node",
+  	"https://github.com/AdExNetwork/adex-sdk",
+  	"https://github.com/AdExNetwork/adex-adview",
+  	"https://github.com/AdExNetwork/adex-token",
+  	"https://github.com/AdExNetwork/adex-models",
+  	"https://github.com/AdExNetwork/adex-constants",
+  	"https://github.com/AdExNetwork/adex-core",
+  	"https://github.com/AdExNetwork/adex-site",
+  	"https://github.com/AdExNetwork/adex-dapp"
+  ]
+}

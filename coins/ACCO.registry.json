@@ -1,1 +1,35 @@
-{"type":"COINREGISTRY","version":1,"name":"Accolade","fromSymbol":"ACCO","toSymbol":"ALL","website":"http://accoladecoin.com/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":50000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/ACCO"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":[],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "Accolade",
+  "fromSymbol": "ACCO",
+  "toSymbol": "ALL",
+  "website": "http://accoladecoin.com/",
+  "network": {
+    "t_total_supply": 0,
+    "t_available_supply": 0,
+    "t_max_supply": 50000000,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": true,
+  "proof_type": "PoW/PoS",
+  "algorithm": "Scrypt",
+  "description": {
+    "en": "Accolade coin is digital reward and application platform for driving the advertising and other industry which gives rewards to others. There are lots of incentive based advertising platform which gives incentive in form of data and some other means. The project aims to become a global reward system, enabling developers and merchants to use the API and give the accolade to their users. In future, this can be social reward where If someone like the video may give accolade to the publisher of video instead of just clicking like button or thumbs up button. Users will be able to login in social platform and share coin as token of appreciation, love and rewards with their friend circle."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/ACCO"
+  ],
+  "explorer": [
+  	"http://45.55.85.44:3111"
+  ],
+  "chat": [
+  	"https://discordapp.com/invite/za9T8ZP"
+  ],
+  "social": [
+    "https://twitter.com/CoinAcco"
+  ],
+  "community": [],
+  "source_code": []
+}

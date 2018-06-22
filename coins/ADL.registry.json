@@ -1,1 +1,38 @@
-{"type":"COINREGISTRY","version":1,"name":"Adelphoi","fromSymbol":"ADL","toSymbol":"ALL","website":"adelphoi.io","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":100000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/ADL"],"explorer":[],"chat":[],"social":["https://twitter.com/@adelphoi_io"],"community":[],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "Adelphoi",
+  "fromSymbol": "ADL",
+  "toSymbol": "ALL",
+  "website": "adelphoi.io",
+  "network": {
+    "t_total_supply": 23472224,
+    "t_available_supply": 23472224,
+    "t_max_supply": 100000000,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": true,
+  "proof_type": "PoW",
+  "algorithm": "Ethash",
+  "description": {
+    "en": "Adel is a technology incubator for blockchain innovation. Our community collaborates on ideas, and uses the AdelWiki™ to collectively create business plans. Members vote on projects and can become profit participates when they are launched. Expertise within the community brings mentoring, learning, and employment opportunities. Successful projects are re-invested for further growth, or issued as rewards to members. Adel is blockchain agnostic, and will harness the features of any open-ledger platform to showcase its potential. Our mission is to incubate projects that will positively change the world."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/ADL"
+  ],
+  "explorer": [
+  	"https://nxtportal.org/assets/17477397104276156702"
+  ],
+  "chat": [
+  	"https://t.me/Adelphoi"
+  ],
+  "social": [
+    "https://twitter.com/@adelphoi_io"
+  ],
+  "community": [
+  	"https://www.reddit.com/r/Adel",
+  	"https://www.facebook.com/Adelphoi.io"
+  ],
+  "source_code": []
+}

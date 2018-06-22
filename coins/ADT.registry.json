@@ -1,1 +1,44 @@
-{"type":"COINREGISTRY","version":1,"name":"AdToken","fromSymbol":"ADT","toSymbol":"ALL","website":"https://adtoken.com/","network":{"t_total_supply":600000000,"t_available_supply":600000000,"t_max_supply":1000000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/ADT"],"explorer":[],"chat":[],"social":["https://twitter.com/@ad_chain"],"community":[],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "AdToken",
+  "fromSymbol": "ADT",
+  "toSymbol": "ALL",
+  "website": "https://adtoken.com/",
+  "network": {
+    "t_total_supply": 600000000,
+    "t_available_supply": 600000000,
+    "t_max_supply": 1000000000,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": "",
+  "algorithm": "",
+  "description": {
+    "en": "AdChain is an Ethereum-based digital advertisement platform that aims to fix  the fraudulent environment of online advertising namely bot traffic, malvertisements, trackers, spoofed domains, lack of coordination and systemic fraud. ADT is an ERC20 token that is used in order to ver publishers who wish to join the system, employing a "challenge period" during which any ADT holder who believes the publisher is fraudulent can issue a challenge and match the publisher's ADT deposit. "
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/ADT"
+  ],
+  "explorer": [
+  	"https://ethplorer.io/address/0xd0d6d6c5fe4a677d343cc433536bb717bae167dd",
+  	"https://etherscan.io/token/AdToken"
+  ],
+  "chat": [
+  	"https://t.me/adChain"
+  ],
+  "social": [
+    "https://twitter.com/@ad_chain"
+  ],
+  "community": [
+  	"https://www.reddit.com/r/adChain/"
+  ],
+  "source_code": [
+  	"https://github.com/AdChain/adChainVerifiedChromeExtenstion",
+  	"https://github.com/AdChain/AdTokenFaucet",
+  	"https://github.com/AdChain/AdChainRegistry",
+  	"https://github.com/AdChain/AdChainRegistryDapp",
+  	"https://github.com/AdChain/AdMarket"
+  ]
+}

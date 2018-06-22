@@ -1,1 +1,41 @@
-{"type":"COINREGISTRY","version":1,"name":"Adshares","fromSymbol":"ADST","toSymbol":"ALL","website":"https://adshares.net/","network":{"t_total_supply":19379103,"t_available_supply":19379103,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/ADST"],"explorer":[],"chat":[],"social":["https://twitter.com/@adsharesNet"],"community":[],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "Adshares",
+  "fromSymbol": "ADST",
+  "toSymbol": "ALL",
+  "website": "https://adshares.net",
+  "network": {
+    "t_total_supply": 19379103,
+    "t_available_supply": 19379103,
+    "t_max_supply": 0,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": null,
+  "algorithm": null,
+  "description": {
+    "en": "Adshares is the answer to negative trends in digital marketing. Lack of transparency allows intermediaries to charge high fees. Increasing centralization gives big players ability to censor unwanted content."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/ADST"
+  ],
+  "explorer": [
+  	"https://ethplorer.io/address/0x422866a8f0b032c5cf1dfbdef31a20f4509562b0",
+  	"https://etherscan.io/token/0x422866a8F0b032c5cf1DfBDEf31A20F4509562b0"
+  ],
+  "chat": [
+  	"https://t.me/adshares"
+  ],
+  "social": [
+    "https://twitter.com/@adsharesNet",
+    "https://www.facebook.com/adshares"
+  ],
+  "community": [
+  	"https://www.reddit.com/r/adshares/"
+  ],
+  "source_code": [
+  	"https://github.com/adshares"
+  ]
+}

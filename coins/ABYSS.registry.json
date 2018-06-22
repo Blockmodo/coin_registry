@@ -1,1 +1,43 @@
-{"type":"COINREGISTRY","version":1,"name":"The Abyss","fromSymbol":"ABYSS","toSymbol":"ALL","website":"https://www.theabyss.com/","network":{"t_total_supply":209443948,"t_available_supply":209443948,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/ABYSS"],"explorer":[],"chat":[],"social":["https://twitter.com/@theabyss"],"community":[],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "The Abyss",
+  "fromSymbol": "ABYSS",
+  "toSymbol": "ALL",
+  "website": "https://www.theabyss.com/",
+  "network": {
+    "t_total_supply": 209443948,
+    "t_available_supply": 209443948,
+    "t_max_supply": 905625000,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": "",
+  "algorithm": "",
+  "description": {
+    "en": "The Abyss is a next generation digital distribution platform, delivering all types of video games (Free2play MMOs and cryptogames being a key priority), including AAA-titles, where gamers and developers can profit from multilevel referral program and other activities."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/ABYSS"
+  ],
+  "explorer": [
+  	"https://etherscan.io/token/0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6",
+  	"https://ethplorer.io/address/0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6"
+  ],
+  "chat": [
+  	"https://t.me/theabyss",
+  	"https://discordapp.com/invite/uRe8h57"
+  ],
+  "social": [
+    "https://twitter.com/@theabyss",
+    "https://www.facebook.com/theabyss",
+    "https://www.instagram.com/theabyssportal"
+  ],
+  "community": [
+  	"https://www.reddit.com/r/theabyssplatform"
+  ],
+  "source_code": [
+  	"https://github.com/theabyssportal/DAICO-Smart-Contract"
+  ]
+}

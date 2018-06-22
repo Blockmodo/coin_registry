@@ -1,1 +1,41 @@
-{"type":"COINREGISTRY","version":1,"name":"Advanced Browsing Token","fromSymbol":"ABT","toSymbol":"ALL","website":"https://www.addaps.com","network":{"t_total_supply":93196613,"t_available_supply":93196613,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/ABT"],"explorer":[],"chat":[],"social":["https://twitter.com/@addaps_com "],"community":["https://www.reddit.com/r/arcblock/.rss"],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "Arcblock",
+  "fromSymbol": "ABT",
+  "toSymbol": "ALL",
+  "website": "https://www.arcblock.io",
+  "network": {
+    "t_total_supply": 93196613,
+    "t_available_supply": 93196613,
+    "t_max_supply": 186000000,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": null,
+  "algorithm": null,
+  "description": {
+    "en": "ArcBlock, the world’s first blockchain ecosystem for building and deploying decentralized applications."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/ABT"
+  ],
+  "explorer": [
+  	"https://etherscan.io/token/0xb98d4c97425d9908e66e53a6fdf673acca0be986"
+  ],
+  "chat": [
+  	"https://t.co/e2xOVN3VK4"
+  ],
+  "social": [
+    "https://twitter.com/ArcBlock_io", 
+    "https://www.instagram.com/arcblock"
+  ],
+  "community": [
+    "https://www.reddit.com/r/arcblock"
+  ],
+  "source_code": [
+  	"https://github.com/ArcBlock/ArcBlock-Token",
+  	"https://github.com/ArcBlock/ds-token"
+  ]
+}

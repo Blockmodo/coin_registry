@@ -27,7 +27,7 @@ A COINREGISTRY JSON information file:
 		"t_total_supply": 17104062,
 		"t_available_supply": 17104062,
 		"t_max_supply": 21000000,
-		"t_block_reward": 12.5,
+		"t_block_reward": 12.5
 	},
 	"is_crypto": true,
 	"is_minable": true,

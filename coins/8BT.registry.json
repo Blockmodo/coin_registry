@@ -13,10 +13,10 @@
   },
   "is_crypto": true,
   "is_minable": false,
-  "proof_type": "",
-  "algorithm": "",
+  "proof_type": null,
+  "algorithm": null,
   "description": {
-    "en": "Circuit Studios is creating a new gaming ecosystem powered by their 8BT tokens, an Ethereum-based token. These tokens allow gamers to purchase game assets. The first release of Circuit Studios is D-PARC, described as "a new game that uses the Ethereum blockchain to enable digital sovereignty"."
+    "en": "Circuit Studios is creating a new gaming ecosystem powered by their 8BT tokens, an Ethereum-based token. These tokens allow gamers to purchase game assets. The first release of Circuit Studios is D-PARC, described as 'a new game that uses the Ethereum blockchain to enable digital sovereignty'"
   },
   "quote": [
     "https://blockmodo.com/quotes/8BT"

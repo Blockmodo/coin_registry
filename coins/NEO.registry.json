@@ -1,1 +1,46 @@
-{"type":"COINREGISTRY","version":1,"name":"NEO","fromSymbol":"NEO","toSymbol":"ALL","website":"https://neo.org/","network":{"t_total_supply":65000000,"t_available_supply":65000000,"t_max_supply":100000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/NEO"],"explorer":[],"chat":[],"social":["https://twitter.com/@neo_blockchain"],"community":["https://www.reddit.com/r/NEO/.rss","https://www.reddit.com/r/Neotrader/.rss"],"source_code":["https://github.com/neo-project/neo/commits/master.atom","https://github.com/neo-project/neo-gui/commits/master.atom","https://github.com/neo-project/neo-cli/commits/master.atom","https://github.com/neo-project/neo/commits/master.atom"]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "NEO",
+  "fromSymbol": "NEO",
+  "toSymbol": "ALL",
+  "website": "https://neo.org",
+  "network": {
+    "t_total_supply": 65000000,
+    "t_available_supply": 65000000,
+    "t_max_supply": 100000000,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": null,
+  "algorithm": null,
+  "description": {
+    "en": "NEO is a non-profit community-based blockchain project that utilizes blockchain technology and digital identity to digitize assets, to automate the management of digital assets using smart contracts, and to realize a "smart economy" with a distributed network."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/NEO"
+  ],
+  "explorer": [
+  	"https://neoexplorer.co",
+  	"http://antcha.in",
+  	"https://neotracker.io"
+  ],
+  "chat": [
+  	"https://discordapp.com/invite/b8QNXwD"
+  ],
+  "social": [
+    "https://twitter.com/@neo_blockchain",
+    "https://www.facebook.com/NEOSmartEcon"
+  ],
+  "community": [
+    "https://www.reddit.com/r/NEO",
+    "https://www.reddit.com/r/Neotrader"
+  ],
+  "source_code": [
+    "https://github.com/neo-project/neo",
+    "https://github.com/neo-project/neo-gui",
+    "https://github.com/neo-project/neo-cli",
+    "https://github.com/neo-project/neo"
+  ]
+}

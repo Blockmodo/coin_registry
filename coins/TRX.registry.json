@@ -1,1 +1,45 @@
-{"type":"COINREGISTRY","version":1,"name":"Tronix","fromSymbol":"TRX","toSymbol":"ALL","website":"https://tron.network/en.html","network":{"t_total_supply":65748111645,"t_available_supply":65748111645,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/TRX"],"explorer":[],"chat":[],"social":["https://twitter.com/@tronfoundation"],"community":["https://www.reddit.com/r/Tronix/.rss"],"source_code":["https://github.com/tronprotocol/java-tron/commits/develop.atom","https://github.com/tronprotocol/wallet-cli/commits/master.atom","https://github.com/tronprotocol/protocol/commits/master.atom"]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "Tronix",
+  "fromSymbol": "TRX",
+  "toSymbol": "ALL",
+  "website": "https://tron.network/en.html",
+  "network": {
+    "t_total_supply": 65748111645,
+    "t_available_supply": 65748111645,
+    "t_max_supply": 0,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": null,
+  "algorithm": null,
+  "description": {
+    "en": "Tron is a blockchain-based protocol for a free content entertainment system, allowing  each user to freely publish, store and own data, and in the decentralized autonomous form, decides the distribution, subscription and push of contents and enables content creators by releasing, circulating and dealing with digital assets, thus forming a decentralized content entertainment ecosystem. Tronix ix an ERC20 token based on the Ethereum blockchain, acting as the basic unit of account on the platform."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/TRX"
+  ],
+  "explorer": [
+  	"https://ethplorer.io/address/0xf230b790e05390fc8295f4d3f60332c93bed42e2",
+  	"https://etherscan.io/token/0xf230b790e05390fc8295f4d3f60332c93bed42e2"
+  ],
+  "chat": [
+  	"https://tronfoundation.slack.com/",
+  	"https://t.me/tronnetworkEN03"
+  ],
+  "social": [
+    "https://twitter.com/@tronfoundation",
+    "https://www.facebook.com/tronfoundation",
+    "https://www.instagram.com/tronfoundation"
+  ],
+  "community": [
+    "https://www.reddit.com/r/Tronix/.rss"
+  ],
+  "source_code": [
+    "https://github.com/tronprotocol/java-tron",
+    "https://github.com/tronprotocol/wallet-cli",
+    "https://github.com/tronprotocol/protocol"
+  ]
+}

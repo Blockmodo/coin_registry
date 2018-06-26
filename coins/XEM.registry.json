@@ -1,1 +1,42 @@
-{"type":"COINREGISTRY","version":1,"name":"NEM","fromSymbol":"XEM","toSymbol":"ALL","website":"http://www.nem.io/","network":{"t_total_supply":8999999999,"t_available_supply":8999999999,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoI","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/XEM"],"explorer":[],"chat":[],"social":["https://twitter.com/@NEMofficial"],"community":[],"source_code":["https://github.com/NemProject/NEMiOSApp/commits/develop.atom","https://github.com/NemProject/csharp2nem/commits/master.atom"]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "NEM",
+  "fromSymbol": "XEM",
+  "toSymbol": "ALL",
+  "website": "http://www.nem.io/",
+  "network": {
+    "t_total_supply": 8999999999,
+    "t_available_supply": 8999999999,
+    "t_max_supply": 0,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": "PoI",
+  "algorithm": "",
+  "description": {
+    "en": "NEM is a peer-to-peer crypto platform. It is written in Java and JavaScript with 100% original source code. NEM has a stated goal of a wide distribution model and has introduced new features in blockchain technology in its proof-of-importance (POI) algorithm. NEM also features an integrated P2P secure and encrypted messaging system, multisignature accounts and an Eigentrust++ reputation system."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/XEM"
+  ],
+  "explorer": [
+  	"http://explorer.nemchina.com/",
+  	"http://chain.nem.ninja/#/blocks/0"
+  ],
+  "chat": [
+	"https://t.me/nemred"
+  ],
+  "social": [
+    "https://twitter.com/@NEMofficial",
+    "https://www.facebook.com/ourNEM"
+  ],
+  "community": [
+  	"https://www.reddit.com/r/nem"
+  ],
+  "source_code": [
+    "https://github.com/NemProject/NEMiOSApp",
+    "https://github.com/NemProject/csharp2nem"
+  ]
+}

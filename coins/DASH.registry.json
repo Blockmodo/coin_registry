@@ -1,1 +1,43 @@
-{"type":"COINREGISTRY","version":1,"name":"DigitalCash","fromSymbol":"DASH","toSymbol":"ALL","website":"http://dash.org","network":{"t_total_supply":8146367,"t_available_supply":8146367,"t_max_supply":18900000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"X11","description":{"en":""},"quote":["https://blockmodo.com/quotes/DASH"],"explorer":[],"chat":[],"social":["https://twitter.com/@Dashpay"],"community":["https://www.reddit.com/r/dashpay/.rss"],"source_code":["https://github.com/dashpay/dash/commits/master.atom"]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "DigitalCash",
+  "fromSymbol": "DASH",
+  "toSymbol": "ALL",
+  "website": "http://dash.org",
+  "network": {
+    "t_total_supply": 8153791,
+    "t_available_supply": 8146367,
+    "t_max_supply": 18900000,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": true,
+  "proof_type": "PoW/PoS",
+  "algorithm": "X11",
+  "description": {
+    "en": "Dash is an open source peer-to-peer cryptocurrency and decentralized autonomous organization. It features instant transactions, private transactions and a self-funded, self-governed organizational structure."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/DASH"
+  ],
+  "explorer": [
+  	"https://chainz.cryptoid.info/dash",
+  	"https://insight.dash.org/insight",
+  	"https://explorer.dash.org/chain/Dash"
+  ],
+  "chat": [
+  	"https://discordapp.com/invite/9z8zX5j"
+  ],
+  "social": [
+    "https://twitter.com/@Dashpay",
+    "https://www.facebook.com/DashPay"
+  ],
+  "community": [
+    "https://www.reddit.com/r/dashpay",
+    "https://www.dash.org/forum"
+  ],
+  "source_code": [
+    "https://github.com/dashpay/dash"
+  ]
+}

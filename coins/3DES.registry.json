@@ -13,8 +13,8 @@
   },
   "is_crypto": true,
   "is_minable": false,
-  "proof_type": "",
-  "algorithm": "",
+  "proof_type": null,
+  "algorithm": null,
   "description": {
     "en": "3DES is a decentralised solution for 3D models slicing to make the 3D printing faster, cheaper and easier."
   },

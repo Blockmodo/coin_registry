@@ -1,1 +1,44 @@
-{"type":"COINREGISTRY","version":1,"name":"Stellar","fromSymbol":"XLM","toSymbol":"ALL","website":"https://www.stellar.org/","network":{"t_total_supply":18759376961,"t_available_supply":18759376961,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/XLM"],"explorer":[],"chat":[],"social":["https://twitter.com/stellarorg"],"community":["https://www.reddit.com/r/Stellar/.rss","https://www.reddit.com/r/xlm/.rss"],"source_code":["https://github.com/stellar/stellar-core/commits/master.atom"]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "Stellar",
+  "fromSymbol": "XLM",
+  "toSymbol": "ALL",
+  "website": "https://www.stellar.org",
+  "network": {
+    "t_total_supply": 104045664101,
+    "t_available_supply": 18759715711,
+    "t_max_supply": 0,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": null,
+  "algorithm": null,
+  "description": {
+    "en": "Stellar (XLM) is a completely decentralized consensus platform. It is designed to support any type of currency. It has a built in decentralized exchange that can be used to trade any type of currency or asset. "
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/XLM"
+  ],
+  "explorer": [
+  	"https://steexp.com",
+  	"https://stellar.expert/explorer/public",
+  	"https://dashboard.stellar.org"
+  ],
+  "chat": [
+  	"https://slack.stellar.org"
+  ],
+  "social": [
+    "https://twitter.com/stellarorg"
+  ],
+  "community": [
+    "https://www.reddit.com/r/Stellar",
+    "https://www.reddit.com/r/xlm",
+    "https://galactictalk.org",
+    "https://stellarcommunity.org"
+  ],
+  "source_code": [
+    "https://github.com/stellar/stellar-core"
+  ]
+}

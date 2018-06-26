@@ -1,1 +1,42 @@
-{"type":"COINREGISTRY","version":1,"name":"Monero","fromSymbol":"XMR","toSymbol":"ALL","website":"http://getmonero.org/","network":{"t_total_supply":16153586,"t_available_supply":16153586,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"CryptoNight-V7","description":{"en":""},"quote":["https://blockmodo.com/quotes/XMR"],"explorer":[],"chat":[],"social":["https://twitter.com/@monero"],"community":["https://www.reddit.com/r/Monero/.rss","https://www.reddit.com/r/xmrtrader/.rss"],"source_code":["https://github.com/monero-project/monero/commits/master.atom"]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "Monero",
+  "fromSymbol": "XMR",
+  "toSymbol": "ALL",
+  "website": "http://getmonero.org/",
+  "network": {
+    "t_total_supply": 16166556 ,
+    "t_available_supply": 16166556,
+    "t_max_supply": 0,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": true,
+  "proof_type": "PoW",
+  "algorithm": "CryptoNight-V7",
+  "description": {
+    "en": "Monero is a decentralized cryptocurrency, meaning it is secure digital cash operated by a network of users. Transactions are confirmed by distributed consensus and then immutably recorded on the blockchain. Third-parties do not need to be trusted to keep your Monero safe."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/XMR"
+  ],
+  "explorer": [
+  	"https://moneroblocks.info",
+  	"https://chainradar.com/xmr/blocks"
+  ],
+  "chat": [
+  	"https://telegram.me/bitmonero"
+  ],
+  "social": [
+    "https://twitter.com/@monero"
+  ],
+  "community": [
+    "https://www.reddit.com/r/Monero",
+    "https://www.reddit.com/r/xmrtrader",
+    "https://forum.getmonero.org"
+  ],
+  "source_code": [
+    "https://github.com/monero-project/monero"
+  ]
+}

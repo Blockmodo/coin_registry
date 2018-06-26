@@ -1,1 +1,41 @@
-{"type":"COINREGISTRY","version":1,"name":"Binance Coin","fromSymbol":"BNB","toSymbol":"ALL","website":"https://www.binance.com/","network":{"t_total_supply":114041290,"t_available_supply":114041290,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/BNB"],"explorer":[],"chat":[],"social":["https://twitter.com/@binance"],"community":["https://www.reddit.com/r/BNBTrader/.rss"],"source_code":[]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "Binance Coin",
+  "fromSymbol": "BNB",
+  "toSymbol": "ALL",
+  "website": "https://www.binance.com/",
+  "network": {
+    "t_total_supply": 114041290,
+    "t_available_supply": 194972068,
+    "t_max_supply": 0,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": "",
+  "algorithm": "",
+  "description": {
+    "en": "From the ICO, Binance issued its own token called the Binance Coin, with BNB as the symbol. BNB runs natively on the Ethereum blockchain and follows the ERC20 token standard.The token was established with a total supply of 200 million. As per our whitepaper, Binance plans to use 20% of our profits each Quarter to buyback and burn BNB, until 50% of the total BNB supply (100 million) is burned."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/BNB"
+  ],
+  "explorer": [
+  	"https://ethplorer.io/address/0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+  	"https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
+  ],
+  "chat": [
+  	"https://t.me/binanceexchange"
+  ],
+  "social": [
+    "https://twitter.com/@binance",
+    "https://www.instagram.com/binanceexchange",
+    "https://www.facebook.com/binanceexchange"
+  ],
+  "community": [
+    "https://www.reddit.com/r/BNBTrader",
+    "https://www.reddit.com/r/binanceexchange"
+  ],
+  "source_code": []
+}

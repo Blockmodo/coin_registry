@@ -1,1 +1,43 @@
-{"type":"COINREGISTRY","version":1,"name":"QTUM","fromSymbol":"QTUM","toSymbol":"ALL","website":"https://qtum.org/","network":{"t_total_supply":88664516,"t_available_supply":88664516,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"POS 3.0","description":{"en":""},"quote":["https://blockmodo.com/quotes/QTUM"],"explorer":[],"chat":[],"social":["https://twitter.com/@QtumOfficial"],"community":["https://www.reddit.com/r/Qtum/.rss"],"source_code":["https://github.com/qtumproject/qtuminfo-ui/commits/master.atom","https://github.com/qtumproject/qtuminfo/commits/master.atom","https://github.com/qtumproject/qtum-electrum/commits/master.atom","https://github.com/qtumproject/qtum/commits/master.atom"]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "QTUM",
+  "fromSymbol": "QTUM",
+  "toSymbol": "ALL",
+  "website": "https://qtum.org",
+  "network": {
+    "t_total_supply": 88664516,
+    "t_available_supply": 88664516,
+    "t_max_supply": 0,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": false,
+  "proof_type": "PoS",
+  "algorithm": "POS 3.0",
+  "description": {
+    "en": "Qtum is an open source Proof of Stake (PoS) blockchain application platform. Qtum’s core technology combines a fork of Bitcoin Core, an Account Abstraction Layer allowing for multiple Virtual Machines including the Ethereum Virtual Machine (EVM) and Proof-of-Stake consensus aimed at tackling industry use cases."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/QTUM"
+  ],
+  "explorer": [
+  	"https://qtumexplorer.io",
+  	"https://qtum.info"
+  ],
+  "chat": [
+  	"https://t.me/joinchat/D5oBaw29NeOdpw6qqqf2lw"
+  ],
+  "social": [
+    "https://twitter.com/@QtumOfficial"
+  ],
+  "community": [
+    "https://www.reddit.com/r/Qtum/.rss"
+  ],
+  "source_code": [
+    "https://github.com/qtumproject/qtuminfo-ui",
+    "https://github.com/qtumproject/qtuminfo",
+    "https://github.com/qtumproject/qtum-electrum",
+    "https://github.com/qtumproject/qtum"
+  ]
+}

@@ -1,1 +1,43 @@
-{"type":"COINREGISTRY","version":1,"name":"Bitcoin Cash / BCC","fromSymbol":"BCH","toSymbol":"ALL","website":"https://www.bitcoincash.org/","network":{"t_total_supply":17196250,"t_available_supply":17196250,"t_max_supply":21000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"SHA256","description":{"en":""},"quote":["https://blockmodo.com/quotes/BCH"],"explorer":[],"chat":[],"social":["https://twitter.com/@BITCOlNCASH"],"community":["https://www.reddit.com/r/Bitcoincash/.rss","https://www.reddit.com/r/bch/.rss"],"source_code":["https://github.com/Bitcoin-ABC/bitcoin-abc/commits/master.atom","https://github.com/bitcoinclassic/bitcoinclassic/commits/master.atom","https://github.com/bitcoinxt/bitcoinxt/commits/master.atom","https://github.com/BitcoinUnlimited/BitcoinUnlimited/commits/release.atom"]}
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "Bitcoin Cash / BCC",
+  "fromSymbol": "BCH",
+  "toSymbol": "ALL",
+  "website": "https://www.bitcoincash.org",
+  "network": {
+    "t_total_supply": 17203363,
+    "t_available_supply": 17203363,
+    "t_max_supply": 21000000,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": true,
+  "proof_type": "PoW",
+  "algorithm": "SHA256",
+  "description": {
+    "en": "Bitcoin Cash is a cryptocurrency. In mid-2017, a group of developers wanting to increase bitcoin block size limit prepared a code change. The change, called a hard fork, took effect on 1 August 2017."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/BCH"
+  ],
+  "explorer": [
+  	"https://www.blocktrail.com/BCC",
+  	"https://blockdozer.com/",
+  	"https://blockchair.com/bitcoin-cash/blocks"
+  ],
+  "chat": [],
+  "social": [
+    "https://twitter.com/@BITCOlNCASH"
+  ],
+  "community": [
+    "https://www.reddit.com/r/Bitcoincash",
+    "https://www.reddit.com/r/bch"
+  ],
+  "source_code": [
+    "https://github.com/Bitcoin-ABC/bitcoin-abc",
+    "https://github.com/bitcoinclassic/bitcoinclassic",
+    "https://github.com/bitcoinxt/bitcoinxt",
+    "https://github.com/BitcoinUnlimited/BitcoinUnlimited"
+  ]
+}

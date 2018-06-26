@@ -16,11 +16,7 @@
   "proof_type": "PoW",
   "algorithm": "Scrypt",
   "description": {
-    "en": "1CRedit was created to be the 4th coin in the game "The Crypto Void" by 1BillionHex.  Although a game coin in the sense of that being the driver for its creation, it is a fully functional cyber coin that can stand alone.
-
-    The genesis of the coin is to be something as stable as the current Bitcoin/Litecoin codebase will allow.  Kimoto Gravity Well is used to stabilize block times as of block 5000. 
-
-    Long block times and high confirmation requirements should minimize fork opportunities.  They will tend to make this an "investment" coin rather than a "transaction" code."
+    "en": "1CRedit was created to be the 4th coin in the game 'The Crypto Void' by 1BillionHex.  Although a game coin in the sense of that being the driver for its creation, it is a fully functional cyber coin that can stand alone. \nThe genesis of the coin is to be something as stable as the current Bitcoin/Litecoin codebase will allow.  Kimoto Gravity Well is used to stabilize block times as of block 5000. \nLong block times and high confirmation requirements should minimize fork opportunities.  They will tend to make this an 'investment' coin rather than a 'transaction' code."
   },
   "quote": [
     "https://blockmodo.com/quotes/1CR"

@@ -16,8 +16,7 @@
   "proof_type": "PoS",
   "algorithm": "Ouroboros",
   "description": {
-    "en": "Cardano SL (or Cardano Settlement Layer) is a cryptographic currency designed and developed by IOHK in conjunction with the University of Edinburgh, the University of Athens and the University of Connecticut. Cardano SL is based on the Haskell implementation of the white paper “Ouroboros: A Provably Secure Proof of Stake Blockchain Protocol” by Aggelos Kiayias, Alexander Russell, Bernardo David and Roman Oliynykov. 
-    You can think of Cardano SL as Bitcoin reimagined with a freedom to fix Bitcoin’s design flaws. Please read “What Makes Cardano SL Special?” for more information about similarities and differences between Cardano SL and Bitcoin."
+    "en": "Cardano SL (or Cardano Settlement Layer) is a cryptographic currency designed and developed by IOHK in conjunction with the University of Edinburgh, the University of Athens and the University of Connecticut. Cardano SL is based on the Haskell implementation of the white paper 'Ouroboros: A Provably Secure Proof of Stake Blockchain Protocol' by Aggelos Kiayias, Alexander Russell, Bernardo David and Roman Oliynykov. \nYou can think of Cardano SL as Bitcoin reimagined with a freedom to fix Bitcoin’s design flaws. Please read “What Makes Cardano SL Special?” for more information about similarities and differences between Cardano SL and Bitcoin."
   },
   "quote": [
     "https://blockmodo.com/quotes/ADA"

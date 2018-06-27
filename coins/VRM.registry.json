@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Verium","fromSymbol":"VRM","toSymbol":"ALL","website":"http://www.vericoin.info/","network":{"t_total_supply":1670701,"t_available_supply":1670701,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoWT","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/VRM"],"explorer":[],"chat":[],"social":["https://twitter.com/@VeriumReserve"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "VRM",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Verium",
+    "network": {
+        "t_available_supply": 1670701,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 1670701
+    },
+    "proof_type": "PoWT",
+    "quote": [
+        "https://blockmodo.com/quotes/VRM"
+    ],
+    "social": [
+        "https://twitter.com/@VeriumReserve"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.vericoin.info/"
+}

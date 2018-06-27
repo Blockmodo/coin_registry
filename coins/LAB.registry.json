@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Labrys","fromSymbol":"LAB","toSymbol":"ALL","website":"https://www.labrys.io/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":430000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/LAB"],"explorer":[],"chat":[],"social":["https://twitter.com/@Labrys_io"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "LAB",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Labrys",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 430000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/LAB"
+    ],
+    "social": [
+        "https://twitter.com/@Labrys_io"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.labrys.io/"
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Cloud","fromSymbol":"CLD","toSymbol":"ALL","website":"http://token.cloudwith.me","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/CLD"],"explorer":[],"chat":[],"social":["https://twitter.com/@Cloudwith_me"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "CLD",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Cloud",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/CLD"
+    ],
+    "social": [
+        "https://twitter.com/@Cloudwith_me"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://token.cloudwith.me"
+}

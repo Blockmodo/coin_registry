@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"CrowdCoin","fromSymbol":"CRC","toSymbol":"ALL","website":"http://crowdcoin.site/","network":{"t_total_supply":2836420,"t_available_supply":2836420,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"NeoScrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/CRC"],"explorer":[],"chat":[],"social":["https://twitter.com/@CrowdCoin_CRC"],"community":[],"source_code":[]}
+{
+    "algorithm": "NeoScrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "CRC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "CrowdCoin",
+    "network": {
+        "t_available_supply": 2836420,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 2836420
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/CRC"
+    ],
+    "social": [
+        "https://twitter.com/@CrowdCoin_CRC"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://crowdcoin.site/"
+}

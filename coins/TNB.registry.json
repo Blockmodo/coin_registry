@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"Time New Bank","fromSymbol":"TNB","toSymbol":"ALL","website":"https://tnb.fund","network":{"t_total_supply":2361679677,"t_available_supply":2361679677,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/TNB"],"explorer":[],"chat":[],"social":["https://twitter.com/@TimeNewBank"],"community":["https://www.reddit.com/r/TimeNewBank/.rss"],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/TimeNewBank/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "TNB",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Time New Bank",
+    "network": {
+        "t_available_supply": 2361679677,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 2361679677
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/TNB"
+    ],
+    "social": [
+        "https://twitter.com/@TimeNewBank"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://tnb.fund"
+}

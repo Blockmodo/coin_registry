@@ -1,1 +1,35 @@
-{"type":"COINREGISTRY","version":1,"name":"Electroneum","fromSymbol":"ETN","toSymbol":"ALL","website":"http://electroneum.com","network":{"t_total_supply":7235238126,"t_available_supply":7235238126,"t_max_supply":21000000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/ETN"],"explorer":[],"chat":[],"social":["https://twitter.com/@electroneum"],"community":["https://www.reddit.com/r/Electroneum/.rss"],"source_code":["https://github.com/electroneum/electroneum-pool/commits/master.atom"]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/Electroneum/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "ETN",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Electroneum",
+    "network": {
+        "t_available_supply": 7235238126,
+        "t_block_reward": 0,
+        "t_max_supply": 21000000000,
+        "t_total_supply": 7235238126
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/ETN"
+    ],
+    "social": [
+        "https://twitter.com/@electroneum"
+    ],
+    "source_code": [
+        "https://github.com/electroneum/electroneum-pool/commits/master.atom"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://electroneum.com"
+}

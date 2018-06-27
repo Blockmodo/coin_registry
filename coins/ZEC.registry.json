@@ -1,41 +1,41 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "ZCash",
-  "fromSymbol": "ZEC",
-  "toSymbol": "ALL",
-  "website": "https://z.cash/",
-  "network": {
-    "t_total_supply": 4189131,
-    "t_available_supply": 4189131,
-    "t_max_supply": 0,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": false,
-  "proof_type": "PoW",
-  "algorithm": "Equihash",
-  "description": {
-    "en": "Bitcoin and most cryptocurrencies expose your entire payment history to the public. Zcash is the first open, permissionless cryptocurrency that can fully protect the privacy of transactions using zero-knowledge cryptography."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/ZEC"
-  ],
-  "explorer": [
-  	"https://explorer.zcha.in"
-  ],
-  "chat": [
-  	"https://chat.zcashcommunity.com"
-  ],
-  "social": [
-    "https://twitter.com/@zcashco"
-  ],
-  "community": [
-    "https://www.reddit.com/r/Zcash",
-    "https://www.reddit.com/r/zec",
-    "https://forum.z.cash"
-  ],
-  "source_code": [
-    "https://github.com/zcash/zcash"
-  ]
+    "algorithm": "Equihash",
+    "chat": [
+        "https://chat.zcashcommunity.com"
+    ],
+    "community": [
+        "https://www.reddit.com/r/Zcash",
+        "https://www.reddit.com/r/zec",
+        "https://forum.z.cash"
+    ],
+    "description": {
+        "en": "Bitcoin and most cryptocurrencies expose your entire payment history to the public. Zcash is the first open, permissionless cryptocurrency that can fully protect the privacy of transactions using zero-knowledge cryptography."
+    },
+    "explorer": [
+        "https://explorer.zcha.in"
+    ],
+    "fromSymbol": "ZEC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "ZCash",
+    "network": {
+        "t_available_supply": 4189131,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 4189131
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/ZEC"
+    ],
+    "social": [
+        "https://twitter.com/@zcashco"
+    ],
+    "source_code": [
+        "https://github.com/zcash/zcash"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://z.cash/"
 }

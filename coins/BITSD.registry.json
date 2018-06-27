@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Bits Digit","fromSymbol":"BITSD","toSymbol":"ALL","website":"https://bitsdigit.com/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/BITSD"],"explorer":[],"chat":[],"social":["https://twitter.com/@BitsDigit"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "BITSD",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Bits Digit",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/BITSD"
+    ],
+    "social": [
+        "https://twitter.com/@BitsDigit"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://bitsdigit.com/"
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"QunQun","fromSymbol":"QUN","toSymbol":"ALL","website":"https://qunqun.io/","network":{"t_total_supply":804148114,"t_available_supply":804148114,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/QUN"],"explorer":[],"chat":[],"social":["https://twitter.com/@qunqun_io"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "QUN",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "QunQun",
+    "network": {
+        "t_available_supply": 804148114,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 804148114
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/QUN"
+    ],
+    "social": [
+        "https://twitter.com/@qunqun_io"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://qunqun.io/"
+}

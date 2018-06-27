@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Bitcoin Planet","fromSymbol":"BTPL","toSymbol":"ALL","website":"http://bitcoin-planet.net/","network":{"t_total_supply":6804362,"t_available_supply":6804362,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"Skein","description":{"en":""},"quote":["https://blockmodo.com/quotes/BTPL"],"explorer":[],"chat":[],"social":["https://twitter.com/@bitcoin_planet_"],"community":[],"source_code":[]}
+{
+    "algorithm": "Skein",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "BTPL",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Bitcoin Planet",
+    "network": {
+        "t_available_supply": 6804362,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 6804362
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/BTPL"
+    ],
+    "social": [
+        "https://twitter.com/@bitcoin_planet_"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://bitcoin-planet.net/"
+}

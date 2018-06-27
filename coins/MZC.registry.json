@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"MazaCoin","fromSymbol":"MZC","toSymbol":"ALL","website":"https://mazacoin.org/","network":{"t_total_supply":1055345280,"t_available_supply":1055345280,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"SHA256","description":{"en":""},"quote":["https://blockmodo.com/quotes/MZC"],"explorer":[],"chat":[],"social":["https://twitter.com/@MazaCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "MZC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "MazaCoin",
+    "network": {
+        "t_available_supply": 1055345280,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 1055345280
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/MZC"
+    ],
+    "social": [
+        "https://twitter.com/@MazaCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://mazacoin.org/"
+}

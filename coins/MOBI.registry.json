@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Mobius","fromSymbol":"MOBI","toSymbol":"ALL","website":"https://mobius.network","network":{"t_total_supply":376657502,"t_available_supply":376657502,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/MOBI"],"explorer":[],"chat":[],"social":["https://twitter.com/@mobius_network"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "MOBI",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Mobius",
+    "network": {
+        "t_available_supply": 376657502,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 376657502
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/MOBI"
+    ],
+    "social": [
+        "https://twitter.com/@mobius_network"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://mobius.network"
+}

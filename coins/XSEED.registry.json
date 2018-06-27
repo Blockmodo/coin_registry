@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"BitSeeds","fromSymbol":"XSEED","toSymbol":"ALL","website":"http://bitseeds.org/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"SHA256","description":{"en":""},"quote":["https://blockmodo.com/quotes/XSEED"],"explorer":[],"chat":[],"social":["https://twitter.com/@BitSeeds"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "XSEED",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "BitSeeds",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/XSEED"
+    ],
+    "social": [
+        "https://twitter.com/@BitSeeds"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://bitseeds.org/"
+}

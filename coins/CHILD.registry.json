@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"ChildCoin","fromSymbol":"CHILD","toSymbol":"ALL","website":"http://www.x-children.org/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":2000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"X11","description":{"en":""},"quote":["https://blockmodo.com/quotes/CHILD"],"explorer":[],"chat":[],"social":["https://twitter.com/@XLaboratories"],"community":[],"source_code":[]}
+{
+    "algorithm": "X11",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "CHILD",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "ChildCoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 2000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/CHILD"
+    ],
+    "social": [
+        "https://twitter.com/@XLaboratories"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.x-children.org/"
+}

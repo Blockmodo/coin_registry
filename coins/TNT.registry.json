@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Tierion","fromSymbol":"TNT","toSymbol":"ALL","website":"https://tierion.com/","network":{"t_total_supply":428481269,"t_available_supply":428481269,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/TNT"],"explorer":[],"chat":[],"social":["https://twitter.com/@tierion"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "TNT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Tierion",
+    "network": {
+        "t_available_supply": 428481269,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 428481269
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/TNT"
+    ],
+    "social": [
+        "https://twitter.com/@tierion"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://tierion.com/"
+}

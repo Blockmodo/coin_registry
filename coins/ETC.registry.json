@@ -1,41 +1,41 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "Ethereum Classic",
-  "fromSymbol": "ETC",
-  "toSymbol": "ALL",
-  "website": "http://www.ethereumclassic.org",
-  "network": {
-    "t_total_supply": 102466910,
-    "t_available_supply": 102466910,
-    "t_max_supply": 0,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": true,
-  "proof_type": "PoW",
-  "algorithm": "Ethash",
-  "description": {
-    "en": "Ethereum Classic (ETC) is a smarter blockchain, it is a network, a community, and a cryptocurrency that takes digital assets further. In addition to allowing people to send value to each other, ETC allows for complex contracts that operate autonomously and cannot be modified or censored."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/ETC"
-  ],
-  "explorer": [
-  	"http://etherhub.io/home",
-  	"http://gastracker.io/"
-  ],
-  "chat": [
-  	"https://discordapp.com/invite/HW4GckH"
-  ],
-  "social": [
-    "https://twitter.com/EthereumClassic"
-  ],
-  "community": [
-    "https://www.reddit.com/r/EthereumClassic",
-    "https://forum.ethereumclassic.org"
-  ],
-  "source_code": [
-    "https://github.com/ethereumclassic/ethereumclassic.github.io"
-  ]
+    "algorithm": "Ethash",
+    "chat": [
+        "https://discordapp.com/invite/HW4GckH"
+    ],
+    "community": [
+        "https://www.reddit.com/r/EthereumClassic",
+        "https://forum.ethereumclassic.org"
+    ],
+    "description": {
+        "en": "Ethereum Classic (ETC) is a smarter blockchain, it is a network, a community, and a cryptocurrency that takes digital assets further. In addition to allowing people to send value to each other, ETC allows for complex contracts that operate autonomously and cannot be modified or censored."
+    },
+    "explorer": [
+        "http://etherhub.io/home",
+        "http://gastracker.io/"
+    ],
+    "fromSymbol": "ETC",
+    "is_crypto": true,
+    "is_minable": true,
+    "name": "Ethereum Classic",
+    "network": {
+        "t_available_supply": 102466910,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 102466910
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/ETC"
+    ],
+    "social": [
+        "https://twitter.com/EthereumClassic"
+    ],
+    "source_code": [
+        "https://github.com/ethereumclassic/ethereumclassic.github.io"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.ethereumclassic.org"
 }

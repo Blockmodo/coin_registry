@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"NameCoin","fromSymbol":"NMC","toSymbol":"ALL","website":"https://namecoin.info/","network":{"t_total_supply":14736400,"t_available_supply":14736400,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"SHA256","description":{"en":""},"quote":["https://blockmodo.com/quotes/NMC"],"explorer":[],"chat":[],"social":["https://twitter.com/@Namecoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "NMC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "NameCoin",
+    "network": {
+        "t_available_supply": 14736400,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 14736400
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/NMC"
+    ],
+    "social": [
+        "https://twitter.com/@Namecoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://namecoin.info/"
+}

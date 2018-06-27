@@ -1,37 +1,37 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "Advanced Internet Blocks",
-  "fromSymbol": "AIB",
-  "toSymbol": "ALL",
-  "website": "https://www.aib.one/",
-  "network": {
-    "t_total_supply": 32234319,
-    "t_available_supply": 32234319,
-    "t_max_supply": 314159265359,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": true,
-  "proof_type": "PoW",
-  "algorithm": "Scrypt",
-  "description": {
-    "en": "Advanced Internet Block is a project designed to get funds through the value of the coin itself in order to invest in the field of real estate, internet(mobile) application and future infrastructure  and reinvest back in the coin's development. 99.998% of AIB's supply was premined and 500000 AIB remained to be mined during the next 10 years."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/AIB"
-  ],
-  "explorer": [
-  	"https://block.aib.one"
-  ],
-  "chat": [
-  	"https://t.me/aibone"
-  ],
-  "social": [
-    "https://twitter.com/"
-  ],
-  "community": [],
-  "source_code": [
-  	"https://github.com/iobond/aib"
-  ]
+    "algorithm": "Scrypt",
+    "chat": [
+        "https://t.me/aibone"
+    ],
+    "community": [],
+    "description": {
+        "en": "Advanced Internet Block is a project designed to get funds through the value of the coin itself in order to invest in the field of real estate, internet(mobile) application and future infrastructure  and reinvest back in the coin's development. 99.998% of AIB's supply was premined and 500000 AIB remained to be mined during the next 10 years."
+    },
+    "explorer": [
+        "https://block.aib.one"
+    ],
+    "fromSymbol": "AIB",
+    "is_crypto": true,
+    "is_minable": true,
+    "name": "Advanced Internet Blocks",
+    "network": {
+        "t_available_supply": 32234319,
+        "t_block_reward": 0,
+        "t_max_supply": 314159265359,
+        "t_total_supply": 32234319
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/AIB"
+    ],
+    "social": [
+        "https://twitter.com/"
+    ],
+    "source_code": [
+        "https://github.com/iobond/aib"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.aib.one/"
 }

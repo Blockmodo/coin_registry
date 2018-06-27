@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Doc.ai Neuron","fromSymbol":"NRN","toSymbol":"ALL","website":"https://doc.ai/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":860000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/NRN"],"explorer":[],"chat":[],"social":["https://twitter.com/@_doc_ai"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "NRN",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Doc.ai Neuron",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 860000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/NRN"
+    ],
+    "social": [
+        "https://twitter.com/@_doc_ai"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://doc.ai/"
+}

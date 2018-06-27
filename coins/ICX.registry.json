@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"ICON Project","fromSymbol":"ICX","toSymbol":"ALL","website":"https://www.icon.foundation/en/","network":{"t_total_supply":387431340,"t_available_supply":387431340,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"LFT","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/ICX"],"explorer":[],"chat":[],"social":["https://twitter.com/@helloiconworld"],"community":[],"source_code":["https://github.com/icon-foundation/ico/commits/master.atom"]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "ICX",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "ICON Project",
+    "network": {
+        "t_available_supply": 387431340,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 387431340
+    },
+    "proof_type": "LFT",
+    "quote": [
+        "https://blockmodo.com/quotes/ICX"
+    ],
+    "social": [
+        "https://twitter.com/@helloiconworld"
+    ],
+    "source_code": [
+        "https://github.com/icon-foundation/ico/commits/master.atom"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.icon.foundation/en/"
+}

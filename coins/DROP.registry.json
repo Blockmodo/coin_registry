@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"FaucetCoin","fromSymbol":"DROP","toSymbol":"ALL","website":"http://faucetdrop.com/","network":{"t_total_supply":19488999106,"t_available_supply":19488999106,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"X13","description":{"en":""},"quote":["https://blockmodo.com/quotes/DROP"],"explorer":[],"chat":[],"social":["https://twitter.com/@FaucetDrop"],"community":[],"source_code":[]}
+{
+    "algorithm": "X13",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "DROP",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "FaucetCoin",
+    "network": {
+        "t_available_supply": 19488999106,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 19488999106
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/DROP"
+    ],
+    "social": [
+        "https://twitter.com/@FaucetDrop"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://faucetdrop.com/"
+}

@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"PeerCoin","fromSymbol":"PPC","toSymbol":"ALL","website":"http://peercoin.net/","network":{"t_total_supply":24819302,"t_available_supply":24819302,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/PPC"],"explorer":[],"chat":[],"social":["https://twitter.com/@peercoinppc"],"community":["https://www.reddit.com/r/peercoin/.rss"],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/peercoin/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "PPC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "PeerCoin",
+    "network": {
+        "t_available_supply": 24819302,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 24819302
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/PPC"
+    ],
+    "social": [
+        "https://twitter.com/@peercoinppc"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://peercoin.net/"
+}

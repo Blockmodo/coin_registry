@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"NukeCoin","fromSymbol":"NUKE","toSymbol":"ALL","website":"-","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":2778196,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"PoS","description":{"en":""},"quote":["https://blockmodo.com/quotes/NUKE"],"explorer":[],"chat":[],"social":["https://twitter.com/@Nuke_Engin3"],"community":[],"source_code":[]}
+{
+    "algorithm": "PoS",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "NUKE",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "NukeCoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 2778196,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/NUKE"
+    ],
+    "social": [
+        "https://twitter.com/@Nuke_Engin3"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
+}

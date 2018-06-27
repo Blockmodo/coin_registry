@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"Nexus","fromSymbol":"NXS","toSymbol":"ALL","website":"http://www.nexusearth.com/","network":{"t_total_supply":57904104,"t_available_supply":57904104,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/nPoS","algorithm":"SHA3","description":{"en":""},"quote":["https://blockmodo.com/quotes/NXS"],"explorer":[],"chat":[],"social":["https://twitter.com/@NxsEarth"],"community":["https://www.reddit.com/r/nexusearth/.rss"],"source_code":[]}
+{
+    "algorithm": "SHA3",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/nexusearth/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "NXS",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Nexus",
+    "network": {
+        "t_available_supply": 57904104,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 57904104
+    },
+    "proof_type": "PoW/nPoS",
+    "quote": [
+        "https://blockmodo.com/quotes/NXS"
+    ],
+    "social": [
+        "https://twitter.com/@NxsEarth"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.nexusearth.com/"
+}

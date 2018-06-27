@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Stox","fromSymbol":"STX","toSymbol":"ALL","website":"https://www.stox.com","network":{"t_total_supply":42517032,"t_available_supply":42517032,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/STX"],"explorer":[],"chat":[],"social":["https://twitter.com/@stx_coin"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "STX",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Stox",
+    "network": {
+        "t_available_supply": 42517032,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 42517032
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/STX"
+    ],
+    "social": [
+        "https://twitter.com/@stx_coin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.stox.com"
+}

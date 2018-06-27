@@ -1,40 +1,40 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "42 Coin",
-  "fromSymbol": "42",
-  "toSymbol": "ALL",
-  "website": "https://42-coin.org/",
-  "network": {
-    "t_total_supply": 42,
-    "t_available_supply": 42,
-    "t_max_supply": 42,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": true,
-  "proof_type": "PoW/PoS",
-  "algorithm": "Scrypt",
-  "description": {
-    "en": "42 - The answer to life, the universe, and everything."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/42"
-  ],
-  "explorer": [
-  	"https://chainz.cryptoid.info/42/",
-  	"https://prohashing.com/explorer/42/"
-  ],
-  "chat": [
-  	"https://t.me/newchain42",
-  	"https://discordapp.com/invite/ge2gUHy",
-  	"https://kiwiirc.com/client/chat.freenode.net/##42coin"
-  ],
-  "social": [
-    "https://twitter.com/@42newchain"
-  ],
-  "community": [],
-  "source_code": [
-  	"https://github.com/42-coin/42"
-  ]
+    "algorithm": "Scrypt",
+    "chat": [
+        "https://t.me/newchain42",
+        "https://discordapp.com/invite/ge2gUHy",
+        "https://kiwiirc.com/client/chat.freenode.net/##42coin"
+    ],
+    "community": [],
+    "description": {
+        "en": "42 - The answer to life, the universe, and everything."
+    },
+    "explorer": [
+        "https://chainz.cryptoid.info/42/",
+        "https://prohashing.com/explorer/42/"
+    ],
+    "fromSymbol": "42",
+    "is_crypto": true,
+    "is_minable": true,
+    "name": "42 Coin",
+    "network": {
+        "t_available_supply": 42,
+        "t_block_reward": 0,
+        "t_max_supply": 42,
+        "t_total_supply": 42
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/42"
+    ],
+    "social": [
+        "https://twitter.com/@42newchain"
+    ],
+    "source_code": [
+        "https://github.com/42-coin/42"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://42-coin.org/"
 }

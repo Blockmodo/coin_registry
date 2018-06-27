@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Gemz Social","fromSymbol":"GEMZ","toSymbol":"ALL","website":"http://getgems.org/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":90000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/GEMZ"],"explorer":[],"chat":[],"social":["https://twitter.com/@getgemsorg"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "GEMZ",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Gemz Social",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 90000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/GEMZ"
+    ],
+    "social": [
+        "https://twitter.com/@getgemsorg"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://getgems.org/"
+}

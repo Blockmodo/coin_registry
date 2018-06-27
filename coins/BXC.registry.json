@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Bitcedi","fromSymbol":"BXC","toSymbol":"ALL","website":"-","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":8589869056,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"CryptoNight","description":{"en":""},"quote":["https://blockmodo.com/quotes/BXC"],"explorer":[],"chat":[],"social":["https://twitter.com/@Bitcedis"],"community":[],"source_code":[]}
+{
+    "algorithm": "CryptoNight",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "BXC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Bitcedi",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 8589869056,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/BXC"
+    ],
+    "social": [
+        "https://twitter.com/@Bitcedis"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
+}

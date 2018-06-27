@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Kalkulus","fromSymbol":"KLK","toSymbol":"ALL","website":"http://kalkulus.trade/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":20000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/KLK"],"explorer":[],"chat":[],"social":["https://twitter.com/@kalkulus_team"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "KLK",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Kalkulus",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 20000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/KLK"
+    ],
+    "social": [
+        "https://twitter.com/@kalkulus_team"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://kalkulus.trade/"
+}

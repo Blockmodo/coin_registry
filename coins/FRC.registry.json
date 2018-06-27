@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"FireRoosterCoin","fromSymbol":"FRC","toSymbol":"ALL","website":"http://freico.in/","network":{"t_total_supply":31111447,"t_available_supply":31111447,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"SHA256","description":{"en":""},"quote":["https://blockmodo.com/quotes/FRC"],"explorer":[],"chat":[],"social":["https://twitter.com/@Freicoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "FRC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "FireRoosterCoin",
+    "network": {
+        "t_available_supply": 31111447,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 31111447
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/FRC"
+    ],
+    "social": [
+        "https://twitter.com/@Freicoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://freico.in/"
+}

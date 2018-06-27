@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"HEROcoin","fromSymbol":"PLAY","toSymbol":"ALL","website":"https://www.herocoin.io/","network":{"t_total_supply":119754840,"t_available_supply":119754840,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/PLAY"],"explorer":[],"chat":[],"social":["https://twitter.com/@HEROcoinio"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "PLAY",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "HEROcoin",
+    "network": {
+        "t_available_supply": 119754840,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 119754840
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/PLAY"
+    ],
+    "social": [
+        "https://twitter.com/@HEROcoinio"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.herocoin.io/"
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"HoboNickels","fromSymbol":"HBN","toSymbol":"ALL","website":"http://hobonickels.info/","network":{"t_total_supply":64151405,"t_available_supply":64151405,"t_max_supply":120000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/HBN"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "HBN",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "HoboNickels",
+    "network": {
+        "t_available_supply": 64151405,
+        "t_block_reward": 0,
+        "t_max_supply": 120000000,
+        "t_total_supply": 64151405
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/HBN"
+    ],
+    "social": [
+        "https://twitter.com/"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://hobonickels.info/"
+}

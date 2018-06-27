@@ -1,38 +1,38 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "AeonCoin",
-  "fromSymbol": "AEON",
-  "toSymbol": "ALL",
-  "website": "http://www.aeon.cash/",
-  "network": {
-    "t_total_supply": 15831459,
-    "t_available_supply": 15831459,
-    "t_max_supply": 18400000,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": true,
-  "proof_type": "PoW",
-  "algorithm": "CryptoNight-Lite",
-  "description": {
-    "en": "Decentralized digital currency is slowly becoming a normal part of everyday life. Yet everybody's main internet device continues to be their cellphone, a device with a low-powered CPU and limited available storage. \nAEON is about enabling this era, enabling an age where all people everywhere have the freedom to privately send and receive money with whatever gadget they already own."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/AEON"
-  ],
-  "explorer": [
-  	"https://chainradar.com/aeon/blocks",
-  	"https://aeonblocks.com/"
-  ],
-  "chat": [],
-  "social": [
-    "https://twitter.com/@AeonCoin"
-  ],
-  "community": [
-  	"https://www.reddit.com/r/Aeon"
-  ],
-  "source_code": [
-  	"https://github.com/aeonix/aeon"
-  ]
+    "algorithm": "CryptoNight-Lite",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/Aeon"
+    ],
+    "description": {
+        "en": "Decentralized digital currency is slowly becoming a normal part of everyday life. Yet everybody's main internet device continues to be their cellphone, a device with a low-powered CPU and limited available storage. \nAEON is about enabling this era, enabling an age where all people everywhere have the freedom to privately send and receive money with whatever gadget they already own."
+    },
+    "explorer": [
+        "https://chainradar.com/aeon/blocks",
+        "https://aeonblocks.com/"
+    ],
+    "fromSymbol": "AEON",
+    "is_crypto": true,
+    "is_minable": true,
+    "name": "AeonCoin",
+    "network": {
+        "t_available_supply": 15831459,
+        "t_block_reward": 0,
+        "t_max_supply": 18400000,
+        "t_total_supply": 15831459
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/AEON"
+    ],
+    "social": [
+        "https://twitter.com/@AeonCoin"
+    ],
+    "source_code": [
+        "https://github.com/aeonix/aeon"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.aeon.cash/"
 }

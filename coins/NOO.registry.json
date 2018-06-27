@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Noocoin","fromSymbol":"NOO","toSymbol":"ALL","website":"http://www.noohack.com/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":25000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"PoS","description":{"en":""},"quote":["https://blockmodo.com/quotes/NOO"],"explorer":[],"chat":[],"social":["https://twitter.com/@noocoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "PoS",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "NOO",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Noocoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 25000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/NOO"
+    ],
+    "social": [
+        "https://twitter.com/@noocoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.noohack.com/"
+}

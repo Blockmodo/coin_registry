@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Dashcoin","fromSymbol":"DSH","toSymbol":"ALL","website":"https://dashcoin.info/","network":{"t_total_supply":17574970,"t_available_supply":17574970,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"CryptoNight","description":{"en":""},"quote":["https://blockmodo.com/quotes/DSH"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":[],"source_code":[]}
+{
+    "algorithm": "CryptoNight",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "DSH",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Dashcoin",
+    "network": {
+        "t_available_supply": 17574970,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 17574970
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/DSH"
+    ],
+    "social": [
+        "https://twitter.com/"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://dashcoin.info/"
+}

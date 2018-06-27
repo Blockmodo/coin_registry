@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"DigiCube","fromSymbol":"CUBE","toSymbol":"ALL","website":"http://www.freestaking.com","network":{"t_total_supply":2429126009,"t_available_supply":2429126009,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/CUBE"],"explorer":[],"chat":[],"social":["https://twitter.com/@PurePoS"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "CUBE",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "DigiCube",
+    "network": {
+        "t_available_supply": 2429126009,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 2429126009
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/CUBE"
+    ],
+    "social": [
+        "https://twitter.com/@PurePoS"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.freestaking.com"
+}

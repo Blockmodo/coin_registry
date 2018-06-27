@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"GlobalToken","fromSymbol":"GLT","toSymbol":"ALL","website":"https://globaltoken.org/","network":{"t_total_supply":27971200,"t_available_supply":27971200,"t_max_supply":168000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"SHA256","description":{"en":""},"quote":["https://blockmodo.com/quotes/GLT"],"explorer":[],"chat":[],"social":["https://twitter.com/@GlobalTokenCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "GLT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "GlobalToken",
+    "network": {
+        "t_available_supply": 27971200,
+        "t_block_reward": 0,
+        "t_max_supply": 168000000,
+        "t_total_supply": 27971200
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/GLT"
+    ],
+    "social": [
+        "https://twitter.com/@GlobalTokenCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://globaltoken.org/"
+}

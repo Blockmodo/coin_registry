@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"SuperNET","fromSymbol":"UNITY","toSymbol":"ALL","website":"https://www.supernet.org/en","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/UNITY"],"explorer":[],"chat":[],"social":["https://twitter.com/@SuperNETorg"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "UNITY",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "SuperNET",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/UNITY"
+    ],
+    "social": [
+        "https://twitter.com/@SuperNETorg"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.supernet.org/en"
+}

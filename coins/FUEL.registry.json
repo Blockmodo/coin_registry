@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Etherparty","fromSymbol":"FUEL","toSymbol":"ALL","website":"http://etherparty.io/","network":{"t_total_supply":485842253,"t_available_supply":485842253,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/FUEL"],"explorer":[],"chat":[],"social":["https://twitter.com/@etherparty_io"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "FUEL",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Etherparty",
+    "network": {
+        "t_available_supply": 485842253,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 485842253
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/FUEL"
+    ],
+    "social": [
+        "https://twitter.com/@etherparty_io"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://etherparty.io/"
+}

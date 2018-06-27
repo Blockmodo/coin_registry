@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"FundYourselfNow","fromSymbol":"FYN","toSymbol":"ALL","website":"https://www.fundyourselfnow.com","network":{"t_total_supply":927377,"t_available_supply":927377,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/FYN"],"explorer":[],"chat":[],"social":["https://twitter.com/@fundyourselfnow"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "FYN",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "FundYourselfNow",
+    "network": {
+        "t_available_supply": 927377,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 927377
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/FYN"
+    ],
+    "social": [
+        "https://twitter.com/@fundyourselfnow"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.fundyourselfnow.com"
+}

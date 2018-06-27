@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Rebellious","fromSymbol":"REBL","toSymbol":"ALL","website":"https://www.rebellious.io/","network":{"t_total_supply":170119104,"t_available_supply":170119104,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/REBL"],"explorer":[],"chat":[],"social":["https://twitter.com/@RebelliousCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "REBL",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Rebellious",
+    "network": {
+        "t_available_supply": 170119104,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 170119104
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/REBL"
+    ],
+    "social": [
+        "https://twitter.com/@RebelliousCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.rebellious.io/"
+}

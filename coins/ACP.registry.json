@@ -1,35 +1,35 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "Anarchists Prime",
-  "fromSymbol": "ACP",
-  "toSymbol": "ALL",
-  "website": "http://www.anarchistsprime.info/",
-  "network": {
-    "t_total_supply": 4394874,
-    "t_available_supply": 4394874,
-    "t_max_supply": 53760000,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": true,
-  "proof_type": "PoW",
-  "algorithm": "SHA256",
-  "description": {
-    "en": "(ACP) is peer to peer decentralized currency, used to buy-sell-trade and bounty within the community. Safe and secure it has virtually no fee and can be utilized worldwide. Fully confirming transactions within minutes and can be used by anyone."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/ACP"
-  ],
-  "explorer": [
-  	"http://acp1.servep2p.com:3001/"
-  ],
-  "chat": [],
-  "social": [
-    "https://twitter.com/@AnarchistsPrime "
-  ],
-  "community": [],
-  "source_code": [
-  	"https://github.com/AnarchistsPrime/Acp2"
-  ]
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": "(ACP) is peer to peer decentralized currency, used to buy-sell-trade and bounty within the community. Safe and secure it has virtually no fee and can be utilized worldwide. Fully confirming transactions within minutes and can be used by anyone."
+    },
+    "explorer": [
+        "http://acp1.servep2p.com:3001/"
+    ],
+    "fromSymbol": "ACP",
+    "is_crypto": true,
+    "is_minable": true,
+    "name": "Anarchists Prime",
+    "network": {
+        "t_available_supply": 4394874,
+        "t_block_reward": 0,
+        "t_max_supply": 53760000,
+        "t_total_supply": 4394874
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/ACP"
+    ],
+    "social": [
+        "https://twitter.com/@AnarchistsPrime "
+    ],
+    "source_code": [
+        "https://github.com/AnarchistsPrime/Acp2"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.anarchistsprime.info/"
 }

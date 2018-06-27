@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Coin Magi","fromSymbol":"XMG","toSymbol":"ALL","website":"http://coinmagi.org/","network":{"t_total_supply":8068280,"t_available_supply":8068280,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoM/PoSII","algorithm":"M7M","description":{"en":""},"quote":["https://blockmodo.com/quotes/XMG"],"explorer":[],"chat":[],"social":["https://twitter.com/@CoinMagi"],"community":[],"source_code":[]}
+{
+    "algorithm": "M7M",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "XMG",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Coin Magi",
+    "network": {
+        "t_available_supply": 8068280,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 8068280
+    },
+    "proof_type": "PoW/PoM/PoSII",
+    "quote": [
+        "https://blockmodo.com/quotes/XMG"
+    ],
+    "social": [
+        "https://twitter.com/@CoinMagi"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://coinmagi.org/"
+}

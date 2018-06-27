@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"SecretCoin","fromSymbol":"SCRT","toSymbol":"ALL","website":"https://secretcoin.club/","network":{"t_total_supply":4228672,"t_available_supply":4228672,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"X11","description":{"en":""},"quote":["https://blockmodo.com/quotes/SCRT"],"explorer":[],"chat":[],"social":["https://twitter.com/@SecretCoinDevs"],"community":[],"source_code":[]}
+{
+    "algorithm": "X11",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "SCRT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "SecretCoin",
+    "network": {
+        "t_available_supply": 4228672,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 4228672
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/SCRT"
+    ],
+    "social": [
+        "https://twitter.com/@SecretCoinDevs"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://secretcoin.club/"
+}

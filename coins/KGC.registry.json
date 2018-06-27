@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"KrugerCoin","fromSymbol":"KGC","toSymbol":"ALL","website":"http://krugercoin.co/main/","network":{"t_total_supply":151447649,"t_available_supply":151447649,"t_max_supply":265420800,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/KGC"],"explorer":[],"chat":[],"social":["https://twitter.com/@KrugercoinCo"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "KGC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "KrugerCoin",
+    "network": {
+        "t_available_supply": 151447649,
+        "t_block_reward": 0,
+        "t_max_supply": 265420800,
+        "t_total_supply": 151447649
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/KGC"
+    ],
+    "social": [
+        "https://twitter.com/@KrugercoinCo"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://krugercoin.co/main/"
+}

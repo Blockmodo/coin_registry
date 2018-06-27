@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"SkullBuzz","fromSymbol":"SKB","toSymbol":"ALL","website":"-","network":{"t_total_supply":2582965294,"t_available_supply":2582965294,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"SHA256","description":{"en":""},"quote":["https://blockmodo.com/quotes/SKB"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "SKB",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "SkullBuzz",
+    "network": {
+        "t_available_supply": 2582965294,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 2582965294
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/SKB"
+    ],
+    "social": [
+        "https://twitter.com/"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
+}

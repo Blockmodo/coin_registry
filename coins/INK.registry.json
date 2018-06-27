@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Ink","fromSymbol":"INK","toSymbol":"ALL","website":"https://ink.one/","network":{"t_total_supply":463910527,"t_available_supply":463910527,"t_max_supply":1000000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/INK"],"explorer":[],"chat":[],"social":["https://twitter.com/@inklabsfound"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "INK",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Ink",
+    "network": {
+        "t_available_supply": 463910527,
+        "t_block_reward": 0,
+        "t_max_supply": 1000000000,
+        "t_total_supply": 463910527
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/INK"
+    ],
+    "social": [
+        "https://twitter.com/@inklabsfound"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://ink.one/"
+}

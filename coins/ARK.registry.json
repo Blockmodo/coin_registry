@@ -1,1 +1,37 @@
-{"type":"COINREGISTRY","version":1,"name":"ARK","fromSymbol":"ARK","toSymbol":"ALL","website":"https://ark.io/","network":{"t_total_supply":103352014,"t_available_supply":103352014,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"DPoS","algorithm":"DPoS","description":{"en":""},"quote":["https://blockmodo.com/quotes/ARK"],"explorer":[],"chat":[],"social":["https://twitter.com/@ArkEcosystem"],"community":["https://www.reddit.com/r/ArkEcosystem/.rss"],"source_code":["https://github.com/ArkEcosystem/ark-desktop/commits/master.atom","https://github.com/ArkEcosystem/arky/commits/aip11-dev.atom","https://github.com/ArkEcosystem/ark-client/commits/master.atom"]}
+{
+    "algorithm": "DPoS",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/ArkEcosystem/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "ARK",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "ARK",
+    "network": {
+        "t_available_supply": 103352014,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 103352014
+    },
+    "proof_type": "DPoS",
+    "quote": [
+        "https://blockmodo.com/quotes/ARK"
+    ],
+    "social": [
+        "https://twitter.com/@ArkEcosystem"
+    ],
+    "source_code": [
+        "https://github.com/ArkEcosystem/ark-desktop/commits/master.atom",
+        "https://github.com/ArkEcosystem/arky/commits/aip11-dev.atom",
+        "https://github.com/ArkEcosystem/ark-client/commits/master.atom"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://ark.io/"
+}

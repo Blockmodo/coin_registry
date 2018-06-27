@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Cryptum","fromSymbol":"CRTM","toSymbol":"ALL","website":"https://cryptum.co/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":1100000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"Proof of Ownership","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/CRTM"],"explorer":[],"chat":[],"social":["https://twitter.com/https://twitter.com/CryptumTokens"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "CRTM",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Cryptum",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 1100000,
+        "t_total_supply": 0
+    },
+    "proof_type": "Proof of Ownership",
+    "quote": [
+        "https://blockmodo.com/quotes/CRTM"
+    ],
+    "social": [
+        "https://twitter.com/https://twitter.com/CryptumTokens"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://cryptum.co/"
+}

@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"GXShares","fromSymbol":"GXS","toSymbol":"ALL","website":"https://gxs.gxb.io/","network":{"t_total_supply":60000000,"t_available_supply":60000000,"t_max_supply":100000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"DPoS","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/GXS"],"explorer":[],"chat":[],"social":["https://twitter.com/@gongxinbao"],"community":["https://www.reddit.com/r/GXS/.rss"],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/GXS/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "GXS",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "GXShares",
+    "network": {
+        "t_available_supply": 60000000,
+        "t_block_reward": 0,
+        "t_max_supply": 100000000,
+        "t_total_supply": 60000000
+    },
+    "proof_type": "DPoS",
+    "quote": [
+        "https://blockmodo.com/quotes/GXS"
+    ],
+    "social": [
+        "https://twitter.com/@gongxinbao"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://gxs.gxb.io/"
+}

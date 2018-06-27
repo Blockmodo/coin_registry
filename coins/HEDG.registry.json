@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Hedgecoin","fromSymbol":"HEDG","toSymbol":"ALL","website":"-","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":33000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"X13","description":{"en":""},"quote":["https://blockmodo.com/quotes/HEDG"],"explorer":[],"chat":[],"social":["https://twitter.com/@HedgeCoinDev"],"community":[],"source_code":[]}
+{
+    "algorithm": "X13",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "HEDG",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Hedgecoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 33000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/HEDG"
+    ],
+    "social": [
+        "https://twitter.com/@HedgeCoinDev"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
+}

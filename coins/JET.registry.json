@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Jetcoin","fromSymbol":"JET","toSymbol":"ALL","website":"http://www.jetcoininstitute.com/","network":{"t_total_supply":6823701,"t_available_supply":6823701,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/JET"],"explorer":[],"chat":[],"social":["https://twitter.com/@jetcoins"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "JET",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Jetcoin",
+    "network": {
+        "t_available_supply": 6823701,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 6823701
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/JET"
+    ],
+    "social": [
+        "https://twitter.com/@jetcoins"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.jetcoininstitute.com/"
+}

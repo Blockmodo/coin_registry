@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Lucky7Coin","fromSymbol":"LK7","toSymbol":"ALL","website":"http://lucky7coin.co.nf/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":99792000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/LK7"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "LK7",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Lucky7Coin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 99792000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/LK7"
+    ],
+    "social": [
+        "https://twitter.com/"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://lucky7coin.co.nf/"
+}

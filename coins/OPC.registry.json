@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"OP Coin","fromSymbol":"OPC","toSymbol":"ALL","website":"https://opcoin.info/","network":{"t_total_supply":1527351964,"t_available_supply":1527351964,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/OPC"],"explorer":[],"chat":[],"social":["https://twitter.com/@OPCoin.official"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "OPC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "OP Coin",
+    "network": {
+        "t_available_supply": 1527351964,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 1527351964
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/OPC"
+    ],
+    "social": [
+        "https://twitter.com/@OPCoin.official"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://opcoin.info/"
+}

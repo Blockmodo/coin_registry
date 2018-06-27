@@ -1,37 +1,37 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "Ripple",
-  "fromSymbol": "XRP",
-  "toSymbol": "ALL",
-  "website": "https://ripple.com/",
-  "network": {
-    "t_total_supply": 99991933044,
-    "t_available_supply": 39262084448,
-    "t_max_supply": 100000000000,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": false,
-  "proof_type": "",
-  "algorithm": "",
-  "description": {
-    "en": "Ripple is a real-time gross settlement system, currency exchange and remittance network created by the Ripple company."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/XRP"
-  ],
-  "explorer": [],
-  "chat": [],
-  "social": [
-    "https://twitter.com/@Ripple"
-  ],
-  "community": [
-    "https://www.reddit.com/r/Ripple",
-    "https://www.reddit.com/r/XRP"
-  ],
-  "source_code": [
-    "https://github.com/ripple/rippled",
-    "https://github.com/ripple/rippled"
-  ]
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/Ripple",
+        "https://www.reddit.com/r/XRP"
+    ],
+    "description": {
+        "en": "Ripple is a real-time gross settlement system, currency exchange and remittance network created by the Ripple company."
+    },
+    "explorer": [],
+    "fromSymbol": "XRP",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Ripple",
+    "network": {
+        "t_available_supply": 39262084448,
+        "t_block_reward": 0,
+        "t_max_supply": 100000000000,
+        "t_total_supply": 99991933044
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/XRP"
+    ],
+    "social": [
+        "https://twitter.com/@Ripple"
+    ],
+    "source_code": [
+        "https://github.com/ripple/rippled",
+        "https://github.com/ripple/rippled"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://ripple.com/"
 }

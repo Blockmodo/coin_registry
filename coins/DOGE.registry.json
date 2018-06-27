@@ -1,1 +1,36 @@
-{"type":"COINREGISTRY","version":1,"name":"Dogecoin","fromSymbol":"DOGE","toSymbol":"ALL","website":"http://dogecoin.com/","network":{"t_total_supply":114962637100,"t_available_supply":114962637100,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/DOGE"],"explorer":[],"chat":[],"social":["https://twitter.com/@dogecoin"],"community":["https://www.reddit.com/r/dogecoin/.rss","https://www.reddit.com/r/DogeNews/.rss"],"source_code":["https://github.com/dogecoin/dogecoin/commits/master.atom"]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/dogecoin/.rss",
+        "https://www.reddit.com/r/DogeNews/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "DOGE",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Dogecoin",
+    "network": {
+        "t_available_supply": 114962637100,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 114962637100
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/DOGE"
+    ],
+    "social": [
+        "https://twitter.com/@dogecoin"
+    ],
+    "source_code": [
+        "https://github.com/dogecoin/dogecoin/commits/master.atom"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://dogecoin.com/"
+}

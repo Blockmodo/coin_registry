@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Etheroll","fromSymbol":"DICE","toSymbol":"ALL","website":"https://etheroll.com","network":{"t_total_supply":7001623,"t_available_supply":7001623,"t_max_supply":7001622,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/DICE"],"explorer":[],"chat":[],"social":["https://twitter.com/@etheroll"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "DICE",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Etheroll",
+    "network": {
+        "t_available_supply": 7001623,
+        "t_block_reward": 0,
+        "t_max_supply": 7001622,
+        "t_total_supply": 7001623
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/DICE"
+    ],
+    "social": [
+        "https://twitter.com/@etheroll"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://etheroll.com"
+}

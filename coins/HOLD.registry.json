@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Interstellar Holdings","fromSymbol":"HOLD","toSymbol":"ALL","website":"https://www.interstellarcoin.com/","network":{"t_total_supply":677496237,"t_available_supply":677496237,"t_max_supply":2000000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/HOLD"],"explorer":[],"chat":[],"social":["https://twitter.com/@InterstellarHLD"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "HOLD",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Interstellar Holdings",
+    "network": {
+        "t_available_supply": 677496237,
+        "t_block_reward": 0,
+        "t_max_supply": 2000000000,
+        "t_total_supply": 677496237
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/HOLD"
+    ],
+    "social": [
+        "https://twitter.com/@InterstellarHLD"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.interstellarcoin.com/"
+}

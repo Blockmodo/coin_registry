@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"PrimeCoin","fromSymbol":"XPM","toSymbol":"ALL","website":"http://primecoin.io/","network":{"t_total_supply":24008803,"t_available_supply":24008803,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Multiple","description":{"en":""},"quote":["https://blockmodo.com/quotes/XPM"],"explorer":[],"chat":[],"social":["https://twitter.com/@Primecoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "Multiple",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "XPM",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "PrimeCoin",
+    "network": {
+        "t_available_supply": 24008803,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 24008803
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/XPM"
+    ],
+    "social": [
+        "https://twitter.com/@Primecoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://primecoin.io/"
+}

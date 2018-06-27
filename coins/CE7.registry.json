@@ -1,35 +1,35 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "ACT",
-  "fromSymbol": "CE7",
-  "toSymbol": "ALL",
-  "website": "https://www.daoact.org/",
-  "network": {
-    "t_total_supply": 520098876,
-    "t_available_supply": 520098876,
-    "t_max_supply": 10000000,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": false,
-  "proof_type": null,
-  "algorithm": null,
-  "description": {
-    "en": "ACT is a Decentralized Autonomous Organisation that supports social accountability globally by aggregating micro payments from citizens to fund grass roots proposals that drive change. Social accountability can be described as the extent and capability of citizens to hold the state accountable and make it responsive to their needs. The ACT Token is a reward token that governs the distribution of 15% of platform revenue to proposal curators. Platform revenue is generated from citizens purchasing votes that can be applied within limits to proposals. Once a proposal is vetted by curators, and the community agrees to fund it through a voting round, a smart contract triggers payment. ACT can operate at any scale and any speed to drive the change we need to see."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/CE7"
-  ],
-  "explorer": [
-  	"https://etherscan.io/token/0x7E7aA6A037bC056AE5Bd6a399553cbaC1B680602"
-  ],
-  "chat": [],
-  "social": [
-    "https://twitter.com/@daoact_org"
-  ],
-  "community": [
-    "https://www.reddit.com/r/Achain_Official"
-  ],
-  "source_code": []
+    "algorithm": null,
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/Achain_Official"
+    ],
+    "description": {
+        "en": "ACT is a Decentralized Autonomous Organisation that supports social accountability globally by aggregating micro payments from citizens to fund grass roots proposals that drive change. Social accountability can be described as the extent and capability of citizens to hold the state accountable and make it responsive to their needs. The ACT Token is a reward token that governs the distribution of 15% of platform revenue to proposal curators. Platform revenue is generated from citizens purchasing votes that can be applied within limits to proposals. Once a proposal is vetted by curators, and the community agrees to fund it through a voting round, a smart contract triggers payment. ACT can operate at any scale and any speed to drive the change we need to see."
+    },
+    "explorer": [
+        "https://etherscan.io/token/0x7E7aA6A037bC056AE5Bd6a399553cbaC1B680602"
+    ],
+    "fromSymbol": "CE7",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "ACT",
+    "network": {
+        "t_available_supply": 520098876,
+        "t_block_reward": 0,
+        "t_max_supply": 10000000,
+        "t_total_supply": 520098876
+    },
+    "proof_type": null,
+    "quote": [
+        "https://blockmodo.com/quotes/CE7"
+    ],
+    "social": [
+        "https://twitter.com/@daoact_org"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.daoact.org/"
 }

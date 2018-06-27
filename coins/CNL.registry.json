@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"ConcealCoin","fromSymbol":"CNL","toSymbol":"ALL","website":"-","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":8500000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"X11","description":{"en":""},"quote":["https://blockmodo.com/quotes/CNL"],"explorer":[],"chat":[],"social":["https://twitter.com/@ConcealCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "X11",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "CNL",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "ConcealCoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 8500000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/CNL"
+    ],
+    "social": [
+        "https://twitter.com/@ConcealCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
+}

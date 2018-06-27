@@ -1,1 +1,39 @@
-{"type":"COINREGISTRY","version":1,"name":"Simple Token","fromSymbol":"OST","toSymbol":"ALL","website":"https://simpletoken.org/","network":{"t_total_supply":338884679,"t_available_supply":338884679,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/OST"],"explorer":[],"chat":[],"social":["https://twitter.com/@TheSimpleToken"],"community":["https://www.reddit.com/r/Simple_Token/.rss"],"source_code":["https://github.com/OpenSTFoundation/openst-payments/commits/master.atom","https://github.com/OpenSTFoundation/ost-sdk-ruby/commits/master.atom","https://github.com/OpenSTFoundation/openst-platform-apis/commits/master.atom","https://github.com/OpenSTFoundation/openst-platform/commits/master.atom","https://github.com/OpenSTFoundation/openst-notification/commits/master.atom"]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/Simple_Token/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "OST",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Simple Token",
+    "network": {
+        "t_available_supply": 338884679,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 338884679
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/OST"
+    ],
+    "social": [
+        "https://twitter.com/@TheSimpleToken"
+    ],
+    "source_code": [
+        "https://github.com/OpenSTFoundation/openst-payments/commits/master.atom",
+        "https://github.com/OpenSTFoundation/ost-sdk-ruby/commits/master.atom",
+        "https://github.com/OpenSTFoundation/openst-platform-apis/commits/master.atom",
+        "https://github.com/OpenSTFoundation/openst-platform/commits/master.atom",
+        "https://github.com/OpenSTFoundation/openst-notification/commits/master.atom"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://simpletoken.org/"
+}

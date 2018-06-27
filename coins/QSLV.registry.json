@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Quicksilver coin","fromSymbol":"QSLV","toSymbol":"ALL","website":"http://quicksilvercoin.co/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":33000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"X11","description":{"en":""},"quote":["https://blockmodo.com/quotes/QSLV"],"explorer":[],"chat":[],"social":["https://twitter.com/@Quicksilver_Dev"],"community":[],"source_code":[]}
+{
+    "algorithm": "X11",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "QSLV",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Quicksilver coin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 33000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/QSLV"
+    ],
+    "social": [
+        "https://twitter.com/@Quicksilver_Dev"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://quicksilvercoin.co/"
+}

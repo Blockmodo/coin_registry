@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"CryptoWorldXToken","fromSymbol":"CWXT","toSymbol":"ALL","website":"www.cryptoworldx.com","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/CWXT"],"explorer":[],"chat":[],"social":["https://twitter.com/@Crypto_World_X"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "CWXT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "CryptoWorldXToken",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/CWXT"
+    ],
+    "social": [
+        "https://twitter.com/@Crypto_World_X"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "www.cryptoworldx.com"
+}

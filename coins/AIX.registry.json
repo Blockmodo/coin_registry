@@ -1,47 +1,47 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "Aigang",
-  "fromSymbol": "AIX",
-  "toSymbol": "ALL",
-  "website": "https://aigang.network",
-  "network": {
-    "t_total_supply": 29274567,
-    "t_available_supply": 20784942,
-    "t_max_supply": 0,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": false,
-  "proof_type": null,
-  "algorithm": null,
-  "description": {
-    "en": "Aigang is DAO Insurance Protocol Crowd-sourced insurance pools discovery."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/AIX"
-  ],
-  "explorer": [
-  	"https://etherscan.io/token/0x1063ce524265d5a3a624f4914acd573dd89ce988",
-  	"https://ethplorer.io/address/0x1063ce524265d5a3a624f4914acd573dd89ce988"
-  ],
-  "chat": [
-  	"https://open.kakao.com/o/gGqvgPz",
-  	"https://t.me/aigangnetwork"
-  ],
-  "social": [
-    "https://twitter.com/aigangnetwork"
-  ],
-  "community": [],
-  "source_code": [
-  	"https://github.com/AigangNetwork/aigang-crowdsale-contracts",
-  	"https://github.com/AigangNetwork/aigang-investment-dashboard-ui",
-  	"https://github.com/AigangNetwork/aigang-forwarder",
-  	"https://github.com/AigangNetwork/aigang-docs",
-  	"https://github.com/AigangNetwork/testaix",
-  	"https://github.com/AigangNetwork/aigangnetwork.github.io",
-  	"https://github.com/AigangNetwork/aigang-platform-contracts-insurance",
-  	"https://github.com/AigangNetwork/aigang-platform-web",
-  	"https://github.com/AigangNetwork/aigang-platform-contracts-predictions"
-  ]
+    "algorithm": null,
+    "chat": [
+        "https://open.kakao.com/o/gGqvgPz",
+        "https://t.me/aigangnetwork"
+    ],
+    "community": [],
+    "description": {
+        "en": "Aigang is DAO Insurance Protocol Crowd-sourced insurance pools discovery."
+    },
+    "explorer": [
+        "https://etherscan.io/token/0x1063ce524265d5a3a624f4914acd573dd89ce988",
+        "https://ethplorer.io/address/0x1063ce524265d5a3a624f4914acd573dd89ce988"
+    ],
+    "fromSymbol": "AIX",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Aigang",
+    "network": {
+        "t_available_supply": 20784942,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 29274567
+    },
+    "proof_type": null,
+    "quote": [
+        "https://blockmodo.com/quotes/AIX"
+    ],
+    "social": [
+        "https://twitter.com/aigangnetwork"
+    ],
+    "source_code": [
+        "https://github.com/AigangNetwork/aigang-crowdsale-contracts",
+        "https://github.com/AigangNetwork/aigang-investment-dashboard-ui",
+        "https://github.com/AigangNetwork/aigang-forwarder",
+        "https://github.com/AigangNetwork/aigang-docs",
+        "https://github.com/AigangNetwork/testaix",
+        "https://github.com/AigangNetwork/aigangnetwork.github.io",
+        "https://github.com/AigangNetwork/aigang-platform-contracts-insurance",
+        "https://github.com/AigangNetwork/aigang-platform-web",
+        "https://github.com/AigangNetwork/aigang-platform-contracts-predictions"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://aigang.network"
 }

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Monaize","fromSymbol":"MNZ","toSymbol":"ALL","website":"https://www.monaize.com","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":257142857,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/DPoW","algorithm":"Equihash","description":{"en":""},"quote":["https://blockmodo.com/quotes/MNZ"],"explorer":[],"chat":[],"social":["https://twitter.com/@monaizeuk"],"community":[],"source_code":[]}
+{
+    "algorithm": "Equihash",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "MNZ",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Monaize",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 257142857,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW/DPoW",
+    "quote": [
+        "https://blockmodo.com/quotes/MNZ"
+    ],
+    "social": [
+        "https://twitter.com/@monaizeuk"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.monaize.com"
+}

@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"Kyber Network","fromSymbol":"KNC","toSymbol":"ALL","website":"https://kyber.network/","network":{"t_total_supply":2009,"t_available_supply":2009,"t_max_supply":420000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/KNC"],"explorer":[],"chat":[],"social":["https://twitter.com/@KyberNetwork"],"community":["https://www.reddit.com/r/KNCTrader/.rss"],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/KNCTrader/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "KNC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Kyber Network",
+    "network": {
+        "t_available_supply": 2009,
+        "t_block_reward": 0,
+        "t_max_supply": 420000,
+        "t_total_supply": 2009
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/KNC"
+    ],
+    "social": [
+        "https://twitter.com/@KyberNetwork"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://kyber.network/"
+}

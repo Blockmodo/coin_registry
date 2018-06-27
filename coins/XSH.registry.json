@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"SHIELD","fromSymbol":"XSH","toSymbol":"ALL","website":"https://shieldcurrency.com/","network":{"t_total_supply":512973375,"t_available_supply":512973375,"t_max_supply":660000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Multiple","description":{"en":""},"quote":["https://blockmodo.com/quotes/XSH"],"explorer":[],"chat":[],"social":["https://twitter.com/@SHIELDcurrency"],"community":[],"source_code":[]}
+{
+    "algorithm": "Multiple",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "XSH",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "SHIELD",
+    "network": {
+        "t_available_supply": 512973375,
+        "t_block_reward": 0,
+        "t_max_supply": 660000000,
+        "t_total_supply": 512973375
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/XSH"
+    ],
+    "social": [
+        "https://twitter.com/@SHIELDcurrency"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://shieldcurrency.com/"
+}

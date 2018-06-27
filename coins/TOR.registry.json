@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"TorCoin","fromSymbol":"TOR","toSymbol":"ALL","website":"https://bitcointalk.org/index.php?topic=677434.0","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":10000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"X11","description":{"en":""},"quote":["https://blockmodo.com/quotes/TOR"],"explorer":[],"chat":[],"social":["https://twitter.com/@TorCoinDev"],"community":[],"source_code":[]}
+{
+    "algorithm": "X11",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "TOR",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "TorCoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 10000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/TOR"
+    ],
+    "social": [
+        "https://twitter.com/@TorCoinDev"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://bitcointalk.org/index.php?topic=677434.0"
+}

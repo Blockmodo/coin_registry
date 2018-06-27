@@ -1,39 +1,39 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "Accelerator Network",
-  "fromSymbol": "ACC-A",
-  "toSymbol": "ALL",
-  "website": "https://accelerator.network/",
-  "network": {
-    "t_total_supply": 0,
-    "t_available_supply": 0,
-    "t_max_supply": 336314,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": true,
-  "proof_type": "",
-  "algorithm": "",
-  "description": {
-    "en": ""
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/ACC-A"
-  ],
-  "explorer": [
-  	"https://etherscan.io/token/0x13f1b7fdfbe1fc66676d56483e21b1ecb40b58e2",
-  	"https://ethplorer.io/address/0x13f1b7fdfbe1fc66676d56483e21b1ecb40b58e2"
-  ],
-  "chat": [
-  	"https://t.me/acc_token",
-  	"https://slack.accelerator.network"
-  ],
-  "social": [
-    "https://twitter.com/@Accelerator_Net"
-  ],
-  "community": [],
-  "source_code": [
-  	"https://github.com/acceleratornetwork/accelerator-token"
-  ]
+    "algorithm": "",
+    "chat": [
+        "https://t.me/acc_token",
+        "https://slack.accelerator.network"
+    ],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [
+        "https://etherscan.io/token/0x13f1b7fdfbe1fc66676d56483e21b1ecb40b58e2",
+        "https://ethplorer.io/address/0x13f1b7fdfbe1fc66676d56483e21b1ecb40b58e2"
+    ],
+    "fromSymbol": "ACC-A",
+    "is_crypto": true,
+    "is_minable": true,
+    "name": "Accelerator Network",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 336314,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/ACC-A"
+    ],
+    "social": [
+        "https://twitter.com/@Accelerator_Net"
+    ],
+    "source_code": [
+        "https://github.com/acceleratornetwork/accelerator-token"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://accelerator.network/"
 }

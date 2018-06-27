@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"MindCoin","fromSymbol":"MND","toSymbol":"ALL","website":"-","network":{"t_total_supply":15867695,"t_available_supply":15867695,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"X11","description":{"en":""},"quote":["https://blockmodo.com/quotes/MND"],"explorer":[],"chat":[],"social":["https://twitter.com/@MindCoinCrypto"],"community":[],"source_code":[]}
+{
+    "algorithm": "X11",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "MND",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "MindCoin",
+    "network": {
+        "t_available_supply": 15867695,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 15867695
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/MND"
+    ],
+    "social": [
+        "https://twitter.com/@MindCoinCrypto"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
+}

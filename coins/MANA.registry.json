@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"Decentraland","fromSymbol":"MANA","toSymbol":"ALL","website":"https://decentraland.org/","network":{"t_total_supply":1050141509,"t_available_supply":1050141509,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/MANA"],"explorer":[],"chat":[],"social":["https://twitter.com/@decentraland"],"community":["https://www.reddit.com/r/decentraland/.rss"],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/decentraland/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "MANA",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Decentraland",
+    "network": {
+        "t_available_supply": 1050141509,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 1050141509
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/MANA"
+    ],
+    "social": [
+        "https://twitter.com/@decentraland"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://decentraland.org/"
+}

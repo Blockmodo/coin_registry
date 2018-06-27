@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Synergy","fromSymbol":"SNRG","toSymbol":"ALL","website":"http://www.synergycoin.com/","network":{"t_total_supply":3753992,"t_available_supply":3753992,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"X11","description":{"en":""},"quote":["https://blockmodo.com/quotes/SNRG"],"explorer":[],"chat":[],"social":["https://twitter.com/@SynergyCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "X11",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "SNRG",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Synergy",
+    "network": {
+        "t_available_supply": 3753992,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 3753992
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/SNRG"
+    ],
+    "social": [
+        "https://twitter.com/@SynergyCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.synergycoin.com/"
+}

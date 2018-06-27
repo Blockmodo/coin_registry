@@ -1,1 +1,34 @@
-{"type":"COINREGISTRY","version":1,"name":"High Performance Blockchain","fromSymbol":"HPB","toSymbol":"ALL","website":"http://www.gxn.io/","network":{"t_total_supply":29702632,"t_available_supply":29702632,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"DPoS","description":{"en":""},"quote":["https://blockmodo.com/quotes/HPB"],"explorer":[],"chat":[],"social":["https://twitter.com/@HPB_Global"],"community":["https://www.reddit.com/r/HPBtrader/.rss","https://www.reddit.com/r/hpbcoin/.rss"],"source_code":[]}
+{
+    "algorithm": "DPoS",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/HPBtrader/.rss",
+        "https://www.reddit.com/r/hpbcoin/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "HPB",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "High Performance Blockchain",
+    "network": {
+        "t_available_supply": 29702632,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 29702632
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/HPB"
+    ],
+    "social": [
+        "https://twitter.com/@HPB_Global"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.gxn.io/"
+}

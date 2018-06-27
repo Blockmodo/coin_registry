@@ -1,39 +1,39 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "Sprouts",
-  "fromSymbol": "SPRTS",
-  "toSymbol": "ALL",
-  "website": "http://sproutcoin.github.io/",
-  "network": {
-    "t_total_supply": 13113982184446,
-    "t_available_supply": 13113982184446,
-    "t_max_supply": 0,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": false,
-  "proof_type": "PoW/PoS",
-  "algorithm": "SHA256",
-  "description": {
-    "en": "In January 2018, we started an unofficial community of Sprouts in Japan with volunteers who saw a great potential in Sprouts. Even though it was a totally new community, many new holders who feel a massive potential in Sprouts are gathering in our community."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/SPRTS"
-  ],
-  "explorer": [
-  	"https://chainz.cryptoid.info/sprts"
-  ],
-  "chat": [
-  	"https://discordapp.com/invite/AKVsYTn",
-  	"https://t.me/sproutsofficial",
-  	"https://t.me/Sprouts_announcement"
-  ],
-  "social": [
-    "https://twitter.com/@SproutCoin"
-  ],
-  "community": [],
-  "source_code": [
-  	"https://github.com/sprouts-coin-org/sprouts"
-  ]
+    "algorithm": "SHA256",
+    "chat": [
+        "https://discordapp.com/invite/AKVsYTn",
+        "https://t.me/sproutsofficial",
+        "https://t.me/Sprouts_announcement"
+    ],
+    "community": [],
+    "description": {
+        "en": "In January 2018, we started an unofficial community of Sprouts in Japan with volunteers who saw a great potential in Sprouts. Even though it was a totally new community, many new holders who feel a massive potential in Sprouts are gathering in our community."
+    },
+    "explorer": [
+        "https://chainz.cryptoid.info/sprts"
+    ],
+    "fromSymbol": "SPRTS",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Sprouts",
+    "network": {
+        "t_available_supply": 13113982184446,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 13113982184446
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/SPRTS"
+    ],
+    "social": [
+        "https://twitter.com/@SproutCoin"
+    ],
+    "source_code": [
+        "https://github.com/sprouts-coin-org/sprouts"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://sproutcoin.github.io/"
 }

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"NetM","fromSymbol":"NTM","toSymbol":"ALL","website":"https://www.netmred.com/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":101318932073,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/NTM"],"explorer":[],"chat":[],"social":["https://twitter.com/@netmproject"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "NTM",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "NetM",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 101318932073,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/NTM"
+    ],
+    "social": [
+        "https://twitter.com/@netmproject"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.netmred.com/"
+}

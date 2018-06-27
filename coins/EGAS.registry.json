@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"ETHGAS","fromSymbol":"EGAS","toSymbol":"ALL","website":"http://www.ethgas.stream","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":13,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/EGAS"],"explorer":[],"chat":[],"social":["https://twitter.com/@eth_gas"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "EGAS",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "ETHGAS",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 13,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/EGAS"
+    ],
+    "social": [
+        "https://twitter.com/@eth_gas"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.ethgas.stream"
+}

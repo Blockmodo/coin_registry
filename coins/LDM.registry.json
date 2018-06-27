@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Ludum token","fromSymbol":"LDM","toSymbol":"ALL","website":"https://privateers.life/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":404926,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/LDM"],"explorer":[],"chat":[],"social":["https://twitter.com/@Alienter2"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "LDM",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Ludum token",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 404926,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/LDM"
+    ],
+    "social": [
+        "https://twitter.com/@Alienter2"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://privateers.life/"
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Insane Coin","fromSymbol":"INSN","toSymbol":"ALL","website":"https://insanecoin.com/","network":{"t_total_supply":20759690,"t_available_supply":20759690,"t_max_supply":30000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"X11","description":{"en":""},"quote":["https://blockmodo.com/quotes/INSN"],"explorer":[],"chat":[],"social":["https://twitter.com/@insanecoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "X11",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "INSN",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Insane Coin",
+    "network": {
+        "t_available_supply": 20759690,
+        "t_block_reward": 0,
+        "t_max_supply": 30000000,
+        "t_total_supply": 20759690
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/INSN"
+    ],
+    "social": [
+        "https://twitter.com/@insanecoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://insanecoin.com/"
+}

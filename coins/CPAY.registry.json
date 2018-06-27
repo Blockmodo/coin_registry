@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"CryptoPay","fromSymbol":"CPAY","toSymbol":"ALL","website":"https://cryptopay.me/","network":{"t_total_supply":67557563,"t_available_supply":67557563,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/CPAY"],"explorer":[],"chat":[],"social":["https://twitter.com/@cryptopay"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "CPAY",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "CryptoPay",
+    "network": {
+        "t_available_supply": 67557563,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 67557563
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/CPAY"
+    ],
+    "social": [
+        "https://twitter.com/@cryptopay"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://cryptopay.me/"
+}

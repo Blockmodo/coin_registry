@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"BitOKX","fromSymbol":"BITOK","toSymbol":"ALL","website":"http://bitok.online","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/BITOK"],"explorer":[],"chat":[],"social":["https://twitter.com/@bitokonline"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "BITOK",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "BitOKX",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/BITOK"
+    ],
+    "social": [
+        "https://twitter.com/@bitokonline"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://bitok.online"
+}

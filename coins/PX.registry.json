@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"PXcoin","fromSymbol":"PX","toSymbol":"ALL","website":"-","network":{"t_total_supply":98341177,"t_available_supply":98341177,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"SHA256","description":{"en":""},"quote":["https://blockmodo.com/quotes/PX"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "PX",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "PXcoin",
+    "network": {
+        "t_available_supply": 98341177,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 98341177
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/PX"
+    ],
+    "social": [
+        "https://twitter.com/"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
+}

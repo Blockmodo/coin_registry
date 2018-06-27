@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"Kin","fromSymbol":"KIN","toSymbol":"ALL","website":"https://kin.kik.com/","network":{"t_total_supply":756097560976,"t_available_supply":756097560976,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/KIN"],"explorer":[],"chat":[],"social":["https://twitter.com/@kin_foundation"],"community":["https://www.reddit.com/r/KinFoundation/.rss"],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/KinFoundation/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "KIN",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Kin",
+    "network": {
+        "t_available_supply": 756097560976,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 756097560976
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/KIN"
+    ],
+    "social": [
+        "https://twitter.com/@kin_foundation"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://kin.kik.com/"
+}

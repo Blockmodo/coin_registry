@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Eticket4","fromSymbol":"ET4","toSymbol":"ALL","website":"https://eticket4.com","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":30000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/ET4"],"explorer":[],"chat":[],"social":["https://twitter.com/@ET4_Official"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "ET4",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Eticket4",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 30000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/ET4"
+    ],
+    "social": [
+        "https://twitter.com/@ET4_Official"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://eticket4.com"
+}

@@ -1,31 +1,31 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "007 Coin",
-  "fromSymbol": "007",
-  "toSymbol": "ALL",
-  "website": "-",
-  "network": {
-    "t_total_supply": 0,
-    "t_available_supply": 0,
-    "t_max_supply": 989800,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": false,
-  "proof_type": "PoW",
-  "algorithm": "Scrypt",
-  "description": {
-    "en": "007 coin is a Scrypt based alternative crypto currency with difficulty retargetting each block - the proof of work phase will be replaced with a proof of stake phase with a rate of 2.5%."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/007"
-  ],
-  "explorer": [],
-  "chat": [],
-  "social": [
-    "https://twitter.com/@007coin"
-  ],
-  "community": [],
-  "source_code": []
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": "007 coin is a Scrypt based alternative crypto currency with difficulty retargetting each block - the proof of work phase will be replaced with a proof of stake phase with a rate of 2.5%."
+    },
+    "explorer": [],
+    "fromSymbol": "007",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "007 Coin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 989800,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/007"
+    ],
+    "social": [
+        "https://twitter.com/@007coin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
 }

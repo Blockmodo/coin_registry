@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Pepe Cash","fromSymbol":"PEPECASH","toSymbol":"ALL","website":"http://rarepepedirectory.com/","network":{"t_total_supply":701884009,"t_available_supply":701884009,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/PEPECASH"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "PEPECASH",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Pepe Cash",
+    "network": {
+        "t_available_supply": 701884009,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 701884009
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/PEPECASH"
+    ],
+    "social": [
+        "https://twitter.com/"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://rarepepedirectory.com/"
+}

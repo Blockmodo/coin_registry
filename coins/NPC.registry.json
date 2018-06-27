@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"NPCcoin","fromSymbol":"NPC","toSymbol":"ALL","website":"http://npccoin.com/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":7000000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"SHA256D","description":{"en":""},"quote":["https://blockmodo.com/quotes/NPC"],"explorer":[],"chat":[],"social":["https://twitter.com/@npccoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256D",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "NPC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "NPCcoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 7000000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/NPC"
+    ],
+    "social": [
+        "https://twitter.com/@npccoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://npccoin.com/"
+}

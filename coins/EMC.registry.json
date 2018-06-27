@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"Emercoin","fromSymbol":"EMC","toSymbol":"ALL","website":"http://emercoin.com","network":{"t_total_supply":41912088,"t_available_supply":41912088,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"SHA256","description":{"en":""},"quote":["https://blockmodo.com/quotes/EMC"],"explorer":[],"chat":[],"social":["https://twitter.com/@emercoin_press"],"community":["https://www.reddit.com/r/EmerCoin/.rss"],"source_code":[]}
+{
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/EmerCoin/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "EMC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Emercoin",
+    "network": {
+        "t_available_supply": 41912088,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 41912088
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/EMC"
+    ],
+    "social": [
+        "https://twitter.com/@emercoin_press"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://emercoin.com"
+}

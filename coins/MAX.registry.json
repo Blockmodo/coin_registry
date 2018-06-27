@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"MaxCoin","fromSymbol":"MAX","toSymbol":"ALL","website":"http://www.maxcoin.co.uk/","network":{"t_total_supply":61445805,"t_available_supply":61445805,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"SHA3","description":{"en":""},"quote":["https://blockmodo.com/quotes/MAX"],"explorer":[],"chat":[],"social":["https://twitter.com/@maxcoinproject"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA3",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "MAX",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "MaxCoin",
+    "network": {
+        "t_available_supply": 61445805,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 61445805
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/MAX"
+    ],
+    "social": [
+        "https://twitter.com/@maxcoinproject"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.maxcoin.co.uk/"
+}

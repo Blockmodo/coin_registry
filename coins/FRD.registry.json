@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Farad","fromSymbol":"FRD","toSymbol":"ALL","website":"https://farad.energy/","network":{"t_total_supply":135186394,"t_available_supply":135186394,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/FRD"],"explorer":[],"chat":[],"social":["https://twitter.com/@FARADCryptoken"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "FRD",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Farad",
+    "network": {
+        "t_available_supply": 135186394,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 135186394
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/FRD"
+    ],
+    "social": [
+        "https://twitter.com/@FARADCryptoken"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://farad.energy/"
+}

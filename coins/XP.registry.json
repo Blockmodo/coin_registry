@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"XP","fromSymbol":"XP","toSymbol":"ALL","website":"http://xpcoin.io/","network":{"t_total_supply":233365566350,"t_available_supply":233365566350,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"SHA256","description":{"en":""},"quote":["https://blockmodo.com/quotes/XP"],"explorer":[],"chat":[],"social":["https://twitter.com/@theBigXP"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "XP",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "XP",
+    "network": {
+        "t_available_supply": 233365566350,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 233365566350
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/XP"
+    ],
+    "social": [
+        "https://twitter.com/@theBigXP"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://xpcoin.io/"
+}

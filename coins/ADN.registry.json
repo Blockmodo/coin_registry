@@ -1,29 +1,29 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "Aiden",
-  "fromSymbol": "ADN",
-  "toSymbol": "ALL",
-  "website": "http://www.aidenorg.org/",
-  "network": {
-    "t_total_supply": 14639403,
-    "t_available_supply": 14639403,
-    "t_max_supply": 84000000,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": true,
-  "proof_type": "PoW",
-  "algorithm": "ScryptOG",
-  "description": {
-    "en": "Aiden is a cryptocurrency that uses the Scrypt-OG hashing algorithm. OG stands for Optimized for GPU. Scrypt-OG is an optimized version of Scrypt that is 8 times less memory intensive than traditional Scrypt. Scrypt-OG is quite similar to Scrypt-N, except that the N-factor will always remain at 6. This helps make the GPU run cooler and providing more MH/s for the GPU."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/ADN"
-  ],
-  "explorer": [],
-  "chat": [],
-  "social": [],
-  "community": [],
-  "source_code": []
+    "algorithm": "ScryptOG",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": "Aiden is a cryptocurrency that uses the Scrypt-OG hashing algorithm. OG stands for Optimized for GPU. Scrypt-OG is an optimized version of Scrypt that is 8 times less memory intensive than traditional Scrypt. Scrypt-OG is quite similar to Scrypt-N, except that the N-factor will always remain at 6. This helps make the GPU run cooler and providing more MH/s for the GPU."
+    },
+    "explorer": [],
+    "fromSymbol": "ADN",
+    "is_crypto": true,
+    "is_minable": true,
+    "name": "Aiden",
+    "network": {
+        "t_available_supply": 14639403,
+        "t_block_reward": 0,
+        "t_max_supply": 84000000,
+        "t_total_supply": 14639403
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/ADN"
+    ],
+    "social": [],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.aidenorg.org/"
 }

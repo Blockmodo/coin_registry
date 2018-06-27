@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"CreativeChain","fromSymbol":"CREA","toSymbol":"ALL","website":"http://creativechain.org","network":{"t_total_supply":14814175,"t_available_supply":14814175,"t_max_supply":115000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Keccak","description":{"en":""},"quote":["https://blockmodo.com/quotes/CREA"],"explorer":[],"chat":[],"social":["https://twitter.com/@Creative_Chain"],"community":[],"source_code":[]}
+{
+    "algorithm": "Keccak",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "CREA",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "CreativeChain",
+    "network": {
+        "t_available_supply": 14814175,
+        "t_block_reward": 0,
+        "t_max_supply": 115000000,
+        "t_total_supply": 14814175
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/CREA"
+    ],
+    "social": [
+        "https://twitter.com/@Creative_Chain"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://creativechain.org"
+}

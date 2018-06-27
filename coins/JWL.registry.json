@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Jewels","fromSymbol":"JWL","toSymbol":"ALL","website":"-","network":{"t_total_supply":20181636,"t_available_supply":20181636,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"POS 3.0","description":{"en":""},"quote":["https://blockmodo.com/quotes/JWL"],"explorer":[],"chat":[],"social":["https://twitter.com/@JewelsCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "POS 3.0",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "JWL",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Jewels",
+    "network": {
+        "t_available_supply": 20181636,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 20181636
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/JWL"
+    ],
+    "social": [
+        "https://twitter.com/@JewelsCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
+}

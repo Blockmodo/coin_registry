@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Breakout Stake","fromSymbol":"BRX","toSymbol":"ALL","website":"http://breakoutenterprise.com/","network":{"t_total_supply":6268082,"t_available_supply":6268082,"t_max_supply":6268082,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/BRX"],"explorer":[],"chat":[],"social":["https://twitter.com/@BreakoutGaming"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "BRX",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Breakout Stake",
+    "network": {
+        "t_available_supply": 6268082,
+        "t_block_reward": 0,
+        "t_max_supply": 6268082,
+        "t_total_supply": 6268082
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/BRX"
+    ],
+    "social": [
+        "https://twitter.com/@BreakoutGaming"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://breakoutenterprise.com/"
+}

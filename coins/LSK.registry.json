@@ -1,1 +1,39 @@
-{"type":"COINREGISTRY","version":1,"name":"Lisk","fromSymbol":"LSK","toSymbol":"ALL","website":"https://lisk.io","network":{"t_total_supply":107189416,"t_available_supply":107189416,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"DPoS","algorithm":"DPoS","description":{"en":""},"quote":["https://blockmodo.com/quotes/LSK"],"explorer":[],"chat":[],"social":["https://twitter.com/@LiskHQ "],"community":["https://www.reddit.com/r/Lisk/.rss"],"source_code":["https://github.com/LiskHQ/lisk-js/commits/development.atom","https://github.com/LiskHQ/lisk-hub/commits/development.atom","https://github.com/LiskHQ/lisk/commits/development.atom","https://github.com/LiskHQ/lisk-explorer/commits/development.atom","https://github.com/LiskHQ/lisky/commits/development.atom"]}
+{
+    "algorithm": "DPoS",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/Lisk/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "LSK",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Lisk",
+    "network": {
+        "t_available_supply": 107189416,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 107189416
+    },
+    "proof_type": "DPoS",
+    "quote": [
+        "https://blockmodo.com/quotes/LSK"
+    ],
+    "social": [
+        "https://twitter.com/@LiskHQ "
+    ],
+    "source_code": [
+        "https://github.com/LiskHQ/lisk-js/commits/development.atom",
+        "https://github.com/LiskHQ/lisk-hub/commits/development.atom",
+        "https://github.com/LiskHQ/lisk/commits/development.atom",
+        "https://github.com/LiskHQ/lisk-explorer/commits/development.atom",
+        "https://github.com/LiskHQ/lisky/commits/development.atom"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://lisk.io"
+}

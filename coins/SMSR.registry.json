@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Samsara Coin","fromSymbol":"SMSR","toSymbol":"ALL","website":"http://samsara.pw/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":60000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"QuBit","description":{"en":""},"quote":["https://blockmodo.com/quotes/SMSR"],"explorer":[],"chat":[],"social":["https://twitter.com/@SamsaraCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "QuBit",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "SMSR",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Samsara Coin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 60000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/SMSR"
+    ],
+    "social": [
+        "https://twitter.com/@SamsaraCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://samsara.pw/"
+}

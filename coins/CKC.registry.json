@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Clockcoin","fromSymbol":"CKC","toSymbol":"ALL","website":"http://myclint.us/","network":{"t_total_supply":16662820,"t_available_supply":16662820,"t_max_supply":525000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"SHA256","description":{"en":""},"quote":["https://blockmodo.com/quotes/CKC"],"explorer":[],"chat":[],"social":["https://twitter.com/@clockcoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "CKC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Clockcoin",
+    "network": {
+        "t_available_supply": 16662820,
+        "t_block_reward": 0,
+        "t_max_supply": 525000000,
+        "t_total_supply": 16662820
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/CKC"
+    ],
+    "social": [
+        "https://twitter.com/@clockcoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://myclint.us/"
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Straks","fromSymbol":"STAK","toSymbol":"ALL","website":"https://straks.io/","network":{"t_total_supply":5121999,"t_available_supply":5121999,"t_max_supply":150000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Lyra2REv2","description":{"en":""},"quote":["https://blockmodo.com/quotes/STAK"],"explorer":[],"chat":[],"social":["https://twitter.com/@strakstech"],"community":[],"source_code":[]}
+{
+    "algorithm": "Lyra2REv2",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "STAK",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Straks",
+    "network": {
+        "t_available_supply": 5121999,
+        "t_block_reward": 0,
+        "t_max_supply": 150000000,
+        "t_total_supply": 5121999
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/STAK"
+    ],
+    "social": [
+        "https://twitter.com/@strakstech"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://straks.io/"
+}

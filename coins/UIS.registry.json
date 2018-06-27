@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Unitus","fromSymbol":"UIS","toSymbol":"ALL","website":"-","network":{"t_total_supply":58815845,"t_available_supply":58815845,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Multiple","description":{"en":""},"quote":["https://blockmodo.com/quotes/UIS"],"explorer":[],"chat":[],"social":["https://twitter.com/@UnitusCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "Multiple",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "UIS",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Unitus",
+    "network": {
+        "t_available_supply": 58815845,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 58815845
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/UIS"
+    ],
+    "social": [
+        "https://twitter.com/@UnitusCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
+}

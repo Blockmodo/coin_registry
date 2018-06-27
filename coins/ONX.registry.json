@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Onix","fromSymbol":"ONX","toSymbol":"ALL","website":"-","network":{"t_total_supply":106904058,"t_available_supply":106904058,"t_max_supply":1151920000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"X11","description":{"en":""},"quote":["https://blockmodo.com/quotes/ONX"],"explorer":[],"chat":[],"social":["https://twitter.com/@onix_coin"],"community":[],"source_code":[]}
+{
+    "algorithm": "X11",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "ONX",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Onix",
+    "network": {
+        "t_available_supply": 106904058,
+        "t_block_reward": 0,
+        "t_max_supply": 1151920000,
+        "t_total_supply": 106904058
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/ONX"
+    ],
+    "social": [
+        "https://twitter.com/@onix_coin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
+}

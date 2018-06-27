@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Dynamic Trading Rights","fromSymbol":"DTR","toSymbol":"ALL","website":"https://www.tokens.net","network":{"t_total_supply":1218054044,"t_available_supply":1218054044,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/DTR"],"explorer":[],"chat":[],"social":["https://twitter.com/@TokensNet"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "DTR",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Dynamic Trading Rights",
+    "network": {
+        "t_available_supply": 1218054044,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 1218054044
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/DTR"
+    ],
+    "social": [
+        "https://twitter.com/@TokensNet"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.tokens.net"
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"ODMCoin","fromSymbol":"ODMC","toSymbol":"ALL","website":"https://odmcoin.com/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":25000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/ODMC"],"explorer":[],"chat":[],"social":["https://twitter.com/@ODMCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "ODMC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "ODMCoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 25000,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/ODMC"
+    ],
+    "social": [
+        "https://twitter.com/@ODMCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://odmcoin.com/"
+}

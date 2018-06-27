@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"StrongHands","fromSymbol":"SHND","toSymbol":"ALL","website":"http://www.hands.tech/","network":{"t_total_supply":18984246847200,"t_available_supply":18984246847200,"t_max_supply":18984246847200,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"SHA256D","description":{"en":""},"quote":["https://blockmodo.com/quotes/SHND"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256D",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "SHND",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "StrongHands",
+    "network": {
+        "t_available_supply": 18984246847200,
+        "t_block_reward": 0,
+        "t_max_supply": 18984246847200,
+        "t_total_supply": 18984246847200
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/SHND"
+    ],
+    "social": [
+        "https://twitter.com/"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.hands.tech/"
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"iXledger","fromSymbol":"IXT","toSymbol":"ALL","website":"http://ixledger.com","network":{"t_total_supply":35778844,"t_available_supply":35778844,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/IXT"],"explorer":[],"chat":[],"social":["https://twitter.com/@iXledgertech"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "IXT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "iXledger",
+    "network": {
+        "t_available_supply": 35778844,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 35778844
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/IXT"
+    ],
+    "social": [
+        "https://twitter.com/@iXledgertech"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://ixledger.com"
+}

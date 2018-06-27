@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Wanchain","fromSymbol":"WAN","toSymbol":"ALL","website":"https://wanchain.org/","network":{"t_total_supply":106152493,"t_available_supply":106152493,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/WAN"],"explorer":[],"chat":[],"social":["https://twitter.com/https://twitter.com/wanchain_org"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "WAN",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Wanchain",
+    "network": {
+        "t_available_supply": 106152493,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 106152493
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/WAN"
+    ],
+    "social": [
+        "https://twitter.com/https://twitter.com/wanchain_org"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://wanchain.org/"
+}

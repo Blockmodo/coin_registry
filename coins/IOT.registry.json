@@ -1,1 +1,37 @@
-{"type":"COINREGISTRY","version":1,"name":"IOTA","fromSymbol":"IOT","toSymbol":"ALL","website":"https://iota.org/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":2779530283,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"Tangle","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/IOT"],"explorer":[],"chat":[],"social":["https://twitter.com/@iotatoken"],"community":["https://www.reddit.com/r/Iota/.rss"],"source_code":["https://github.com/iotaledger/giota/commits/master.atom","https://github.com/iotaledger/iota.lib.js/commits/master.atom","https://github.com/iotaledger/iota.lib.java/commits/master.atom"]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/Iota/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "IOT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "IOTA",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 2779530283,
+        "t_total_supply": 0
+    },
+    "proof_type": "Tangle",
+    "quote": [
+        "https://blockmodo.com/quotes/IOT"
+    ],
+    "social": [
+        "https://twitter.com/@iotatoken"
+    ],
+    "source_code": [
+        "https://github.com/iotaledger/giota/commits/master.atom",
+        "https://github.com/iotaledger/iota.lib.js/commits/master.atom",
+        "https://github.com/iotaledger/iota.lib.java/commits/master.atom"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://iota.org/"
+}

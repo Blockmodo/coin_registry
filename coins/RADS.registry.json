@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Radium","fromSymbol":"RADS","toSymbol":"ALL","website":"https://radiumcore.org/","network":{"t_total_supply":3497661,"t_available_supply":3497661,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/RADS"],"explorer":[],"chat":[],"social":["https://twitter.com/@ProjectRadium"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "RADS",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Radium",
+    "network": {
+        "t_available_supply": 3497661,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 3497661
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/RADS"
+    ],
+    "social": [
+        "https://twitter.com/@ProjectRadium"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://radiumcore.org/"
+}

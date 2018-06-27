@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"JouleCoin","fromSymbol":"XJO","toSymbol":"ALL","website":"http://www.joulecoin.org/","network":{"t_total_supply":36078687,"t_available_supply":36078687,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"SHA256","description":{"en":""},"quote":["https://blockmodo.com/quotes/XJO"],"explorer":[],"chat":[],"social":["https://twitter.com/@JouleCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "XJO",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "JouleCoin",
+    "network": {
+        "t_available_supply": 36078687,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 36078687
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/XJO"
+    ],
+    "social": [
+        "https://twitter.com/@JouleCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.joulecoin.org/"
+}

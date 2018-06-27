@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Mojocoin","fromSymbol":"MOJO","toSymbol":"ALL","website":"-","network":{"t_total_supply":12220654,"t_available_supply":12220654,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"PoS","description":{"en":""},"quote":["https://blockmodo.com/quotes/MOJO"],"explorer":[],"chat":[],"social":["https://twitter.com/@Mojodevs"],"community":[],"source_code":[]}
+{
+    "algorithm": "PoS",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "MOJO",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Mojocoin",
+    "network": {
+        "t_available_supply": 12220654,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 12220654
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/MOJO"
+    ],
+    "social": [
+        "https://twitter.com/@Mojodevs"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
+}

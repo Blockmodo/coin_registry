@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Multibot","fromSymbol":"MBT","toSymbol":"ALL","website":"https://click.runcpa.com/getoffer/38228-58f996b9d9f2f8d372b3298ef4e2c58c-916","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":25000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/MBT"],"explorer":[],"chat":[],"social":["https://twitter.com/@multibotio"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "MBT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Multibot",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 25000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/MBT"
+    ],
+    "social": [
+        "https://twitter.com/@multibotio"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://click.runcpa.com/getoffer/38228-58f996b9d9f2f8d372b3298ef4e2c58c-916"
+}

@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"Santiment","fromSymbol":"SAN","toSymbol":"ALL","website":"http://www.santiment.net/","network":{"t_total_supply":62660371,"t_available_supply":62660371,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/SAN"],"explorer":[],"chat":[],"social":["https://twitter.com/@santimentfeed"],"community":["https://www.reddit.com/r/santiment/.rss"],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/santiment/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "SAN",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Santiment",
+    "network": {
+        "t_available_supply": 62660371,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 62660371
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/SAN"
+    ],
+    "social": [
+        "https://twitter.com/@santimentfeed"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.santiment.net/"
+}

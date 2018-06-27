@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"HazMatCoin","fromSymbol":"HZT","toSymbol":"ALL","website":"-","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":100000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/HZT"],"explorer":[],"chat":[],"social":["https://twitter.com/@hazmatcoin_"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "HZT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "HazMatCoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 100000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/HZT"
+    ],
+    "social": [
+        "https://twitter.com/@hazmatcoin_"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Cashaa","fromSymbol":"CAS","toSymbol":"ALL","website":"https://cashaa.com/","network":{"t_total_supply":415522566,"t_available_supply":415522566,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/CAS"],"explorer":[],"chat":[],"social":["https://twitter.com/@CashaaLtd"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "CAS",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Cashaa",
+    "network": {
+        "t_available_supply": 415522566,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 415522566
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/CAS"
+    ],
+    "social": [
+        "https://twitter.com/@CashaaLtd"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://cashaa.com/"
+}

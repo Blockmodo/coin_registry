@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"ECC","fromSymbol":"ECC","toSymbol":"ALL","website":"https://ecc.network/","network":{"t_total_supply":25000000000,"t_available_supply":25000000000,"t_max_supply":25000000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/ECC"],"explorer":[],"chat":[],"social":["https://twitter.com/@project_ecc"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "ECC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "ECC",
+    "network": {
+        "t_available_supply": 25000000000,
+        "t_block_reward": 0,
+        "t_max_supply": 25000000000,
+        "t_total_supply": 25000000000
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/ECC"
+    ],
+    "social": [
+        "https://twitter.com/@project_ecc"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://ecc.network/"
+}

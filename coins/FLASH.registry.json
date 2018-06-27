@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"FLASH coin","fromSymbol":"FLASH","toSymbol":"ALL","website":"https://flashcoin.io/","network":{"t_total_supply":900000000,"t_available_supply":900000000,"t_max_supply":900000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/FLASH"],"explorer":[],"chat":[],"social":["https://twitter.com/@FlashCoins"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "FLASH",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "FLASH coin",
+    "network": {
+        "t_available_supply": 900000000,
+        "t_block_reward": 0,
+        "t_max_supply": 900000000,
+        "t_total_supply": 900000000
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/FLASH"
+    ],
+    "social": [
+        "https://twitter.com/@FlashCoins"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://flashcoin.io/"
+}

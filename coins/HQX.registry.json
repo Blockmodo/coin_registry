@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"HOQU","fromSymbol":"HQX","toSymbol":"ALL","website":"https://www.hoqu.io","network":{"t_total_supply":151118386,"t_available_supply":151118386,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/HQX"],"explorer":[],"chat":[],"social":["https://twitter.com/@HOQU_IO"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "HQX",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "HOQU",
+    "network": {
+        "t_available_supply": 151118386,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 151118386
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/HQX"
+    ],
+    "social": [
+        "https://twitter.com/@HOQU_IO"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.hoqu.io"
+}

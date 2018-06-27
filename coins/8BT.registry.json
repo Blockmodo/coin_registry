@@ -1,38 +1,38 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "8 Circuit Studios",
-  "fromSymbol": "8BT",
-  "toSymbol": "ALL",
-  "website": "https://8circuitstudios.com/",
-  "network": {
-    "t_total_supply": 0,
-    "t_available_supply": 0,
-    "t_max_supply": 101000000,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": false,
-  "proof_type": null,
-  "algorithm": null,
-  "description": {
-    "en": "Circuit Studios is creating a new gaming ecosystem powered by their 8BT tokens, an Ethereum-based token. These tokens allow gamers to purchase game assets. The first release of Circuit Studios is D-PARC, described as 'a new game that uses the Ethereum blockchain to enable digital sovereignty'"
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/8BT"
-  ],
-  "explorer": [
-  	"http://explorer.8bit.trade/"
-  ],
-  "chat": [
-  	"https://discordapp.com/invite/GKehQMB"
-  ],
-  "social": [
-    "https://twitter.com/@8circuitstudios",
-    "https://www.facebook.com/8circuitstudios"
-  ],
-  "community": [],
-  "source_code": [
-  	"https://github.com/8CircuitStudios/8BitToken"
-  ]
+    "algorithm": null,
+    "chat": [
+        "https://discordapp.com/invite/GKehQMB"
+    ],
+    "community": [],
+    "description": {
+        "en": "Circuit Studios is creating a new gaming ecosystem powered by their 8BT tokens, an Ethereum-based token. These tokens allow gamers to purchase game assets. The first release of Circuit Studios is D-PARC, described as 'a new game that uses the Ethereum blockchain to enable digital sovereignty'"
+    },
+    "explorer": [
+        "http://explorer.8bit.trade/"
+    ],
+    "fromSymbol": "8BT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "8 Circuit Studios",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 101000000,
+        "t_total_supply": 0
+    },
+    "proof_type": null,
+    "quote": [
+        "https://blockmodo.com/quotes/8BT"
+    ],
+    "social": [
+        "https://twitter.com/@8circuitstudios",
+        "https://www.facebook.com/8circuitstudios"
+    ],
+    "source_code": [
+        "https://github.com/8CircuitStudios/8BitToken"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://8circuitstudios.com/"
 }

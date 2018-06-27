@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"UFO Coin","fromSymbol":"UFO","toSymbol":"ALL","website":"https://ufocoin.net","network":{"t_total_supply":3629797512,"t_available_supply":3629797512,"t_max_supply":4000000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"NeoScrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/UFO"],"explorer":[],"chat":[],"social":["https://twitter.com/@UFOCoins"],"community":[],"source_code":[]}
+{
+    "algorithm": "NeoScrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "UFO",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "UFO Coin",
+    "network": {
+        "t_available_supply": 3629797512,
+        "t_block_reward": 0,
+        "t_max_supply": 4000000000,
+        "t_total_supply": 3629797512
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/UFO"
+    ],
+    "social": [
+        "https://twitter.com/@UFOCoins"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://ufocoin.net"
+}

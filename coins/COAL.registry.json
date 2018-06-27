@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"BitCoal","fromSymbol":"COAL","toSymbol":"ALL","website":"http://getbitcoal.org/","network":{"t_total_supply":4500000,"t_available_supply":4500000,"t_max_supply":12500000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"CryptoNight","description":{"en":""},"quote":["https://blockmodo.com/quotes/COAL"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":[],"source_code":[]}
+{
+    "algorithm": "CryptoNight",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "COAL",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "BitCoal",
+    "network": {
+        "t_available_supply": 4500000,
+        "t_block_reward": 0,
+        "t_max_supply": 12500000,
+        "t_total_supply": 4500000
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/COAL"
+    ],
+    "social": [
+        "https://twitter.com/"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://getbitcoal.org/"
+}

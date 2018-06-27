@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"Dent","fromSymbol":"DENT","toSymbol":"ALL","website":"https://www.dentcoin.com/","network":{"t_total_supply":10614760961,"t_available_supply":10614760961,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/DENT"],"explorer":[],"chat":[],"social":["https://twitter.com/@dentcoin"],"community":["https://www.reddit.com/r/dentcoin/.rss"],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/dentcoin/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "DENT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Dent",
+    "network": {
+        "t_available_supply": 10614760961,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 10614760961
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/DENT"
+    ],
+    "social": [
+        "https://twitter.com/@dentcoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.dentcoin.com/"
+}

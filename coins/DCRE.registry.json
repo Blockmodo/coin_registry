@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"DeltaCredits","fromSymbol":"DCRE","toSymbol":"ALL","website":"https://twitter.com/gladimorcrypto","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":100000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/DCRE"],"explorer":[],"chat":[],"social":["https://twitter.com/@gladimorcrypto"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "DCRE",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "DeltaCredits",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 100000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/DCRE"
+    ],
+    "social": [
+        "https://twitter.com/@gladimorcrypto"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://twitter.com/gladimorcrypto"
+}

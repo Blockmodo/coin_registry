@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Red Pulse","fromSymbol":"RPX","toSymbol":"ALL","website":"https://www.red-pulse.com","network":{"t_total_supply":807926304,"t_available_supply":807926304,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/RPX"],"explorer":[],"chat":[],"social":["https://twitter.com/@red_pulse_china"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "RPX",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Red Pulse",
+    "network": {
+        "t_available_supply": 807926304,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 807926304
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/RPX"
+    ],
+    "social": [
+        "https://twitter.com/@red_pulse_china"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.red-pulse.com"
+}

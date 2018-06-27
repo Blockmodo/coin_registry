@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Tokes","fromSymbol":"TKS","toSymbol":"ALL","website":"http://cannabisrevolution.us/","network":{"t_total_supply":3354551,"t_available_supply":3354551,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/TKS"],"explorer":[],"chat":[],"social":["https://twitter.com/@TokesPlatform"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "TKS",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Tokes",
+    "network": {
+        "t_available_supply": 3354551,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 3354551
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/TKS"
+    ],
+    "social": [
+        "https://twitter.com/@TokesPlatform"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://cannabisrevolution.us/"
+}

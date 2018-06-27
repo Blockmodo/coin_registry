@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Hive Project","fromSymbol":"HVN","toSymbol":"ALL","website":"https://runcpa.com/getoffer/38228-8ee108816d4aedfd37ed56f82516af21-820","network":{"t_total_supply":375000000,"t_available_supply":375000000,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/HVN"],"explorer":[],"chat":[],"social":["https://twitter.com/@hiveproject_net"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "HVN",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Hive Project",
+    "network": {
+        "t_available_supply": 375000000,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 375000000
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/HVN"
+    ],
+    "social": [
+        "https://twitter.com/@hiveproject_net"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://runcpa.com/getoffer/38228-8ee108816d4aedfd37ed56f82516af21-820"
+}

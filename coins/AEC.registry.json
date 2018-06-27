@@ -1,29 +1,29 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "AcesCoin",
-  "fromSymbol": "AEC",
-  "toSymbol": "ALL",
-  "website": "http://www.acescoin.org/",
-  "network": {
-    "t_total_supply": 0,
-    "t_available_supply": 0,
-    "t_max_supply": 98000000,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": false,
-  "proof_type": "PoS",
-  "algorithm": "X11",
-  "description": {
-    "en": "AcesCoin is a PoW/PoS hybrid, ASIC-resistant cryptocurrency that allows instant and anonymous payments."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/AEC"
-  ],
-  "explorer": [],
-  "chat": [],
-  "social": [],
-  "community": [],
-  "source_code": []
+    "algorithm": "X11",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": "AcesCoin is a PoW/PoS hybrid, ASIC-resistant cryptocurrency that allows instant and anonymous payments."
+    },
+    "explorer": [],
+    "fromSymbol": "AEC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "AcesCoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 98000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/AEC"
+    ],
+    "social": [],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.acescoin.org/"
 }

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"PopularCoin","fromSymbol":"POP","toSymbol":"ALL","website":"https://www.popularcoin.com/","network":{"t_total_supply":3817909317,"t_available_supply":3817909317,"t_max_supply":4999999999,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/POP"],"explorer":[],"chat":[],"social":["https://twitter.com/@PopularCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "POP",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "PopularCoin",
+    "network": {
+        "t_available_supply": 3817909317,
+        "t_block_reward": 0,
+        "t_max_supply": 4999999999,
+        "t_total_supply": 3817909317
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/POP"
+    ],
+    "social": [
+        "https://twitter.com/@PopularCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.popularcoin.com/"
+}

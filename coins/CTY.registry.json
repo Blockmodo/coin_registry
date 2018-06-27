@@ -1,38 +1,38 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "Connecty",
-  "fromSymbol": "CTY",
-  "toSymbol": "ALL",
-  "website": "https://www.connecty.io",
-  "network": {
-    "t_total_supply": 0,
-    "t_available_supply": 0,
-    "t_max_supply": 10000000000,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": false,
-  "proof_type": null,
-  "algorithm": null,
-  "description": {
-    "en": "Thanks to Connecty.io, we create the liaison between holders and creators of knowledge with those responsible for transforming this knowledge into innovation. Connecty.io is a platform for relating these two worlds of innovation and knowledge, that create a new ecosystem dedicated to knowledge with its own currency and circular economy based on blockchain technology. Finding knowledge, sharing it and innovating becomes easy and natural!"
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/SGO"
-  ],
-  "explorer": [],
-  "chat": [
-  	"https://discordapp.com/invite/Hc4jp8C",
-    "https://t.me/ConnectyCoin"
-  ],
-  "social": [
-    "https://www.instagram.com/connecty.io",
-    "https://twitter.com/ConnectyICO",
-    "https://www.facebook.com/ConnectyCTY"
-  ],
-  "community": [
-    "https://www.reddit.com/r/Connecty"
-  ],
-  "source_code": []
+    "algorithm": null,
+    "chat": [
+        "https://discordapp.com/invite/Hc4jp8C",
+        "https://t.me/ConnectyCoin"
+    ],
+    "community": [
+        "https://www.reddit.com/r/Connecty"
+    ],
+    "description": {
+        "en": "Thanks to Connecty.io, we create the liaison between holders and creators of knowledge with those responsible for transforming this knowledge into innovation. Connecty.io is a platform for relating these two worlds of innovation and knowledge, that create a new ecosystem dedicated to knowledge with its own currency and circular economy based on blockchain technology. Finding knowledge, sharing it and innovating becomes easy and natural!"
+    },
+    "explorer": [],
+    "fromSymbol": "CTY",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Connecty",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 10000000000,
+        "t_total_supply": 0
+    },
+    "proof_type": null,
+    "quote": [
+        "https://blockmodo.com/quotes/SGO"
+    ],
+    "social": [
+        "https://www.instagram.com/connecty.io",
+        "https://twitter.com/ConnectyICO",
+        "https://www.facebook.com/ConnectyCTY"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.connecty.io"
 }

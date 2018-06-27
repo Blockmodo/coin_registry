@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"PinkCoin","fromSymbol":"PINK","toSymbol":"ALL","website":"http://getstarted.with.pink/","network":{"t_total_supply":381906699,"t_available_supply":381906699,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"X11","description":{"en":""},"quote":["https://blockmodo.com/quotes/PINK"],"explorer":[],"chat":[],"social":["https://twitter.com/@Pinkcoin_"],"community":[],"source_code":[]}
+{
+    "algorithm": "X11",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "PINK",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "PinkCoin",
+    "network": {
+        "t_available_supply": 381906699,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 381906699
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/PINK"
+    ],
+    "social": [
+        "https://twitter.com/@Pinkcoin_"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://getstarted.with.pink/"
+}

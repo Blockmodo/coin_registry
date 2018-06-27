@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"GenesysCoin","fromSymbol":"GSY","toSymbol":"ALL","website":"http://genesyscoin.com/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"SHA256","description":{"en":""},"quote":["https://blockmodo.com/quotes/GSY"],"explorer":[],"chat":[],"social":["https://twitter.com/@GenesysCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "GSY",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "GenesysCoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/GSY"
+    ],
+    "social": [
+        "https://twitter.com/@GenesysCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://genesyscoin.com/"
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"SpainCoin","fromSymbol":"SPA","toSymbol":"ALL","website":"http://spaincoin.org/en/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":50000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Scrypt-n","description":{"en":""},"quote":["https://blockmodo.com/quotes/SPA"],"explorer":[],"chat":[],"social":["https://twitter.com/@SpainCoinDev"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt-n",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "SPA",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "SpainCoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 50000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/SPA"
+    ],
+    "social": [
+        "https://twitter.com/@SpainCoinDev"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://spaincoin.org/en/"
+}

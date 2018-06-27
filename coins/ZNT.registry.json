@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"OpenZen","fromSymbol":"ZNT","toSymbol":"ALL","website":"http://openzen.co/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":270000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/ZNT"],"explorer":[],"chat":[],"social":["https://twitter.com/@JustOpenZen"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "ZNT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "OpenZen",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 270000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/ZNT"
+    ],
+    "social": [
+        "https://twitter.com/@JustOpenZen"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://openzen.co/"
+}

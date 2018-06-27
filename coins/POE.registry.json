@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"Po.et","fromSymbol":"POE","toSymbol":"ALL","website":"https://po.et/","network":{"t_total_supply":2297132548,"t_available_supply":2297132548,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/POE"],"explorer":[],"chat":[],"social":["https://twitter.com/@_poetproject"],"community":["https://www.reddit.com/r/poetproject/.rss"],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/poetproject/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "POE",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Po.et",
+    "network": {
+        "t_available_supply": 2297132548,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 2297132548
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/POE"
+    ],
+    "social": [
+        "https://twitter.com/@_poetproject"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://po.et/"
+}

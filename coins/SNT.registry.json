@@ -1,1 +1,36 @@
-{"type":"COINREGISTRY","version":1,"name":"Status Network Token","fromSymbol":"SNT","toSymbol":"ALL","website":"https://status.im/","network":{"t_total_supply":3470483788,"t_available_supply":3470483788,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/SNT"],"explorer":[],"chat":[],"social":["https://twitter.com/@ethstatus"],"community":["https://www.reddit.com/r/statusim/.rss"],"source_code":["https://github.com/status-im/status-network-token/commits/master.atom","https://github.com/status-im/status-react/commits/develop.atom"]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/statusim/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "SNT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Status Network Token",
+    "network": {
+        "t_available_supply": 3470483788,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 3470483788
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/SNT"
+    ],
+    "social": [
+        "https://twitter.com/@ethstatus"
+    ],
+    "source_code": [
+        "https://github.com/status-im/status-network-token/commits/master.atom",
+        "https://github.com/status-im/status-react/commits/develop.atom"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://status.im/"
+}

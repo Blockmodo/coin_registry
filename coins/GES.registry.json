@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Galaxy eSolutions","fromSymbol":"GES","toSymbol":"ALL","website":"https://galaxy-esolutions.com/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":300000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/GES"],"explorer":[],"chat":[],"social":["https://twitter.com/@Galaxye_eSol"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "GES",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Galaxy eSolutions",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 300000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/GES"
+    ],
+    "social": [
+        "https://twitter.com/@Galaxye_eSol"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://galaxy-esolutions.com/"
+}

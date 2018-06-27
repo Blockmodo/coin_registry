@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"ZayedCoin","fromSymbol":"ZYD","toSymbol":"ALL","website":"http://zayedcoin.net/","network":{"t_total_supply":6243840,"t_available_supply":6243840,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"SHA256","description":{"en":""},"quote":["https://blockmodo.com/quotes/ZYD"],"explorer":[],"chat":[],"social":["https://twitter.com/@ZayedCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "ZYD",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "ZayedCoin",
+    "network": {
+        "t_available_supply": 6243840,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 6243840
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/ZYD"
+    ],
+    "social": [
+        "https://twitter.com/@ZayedCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://zayedcoin.net/"
+}

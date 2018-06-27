@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"Civic","fromSymbol":"CVC","toSymbol":"ALL","website":"https://www.civic.com/","network":{"t_total_supply":342699966,"t_available_supply":342699966,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/CVC"],"explorer":[],"chat":[],"social":["https://twitter.com/@civickey"],"community":["https://www.reddit.com/r/civicplatform/.rss"],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/civicplatform/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "CVC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Civic",
+    "network": {
+        "t_available_supply": 342699966,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 342699966
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/CVC"
+    ],
+    "social": [
+        "https://twitter.com/@civickey"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.civic.com/"
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"BiosCrypto","fromSymbol":"BIOS","toSymbol":"ALL","website":"-","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":20190463,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"Quark","description":{"en":""},"quote":["https://blockmodo.com/quotes/BIOS"],"explorer":[],"chat":[],"social":["https://twitter.com/@vanyabios"],"community":[],"source_code":[]}
+{
+    "algorithm": "Quark",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "BIOS",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "BiosCrypto",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 20190463,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/BIOS"
+    ],
+    "social": [
+        "https://twitter.com/@vanyabios"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
+}

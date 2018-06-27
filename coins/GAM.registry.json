@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Gambit coin","fromSymbol":"GAM","toSymbol":"ALL","website":"http://gambitcrypto.com/","network":{"t_total_supply":1200279,"t_available_supply":1200279,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/GAM"],"explorer":[],"chat":[],"social":["https://twitter.com/@gambitcrypto"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "GAM",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Gambit coin",
+    "network": {
+        "t_available_supply": 1200279,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 1200279
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/GAM"
+    ],
+    "social": [
+        "https://twitter.com/@gambitcrypto"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://gambitcrypto.com/"
+}

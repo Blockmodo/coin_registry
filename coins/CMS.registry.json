@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"COMSA","fromSymbol":"CMS","toSymbol":"ALL","website":"https://comsa.io/ja/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/CMS"],"explorer":[],"chat":[],"social":["https://twitter.com/@comsaglobal"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "CMS",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "COMSA",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/CMS"
+    ],
+    "social": [
+        "https://twitter.com/@comsaglobal"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://comsa.io/ja/"
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Harbour DAO","fromSymbol":"HRB","toSymbol":"ALL","website":"https://harbour.tokenate.io","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":19,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/HRB"],"explorer":[],"chat":[],"social":["https://twitter.com/@HarbourDao"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "HRB",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Harbour DAO",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 19,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/HRB"
+    ],
+    "social": [
+        "https://twitter.com/@HarbourDao"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://harbour.tokenate.io"
+}

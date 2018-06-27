@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"Nano","fromSymbol":"XRB","toSymbol":"ALL","website":"https://nano.org/en","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":340282367,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Blake2b","description":{"en":""},"quote":["https://blockmodo.com/quotes/XRB"],"explorer":[],"chat":[],"social":["https://twitter.com/@nanocurrency"],"community":[],"source_code":["https://github.com/nanocurrency/raiblocks.atom"]}
+{
+    "algorithm": "Blake2b",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "XRB",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Nano",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 340282367,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/XRB"
+    ],
+    "social": [
+        "https://twitter.com/@nanocurrency"
+    ],
+    "source_code": [
+        "https://github.com/nanocurrency/raiblocks.atom"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://nano.org/en"
+}

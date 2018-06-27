@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"SMNX","fromSymbol":"SMNX","toSymbol":"ALL","website":"https://solomonex.info/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":15000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/SMNX"],"explorer":[],"chat":[],"social":["https://twitter.com/@solomon_ex"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "SMNX",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "SMNX",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 15000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/SMNX"
+    ],
+    "social": [
+        "https://twitter.com/@solomon_ex"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://solomonex.info/"
+}

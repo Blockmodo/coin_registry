@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Project Decorum","fromSymbol":"PDC","toSymbol":"ALL","website":"http://www.project-decorum.com","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":50000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/PDC"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "PDC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Project Decorum",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 50000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/PDC"
+    ],
+    "social": [
+        "https://twitter.com/"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.project-decorum.com"
+}

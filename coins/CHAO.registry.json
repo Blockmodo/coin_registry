@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"23 Skidoo","fromSymbol":"CHAO","toSymbol":"ALL","website":"http://23skidoo.info/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":23,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"SHA256D","description":{"en":""},"quote":["https://blockmodo.com/quotes/CHAO"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256D",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "CHAO",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "23 Skidoo",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 23,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/CHAO"
+    ],
+    "social": [
+        "https://twitter.com/"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://23skidoo.info/"
+}

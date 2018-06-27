@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"World Crypto Gold","fromSymbol":"WCG","toSymbol":"ALL","website":"https://www.worldcryptogold.org","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":900000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"Proof of Stake","algorithm":"SHA256","description":{"en":""},"quote":["https://blockmodo.com/quotes/WCG"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "WCG",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "World Crypto Gold",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 900000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "Proof of Stake",
+    "quote": [
+        "https://blockmodo.com/quotes/WCG"
+    ],
+    "social": [
+        "https://twitter.com/"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.worldcryptogold.org"
+}

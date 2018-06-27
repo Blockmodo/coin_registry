@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"SSVCoin","fromSymbol":"SSV","toSymbol":"ALL","website":"https://bitcointalk.org/index.php?topic=661043.0","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":21000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"X13","description":{"en":""},"quote":["https://blockmodo.com/quotes/SSV"],"explorer":[],"chat":[],"social":["https://twitter.com/@SSVCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "X13",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "SSV",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "SSVCoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 21000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/SSV"
+    ],
+    "social": [
+        "https://twitter.com/@SSVCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://bitcointalk.org/index.php?topic=661043.0"
+}

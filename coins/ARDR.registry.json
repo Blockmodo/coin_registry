@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"Ardor","fromSymbol":"ARDR","toSymbol":"ALL","website":"https://www.ardorplatform.org/","network":{"t_total_supply":998999495,"t_available_supply":998999495,"t_max_supply":998999495,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/ARDR"],"explorer":[],"chat":[],"social":["https://twitter.com/@ArdorPlatform"],"community":["https://www.reddit.com/r/Ardor/.rss"],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/Ardor/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "ARDR",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Ardor",
+    "network": {
+        "t_available_supply": 998999495,
+        "t_block_reward": 0,
+        "t_max_supply": 998999495,
+        "t_total_supply": 998999495
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/ARDR"
+    ],
+    "social": [
+        "https://twitter.com/@ArdorPlatform"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.ardorplatform.org/"
+}

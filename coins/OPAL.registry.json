@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"OpalCoin","fromSymbol":"OPAL","toSymbol":"ALL","website":"http://www.opal-coin.com/","network":{"t_total_supply":15148166,"t_available_supply":15148166,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"X13","description":{"en":""},"quote":["https://blockmodo.com/quotes/OPAL"],"explorer":[],"chat":[],"social":["https://twitter.com/@OpalCoinTeam"],"community":[],"source_code":[]}
+{
+    "algorithm": "X13",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "OPAL",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "OpalCoin",
+    "network": {
+        "t_available_supply": 15148166,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 15148166
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/OPAL"
+    ],
+    "social": [
+        "https://twitter.com/@OpalCoinTeam"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.opal-coin.com/"
+}

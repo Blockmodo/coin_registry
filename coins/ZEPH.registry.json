@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Project Zephyr","fromSymbol":"ZEPH","toSymbol":"ALL","website":"https://zephyr.bitspark.io","network":{"t_total_supply":125990535,"t_available_supply":125990535,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/ZEPH"],"explorer":[],"chat":[],"social":["https://twitter.com/@BitsparkBTC"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "ZEPH",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Project Zephyr",
+    "network": {
+        "t_available_supply": 125990535,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 125990535
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/ZEPH"
+    ],
+    "social": [
+        "https://twitter.com/@BitsparkBTC"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://zephyr.bitspark.io"
+}

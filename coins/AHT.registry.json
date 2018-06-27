@@ -1,39 +1,39 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "Bowhead Health",
-  "fromSymbol": "AHT",
-  "toSymbol": "ALL",
-  "website": "https://bowheadhealth.com/",
-  "network": {
-    "t_total_supply": 8000000,
-    "t_available_supply": 8000000,
-    "t_max_supply": 100000000,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": false,
-  "proof_type": null,
-  "algorithm": null,
-  "description": {
-    "en": ""
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/AHT*"
-  ],
-  "explorer": [
-  	"https://wavesexplorer.com/tx/HfFHZaPzGMSdHvaaZ7S8mrZrPWEyGzfA6VDuSRzb8uY6"
-  ],
-  "chat": [
-  	"https://t.me/bowheadtokensale",
-  	"https://bowhead-slack.herokuapp.com"
-  ],
-  "social": [
-    "https://twitter.com/@Bowheadhealth",
-    "https://www.facebook.com/bowheadhealth"
-  ],
-  "community": [
-  	"https://www.reddit.com/r/Bowhead"
-  ],
-  "source_code": []
+    "algorithm": null,
+    "chat": [
+        "https://t.me/bowheadtokensale",
+        "https://bowhead-slack.herokuapp.com"
+    ],
+    "community": [
+        "https://www.reddit.com/r/Bowhead"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [
+        "https://wavesexplorer.com/tx/HfFHZaPzGMSdHvaaZ7S8mrZrPWEyGzfA6VDuSRzb8uY6"
+    ],
+    "fromSymbol": "AHT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Bowhead Health",
+    "network": {
+        "t_available_supply": 8000000,
+        "t_block_reward": 0,
+        "t_max_supply": 100000000,
+        "t_total_supply": 8000000
+    },
+    "proof_type": null,
+    "quote": [
+        "https://blockmodo.com/quotes/AHT*"
+    ],
+    "social": [
+        "https://twitter.com/@Bowheadhealth",
+        "https://www.facebook.com/bowheadhealth"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://bowheadhealth.com/"
 }

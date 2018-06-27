@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"DomRaider","fromSymbol":"DRT","toSymbol":"ALL","website":"https://www.domraider.io/","network":{"t_total_supply":591500000,"t_available_supply":591500000,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/DRT"],"explorer":[],"chat":[],"social":["https://twitter.com/@domraider"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "DRT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "DomRaider",
+    "network": {
+        "t_available_supply": 591500000,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 591500000
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/DRT"
+    ],
+    "social": [
+        "https://twitter.com/@domraider"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.domraider.io/"
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"RenosCoin","fromSymbol":"RNS","toSymbol":"ALL","website":"https://renoscoin.com/","network":{"t_total_supply":33356077,"t_available_supply":33356077,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/RNS"],"explorer":[],"chat":[],"social":["https://twitter.com/RenosCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "RNS",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "RenosCoin",
+    "network": {
+        "t_available_supply": 33356077,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 33356077
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/RNS"
+    ],
+    "social": [
+        "https://twitter.com/RenosCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://renoscoin.com/"
+}

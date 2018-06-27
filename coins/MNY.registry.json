@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Monkey","fromSymbol":"MNY","toSymbol":"ALL","website":"https://www.monkey.capital/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":1000000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/MNY"],"explorer":[],"chat":[],"social":["https://twitter.com/@monkeycapitaico"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "MNY",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Monkey",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 1000000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/MNY"
+    ],
+    "social": [
+        "https://twitter.com/@monkeycapitaico"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.monkey.capital/"
+}

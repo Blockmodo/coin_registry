@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Signatum","fromSymbol":"SIGT","toSymbol":"ALL","website":"http://signatum.io/","network":{"t_total_supply":107972766,"t_available_supply":107972766,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"SkunkHash v2 Raptor","description":{"en":""},"quote":["https://blockmodo.com/quotes/SIGT"],"explorer":[],"chat":[],"social":["https://twitter.com/@signatum_"],"community":[],"source_code":[]}
+{
+    "algorithm": "SkunkHash v2 Raptor",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "SIGT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Signatum",
+    "network": {
+        "t_available_supply": 107972766,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 107972766
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/SIGT"
+    ],
+    "social": [
+        "https://twitter.com/@signatum_"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://signatum.io/"
+}

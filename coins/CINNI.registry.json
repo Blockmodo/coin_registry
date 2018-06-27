@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"CINNICOIN","fromSymbol":"CINNI","toSymbol":"ALL","website":"http://www.cinnicoin.com/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":15000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/CINNI"],"explorer":[],"chat":[],"social":["https://twitter.com/@CinniCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "CINNI",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "CINNICOIN",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 15000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/CINNI"
+    ],
+    "social": [
+        "https://twitter.com/@CinniCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.cinnicoin.com/"
+}

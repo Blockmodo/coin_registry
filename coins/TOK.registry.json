@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"TokugawaCoin","fromSymbol":"TOK","toSymbol":"ALL","website":"http://www.tokugawacoin.com/","network":{"t_total_supply":1021644,"t_available_supply":1021644,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/TOK"],"explorer":[],"chat":[],"social":["https://twitter.com/@TokugawaCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "TOK",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "TokugawaCoin",
+    "network": {
+        "t_available_supply": 1021644,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 1021644
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/TOK"
+    ],
+    "social": [
+        "https://twitter.com/@TokugawaCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.tokugawacoin.com/"
+}

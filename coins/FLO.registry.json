@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"FlorinCoin","fromSymbol":"FLO","toSymbol":"ALL","website":"http://florincoin.org/","network":{"t_total_supply":144445037,"t_available_supply":144445037,"t_max_supply":160000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/FLO"],"explorer":[],"chat":[],"social":["https://twitter.com/@Official_Florin"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "FLO",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "FlorinCoin",
+    "network": {
+        "t_available_supply": 144445037,
+        "t_block_reward": 0,
+        "t_max_supply": 160000000,
+        "t_total_supply": 144445037
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/FLO"
+    ],
+    "social": [
+        "https://twitter.com/@Official_Florin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://florincoin.org/"
+}

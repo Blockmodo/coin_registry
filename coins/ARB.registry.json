@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Arbit Coin","fromSymbol":"ARB","toSymbol":"ALL","website":"http://getaugmented.net/","network":{"t_total_supply":8203320,"t_available_supply":8203320,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/ARB"],"explorer":[],"chat":[],"social":["https://twitter.com/@get_ARbit"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "ARB",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Arbit Coin",
+    "network": {
+        "t_available_supply": 8203320,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 8203320
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/ARB"
+    ],
+    "social": [
+        "https://twitter.com/@get_ARbit"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://getaugmented.net/"
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Numus","fromSymbol":"NMS","toSymbol":"ALL","website":"-","network":{"t_total_supply":2750877,"t_available_supply":2750877,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"Skein","description":{"en":""},"quote":["https://blockmodo.com/quotes/NMS"],"explorer":[],"chat":[],"social":["https://twitter.com/http://numus.cash/"],"community":[],"source_code":[]}
+{
+    "algorithm": "Skein",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "NMS",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Numus",
+    "network": {
+        "t_available_supply": 2750877,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 2750877
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/NMS"
+    ],
+    "social": [
+        "https://twitter.com/http://numus.cash/"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
+}

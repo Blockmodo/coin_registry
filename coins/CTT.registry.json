@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"CodeTract","fromSymbol":"CTT","toSymbol":"ALL","website":"https://launch.codetract.io/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/CTT"],"explorer":[],"chat":[],"social":["https://twitter.com/@codetractio"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "CTT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "CodeTract",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/CTT"
+    ],
+    "social": [
+        "https://twitter.com/@codetractio"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://launch.codetract.io/"
+}

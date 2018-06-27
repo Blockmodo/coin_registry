@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"TrumpCoin","fromSymbol":"TRUMP","toSymbol":"ALL","website":"http://trumpcoin.rocks/","network":{"t_total_supply":6600114,"t_available_supply":6600114,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"Blake","description":{"en":""},"quote":["https://blockmodo.com/quotes/TRUMP"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":[],"source_code":[]}
+{
+    "algorithm": "Blake",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "TRUMP",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "TrumpCoin",
+    "network": {
+        "t_available_supply": 6600114,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 6600114
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/TRUMP"
+    ],
+    "social": [
+        "https://twitter.com/"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://trumpcoin.rocks/"
+}

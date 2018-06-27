@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"GoaCoin","fromSymbol":"GOA","toSymbol":"ALL","website":"http://goaco.in/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":32000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"NeoScrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/GOA"],"explorer":[],"chat":[],"social":["https://twitter.com/@GoaCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "NeoScrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "GOA",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "GoaCoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 32000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/GOA"
+    ],
+    "social": [
+        "https://twitter.com/@GoaCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://goaco.in/"
+}

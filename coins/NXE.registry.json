@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"NXEcoin","fromSymbol":"NXE","toSymbol":"ALL","website":"http://www.nxeprotocol.co/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":2200000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"NIST5","description":{"en":""},"quote":["https://blockmodo.com/quotes/NXE"],"explorer":[],"chat":[],"social":["https://twitter.com/@nxeprotocol"],"community":[],"source_code":[]}
+{
+    "algorithm": "NIST5",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "NXE",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "NXEcoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 2200000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/NXE"
+    ],
+    "social": [
+        "https://twitter.com/@nxeprotocol"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.nxeprotocol.co/"
+}

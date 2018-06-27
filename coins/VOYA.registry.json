@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Voyacoin","fromSymbol":"VOYA","toSymbol":"ALL","website":"-","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/VOYA"],"explorer":[],"chat":[],"social":["https://twitter.com/@voyacoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "VOYA",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Voyacoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/VOYA"
+    ],
+    "social": [
+        "https://twitter.com/@voyacoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"HunterCoin","fromSymbol":"HUC","toSymbol":"ALL","website":"http://huntercoin.org/","network":{"t_total_supply":22877680,"t_available_supply":22877680,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Multiple","description":{"en":""},"quote":["https://blockmodo.com/quotes/HUC"],"explorer":[],"chat":[],"social":["https://twitter.com/@ChronoKings"],"community":[],"source_code":[]}
+{
+    "algorithm": "Multiple",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "HUC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "HunterCoin",
+    "network": {
+        "t_available_supply": 22877680,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 22877680
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/HUC"
+    ],
+    "social": [
+        "https://twitter.com/@ChronoKings"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://huntercoin.org/"
+}

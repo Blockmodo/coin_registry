@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"CETUS Coin","fromSymbol":"CETI","toSymbol":"ALL","website":"http://cetuscoin.cc/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/CETI"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":["https://www.reddit.com/r/cetuscoin/.rss"],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/cetuscoin/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "CETI",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "CETUS Coin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/CETI"
+    ],
+    "social": [
+        "https://twitter.com/"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://cetuscoin.cc/"
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"ZCashGOLD","fromSymbol":"ZCG","toSymbol":"ALL","website":"http://zcashgold.net/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":5000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/ZCG"],"explorer":[],"chat":[],"social":["https://twitter.com/@ZCashGOLD"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "ZCG",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "ZCashGOLD",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 5000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/ZCG"
+    ],
+    "social": [
+        "https://twitter.com/@ZCashGOLD"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://zcashgold.net/"
+}

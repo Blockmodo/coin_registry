@@ -1,36 +1,36 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "3DES",
-  "fromSymbol": "3DES",
-  "toSymbol": "ALL",
-  "website": "https://3des.network",
-  "network": {
-    "t_total_supply": 35000000,
-    "t_available_supply": 35000000,
-    "t_max_supply": 35000000,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": false,
-  "proof_type": null,
-  "algorithm": null,
-  "description": {
-    "en": "3DES is a decentralised solution for 3D models slicing to make the 3D printing faster, cheaper and easier."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/3DES"
-  ],
-  "explorer": [],
-  "chat": [
-  	"https://t.me/joinchat/GLomkUR37wNRKAIbeRX5_A"
-  ],
-  "social": [
-    "https://twitter.com/@3DesProject"
-  ],
-  "community": [
-  	"https://www.facebook.com/3des.network/",
-  	"https://twitter.com/3DesProject"
-  ],
-  "source_code": []
+    "algorithm": null,
+    "chat": [
+        "https://t.me/joinchat/GLomkUR37wNRKAIbeRX5_A"
+    ],
+    "community": [
+        "https://www.facebook.com/3des.network/",
+        "https://twitter.com/3DesProject"
+    ],
+    "description": {
+        "en": "3DES is a decentralised solution for 3D models slicing to make the 3D printing faster, cheaper and easier."
+    },
+    "explorer": [],
+    "fromSymbol": "3DES",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "3DES",
+    "network": {
+        "t_available_supply": 35000000,
+        "t_block_reward": 0,
+        "t_max_supply": 35000000,
+        "t_total_supply": 35000000
+    },
+    "proof_type": null,
+    "quote": [
+        "https://blockmodo.com/quotes/3DES"
+    ],
+    "social": [
+        "https://twitter.com/@3DesProject"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://3des.network"
 }

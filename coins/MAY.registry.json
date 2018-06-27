@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Theresa May Coin","fromSymbol":"MAY","toSymbol":"ALL","website":"http://www.theresamaycoin.com/","network":{"t_total_supply":48437200,"t_available_supply":48437200,"t_max_supply":100000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"SHA256","description":{"en":""},"quote":["https://blockmodo.com/quotes/MAY"],"explorer":[],"chat":[],"social":["https://twitter.com/@Theresamaycoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "MAY",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Theresa May Coin",
+    "network": {
+        "t_available_supply": 48437200,
+        "t_block_reward": 0,
+        "t_max_supply": 100000000,
+        "t_total_supply": 48437200
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/MAY"
+    ],
+    "social": [
+        "https://twitter.com/@Theresamaycoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.theresamaycoin.com/"
+}

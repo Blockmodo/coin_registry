@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Thecreed","fromSymbol":"TCR","toSymbol":"ALL","website":"http://thecreed.tech/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"QuBit","description":{"en":""},"quote":["https://blockmodo.com/quotes/TCR"],"explorer":[],"chat":[],"social":["https://twitter.com/@TheCreed_Crypto"],"community":[],"source_code":[]}
+{
+    "algorithm": "QuBit",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "TCR",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Thecreed",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/TCR"
+    ],
+    "social": [
+        "https://twitter.com/@TheCreed_Crypto"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://thecreed.tech/"
+}

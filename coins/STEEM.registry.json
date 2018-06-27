@@ -1,1 +1,35 @@
-{"type":"COINREGISTRY","version":1,"name":"Steem","fromSymbol":"STEEM","toSymbol":"ALL","website":"https://steem.io/","network":{"t_total_supply":262614060,"t_available_supply":262614060,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/STEEM"],"explorer":[],"chat":[],"social":["https://twitter.com/@steemit"],"community":["https://www.reddit.com/r/steem/.rss"],"source_code":["https://github.com/steemit/steem/commits/master.atom"]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/steem/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "STEEM",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Steem",
+    "network": {
+        "t_available_supply": 262614060,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 262614060
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/STEEM"
+    ],
+    "social": [
+        "https://twitter.com/@steemit"
+    ],
+    "source_code": [
+        "https://github.com/steemit/steem/commits/master.atom"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://steem.io/"
+}

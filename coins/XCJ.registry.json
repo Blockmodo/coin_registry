@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"CoinJob","fromSymbol":"XCJ","toSymbol":"ALL","website":"https://www.coinjob.net/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":200000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/XCJ"],"explorer":[],"chat":[],"social":["https://twitter.com/@gocoinjob"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "XCJ",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "CoinJob",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 200000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/XCJ"
+    ],
+    "social": [
+        "https://twitter.com/@gocoinjob"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.coinjob.net/"
+}

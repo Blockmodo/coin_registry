@@ -1,1 +1,36 @@
-{"type":"COINREGISTRY","version":1,"name":"0x","fromSymbol":"ZRX","toSymbol":"ALL","website":"https://www.0xproject.com/#home","network":{"t_total_supply":531712585,"t_available_supply":531712585,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/ZRX"],"explorer":[],"chat":[],"social":["https://twitter.com/@0xproject"],"community":["https://www.reddit.com/r/0xProject/.rss","https://www.reddit.com/r/zrxtrader/.rss"],"source_code":["https://github.com/0xProject/0x-monorepo/commits/development.atom"]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/0xProject/.rss",
+        "https://www.reddit.com/r/zrxtrader/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "ZRX",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "0x",
+    "network": {
+        "t_available_supply": 531712585,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 531712585
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/ZRX"
+    ],
+    "social": [
+        "https://twitter.com/@0xproject"
+    ],
+    "source_code": [
+        "https://github.com/0xProject/0x-monorepo/commits/development.atom"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.0xproject.com/#home"
+}

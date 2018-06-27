@@ -1,36 +1,36 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "Bitcoin",
-  "fromSymbol": "BTC",
-  "toSymbol": "ALL",
-  "website": "https://bitcoin.org/en",
-  "network": {
-    "t_total_supply": 17115450,
-    "t_available_supply": 17107462,
-    "t_max_supply": 21000000,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": true,
-  "proof_type": "PoW",
-  "algorithm": "SHA256",
-  "description": {
-    "en": "Bitcoin is the world's first cryptocurrency, a form of electronic cash. It is the first decentralized digital currency: the system works without a central bank or single administrator."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/BTC"
-  ],
-  "explorer": [],
-  "chat": [],
-  "social": [
-    "https://www.facebook.com/bitcoins"
-  ],
-  "community": [
-    "https://www.reddit.com/r/Bitcoin",
-    "https://www.reddit.com/r/BitcoinMarkets"
-  ],
-  "source_code": [
-    "https://github.com/bitcoin/bitcoin"
-  ]
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/Bitcoin",
+        "https://www.reddit.com/r/BitcoinMarkets"
+    ],
+    "description": {
+        "en": "Bitcoin is the world's first cryptocurrency, a form of electronic cash. It is the first decentralized digital currency: the system works without a central bank or single administrator."
+    },
+    "explorer": [],
+    "fromSymbol": "BTC",
+    "is_crypto": true,
+    "is_minable": true,
+    "name": "Bitcoin",
+    "network": {
+        "t_available_supply": 17107462,
+        "t_block_reward": 0,
+        "t_max_supply": 21000000,
+        "t_total_supply": 17115450
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/BTC"
+    ],
+    "social": [
+        "https://www.facebook.com/bitcoins"
+    ],
+    "source_code": [
+        "https://github.com/bitcoin/bitcoin"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://bitcoin.org/en"
 }

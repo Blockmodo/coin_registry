@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"WhaleCoin","fromSymbol":"WHL","toSymbol":"ALL","website":"https://whalecoin.org/","network":{"t_total_supply":10069228,"t_available_supply":10069228,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Ethash","description":{"en":""},"quote":["https://blockmodo.com/quotes/WHL"],"explorer":[],"chat":[],"social":["https://twitter.com/@WhaleCoinOrg"],"community":[],"source_code":[]}
+{
+    "algorithm": "Ethash",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "WHL",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "WhaleCoin",
+    "network": {
+        "t_available_supply": 10069228,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 10069228
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/WHL"
+    ],
+    "social": [
+        "https://twitter.com/@WhaleCoinOrg"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://whalecoin.org/"
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"FujiCoin","fromSymbol":"FJC","toSymbol":"ALL","website":"http://www.fujicoin.org/","network":{"t_total_supply":1310942755,"t_available_supply":1310942755,"t_max_supply":10000000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Scrypt-n","description":{"en":""},"quote":["https://blockmodo.com/quotes/FJC"],"explorer":[],"chat":[],"social":["https://twitter.com/@FujiCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt-n",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "FJC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "FujiCoin",
+    "network": {
+        "t_available_supply": 1310942755,
+        "t_block_reward": 0,
+        "t_max_supply": 10000000000,
+        "t_total_supply": 1310942755
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/FJC"
+    ],
+    "social": [
+        "https://twitter.com/@FujiCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.fujicoin.org/"
+}

@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"Asch","fromSymbol":"XAS","toSymbol":"ALL","website":"https://www.asch.so/","network":{"t_total_supply":93355331,"t_available_supply":93355331,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/XAS"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":["https://www.reddit.com/r/Asch_Platform/.rss"],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/Asch_Platform/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "XAS",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Asch",
+    "network": {
+        "t_available_supply": 93355331,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 93355331
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/XAS"
+    ],
+    "social": [
+        "https://twitter.com/"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.asch.so/"
+}

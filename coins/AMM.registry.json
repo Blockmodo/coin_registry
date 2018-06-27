@@ -1,44 +1,44 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "MicroMoney",
-  "fromSymbol": "AMM",
-  "toSymbol": "ALL",
-  "website": "https://www.micromoney.io",
-  "network": {
-    "t_total_supply": 17532943,
-    "t_available_supply": 11146279,
-    "t_max_supply": 0,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": false,
-  "proof_type": null,
-  "algorithm": null,
-  "description": {
-    "en": "MicroMoney is an Open Source Credit & Big Data Bureau that connects new customers to all existing financial services. MicroMoney A.I. platform uses complex algorithms to predict creditworthiness of all customers and in just 15 minutes a borrower can get their very first loan in his/her life just from their smartphone. All customers have an ability to pay less interest and have a higher credit rating, if they use our platform more often . All aggregated Big Data and Credit Histories are stored on the Blockchain. Thousands of existing businesses will get access to millions of new customers which we will bring to the global economy."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/AMM"
-  ],
-  "explorer": [
-  	"https://ethplorer.io/address/0x8b1f49491477e0fb46a29fef53f1ea320d13c349",
-  	"https://etherscan.io/token/0x8b1f49491477e0fb46a29fef53f1ea320d13c349"
-  ],
-  "chat": [
-  	"https://open.kakao.com/o/gmWcCnB",
-  	"https://t.me/micromoneyico",
-  	"https://chat.whatsapp.com/invite/DP5XsCwjd8H0OoY4b4EmD6"
-  ],
-  "social": [
-    "https://twitter.com/@micromoneyio",
-    "https://www.facebook.com/micromoneymyanmar",
-    "https://www.instagram.com/micromoney.io"
-  ],
-  "community": [
-  	"https://www.reddit.com/user/antondziatkovskiis"
-  ],
-  "source_code": [
-  	"https://github.com/micro-money/prime"
-  ]
+    "algorithm": null,
+    "chat": [
+        "https://open.kakao.com/o/gmWcCnB",
+        "https://t.me/micromoneyico",
+        "https://chat.whatsapp.com/invite/DP5XsCwjd8H0OoY4b4EmD6"
+    ],
+    "community": [
+        "https://www.reddit.com/user/antondziatkovskiis"
+    ],
+    "description": {
+        "en": "MicroMoney is an Open Source Credit & Big Data Bureau that connects new customers to all existing financial services. MicroMoney A.I. platform uses complex algorithms to predict creditworthiness of all customers and in just 15 minutes a borrower can get their very first loan in his/her life just from their smartphone. All customers have an ability to pay less interest and have a higher credit rating, if they use our platform more often . All aggregated Big Data and Credit Histories are stored on the Blockchain. Thousands of existing businesses will get access to millions of new customers which we will bring to the global economy."
+    },
+    "explorer": [
+        "https://ethplorer.io/address/0x8b1f49491477e0fb46a29fef53f1ea320d13c349",
+        "https://etherscan.io/token/0x8b1f49491477e0fb46a29fef53f1ea320d13c349"
+    ],
+    "fromSymbol": "AMM",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "MicroMoney",
+    "network": {
+        "t_available_supply": 11146279,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 17532943
+    },
+    "proof_type": null,
+    "quote": [
+        "https://blockmodo.com/quotes/AMM"
+    ],
+    "social": [
+        "https://twitter.com/@micromoneyio",
+        "https://www.facebook.com/micromoneymyanmar",
+        "https://www.instagram.com/micromoney.io"
+    ],
+    "source_code": [
+        "https://github.com/micro-money/prime"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.micromoney.io"
 }

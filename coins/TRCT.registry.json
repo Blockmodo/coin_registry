@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Tracto","fromSymbol":"TRCT","toSymbol":"ALL","website":"http://www.tracto.org/","network":{"t_total_supply":26912941,"t_available_supply":26912941,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/TRCT"],"explorer":[],"chat":[],"social":["https://twitter.com/@Tracto14"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "TRCT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Tracto",
+    "network": {
+        "t_available_supply": 26912941,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 26912941
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/TRCT"
+    ],
+    "social": [
+        "https://twitter.com/@Tracto14"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.tracto.org/"
+}

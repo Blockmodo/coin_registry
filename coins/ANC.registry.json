@@ -1,41 +1,41 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "Anoncoin",
-  "fromSymbol": "ANC",
-  "toSymbol": "ALL",
-  "website": "https://anoncoin.net",
-  "network": {
-    "t_total_supply": 2110317,
-    "t_available_supply": 2110317,
-    "t_max_supply": 3103954,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": true,
-  "proof_type": "PoW/PoS",
-  "algorithm": "SHA256",
-  "description": {
-    "en": "Anoncoin (trading symbol ANC) is a digital cryptocurrency that focuses on privacy and anonymity for its users. Created in June 2013, it was the first coin that provided built in support for the I2P darknet that makes it impossible to determine the IP address of the user."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/ANC"
-  ],
-  "explorer": [
-  	"https://chainz.cryptoid.info/anc",
-  	"http://abe.darkgamex.ch:2751/chain/Anoncoin"
-  ],
-  "chat": [
-  	"https://anoncoin.slack.com/join/shared_invite/enQtMjcxMzUxMjk5ODYwLTU0OTJhNmIxNzYyY2JiMzUxOGZhMjYzNmQ3YmViNWM1OWIxZGNlMGY0Zjg1NzdhMDAyZmRiYTFhNTM1OWZiYTU"
-  ],
-  "social": [
-    "https://twitter.com/@AnonCoinProject",
-    "https://www.facebook.com/Anoncoin"
-  ],
-  "community": [
-  	"https://www.reddit.com/r/Anoncoin"
-  ],
-  "source_code": [
-  	"https://github.com/Anoncoin/anoncoin"
-  ]
+    "algorithm": "SHA256",
+    "chat": [
+        "https://anoncoin.slack.com/join/shared_invite/enQtMjcxMzUxMjk5ODYwLTU0OTJhNmIxNzYyY2JiMzUxOGZhMjYzNmQ3YmViNWM1OWIxZGNlMGY0Zjg1NzdhMDAyZmRiYTFhNTM1OWZiYTU"
+    ],
+    "community": [
+        "https://www.reddit.com/r/Anoncoin"
+    ],
+    "description": {
+        "en": "Anoncoin (trading symbol ANC) is a digital cryptocurrency that focuses on privacy and anonymity for its users. Created in June 2013, it was the first coin that provided built in support for the I2P darknet that makes it impossible to determine the IP address of the user."
+    },
+    "explorer": [
+        "https://chainz.cryptoid.info/anc",
+        "http://abe.darkgamex.ch:2751/chain/Anoncoin"
+    ],
+    "fromSymbol": "ANC",
+    "is_crypto": true,
+    "is_minable": true,
+    "name": "Anoncoin",
+    "network": {
+        "t_available_supply": 2110317,
+        "t_block_reward": 0,
+        "t_max_supply": 3103954,
+        "t_total_supply": 2110317
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/ANC"
+    ],
+    "social": [
+        "https://twitter.com/@AnonCoinProject",
+        "https://www.facebook.com/Anoncoin"
+    ],
+    "source_code": [
+        "https://github.com/Anoncoin/anoncoin"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://anoncoin.net"
 }

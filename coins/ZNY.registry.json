@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"BitZeny","fromSymbol":"ZNY","toSymbol":"ALL","website":"http://bitzeny.org/","network":{"t_total_supply":75614500,"t_available_supply":75614500,"t_max_supply":250000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/ZNY"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "ZNY",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "BitZeny",
+    "network": {
+        "t_available_supply": 75614500,
+        "t_block_reward": 0,
+        "t_max_supply": 250000000,
+        "t_total_supply": 75614500
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/ZNY"
+    ],
+    "social": [
+        "https://twitter.com/"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://bitzeny.org/"
+}

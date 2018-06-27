@@ -1,42 +1,42 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "AirToken",
-  "fromSymbol": "AIR",
-  "toSymbol": "ALL",
-  "website": "https://www.airtoken.com/",
-  "network": {
-    "t_total_supply": 1050000000,
-    "t_available_supply": 1050000000,
-    "t_max_supply": 1491492558,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": false,
-  "proof_type": null,
-  "algorithm": null,
-  "description": {
-    "en": "AirToken is an Ethereum-based ERC-20 digital utility token that facilitates the transfer of mobile airtime, data and currency, as well as payments for goods and services, with minimal friction and fees. A peer-to-peer network connects lenders around the world to borrowers in developing countries using AirTokens (AIR)."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/AIR"
-  ],
-  "explorer": [
-  	"https://etherscan.io/token/0x27dce1ec4d3f72c3e457cc50354f1f975ddef488",
-  	"https://ethplorer.io/address/0x27dce1ec4d3f72c3e457cc50354f1f975ddef488"
-  ],
-  "chat": [
-  	"https://discordapp.com/invite/JXNyapc",
-  	"https://t.me/airtoken_official",
-  	"https://open.kakao.com/o/gaGgvaC"
-  ],
-  "social": [
-    "https://twitter.com/@airtoken"
-  ],
-  "community": [
-  	"https://www.reddit.com/r/AirToken"
-  ],
-  "source_code": [
-  	"https://github.com/AirFoxOfficial/AirTokenContract"
-  ]
+    "algorithm": null,
+    "chat": [
+        "https://discordapp.com/invite/JXNyapc",
+        "https://t.me/airtoken_official",
+        "https://open.kakao.com/o/gaGgvaC"
+    ],
+    "community": [
+        "https://www.reddit.com/r/AirToken"
+    ],
+    "description": {
+        "en": "AirToken is an Ethereum-based ERC-20 digital utility token that facilitates the transfer of mobile airtime, data and currency, as well as payments for goods and services, with minimal friction and fees. A peer-to-peer network connects lenders around the world to borrowers in developing countries using AirTokens (AIR)."
+    },
+    "explorer": [
+        "https://etherscan.io/token/0x27dce1ec4d3f72c3e457cc50354f1f975ddef488",
+        "https://ethplorer.io/address/0x27dce1ec4d3f72c3e457cc50354f1f975ddef488"
+    ],
+    "fromSymbol": "AIR",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "AirToken",
+    "network": {
+        "t_available_supply": 1050000000,
+        "t_block_reward": 0,
+        "t_max_supply": 1491492558,
+        "t_total_supply": 1050000000
+    },
+    "proof_type": null,
+    "quote": [
+        "https://blockmodo.com/quotes/AIR"
+    ],
+    "social": [
+        "https://twitter.com/@airtoken"
+    ],
+    "source_code": [
+        "https://github.com/AirFoxOfficial/AirTokenContract"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.airtoken.com/"
 }

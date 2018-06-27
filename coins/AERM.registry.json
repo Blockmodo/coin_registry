@@ -1,40 +1,41 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "Aerium",
-  "fromSymbol": "AERM",
-  "toSymbol": "ALL",
-  "website": "https://www.aeriumx.net/",
-  "network": {
-    "t_total_supply": 112201501,
-    "t_available_supply": 112201501,
-    "t_max_supply": 500000000,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": true,
-  "proof_type": "PoW/PoS",
-  "algorithm": "SkunkHash",
-  "description": {
-    "en": "The Aerium project was initially created as a high return POS coin. Since its inception in November 2017, it has gained an overwhelming amount of popularity amongst the community and the core team is now looking to drive growth into the project! An update to the website is currently being conducted, and at the conclusion of the update, a roadmap and whitepaper will be posted to the website!"
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/AERM"
-  ],
-  "explorer": [
-  	"http://185.223.31.170:3001",
-  	"https://chainmapper.com/aex"
-  ],
-  "chat": [
-  	"https://discordapp.com/invite/kTeyty7",
-  	"https://t.me/Aerium_Official"
-  ],
-  "social": [
-    "https://twitter.com/@AeriumCoin"
-  ],
-  "community": [],
-  "source_code": [
-  	"https://github.com/aeriumcoin/AeriumX-BETA",
-  	"https://github.com/aeriumcoin/AeriumX",
-  	"https://github.com/aeriumcoin/Aeriums"]
+    "algorithm": "SkunkHash",
+    "chat": [
+        "https://discordapp.com/invite/kTeyty7",
+        "https://t.me/Aerium_Official"
+    ],
+    "community": [],
+    "description": {
+        "en": "The Aerium project was initially created as a high return POS coin. Since its inception in November 2017, it has gained an overwhelming amount of popularity amongst the community and the core team is now looking to drive growth into the project! An update to the website is currently being conducted, and at the conclusion of the update, a roadmap and whitepaper will be posted to the website!"
+    },
+    "explorer": [
+        "http://185.223.31.170:3001",
+        "https://chainmapper.com/aex"
+    ],
+    "fromSymbol": "AERM",
+    "is_crypto": true,
+    "is_minable": true,
+    "name": "Aerium",
+    "network": {
+        "t_available_supply": 112201501,
+        "t_block_reward": 0,
+        "t_max_supply": 500000000,
+        "t_total_supply": 112201501
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/AERM"
+    ],
+    "social": [
+        "https://twitter.com/@AeriumCoin"
+    ],
+    "source_code": [
+        "https://github.com/aeriumcoin/AeriumX-BETA",
+        "https://github.com/aeriumcoin/AeriumX",
+        "https://github.com/aeriumcoin/Aeriums"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.aeriumx.net/"
 }

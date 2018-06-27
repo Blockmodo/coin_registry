@@ -1,39 +1,39 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "808",
-  "fromSymbol": "808",
-  "toSymbol": "ALL",
-  "website": "http://808bass.space/",
-  "network": {
-    "t_total_supply": 118559838185,
-    "t_available_supply": 118559838185,
-    "t_max_supply": 0,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": true,
-  "proof_type": "PoW/PoS",
-  "algorithm": "SHA256",
-  "description": {
-    "en": "Designed for a long term community the 808 coin was originally developed in mind for those who wish to contribute their own time towards block chain projects & community building, distinguishable among other alternate crypto currencies while honoring the TR-Roland 808 drum machine & the music industry across all genres."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/808"
-  ],
-  "explorer": [
-  	"https://808.btcpop.co/"
-  ],
-  "chat": [
-  	"https://discordapp.com/invite/tQJaCrd"
-  ],
-  "social": [
-    "https://twitter.com/@808BassCoin"
-  ],
-  "community": [
-  	"https://www.reddit.com/r/808Coin/"
-  ],
-  "source_code": [
-  	"https://github.com/maxxine/808"
-  ]
+    "algorithm": "SHA256",
+    "chat": [
+        "https://discordapp.com/invite/tQJaCrd"
+    ],
+    "community": [
+        "https://www.reddit.com/r/808Coin/"
+    ],
+    "description": {
+        "en": "Designed for a long term community the 808 coin was originally developed in mind for those who wish to contribute their own time towards block chain projects & community building, distinguishable among other alternate crypto currencies while honoring the TR-Roland 808 drum machine & the music industry across all genres."
+    },
+    "explorer": [
+        "https://808.btcpop.co/"
+    ],
+    "fromSymbol": "808",
+    "is_crypto": true,
+    "is_minable": true,
+    "name": "808",
+    "network": {
+        "t_available_supply": 118559838185,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 118559838185
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/808"
+    ],
+    "social": [
+        "https://twitter.com/@808BassCoin"
+    ],
+    "source_code": [
+        "https://github.com/maxxine/808"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://808bass.space/"
 }

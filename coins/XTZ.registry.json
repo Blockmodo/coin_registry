@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Tezos","fromSymbol":"XTZ","toSymbol":"ALL","website":"https://www.tezos.com/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"DPoS","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/XTZ"],"explorer":[],"chat":[],"social":["https://twitter.com/@tez0s"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "XTZ",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Tezos",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 0
+    },
+    "proof_type": "DPoS",
+    "quote": [
+        "https://blockmodo.com/quotes/XTZ"
+    ],
+    "social": [
+        "https://twitter.com/@tez0s"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.tezos.com/"
+}

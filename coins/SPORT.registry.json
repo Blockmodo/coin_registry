@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"SportsCoin","fromSymbol":"SPORT","toSymbol":"ALL","website":"http://www.thesportscoin.com/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"X11","description":{"en":""},"quote":["https://blockmodo.com/quotes/SPORT"],"explorer":[],"chat":[],"social":["https://twitter.com/@thesportscoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "X11",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "SPORT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "SportsCoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/SPORT"
+    ],
+    "social": [
+        "https://twitter.com/@thesportscoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.thesportscoin.com/"
+}

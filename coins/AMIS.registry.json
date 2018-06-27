@@ -1,36 +1,36 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "AMIS",
-  "fromSymbol": "AMIS",
-  "toSymbol": "ALL",
-  "website": "http://erc20-amis.amisolution.net",
-  "network": {
-    "t_total_supply": 20000000,
-    "t_available_supply": 20000000,
-    "t_max_supply": 20000000,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": false,
-  "proof_type": null,
-  "algorithm": null,
-  "description": {
-    "en": "AMIS is the 1st Asset Management Instrument solution vehicle built on the ethereum blockchain."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/AMIS"
-  ],
-  "explorer": [
-  	"https://ethplorer.io/address/0x949bed886c739f1a3273629b3320db0c5024c719",
-  	"https://etherscan.io/token/0x949bEd886c739f1A3273629b3320db0C5024c719"
-  ],
-  "chat": [],
-  "social": [
-    "https://twitter.com/@AMIS_ERC20"
-  ],
-  "community": [],
-  "source_code": [
-  	"https://github.com/amisolution/ERC20-AMIS"
-  ]
+    "algorithm": null,
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": "AMIS is the 1st Asset Management Instrument solution vehicle built on the ethereum blockchain."
+    },
+    "explorer": [
+        "https://ethplorer.io/address/0x949bed886c739f1a3273629b3320db0c5024c719",
+        "https://etherscan.io/token/0x949bEd886c739f1A3273629b3320db0C5024c719"
+    ],
+    "fromSymbol": "AMIS",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "AMIS",
+    "network": {
+        "t_available_supply": 20000000,
+        "t_block_reward": 0,
+        "t_max_supply": 20000000,
+        "t_total_supply": 20000000
+    },
+    "proof_type": null,
+    "quote": [
+        "https://blockmodo.com/quotes/AMIS"
+    ],
+    "social": [
+        "https://twitter.com/@AMIS_ERC20"
+    ],
+    "source_code": [
+        "https://github.com/amisolution/ERC20-AMIS"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://erc20-amis.amisolution.net"
 }

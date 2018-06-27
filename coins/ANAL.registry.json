@@ -1,31 +1,31 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "Anal Coin",
-  "fromSymbol": "ANAL",
-  "toSymbol": "ALL",
-  "website": null,
-  "network": {
-    "t_total_supply": 0,
-    "t_available_supply": 0,
-    "t_max_supply": 600000,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": true,
-  "proof_type": "PoW/PoS",
-  "algorithm": "SHA256",
-  "description": {
-    "en": "The Coin for Analysts!"
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/ANAL"
-  ],
-  "explorer": [],
-  "chat": [],
-  "social": [],
-  "community": [],
-  "source_code": [
-  	"https://github.com/analcoin/analcoin"
-  ]
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": "The Coin for Analysts!"
+    },
+    "explorer": [],
+    "fromSymbol": "ANAL",
+    "is_crypto": true,
+    "is_minable": true,
+    "name": "Anal Coin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 600000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/ANAL"
+    ],
+    "social": [],
+    "source_code": [
+        "https://github.com/analcoin/analcoin"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": null
 }

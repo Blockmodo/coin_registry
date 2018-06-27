@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"Golem Network Token","fromSymbol":"GNT","toSymbol":"ALL","website":"https://golem.network/","network":{"t_total_supply":839242000,"t_available_supply":839242000,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/GNT"],"explorer":[],"chat":[],"social":["https://twitter.com/@golemproject"],"community":["https://www.reddit.com/r/GolemProject/.rss"],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/GolemProject/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "GNT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Golem Network Token",
+    "network": {
+        "t_available_supply": 839242000,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 839242000
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/GNT"
+    ],
+    "social": [
+        "https://twitter.com/@golemproject"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://golem.network/"
+}

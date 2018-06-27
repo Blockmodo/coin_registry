@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Pascal Coin","fromSymbol":"PASC","toSymbol":"ALL","website":"http://www.pascalcoin.org/","network":{"t_total_supply":21645300,"t_available_supply":21645300,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/PASC"],"explorer":[],"chat":[],"social":["https://twitter.com/@PascalCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "PASC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Pascal Coin",
+    "network": {
+        "t_available_supply": 21645300,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 21645300
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/PASC"
+    ],
+    "social": [
+        "https://twitter.com/@PascalCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.pascalcoin.org/"
+}

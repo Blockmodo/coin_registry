@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"ThankYou","fromSymbol":"THNX","toSymbol":"ALL","website":"https://www.facebook.com/groups/208455292888894/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":70000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/THNX"],"explorer":[],"chat":[],"social":["https://twitter.com/@ThnxWorld"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "THNX",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "ThankYou",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 70000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/THNX"
+    ],
+    "social": [
+        "https://twitter.com/@ThnxWorld"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.facebook.com/groups/208455292888894/"
+}

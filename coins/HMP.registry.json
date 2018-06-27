@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"HempCoin","fromSymbol":"HMP","toSymbol":"ALL","website":"http://www.hempcoin.com/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":5000000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Scrypt-n","description":{"en":""},"quote":["https://blockmodo.com/quotes/HMP"],"explorer":[],"chat":[],"social":["https://twitter.com/@hempcoin1"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt-n",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "HMP",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "HempCoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 5000000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/HMP"
+    ],
+    "social": [
+        "https://twitter.com/@hempcoin1"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.hempcoin.com/"
+}

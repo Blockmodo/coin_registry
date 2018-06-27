@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"SunContract","fromSymbol":"SNC","toSymbol":"ALL","website":"https://suncontract.org/","network":{"t_total_supply":119719134,"t_available_supply":119719134,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/SNC"],"explorer":[],"chat":[],"social":["https://twitter.com/@sun_contract"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "SNC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "SunContract",
+    "network": {
+        "t_available_supply": 119719134,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 119719134
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/SNC"
+    ],
+    "social": [
+        "https://twitter.com/@sun_contract"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://suncontract.org/"
+}

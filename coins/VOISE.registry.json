@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Voise","fromSymbol":"VOISE","toSymbol":"ALL","website":"https://www.voise.com/","network":{"t_total_supply":521625806,"t_available_supply":521625806,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/VOISE"],"explorer":[],"chat":[],"social":["https://twitter.com/@voisecom"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "VOISE",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Voise",
+    "network": {
+        "t_available_supply": 521625806,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 521625806
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/VOISE"
+    ],
+    "social": [
+        "https://twitter.com/@voisecom"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.voise.com/"
+}

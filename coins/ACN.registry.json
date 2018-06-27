@@ -1,31 +1,31 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "AvonCoin",
-  "fromSymbol": "ACN",
-  "toSymbol": "ALL",
-  "website": "http://avoncoin.org/",
-  "network": {
-    "t_total_supply": 0,
-    "t_available_supply": 0,
-    "t_max_supply": 1000000000,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": false,
-  "proof_type": "PoS",
-  "algorithm": "PoS",
-  "description": {
-    "en": "AvonCoin is a pure PoS coin which generates coins through PoS blocks. Except the first block where it generates the initial 100 million coins, no PoW mining will get any coins. The 1 billion coins were distributed equally to 1000 individuals with 100,000 coin each, completely free."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/ACN"
-  ],
-  "explorer": [],
-  "chat": [],
-  "social": [
-    "https://twitter.com/avoncoin"
-  ],
-  "community": [],
-  "source_code": []
+    "algorithm": "PoS",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": "AvonCoin is a pure PoS coin which generates coins through PoS blocks. Except the first block where it generates the initial 100 million coins, no PoW mining will get any coins. The 1 billion coins were distributed equally to 1000 individuals with 100,000 coin each, completely free."
+    },
+    "explorer": [],
+    "fromSymbol": "ACN",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "AvonCoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 1000000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/ACN"
+    ],
+    "social": [
+        "https://twitter.com/avoncoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://avoncoin.org/"
 }

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"ArchCoin","fromSymbol":"ARCH","toSymbol":"ALL","website":"https://www.archcoin.co/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":16403135,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/ARCH"],"explorer":[],"chat":[],"social":["https://twitter.com/@ARCHcoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "ARCH",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "ArchCoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 16403135,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/ARCH"
+    ],
+    "social": [
+        "https://twitter.com/@ARCHcoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.archcoin.co/"
+}

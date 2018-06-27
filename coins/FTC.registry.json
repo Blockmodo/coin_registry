@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"FeatherCoin","fromSymbol":"FTC","toSymbol":"ALL","website":"https://www.feathercoin.com/","network":{"t_total_supply":204437560,"t_available_supply":204437560,"t_max_supply":336000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/FTC"],"explorer":[],"chat":[],"social":["https://twitter.com/@Feathercoin"],"community":["https://www.reddit.com/r/FeatherCOin/.rss"],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/FeatherCOin/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "FTC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "FeatherCoin",
+    "network": {
+        "t_available_supply": 204437560,
+        "t_block_reward": 0,
+        "t_max_supply": 336000000,
+        "t_total_supply": 204437560
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/FTC"
+    ],
+    "social": [
+        "https://twitter.com/@Feathercoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.feathercoin.com/"
+}

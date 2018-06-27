@@ -1,41 +1,41 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "AudioCoin",
-  "fromSymbol": "ADC",
-  "toSymbol": "ALL",
-  "website": "http://www.audiocoin.eu",
-  "network": {
-    "t_total_supply": 900013168,
-    "t_available_supply": 900013168,
-    "t_max_supply": 0,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": true,
-  "proof_type": "PoW/PoS",
-  "algorithm": "Scrypt",
-  "description": {
-    "en": "The music industry is stacked with problems and politics making for a very uneven landscape in terms of fair share revenue and transparency. \nAs a fully decentralised coin ADC is available and open for all to build applications and solutions to rectify these inherent problems. After 4 years there are some very solid mainstream projects experimenting with adoption and this provides some encouragement for the future."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/ADC"
-  ],
-  "explorer": [
-  	"http://www.presstab.pw/phpexplorer/ADC/index.php",
-  	"https://chainz.cryptoid.info/adc"
-  ],
-  "chat": [
-  	"https://discordapp.com/invite/fvsTFcR"
-  ],
-  "social": [
-    "https://twitter.com/@Aurovine",
-    "https://www.facebook.com/ADCdigitalcurrency"
-  ],
-  "community": [
-  	"https://www.reddit.com/r/AudioCoinADC/"
-  ],
-  "source_code": [
-  	"https://github.com/aurovine/audiocoin"
-  ]
+    "algorithm": "Scrypt",
+    "chat": [
+        "https://discordapp.com/invite/fvsTFcR"
+    ],
+    "community": [
+        "https://www.reddit.com/r/AudioCoinADC/"
+    ],
+    "description": {
+        "en": "The music industry is stacked with problems and politics making for a very uneven landscape in terms of fair share revenue and transparency. \nAs a fully decentralised coin ADC is available and open for all to build applications and solutions to rectify these inherent problems. After 4 years there are some very solid mainstream projects experimenting with adoption and this provides some encouragement for the future."
+    },
+    "explorer": [
+        "http://www.presstab.pw/phpexplorer/ADC/index.php",
+        "https://chainz.cryptoid.info/adc"
+    ],
+    "fromSymbol": "ADC",
+    "is_crypto": true,
+    "is_minable": true,
+    "name": "AudioCoin",
+    "network": {
+        "t_available_supply": 900013168,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 900013168
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/ADC"
+    ],
+    "social": [
+        "https://twitter.com/@Aurovine",
+        "https://www.facebook.com/ADCdigitalcurrency"
+    ],
+    "source_code": [
+        "https://github.com/aurovine/audiocoin"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.audiocoin.eu"
 }

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"VIBEHub","fromSymbol":"VIBE","toSymbol":"ALL","website":"https://www.vibehub.io/","network":{"t_total_supply":200200144,"t_available_supply":200200144,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/VIBE"],"explorer":[],"chat":[],"social":["https://twitter.com/@VibeHubVR"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "VIBE",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "VIBEHub",
+    "network": {
+        "t_available_supply": 200200144,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 200200144
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/VIBE"
+    ],
+    "social": [
+        "https://twitter.com/@VibeHubVR"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.vibehub.io/"
+}

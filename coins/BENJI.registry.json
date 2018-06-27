@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"BenjiRolls","fromSymbol":"BENJI","toSymbol":"ALL","website":"http://benjirolls.cf/","network":{"t_total_supply":20276099,"t_available_supply":20276099,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/BENJI"],"explorer":[],"chat":[],"social":["https://twitter.com/@BenjiRolls"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "BENJI",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "BenjiRolls",
+    "network": {
+        "t_available_supply": 20276099,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 20276099
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/BENJI"
+    ],
+    "social": [
+        "https://twitter.com/@BenjiRolls"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://benjirolls.cf/"
+}

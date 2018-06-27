@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Bulwark","fromSymbol":"BWK","toSymbol":"ALL","website":"https://bulwarkcrypto.com/","network":{"t_total_supply":8626403,"t_available_supply":8626403,"t_max_supply":27000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"NIST5","description":{"en":""},"quote":["https://blockmodo.com/quotes/BWK"],"explorer":[],"chat":[],"social":["https://twitter.com/@BulwarkCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "NIST5",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "BWK",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Bulwark",
+    "network": {
+        "t_available_supply": 8626403,
+        "t_block_reward": 0,
+        "t_max_supply": 27000000,
+        "t_total_supply": 8626403
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/BWK"
+    ],
+    "social": [
+        "https://twitter.com/@BulwarkCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://bulwarkcrypto.com/"
+}

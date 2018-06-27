@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Reality Clash","fromSymbol":"RCC","toSymbol":"ALL","website":"http://reality-clash.com/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":150000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Ethash","description":{"en":""},"quote":["https://blockmodo.com/quotes/RCC"],"explorer":[],"chat":[],"social":["https://twitter.com/@reality_clash"],"community":[],"source_code":[]}
+{
+    "algorithm": "Ethash",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "RCC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Reality Clash",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 150000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/RCC"
+    ],
+    "social": [
+        "https://twitter.com/@reality_clash"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://reality-clash.com/"
+}

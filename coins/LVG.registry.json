@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Leverage Coin","fromSymbol":"LVG","toSymbol":"ALL","website":"-","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":26000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/LVG"],"explorer":[],"chat":[],"social":["https://twitter.com/@LVGCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "LVG",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Leverage Coin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 26000,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/LVG"
+    ],
+    "social": [
+        "https://twitter.com/@LVGCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Streamr DATAcoin","fromSymbol":"DATA","toSymbol":"ALL","website":"https://www.streamr.com/","network":{"t_total_supply":677154514,"t_available_supply":677154514,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/DATA"],"explorer":[],"chat":[],"social":["https://twitter.com/@streamrinc"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "DATA",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Streamr DATAcoin",
+    "network": {
+        "t_available_supply": 677154514,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 677154514
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/DATA"
+    ],
+    "social": [
+        "https://twitter.com/@streamrinc"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.streamr.com/"
+}

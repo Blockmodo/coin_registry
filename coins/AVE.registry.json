@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Avesta","fromSymbol":"AVE","toSymbol":"ALL","website":"https://www.avesta.io/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":200000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Avesta hash","description":{"en":""},"quote":["https://blockmodo.com/quotes/AVE"],"explorer":[],"chat":[],"social":["https://twitter.com/@Avesta_io"],"community":[],"source_code":[]}
+{
+    "algorithm": "Avesta hash",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "AVE",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Avesta",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 200000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/AVE"
+    ],
+    "social": [
+        "https://twitter.com/@Avesta_io"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.avesta.io/"
+}

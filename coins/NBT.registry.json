@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"NuBits","fromSymbol":"NBT","toSymbol":"ALL","website":"https://nubits.com/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"SHA256","description":{"en":""},"quote":["https://blockmodo.com/quotes/NBT"],"explorer":[],"chat":[],"social":["https://twitter.com/@OfficialNuBits"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "NBT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "NuBits",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/NBT"
+    ],
+    "social": [
+        "https://twitter.com/@OfficialNuBits"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://nubits.com/"
+}

@@ -1,33 +1,33 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "Acumen",
-  "fromSymbol": "AMT",
-  "toSymbol": "ALL",
-  "website": "https://acumen.network/index.html",
-  "network": {
-    "t_total_supply": 0,
-    "t_available_supply": 0,
-    "t_max_supply": 0,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": false,
-  "proof_type": null,
-  "algorithm": null,
-  "description": {
-    "en": "Global Decentralized Patent System."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/AMT"
-  ],
-  "explorer": [],
-  "chat": [
-  	"https://acumen-network.herokuapp.com"
-  ],
-  "social": [
-    "https://twitter.com/AcumenNetwork"
-  ],
-  "community": [],
-  "source_code": []
+    "algorithm": null,
+    "chat": [
+        "https://acumen-network.herokuapp.com"
+    ],
+    "community": [],
+    "description": {
+        "en": "Global Decentralized Patent System."
+    },
+    "explorer": [],
+    "fromSymbol": "AMT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Acumen",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 0
+    },
+    "proof_type": null,
+    "quote": [
+        "https://blockmodo.com/quotes/AMT"
+    ],
+    "social": [
+        "https://twitter.com/AcumenNetwork"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://acumen.network/index.html"
 }

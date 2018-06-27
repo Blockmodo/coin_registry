@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"TrezarCoin","fromSymbol":"TZC","toSymbol":"ALL","website":"https://trezarcoin.com/","network":{"t_total_supply":95718600,"t_available_supply":95718600,"t_max_supply":400000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"NeoScrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/TZC"],"explorer":[],"chat":[],"social":["https://twitter.com/@TrezarCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "NeoScrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "TZC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "TrezarCoin",
+    "network": {
+        "t_available_supply": 95718600,
+        "t_block_reward": 0,
+        "t_max_supply": 400000000,
+        "t_total_supply": 95718600
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/TZC"
+    ],
+    "social": [
+        "https://twitter.com/@TrezarCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://trezarcoin.com/"
+}

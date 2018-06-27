@@ -1,36 +1,36 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "Asia Coin",
-  "fromSymbol": "AC",
-  "toSymbol": "ALL",
-  "website": "http://www.thecoin.asia/",
-  "network": {
-    "t_total_supply": 1644266200,
-    "t_available_supply": 1644266200,
-    "t_max_supply": 0,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": false,
-  "proof_type": "PoS",
-  "algorithm": "Scrypt",
-  "description": {
-    "en": "AsiaCoin. Pure PoS. No Premine. No IPO."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/AC"
-  ],
-  "explorer": [
-  	"https://chainz.cryptoid.info/ac"
-  ],
-  "chat": [],
-  "social": [
-    "https://twitter.com/@AsiaCoin_",
-    "https://www.facebook.com/asiacoin"
-  ],
-  "community": [
-  	"https://www.reddit.com/r/officialac"
-  ],
-  "source_code": []
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/officialac"
+    ],
+    "description": {
+        "en": "AsiaCoin. Pure PoS. No Premine. No IPO."
+    },
+    "explorer": [
+        "https://chainz.cryptoid.info/ac"
+    ],
+    "fromSymbol": "AC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Asia Coin",
+    "network": {
+        "t_available_supply": 1644266200,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 1644266200
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/AC"
+    ],
+    "social": [
+        "https://twitter.com/@AsiaCoin_",
+        "https://www.facebook.com/asiacoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.thecoin.asia/"
 }

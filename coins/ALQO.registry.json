@@ -1,42 +1,42 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "Alqo",
-  "fromSymbol": "ALQO",
-  "toSymbol": "ALL",
-  "website": "https://alqo.org",
-  "network": {
-    "t_total_supply": 47670957,
-    "t_available_supply": 47670957,
-    "t_max_supply": 57879300,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": false,
-  "proof_type": "PoW/PoS",
-  "algorithm": "Quark",
-  "description": {
-    "en": ""
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/ALQO"
-  ],
-  "explorer": [
-  	"https://explorer.alqo.org/overview"
-  ],
-  "chat": [
-  	"https://discordapp.com/invite/qeMppWS",
-  	"https://t.me/alqochat"
-  ],
-  "social": [
-    "https://twitter.com/@ALQOCOIN",
-    "https://www.facebook.com/ALQOUniversal",
-    "https://www.instagram.com/alqo_coin"
-  ],
-  "community": [
-  	"https://www.reddit.com/r/Alqo"
-  ],
-  "source_code": [
-  	"https://github.com/ALQOCRYPTO/ALQO"
-  ]
+    "algorithm": "Quark",
+    "chat": [
+        "https://discordapp.com/invite/qeMppWS",
+        "https://t.me/alqochat"
+    ],
+    "community": [
+        "https://www.reddit.com/r/Alqo"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [
+        "https://explorer.alqo.org/overview"
+    ],
+    "fromSymbol": "ALQO",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Alqo",
+    "network": {
+        "t_available_supply": 47670957,
+        "t_block_reward": 0,
+        "t_max_supply": 57879300,
+        "t_total_supply": 47670957
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/ALQO"
+    ],
+    "social": [
+        "https://twitter.com/@ALQOCOIN",
+        "https://www.facebook.com/ALQOUniversal",
+        "https://www.instagram.com/alqo_coin"
+    ],
+    "source_code": [
+        "https://github.com/ALQOCRYPTO/ALQO"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://alqo.org"
 }

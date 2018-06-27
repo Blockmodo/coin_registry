@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"SirinLabs","fromSymbol":"SRN","toSymbol":"ALL","website":"https://sirinlabs.com/","network":{"t_total_supply":229258029,"t_available_supply":229258029,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/SRN"],"explorer":[],"chat":[],"social":["https://twitter.com/@SIRINLABS"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "SRN",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "SirinLabs",
+    "network": {
+        "t_available_supply": 229258029,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 229258029
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/SRN"
+    ],
+    "social": [
+        "https://twitter.com/@SIRINLABS"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://sirinlabs.com/"
+}

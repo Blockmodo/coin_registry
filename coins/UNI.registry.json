@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Universe","fromSymbol":"UNI","toSymbol":"ALL","website":"http://unicoin.pw","network":{"t_total_supply":26459123,"t_available_supply":26459123,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/UNI"],"explorer":[],"chat":[],"social":["https://twitter.com/@Unicoin_UNI"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "UNI",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Universe",
+    "network": {
+        "t_available_supply": 26459123,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 26459123
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/UNI"
+    ],
+    "social": [
+        "https://twitter.com/@Unicoin_UNI"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://unicoin.pw"
+}

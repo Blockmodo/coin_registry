@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Lazarus","fromSymbol":"LAZ","toSymbol":"ALL","website":"http://lazaruscoin.com/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":10000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"DPoS","algorithm":"DPoS","description":{"en":""},"quote":["https://blockmodo.com/quotes/LAZ"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":[],"source_code":[]}
+{
+    "algorithm": "DPoS",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "LAZ",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Lazarus",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 10000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "DPoS",
+    "quote": [
+        "https://blockmodo.com/quotes/LAZ"
+    ],
+    "social": [
+        "https://twitter.com/"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://lazaruscoin.com/"
+}

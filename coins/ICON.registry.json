@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"Iconic","fromSymbol":"ICON","toSymbol":"ALL","website":"http://iconicproject.com/","network":{"t_total_supply":592894,"t_available_supply":592894,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"PoS","description":{"en":""},"quote":["https://blockmodo.com/quotes/ICON"],"explorer":[],"chat":[],"social":["https://twitter.com/@ICONICTOKEN"],"community":["https://www.reddit.com/r/helloicon/.rss"],"source_code":[]}
+{
+    "algorithm": "PoS",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/helloicon/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "ICON",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Iconic",
+    "network": {
+        "t_available_supply": 592894,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 592894
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/ICON"
+    ],
+    "social": [
+        "https://twitter.com/@ICONICTOKEN"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://iconicproject.com/"
+}

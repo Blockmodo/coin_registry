@@ -1,1 +1,37 @@
-{"type":"COINREGISTRY","version":1,"name":"Stratis","fromSymbol":"STRAT","toSymbol":"ALL","website":"http://www.stratisplatform.com/","network":{"t_total_supply":98904512,"t_available_supply":98904512,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"X13","description":{"en":""},"quote":["https://blockmodo.com/quotes/STRAT"],"explorer":[],"chat":[],"social":["https://twitter.com/@stratisplatform"],"community":["https://www.reddit.com/r/stratisplatform/.rss"],"source_code":["https://github.com/stratisproject/StratisBitcoinFullNode/commits/master.atom","https://github.com/stratisproject/FullNodeUI/commits/master.atom","https://github.com/stratisproject/BlockExplorer/commits/master.atom"]}
+{
+    "algorithm": "X13",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/stratisplatform/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "STRAT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Stratis",
+    "network": {
+        "t_available_supply": 98904512,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 98904512
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/STRAT"
+    ],
+    "social": [
+        "https://twitter.com/@stratisplatform"
+    ],
+    "source_code": [
+        "https://github.com/stratisproject/StratisBitcoinFullNode/commits/master.atom",
+        "https://github.com/stratisproject/FullNodeUI/commits/master.atom",
+        "https://github.com/stratisproject/BlockExplorer/commits/master.atom"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.stratisplatform.com/"
+}

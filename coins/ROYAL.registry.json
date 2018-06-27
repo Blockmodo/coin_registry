@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"RoyalCoin","fromSymbol":"ROYAL","toSymbol":"ALL","website":"-","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"X13","description":{"en":""},"quote":["https://blockmodo.com/quotes/ROYAL"],"explorer":[],"chat":[],"social":["https://twitter.com/@royalcoin2016"],"community":[],"source_code":[]}
+{
+    "algorithm": "X13",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "ROYAL",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "RoyalCoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/ROYAL"
+    ],
+    "social": [
+        "https://twitter.com/@royalcoin2016"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
+}

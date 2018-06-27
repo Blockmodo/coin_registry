@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"EQUI","fromSymbol":"EQ","toSymbol":"ALL","website":"http://equiplatform.io/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":500000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/EQ"],"explorer":[],"chat":[],"social":["https://twitter.com/@equiofficial"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "EQ",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "EQUI",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 500000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/EQ"
+    ],
+    "social": [
+        "https://twitter.com/@equiofficial"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://equiplatform.io/"
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"TajCoin","fromSymbol":"TAJ","toSymbol":"ALL","website":"https://tajcoin.tech","network":{"t_total_supply":9600887,"t_available_supply":9600887,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"Blake2S","description":{"en":""},"quote":["https://blockmodo.com/quotes/TAJ"],"explorer":[],"chat":[],"social":["https://twitter.com/@TajCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "Blake2S",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "TAJ",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "TajCoin",
+    "network": {
+        "t_available_supply": 9600887,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 9600887
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/TAJ"
+    ],
+    "social": [
+        "https://twitter.com/@TajCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://tajcoin.tech"
+}

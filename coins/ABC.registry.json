@@ -1,34 +1,34 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "AB-Chain",
-  "fromSymbol": "ABC",
-  "toSymbol": "ALL",
-  "website": "https://ab-chain.com/",
-  "network": {
-    "t_total_supply": 68500000,
-    "t_available_supply": 68500000,
-    "t_max_supply": 210000000,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": true,
-  "proof_type": "",
-  "algorithm": "",
-  "description": {
-    "en": "AB-CHAINs mission is to deliver the service to companies with cryptocurrency budgets allowing an easy and time - saving way to publish ads on the Internet without converting cryptocurrency into fiat and allowing high returns from advertising budgets."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/ABC"
-  ],
-  "explorer": [],
-  "chat": [
-  	"https://t.me/joinchat/A-8zF0RPWnGoEq5wVlfSqg"
-  ],
-  "social": [
-    "https://twitter.com/@AB_CHAIN",
-    "https://www.facebook.com/Ab-Chain-897158380440217"
-  ],
-  "community": [],
-  "source_code": []
+    "algorithm": "",
+    "chat": [
+        "https://t.me/joinchat/A-8zF0RPWnGoEq5wVlfSqg"
+    ],
+    "community": [],
+    "description": {
+        "en": "AB-CHAINs mission is to deliver the service to companies with cryptocurrency budgets allowing an easy and time - saving way to publish ads on the Internet without converting cryptocurrency into fiat and allowing high returns from advertising budgets."
+    },
+    "explorer": [],
+    "fromSymbol": "ABC",
+    "is_crypto": true,
+    "is_minable": true,
+    "name": "AB-Chain",
+    "network": {
+        "t_available_supply": 68500000,
+        "t_block_reward": 0,
+        "t_max_supply": 210000000,
+        "t_total_supply": 68500000
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/ABC"
+    ],
+    "social": [
+        "https://twitter.com/@AB_CHAIN",
+        "https://www.facebook.com/Ab-Chain-897158380440217"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://ab-chain.com/"
 }

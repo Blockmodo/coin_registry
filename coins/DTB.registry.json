@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Databits","fromSymbol":"DTB","toSymbol":"ALL","website":"http://www.augmentorsgame.com","network":{"t_total_supply":22747809,"t_available_supply":22747809,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/DTB"],"explorer":[],"chat":[],"social":["https://twitter.com/@AugmentorsGame"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "DTB",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Databits",
+    "network": {
+        "t_available_supply": 22747809,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 22747809
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/DTB"
+    ],
+    "social": [
+        "https://twitter.com/@AugmentorsGame"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.augmentorsgame.com"
+}

@@ -1,34 +1,34 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "Amygws",
-  "fromSymbol": "AMY",
-  "toSymbol": "ALL",
-  "website": "http://amygws.tk",
-  "network": {
-    "t_total_supply": 0,
-    "t_available_supply": 0,
-    "t_max_supply": 23333333,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": true,
-  "proof_type": "PoW",
-  "algorithm": "Scrypt",
-  "description": {
-    "en": "AMYgws has been created as a response to the deepening financial crisis in Brazil, Latin America's largest economy. Although the Central Bank has reduced the benchmark SELIC rates, and although monthly inflation rates have only recently levelled out after nearly a decade of steady increase... nearly 13,000,000 Brazilians are out of work (12.6% unemployment rates recorded in January2017). Scandals have plagued the government, and trust in the Brazilian Real is lower than ever. Gross domestic product is estimated to have fallen more than 7 percent in two years, causing unemployment to nearly triple, while the government budget deficit had reached 5.8 billion reais (US$1.7 billion) as of last year."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/AMY"
-  ],
-  "explorer": [],
-  "chat": [],
-  "social": [
-    "https://twitter.com/@mroger1972",
-    "https://www.facebook.com/amygwsamy"
-  ],
-  "community": [],
-  "source_code": [
-  	"https://github.com/amygws/Amygws-AMY-"
-  ]
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": "AMYgws has been created as a response to the deepening financial crisis in Brazil, Latin America's largest economy. Although the Central Bank has reduced the benchmark SELIC rates, and although monthly inflation rates have only recently levelled out after nearly a decade of steady increase... nearly 13,000,000 Brazilians are out of work (12.6% unemployment rates recorded in January2017). Scandals have plagued the government, and trust in the Brazilian Real is lower than ever. Gross domestic product is estimated to have fallen more than 7 percent in two years, causing unemployment to nearly triple, while the government budget deficit had reached 5.8 billion reais (US$1.7 billion) as of last year."
+    },
+    "explorer": [],
+    "fromSymbol": "AMY",
+    "is_crypto": true,
+    "is_minable": true,
+    "name": "Amygws",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 23333333,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/AMY"
+    ],
+    "social": [
+        "https://twitter.com/@mroger1972",
+        "https://www.facebook.com/amygwsamy"
+    ],
+    "source_code": [
+        "https://github.com/amygws/Amygws-AMY-"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://amygws.tk"
 }

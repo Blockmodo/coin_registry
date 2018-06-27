@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"FireCoin","fromSymbol":"FIRE","toSymbol":"ALL","website":"-","network":{"t_total_supply":98412,"t_available_supply":98412,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"X15","description":{"en":""},"quote":["https://blockmodo.com/quotes/FIRE"],"explorer":[],"chat":[],"social":["https://twitter.com/@FirecoinX15"],"community":[],"source_code":[]}
+{
+    "algorithm": "X15",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "FIRE",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "FireCoin",
+    "network": {
+        "t_available_supply": 98412,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 98412
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/FIRE"
+    ],
+    "social": [
+        "https://twitter.com/@FirecoinX15"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
+}

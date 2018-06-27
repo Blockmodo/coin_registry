@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Flappy Coin","fromSymbol":"FLAP","toSymbol":"ALL","website":"http://flappycoin.biz/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":100000000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/FLAP"],"explorer":[],"chat":[],"social":["https://twitter.com/@RealFlappyCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "FLAP",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Flappy Coin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 100000000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/FLAP"
+    ],
+    "social": [
+        "https://twitter.com/@RealFlappyCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://flappycoin.biz/"
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"MonetaVerde","fromSymbol":"MCN","toSymbol":"ALL","website":"-","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"CryptoNight","description":{"en":""},"quote":["https://blockmodo.com/quotes/MCN"],"explorer":[],"chat":[],"social":["https://twitter.com/@MonetaVerde"],"community":[],"source_code":[]}
+{
+    "algorithm": "CryptoNight",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "MCN",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "MonetaVerde",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/MCN"
+    ],
+    "social": [
+        "https://twitter.com/@MonetaVerde"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
+}

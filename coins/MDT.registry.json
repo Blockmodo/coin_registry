@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Midnight","fromSymbol":"MDT","toSymbol":"ALL","website":"-","network":{"t_total_supply":328561663,"t_available_supply":328561663,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"SHA256","description":{"en":""},"quote":["https://blockmodo.com/quotes/MDT"],"explorer":[],"chat":[],"social":["https://twitter.com/@midnightmdt"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "MDT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Midnight",
+    "network": {
+        "t_available_supply": 328561663,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 328561663
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/MDT"
+    ],
+    "social": [
+        "https://twitter.com/@midnightmdt"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
+}

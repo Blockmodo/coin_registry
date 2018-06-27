@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Kapu","fromSymbol":"KAPU","toSymbol":"ALL","website":"https://kapu.one/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":115000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"DPoS","algorithm":"DPoS","description":{"en":""},"quote":["https://blockmodo.com/quotes/KAPU"],"explorer":[],"chat":[],"social":["https://twitter.com/@kapucoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "DPoS",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "KAPU",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Kapu",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 115000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "DPoS",
+    "quote": [
+        "https://blockmodo.com/quotes/KAPU"
+    ],
+    "social": [
+        "https://twitter.com/@kapucoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://kapu.one/"
+}

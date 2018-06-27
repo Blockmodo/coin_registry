@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Piggy Coin","fromSymbol":"PIGGY","toSymbol":"ALL","website":"https://www.piggy-coin.com/","network":{"t_total_supply":490254689,"t_available_supply":490254689,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"X11","description":{"en":""},"quote":["https://blockmodo.com/quotes/PIGGY"],"explorer":[],"chat":[],"social":["https://twitter.com/@piggycoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "X11",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "PIGGY",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Piggy Coin",
+    "network": {
+        "t_available_supply": 490254689,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 490254689
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/PIGGY"
+    ],
+    "social": [
+        "https://twitter.com/@piggycoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.piggy-coin.com/"
+}

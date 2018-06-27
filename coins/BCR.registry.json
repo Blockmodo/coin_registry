@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"BitCredit","fromSymbol":"BCR","toSymbol":"ALL","website":"http://bitcredit.wikia.com/wiki/Bitcredit_Wiki","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":210000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Momentum","description":{"en":""},"quote":["https://blockmodo.com/quotes/BCR"],"explorer":[],"chat":[],"social":["https://twitter.com/@yvg1900"],"community":[],"source_code":[]}
+{
+    "algorithm": "Momentum",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "BCR",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "BitCredit",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 210000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/BCR"
+    ],
+    "social": [
+        "https://twitter.com/@yvg1900"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://bitcredit.wikia.com/wiki/Bitcredit_Wiki"
+}

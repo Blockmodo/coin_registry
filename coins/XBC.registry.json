@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"BitcoinPlus","fromSymbol":"XBC","toSymbol":"ALL","website":"https://www.bitcoinplus.org/","network":{"t_total_supply":111003,"t_available_supply":111003,"t_max_supply":1000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/XBC"],"explorer":[],"chat":[],"social":["https://twitter.com/@BitcoinPlusXBC"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "XBC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "BitcoinPlus",
+    "network": {
+        "t_available_supply": 111003,
+        "t_block_reward": 0,
+        "t_max_supply": 1000000,
+        "t_total_supply": 111003
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/XBC"
+    ],
+    "social": [
+        "https://twitter.com/@BitcoinPlusXBC"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.bitcoinplus.org/"
+}

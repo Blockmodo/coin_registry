@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"BitSwift","fromSymbol":"SWIFT","toSymbol":"ALL","website":"http://www.bitswift.io/","network":{"t_total_supply":3884635,"t_available_supply":3884635,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/SWIFT"],"explorer":[],"chat":[],"social":["https://twitter.com/@Bit_Swift"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "SWIFT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "BitSwift",
+    "network": {
+        "t_available_supply": 3884635,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 3884635
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/SWIFT"
+    ],
+    "social": [
+        "https://twitter.com/@Bit_Swift"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.bitswift.io/"
+}

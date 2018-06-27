@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Primalbase","fromSymbol":"PBT","toSymbol":"ALL","website":"http://primalbase.com/","network":{"t_total_supply":1250,"t_available_supply":1250,"t_max_supply":1250,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/PBT"],"explorer":[],"chat":[],"social":["https://twitter.com/@primalbasehq"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "PBT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Primalbase",
+    "network": {
+        "t_available_supply": 1250,
+        "t_block_reward": 0,
+        "t_max_supply": 1250,
+        "t_total_supply": 1250
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/PBT"
+    ],
+    "social": [
+        "https://twitter.com/@primalbasehq"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://primalbase.com/"
+}

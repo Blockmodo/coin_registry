@@ -1,1 +1,35 @@
-{"type":"COINREGISTRY","version":1,"name":"Komodo","fromSymbol":"KMD","toSymbol":"ALL","website":"https://komodoplatform.com/","network":{"t_total_supply":104253976,"t_available_supply":104253976,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"dPoW/PoW","algorithm":"Equihash","description":{"en":""},"quote":["https://blockmodo.com/quotes/KMD"],"explorer":[],"chat":[],"social":["https://twitter.com/@komodoplatform"],"community":["https://www.reddit.com/r/komodoplatform/.rss"],"source_code":["https://github.com/jl777/komodo/commits/master.atom"]}
+{
+    "algorithm": "Equihash",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/komodoplatform/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "KMD",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Komodo",
+    "network": {
+        "t_available_supply": 104253976,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 104253976
+    },
+    "proof_type": "dPoW/PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/KMD"
+    ],
+    "social": [
+        "https://twitter.com/@komodoplatform"
+    ],
+    "source_code": [
+        "https://github.com/jl777/komodo/commits/master.atom"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://komodoplatform.com/"
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"KickCoin","fromSymbol":"KICK","toSymbol":"ALL","website":"https://www.kickico.com/","network":{"t_total_supply":488562953,"t_available_supply":488562953,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/KICK"],"explorer":[],"chat":[],"social":["https://twitter.com/@KICKICOplatform"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "KICK",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "KickCoin",
+    "network": {
+        "t_available_supply": 488562953,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 488562953
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/KICK"
+    ],
+    "social": [
+        "https://twitter.com/@KICKICOplatform"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.kickico.com/"
+}

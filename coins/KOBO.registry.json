@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"KoboCoin","fromSymbol":"KOBO","toSymbol":"ALL","website":"http://kobocoin.com","network":{"t_total_supply":24700248,"t_available_supply":24700248,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"X15","description":{"en":""},"quote":["https://blockmodo.com/quotes/KOBO"],"explorer":[],"chat":[],"social":["https://twitter.com/@kobocoindev"],"community":["https://www.reddit.com/r/Kobocoin/.rss"],"source_code":[]}
+{
+    "algorithm": "X15",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/Kobocoin/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "KOBO",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "KoboCoin",
+    "network": {
+        "t_available_supply": 24700248,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 24700248
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/KOBO"
+    ],
+    "social": [
+        "https://twitter.com/@kobocoindev"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://kobocoin.com"
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"SoilCoin","fromSymbol":"SOIL","toSymbol":"ALL","website":"http://soilcoin.xyz/","network":{"t_total_supply":5702048,"t_available_supply":5702048,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Dagger","description":{"en":""},"quote":["https://blockmodo.com/quotes/SOIL"],"explorer":[],"chat":[],"social":["https://twitter.com/@SOILcoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "Dagger",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "SOIL",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "SoilCoin",
+    "network": {
+        "t_available_supply": 5702048,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 5702048
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/SOIL"
+    ],
+    "social": [
+        "https://twitter.com/@SOILcoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://soilcoin.xyz/"
+}

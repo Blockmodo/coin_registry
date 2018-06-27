@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"FractalCoin","fromSymbol":"FRAC","toSymbol":"ALL","website":"http://fractalco.in/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":1000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"X11","description":{"en":""},"quote":["https://blockmodo.com/quotes/FRAC"],"explorer":[],"chat":[],"social":["https://twitter.com/@fractalcoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "X11",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "FRAC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "FractalCoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 1000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/FRAC"
+    ],
+    "social": [
+        "https://twitter.com/@fractalcoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://fractalco.in/"
+}

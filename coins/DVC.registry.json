@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"DevCoin","fromSymbol":"DVC","toSymbol":"ALL","website":"http://devcoin.org/","network":{"t_total_supply":10946460000,"t_available_supply":10946460000,"t_max_supply":21000000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"SHA256","description":{"en":""},"quote":["https://blockmodo.com/quotes/DVC"],"explorer":[],"chat":[],"social":["https://twitter.com/@Devtome"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "DVC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "DevCoin",
+    "network": {
+        "t_available_supply": 10946460000,
+        "t_block_reward": 0,
+        "t_max_supply": 21000000000,
+        "t_total_supply": 10946460000
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/DVC"
+    ],
+    "social": [
+        "https://twitter.com/@Devtome"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://devcoin.org/"
+}

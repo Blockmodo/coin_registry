@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"BitcoinZ","fromSymbol":"BTCZ","toSymbol":"ALL","website":"https://www.bitcoinz.global/","network":{"t_total_supply":2035875198,"t_available_supply":2035875198,"t_max_supply":21000000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Equihash","description":{"en":""},"quote":["https://blockmodo.com/quotes/BTCZ"],"explorer":[],"chat":[],"social":["https://twitter.com/@BitcoinZTeam"],"community":[],"source_code":[]}
+{
+    "algorithm": "Equihash",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "BTCZ",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "BitcoinZ",
+    "network": {
+        "t_available_supply": 2035875198,
+        "t_block_reward": 0,
+        "t_max_supply": 21000000000,
+        "t_total_supply": 2035875198
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/BTCZ"
+    ],
+    "social": [
+        "https://twitter.com/@BitcoinZTeam"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.bitcoinz.global/"
+}

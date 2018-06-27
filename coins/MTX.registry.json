@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Matryx","fromSymbol":"MTX","toSymbol":"ALL","website":"https://matryx.ai","network":{"t_total_supply":23224303,"t_available_supply":23224303,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/MTX"],"explorer":[],"chat":[],"social":["https://twitter.com/@matryx_ai"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "MTX",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Matryx",
+    "network": {
+        "t_available_supply": 23224303,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 23224303
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/MTX"
+    ],
+    "social": [
+        "https://twitter.com/@matryx_ai"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://matryx.ai"
+}

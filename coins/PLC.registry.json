@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"PlusCoin","fromSymbol":"PLC","toSymbol":"ALL","website":"https://pluscoin.io/","network":{"t_total_supply":78421745,"t_available_supply":78421745,"t_max_supply":218500000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/PLC"],"explorer":[],"chat":[],"social":["https://twitter.com/@DsplusF"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "PLC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "PlusCoin",
+    "network": {
+        "t_available_supply": 78421745,
+        "t_block_reward": 0,
+        "t_max_supply": 218500000,
+        "t_total_supply": 78421745
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/PLC"
+    ],
+    "social": [
+        "https://twitter.com/@DsplusF"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://pluscoin.io/"
+}

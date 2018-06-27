@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Fusion","fromSymbol":"FSN","toSymbol":"ALL","website":"http://fusioncoindev.wixsite.com/fusion","network":{"t_total_supply":29684331,"t_available_supply":29684331,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"SHA256","description":{"en":""},"quote":["https://blockmodo.com/quotes/FSN"],"explorer":[],"chat":[],"social":["https://twitter.com/@FusionFSN"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "FSN",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Fusion",
+    "network": {
+        "t_available_supply": 29684331,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 29684331
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/FSN"
+    ],
+    "social": [
+        "https://twitter.com/@FusionFSN"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://fusioncoindev.wixsite.com/fusion"
+}

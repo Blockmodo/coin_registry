@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"PolisPay","fromSymbol":"POLIS","toSymbol":"ALL","website":"https://polispay.org/","network":{"t_total_supply":2566293,"t_available_supply":2566293,"t_max_supply":25000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"X11","description":{"en":""},"quote":["https://blockmodo.com/quotes/POLIS"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":[],"source_code":[]}
+{
+    "algorithm": "X11",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "POLIS",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "PolisPay",
+    "network": {
+        "t_available_supply": 2566293,
+        "t_block_reward": 0,
+        "t_max_supply": 25000000,
+        "t_total_supply": 2566293
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/POLIS"
+    ],
+    "social": [
+        "https://twitter.com/"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://polispay.org/"
+}

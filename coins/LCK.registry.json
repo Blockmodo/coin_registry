@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Luckbox","fromSymbol":"LCK","toSymbol":"ALL","website":"https://luckbox.com/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":600000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/LCK"],"explorer":[],"chat":[],"social":["https://twitter.com/@luckboxgg"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "LCK",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Luckbox",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 600000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/LCK"
+    ],
+    "social": [
+        "https://twitter.com/@luckboxgg"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://luckbox.com/"
+}

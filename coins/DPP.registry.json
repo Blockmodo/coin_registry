@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Digital Assets Power Play","fromSymbol":"DPP","toSymbol":"ALL","website":"https://dapowerplay.com/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":100000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/DPP"],"explorer":[],"chat":[],"social":["https://twitter.com/@da_powerplay"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "DPP",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Digital Assets Power Play",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 100000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/DPP"
+    ],
+    "social": [
+        "https://twitter.com/@da_powerplay"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://dapowerplay.com/"
+}

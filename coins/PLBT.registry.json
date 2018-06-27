@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Polybius","fromSymbol":"PLBT","toSymbol":"ALL","website":"https://polybius.io/","network":{"t_total_supply":3969565,"t_available_supply":3969565,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/PLBT"],"explorer":[],"chat":[],"social":["https://twitter.com/@PolybiusEU"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "PLBT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Polybius",
+    "network": {
+        "t_available_supply": 3969565,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 3969565
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/PLBT"
+    ],
+    "social": [
+        "https://twitter.com/@PolybiusEU"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://polybius.io/"
+}

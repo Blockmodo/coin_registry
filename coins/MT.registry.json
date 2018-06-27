@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Mycelium Token","fromSymbol":"MT","toSymbol":"ALL","website":"https://mycelium.com/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/MT"],"explorer":[],"chat":[],"social":["https://twitter.com/@MyceliumCom"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "MT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Mycelium Token",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/MT"
+    ],
+    "social": [
+        "https://twitter.com/@MyceliumCom"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://mycelium.com/"
+}

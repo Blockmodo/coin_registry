@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Solaris","fromSymbol":"XLR","toSymbol":"ALL","website":"http://solariscoin.com/","network":{"t_total_supply":1381183,"t_available_supply":1381183,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"XEVAN","description":{"en":""},"quote":["https://blockmodo.com/quotes/XLR"],"explorer":[],"chat":[],"social":["https://twitter.com/@SolarisCoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "XEVAN",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "XLR",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Solaris",
+    "network": {
+        "t_available_supply": 1381183,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 1381183
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/XLR"
+    ],
+    "social": [
+        "https://twitter.com/@SolarisCoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://solariscoin.com/"
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"CannabisCoin","fromSymbol":"CANN","toSymbol":"ALL","website":"http://cannabiscoin.net/","network":{"t_total_supply":77231176,"t_available_supply":77231176,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"X11","description":{"en":""},"quote":["https://blockmodo.com/quotes/CANN"],"explorer":[],"chat":[],"social":["https://twitter.com/@CannabisCoins"],"community":[],"source_code":[]}
+{
+    "algorithm": "X11",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "CANN",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "CannabisCoin",
+    "network": {
+        "t_available_supply": 77231176,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 77231176
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/CANN"
+    ],
+    "social": [
+        "https://twitter.com/@CannabisCoins"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://cannabiscoin.net/"
+}

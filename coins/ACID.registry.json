@@ -1,29 +1,29 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "AcidCoin",
-  "fromSymbol": "ACID",
-  "toSymbol": "ALL",
-  "website": "-",
-  "network": {
-    "t_total_supply": 0,
-    "t_available_supply": 0,
-    "t_max_supply": 4500000000,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": true,
-  "proof_type": "PoW",
-  "algorithm": "SHA256",
-  "description": {
-    "en": "AcidCoin is a peer-to-peer digital currency with a distributed, decentralized public ledger; that unlike ones held at traditional banks, are viewable and easily audited by the people. The ability to manage transactions and issue additional AcidCoins is all handled by the network of users utilizing AcidCoin. Because the AcidCoin network is run by the people.AcidCoin is quickly gaining the support of people, merchants and services worldwide."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/ACID"
-  ],
-  "explorer": [],
-  "chat": [],
-  "social": [],
-  "community": [],
-  "source_code": []
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": "AcidCoin is a peer-to-peer digital currency with a distributed, decentralized public ledger; that unlike ones held at traditional banks, are viewable and easily audited by the people. The ability to manage transactions and issue additional AcidCoins is all handled by the network of users utilizing AcidCoin. Because the AcidCoin network is run by the people.AcidCoin is quickly gaining the support of people, merchants and services worldwide."
+    },
+    "explorer": [],
+    "fromSymbol": "ACID",
+    "is_crypto": true,
+    "is_minable": true,
+    "name": "AcidCoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 4500000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/ACID"
+    ],
+    "social": [],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
 }

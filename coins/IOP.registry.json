@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Internet of People","fromSymbol":"IOP","toSymbol":"ALL","website":"http://iop-project.com/","network":{"t_total_supply":3525843,"t_available_supply":3525843,"t_max_supply":21000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"SHA256","description":{"en":""},"quote":["https://blockmodo.com/quotes/IOP"],"explorer":[],"chat":[],"social":["https://twitter.com/@IoP_community"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "IOP",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Internet of People",
+    "network": {
+        "t_available_supply": 3525843,
+        "t_block_reward": 0,
+        "t_max_supply": 21000000,
+        "t_total_supply": 3525843
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/IOP"
+    ],
+    "social": [
+        "https://twitter.com/@IoP_community"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://iop-project.com/"
+}

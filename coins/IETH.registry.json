@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"iEthereum","fromSymbol":"IETH","toSymbol":"ALL","website":"http://iethereum.trade/","network":{"t_total_supply":17982000,"t_available_supply":17982000,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/IETH"],"explorer":[],"chat":[],"social":["https://twitter.com/@iethereum"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "IETH",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "iEthereum",
+    "network": {
+        "t_available_supply": 17982000,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 17982000
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/IETH"
+    ],
+    "social": [
+        "https://twitter.com/@iethereum"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://iethereum.trade/"
+}

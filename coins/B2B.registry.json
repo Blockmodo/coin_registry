@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"B2B","fromSymbol":"B2B","toSymbol":"ALL","website":"https://www.b2bx.pro/","network":{"t_total_supply":16350644,"t_available_supply":16350644,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/B2B"],"explorer":[],"chat":[],"social":["https://twitter.com/@b2broker_net"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "B2B",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "B2B",
+    "network": {
+        "t_available_supply": 16350644,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 16350644
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/B2B"
+    ],
+    "social": [
+        "https://twitter.com/@b2broker_net"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.b2bx.pro/"
+}

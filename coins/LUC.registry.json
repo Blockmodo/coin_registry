@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Play 2 Live","fromSymbol":"LUC","toSymbol":"ALL","website":"https://play2live.io/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/LUC"],"explorer":[],"chat":[],"social":["https://twitter.com/@play_2_live"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "LUC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Play 2 Live",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/LUC"
+    ],
+    "social": [
+        "https://twitter.com/@play_2_live"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://play2live.io/"
+}

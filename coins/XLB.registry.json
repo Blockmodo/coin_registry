@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"LibertyCoin","fromSymbol":"XLB","toSymbol":"ALL","website":"http://libertycoins.co/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":16500000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"X11","description":{"en":""},"quote":["https://blockmodo.com/quotes/XLB"],"explorer":[],"chat":[],"social":["https://twitter.com/@CryptoLiberty"],"community":[],"source_code":[]}
+{
+    "algorithm": "X11",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "XLB",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "LibertyCoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 16500000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/XLB"
+    ],
+    "social": [
+        "https://twitter.com/@CryptoLiberty"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://libertycoins.co/"
+}

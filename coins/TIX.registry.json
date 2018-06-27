@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Blocktix","fromSymbol":"TIX","toSymbol":"ALL","website":"https://blocktix.io/","network":{"t_total_supply":40000000,"t_available_supply":40000000,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/TIX"],"explorer":[],"chat":[],"social":["https://twitter.com/@blocktix"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "TIX",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Blocktix",
+    "network": {
+        "t_available_supply": 40000000,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 40000000
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/TIX"
+    ],
+    "social": [
+        "https://twitter.com/@blocktix"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://blocktix.io/"
+}

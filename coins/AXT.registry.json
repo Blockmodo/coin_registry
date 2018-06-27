@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"AIX","fromSymbol":"AXT","toSymbol":"ALL","website":"https://www.ai-x.ai","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":20000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/AXT"],"explorer":[],"chat":[],"social":["https://twitter.com/@Ai_XChange"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "AXT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "AIX",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 20000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/AXT"
+    ],
+    "social": [
+        "https://twitter.com/@Ai_XChange"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.ai-x.ai"
+}

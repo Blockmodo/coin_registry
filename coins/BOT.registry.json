@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Bodhi","fromSymbol":"BOT","toSymbol":"ALL","website":"http://www.bodhi.network/","network":{"t_total_supply":40000000,"t_available_supply":40000000,"t_max_supply":100000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/BOT"],"explorer":[],"chat":[],"social":["https://twitter.com/@bodhitoken"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "BOT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Bodhi",
+    "network": {
+        "t_available_supply": 40000000,
+        "t_block_reward": 0,
+        "t_max_supply": 100000000,
+        "t_total_supply": 40000000
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/BOT"
+    ],
+    "social": [
+        "https://twitter.com/@bodhitoken"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.bodhi.network/"
+}

@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"DAS","fromSymbol":"DAS","toSymbol":"ALL","website":"http://dascryptocash.org/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":18900000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"X11","description":{"en":""},"quote":["https://blockmodo.com/quotes/DAS"],"explorer":[],"chat":[],"social":["https://twitter.com/@DAS_Crypto"],"community":[],"source_code":[]}
+{
+    "algorithm": "X11",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "DAS",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "DAS",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 18900000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/DAS"
+    ],
+    "social": [
+        "https://twitter.com/@DAS_Crypto"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://dascryptocash.org/"
+}

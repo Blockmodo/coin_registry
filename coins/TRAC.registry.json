@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"OriginTrail","fromSymbol":"TRAC","toSymbol":"ALL","website":"https://origintrail.io/","network":{"t_total_supply":268253992,"t_available_supply":268253992,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/TRAC"],"explorer":[],"chat":[],"social":["https://twitter.com/@origin_trail"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "TRAC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "OriginTrail",
+    "network": {
+        "t_available_supply": 268253992,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 268253992
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/TRAC"
+    ],
+    "social": [
+        "https://twitter.com/@origin_trail"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://origintrail.io/"
+}

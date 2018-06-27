@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"PayPie","fromSymbol":"PPP","toSymbol":"ALL","website":"https://www.paypie.com/","network":{"t_total_supply":82500000,"t_available_supply":82500000,"t_max_supply":165000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/PPP"],"explorer":[],"chat":[],"social":["https://twitter.com/@PayPiePlatform"],"community":["https://www.reddit.com/r/PayPie/.rss"],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/PayPie/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "PPP",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "PayPie",
+    "network": {
+        "t_available_supply": 82500000,
+        "t_block_reward": 0,
+        "t_max_supply": 165000000,
+        "t_total_supply": 82500000
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/PPP"
+    ],
+    "social": [
+        "https://twitter.com/@PayPiePlatform"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.paypie.com/"
+}

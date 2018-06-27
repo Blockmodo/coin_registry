@@ -1,42 +1,42 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "EOS",
-  "fromSymbol": "EOS",
-  "toSymbol": "ALL",
-  "website": "https://eos.io/",
-  "network": {
-    "t_total_supply": 900000000,
-    "t_available_supply": 896149492,
-    "t_max_supply": 1000000000,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": false,
-  "proof_type": "DPoS",
-  "algorithm": "DPoS",
-  "description": {
-    "en": "EOSIO is software that introduces a blockchain architecture designed to enable vertical and horizontal scaling of decentralized applications (the “EOSIO Software”). This is achieved through an operating system-like construct upon which applications can be built. The software provides accounts, authentication, databases, asynchronous communication and the scheduling of applications across multiple CPU cores and/or clusters. The resulting technology is a blockchain architecture that has the potential to scale to millions of transactions per second, eliminates user fees and allows for quick and easy deployment of decentralized applications."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/EOS"
-  ],
-  "explorer": [
-  	"https://etherscan.io/token/EOS",
-  	"https://ethplorer.io/address/0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0"
-  ],
-  "chat": [
-  	"https://t.me/joinchat/AAAAAEQbOeucnaMWN0A9dQ"
-  ],
-  "social": [
-    "https://twitter.com/@eos_io",
-    "https://www.facebook.com/eosblockchain"
-  ],
-  "community": [
-    "https://www.reddit.com/r/eos"
-  ],
-  "source_code": [
-    "https://github.com/EOSIO/eos",
-    "https://github.com/EOSIO/eosjs"
-  ]
+    "algorithm": "DPoS",
+    "chat": [
+        "https://t.me/joinchat/AAAAAEQbOeucnaMWN0A9dQ"
+    ],
+    "community": [
+        "https://www.reddit.com/r/eos"
+    ],
+    "description": {
+        "en": "EOSIO is software that introduces a blockchain architecture designed to enable vertical and horizontal scaling of decentralized applications (the \u201cEOSIO Software\u201d). This is achieved through an operating system-like construct upon which applications can be built. The software provides accounts, authentication, databases, asynchronous communication and the scheduling of applications across multiple CPU cores and/or clusters. The resulting technology is a blockchain architecture that has the potential to scale to millions of transactions per second, eliminates user fees and allows for quick and easy deployment of decentralized applications."
+    },
+    "explorer": [
+        "https://etherscan.io/token/EOS",
+        "https://ethplorer.io/address/0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0"
+    ],
+    "fromSymbol": "EOS",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "EOS",
+    "network": {
+        "t_available_supply": 896149492,
+        "t_block_reward": 0,
+        "t_max_supply": 1000000000,
+        "t_total_supply": 900000000
+    },
+    "proof_type": "DPoS",
+    "quote": [
+        "https://blockmodo.com/quotes/EOS"
+    ],
+    "social": [
+        "https://twitter.com/@eos_io",
+        "https://www.facebook.com/eosblockchain"
+    ],
+    "source_code": [
+        "https://github.com/EOSIO/eos",
+        "https://github.com/EOSIO/eosjs"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://eos.io/"
 }

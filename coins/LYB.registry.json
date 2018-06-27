@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"LyraBar","fromSymbol":"LYB","toSymbol":"ALL","website":"-","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"Lyra2RE","description":{"en":""},"quote":["https://blockmodo.com/quotes/LYB"],"explorer":[],"chat":[],"social":["https://twitter.com/@LyraBar"],"community":[],"source_code":[]}
+{
+    "algorithm": "Lyra2RE",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "LYB",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "LyraBar",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/LYB"
+    ],
+    "social": [
+        "https://twitter.com/@LyraBar"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
+}

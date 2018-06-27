@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"BlockPool","fromSymbol":"BPL","toSymbol":"ALL","website":"https://www.blockpool.io/","network":{"t_total_supply":22293890,"t_available_supply":22293890,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"DPoS","description":{"en":""},"quote":["https://blockmodo.com/quotes/BPL"],"explorer":[],"chat":[],"social":["https://twitter.com/@BLOCKPOOLIO"],"community":[],"source_code":[]}
+{
+    "algorithm": "DPoS",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "BPL",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "BlockPool",
+    "network": {
+        "t_available_supply": 22293890,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 22293890
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/BPL"
+    ],
+    "social": [
+        "https://twitter.com/@BLOCKPOOLIO"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.blockpool.io/"
+}

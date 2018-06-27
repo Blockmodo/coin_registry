@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"Kucoin","fromSymbol":"KCS","toSymbol":"ALL","website":"https://www.kucoin.com/#/","network":{"t_total_supply":90730576,"t_available_supply":90730576,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/KCS"],"explorer":[],"chat":[],"social":["https://twitter.com/@kucoincom"],"community":["https://www.reddit.com/r/kucoin/.rss"],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/kucoin/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "KCS",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Kucoin",
+    "network": {
+        "t_available_supply": 90730576,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 90730576
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/KCS"
+    ],
+    "social": [
+        "https://twitter.com/@kucoincom"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.kucoin.com/#/"
+}

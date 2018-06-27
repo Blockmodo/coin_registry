@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Litra","fromSymbol":"LTA","toSymbol":"ALL","website":"http://www.litra.site/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":99999999,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/LTA"],"explorer":[],"chat":[],"social":["https://twitter.com/@Litracoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "LTA",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Litra",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 99999999,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/LTA"
+    ],
+    "social": [
+        "https://twitter.com/@Litracoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.litra.site/"
+}

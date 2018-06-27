@@ -1,29 +1,29 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "Twenty15",
-  "fromSymbol": "2015",
-  "toSymbol": "ALL",
-  "website": "-",
-  "network": {
-    "t_total_supply": 0,
-    "t_available_supply": 0,
-    "t_max_supply": 10000000,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": false,
-  "proof_type": "PoW/PoS",
-  "algorithm": "X11",
-  "description": {
-    "en": "Twenty15 Coin was conceived to be an asset backed 'sweat equity' currency. The main emphasis will be on creating assets that will generate revenue, and will also be available for purchase by other Crypto enthusiasts. These assets will be available for public demonstration or full usage, but also sold to interested parties for 2015 Coins. This will have a positive impact on the market capitlization of the project."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/2015"
-  ],
-  "explorer": [],
-  "chat": [],
-  "social": [],
-  "community": [],
-  "source_code": []
+    "algorithm": "X11",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": "Twenty15 Coin was conceived to be an asset backed 'sweat equity' currency. The main emphasis will be on creating assets that will generate revenue, and will also be available for purchase by other Crypto enthusiasts. These assets will be available for public demonstration or full usage, but also sold to interested parties for 2015 Coins. This will have a positive impact on the market capitlization of the project."
+    },
+    "explorer": [],
+    "fromSymbol": "2015",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Twenty15",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 10000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/2015"
+    ],
+    "social": [],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
 }

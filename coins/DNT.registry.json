@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"district0x","fromSymbol":"DNT","toSymbol":"ALL","website":"https://district0x.io/","network":{"t_total_supply":600000000,"t_available_supply":600000000,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/DNT"],"explorer":[],"chat":[],"social":["https://twitter.com/@district0x"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "DNT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "district0x",
+    "network": {
+        "t_available_supply": 600000000,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 600000000
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/DNT"
+    ],
+    "social": [
+        "https://twitter.com/@district0x"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://district0x.io/"
+}

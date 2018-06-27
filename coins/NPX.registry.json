@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Napoleon X","fromSymbol":"NPX","toSymbol":"ALL","website":"www.napoleonx.ai","network":{"t_total_supply":25330000,"t_available_supply":25330000,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/NPX"],"explorer":[],"chat":[],"social":["https://twitter.com/@NapoleonXai"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "NPX",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Napoleon X",
+    "network": {
+        "t_available_supply": 25330000,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 25330000
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/NPX"
+    ],
+    "social": [
+        "https://twitter.com/@NapoleonXai"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "www.napoleonx.ai"
+}

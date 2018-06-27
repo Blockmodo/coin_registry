@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"Nebulas","fromSymbol":"NAS","toSymbol":"ALL","website":"https://nebulas.io/","network":{"t_total_supply":45500000,"t_available_supply":45500000,"t_max_supply":100000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/NAS"],"explorer":[],"chat":[],"social":["https://twitter.com/@nebulasio"],"community":["https://www.reddit.com/r/nebulas/.rss"],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/nebulas/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "NAS",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Nebulas",
+    "network": {
+        "t_available_supply": 45500000,
+        "t_block_reward": 0,
+        "t_max_supply": 100000000,
+        "t_total_supply": 45500000
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/NAS"
+    ],
+    "social": [
+        "https://twitter.com/@nebulasio"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://nebulas.io/"
+}

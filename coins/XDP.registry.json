@@ -1,1 +1,33 @@
-{"type":"COINREGISTRY","version":1,"name":"DogeParty","fromSymbol":"XDP","toSymbol":"ALL","website":"http://www.dogeparty.io/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/XDP"],"explorer":[],"chat":[],"social":["https://twitter.com/@theDogeparty"],"community":["https://www.reddit.com/r/xdp/.rss"],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/xdp/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "XDP",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "DogeParty",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/XDP"
+    ],
+    "social": [
+        "https://twitter.com/@theDogeparty"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.dogeparty.io/"
+}

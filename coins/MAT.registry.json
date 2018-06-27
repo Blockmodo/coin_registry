@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"MiniApps","fromSymbol":"MAT","toSymbol":"ALL","website":"https://click.runcpa.com/getoffer/38228-7e99e4ac3d7e84a41721c398e48fead5-932","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":10624482,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/MAT"],"explorer":[],"chat":[],"social":["https://twitter.com/@miniapps_pro"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "MAT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "MiniApps",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 10624482,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/MAT"
+    ],
+    "social": [
+        "https://twitter.com/@miniapps_pro"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://click.runcpa.com/getoffer/38228-7e99e4ac3d7e84a41721c398e48fead5-932"
+}

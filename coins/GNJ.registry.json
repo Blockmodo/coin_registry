@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"GanjaCoin V2","fromSymbol":"GNJ","toSymbol":"ALL","website":"http://www.ganjacoin.net/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":100000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"X14","description":{"en":""},"quote":["https://blockmodo.com/quotes/GNJ"],"explorer":[],"chat":[],"social":["https://twitter.com/@GanjaCoinV2"],"community":[],"source_code":[]}
+{
+    "algorithm": "X14",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "GNJ",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "GanjaCoin V2",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 100000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/GNJ"
+    ],
+    "social": [
+        "https://twitter.com/@GanjaCoinV2"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.ganjacoin.net/"
+}

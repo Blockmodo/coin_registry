@@ -1,38 +1,38 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "ArtByte",
-  "fromSymbol": "ABY",
-  "toSymbol": "ALL",
-  "website": "http://www.applebyte.me/",
-  "network": {
-    "t_total_supply": 792537250,
-    "t_available_supply": 792537250,
-    "t_max_supply": 2000000000,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": true,
-  "proof_type": "PoW",
-  "algorithm": "Scrypt",
-  "description": {
-    "en": "A new cryptocurrency to support artists of all types (musicians, actors, film makers, dancers, painters, sculptors, photographers, models, etc.)"
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/ABY"
-  ],
-  "explorer": [
-  	"http://explorer.artbyte.me"
-  ],
-  "chat": [],
-  "social": [
-    "https://twitter.com/@AppleByteMe",
-    "https://www.facebook.com/artbyteme"
-  ],
-  "community": [
-  	"https://www.reddit.com/r/ArtByte"
-  ],
-  "source_code": [
-  	"https://github.com/AppleByteMe/AppleByte"
-  ]
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/ArtByte"
+    ],
+    "description": {
+        "en": "A new cryptocurrency to support artists of all types (musicians, actors, film makers, dancers, painters, sculptors, photographers, models, etc.)"
+    },
+    "explorer": [
+        "http://explorer.artbyte.me"
+    ],
+    "fromSymbol": "ABY",
+    "is_crypto": true,
+    "is_minable": true,
+    "name": "ArtByte",
+    "network": {
+        "t_available_supply": 792537250,
+        "t_block_reward": 0,
+        "t_max_supply": 2000000000,
+        "t_total_supply": 792537250
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/ABY"
+    ],
+    "social": [
+        "https://twitter.com/@AppleByteMe",
+        "https://www.facebook.com/artbyteme"
+    ],
+    "source_code": [
+        "https://github.com/AppleByteMe/AppleByte"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.applebyte.me/"
 }

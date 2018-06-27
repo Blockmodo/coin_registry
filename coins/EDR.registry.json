@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"E-Dinar Coin","fromSymbol":"EDR","toSymbol":"ALL","website":"https://edinarcoin.com/","network":{"t_total_supply":886211988,"t_available_supply":886211988,"t_max_supply":999999999999999,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"DPoS","algorithm":"X11","description":{"en":""},"quote":["https://blockmodo.com/quotes/EDR"],"explorer":[],"chat":[],"social":["https://twitter.com/@edinarworldwide"],"community":[],"source_code":[]}
+{
+    "algorithm": "X11",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "EDR",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "E-Dinar Coin",
+    "network": {
+        "t_available_supply": 886211988,
+        "t_block_reward": 0,
+        "t_max_supply": 999999999999999,
+        "t_total_supply": 886211988
+    },
+    "proof_type": "DPoS",
+    "quote": [
+        "https://blockmodo.com/quotes/EDR"
+    ],
+    "social": [
+        "https://twitter.com/@edinarworldwide"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://edinarcoin.com/"
+}

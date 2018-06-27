@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Trippki","fromSymbol":"TRIP","toSymbol":"ALL","website":"https://trippki.com/","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":200000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/TRIP"],"explorer":[],"chat":[],"social":["https://twitter.com/@Trippki_"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "TRIP",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Trippki",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 200000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/TRIP"
+    ],
+    "social": [
+        "https://twitter.com/@Trippki_"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://trippki.com/"
+}

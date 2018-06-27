@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Qwark","fromSymbol":"QWARK","toSymbol":"ALL","website":"http://www.qwark.io/","network":{"t_total_supply":57559865,"t_available_supply":57559865,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/QWARK"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":[],"source_code":[]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "QWARK",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Qwark",
+    "network": {
+        "t_available_supply": 57559865,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 57559865
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/QWARK"
+    ],
+    "social": [
+        "https://twitter.com/"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://www.qwark.io/"
+}

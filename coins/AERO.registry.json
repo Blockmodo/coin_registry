@@ -1,40 +1,40 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "Aero Coin",
-  "fromSymbol": "AERO",
-  "toSymbol": "ALL",
-  "website": "https://aeron.aero",
-  "network": {
-    "t_total_supply": 13000000,
-    "t_available_supply": 20000000,
-    "t_max_supply": 7000000,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": false,
-  "proof_type": "PoS",
-  "algorithm": "X13",
-  "description": {
-    "en": "Blockchain for Aviation Safety."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/AERO"
-  ],
-  "explorer": [
-  	"https://ethplorer.io/address/0xba5f11b16b155792cf3b2e6880e8706859a8aeb6",
-  	"https://etherscan.io/token/0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6"
-  ],
-  "chat": [
-  	"https://t.me/aeronaero"
-  ],
-  "social": [
-    "https://twitter.com/@aerocoin"
-  ],
-  "community": [
-  	"https://www.reddit.com/r/AeronAero"
-  ],
-  "source_code": [
-  	"https://github.com/aeronaero/aeron"
-  ]
+    "algorithm": "X13",
+    "chat": [
+        "https://t.me/aeronaero"
+    ],
+    "community": [
+        "https://www.reddit.com/r/AeronAero"
+    ],
+    "description": {
+        "en": "Blockchain for Aviation Safety."
+    },
+    "explorer": [
+        "https://ethplorer.io/address/0xba5f11b16b155792cf3b2e6880e8706859a8aeb6",
+        "https://etherscan.io/token/0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6"
+    ],
+    "fromSymbol": "AERO",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Aero Coin",
+    "network": {
+        "t_available_supply": 20000000,
+        "t_block_reward": 0,
+        "t_max_supply": 7000000,
+        "t_total_supply": 13000000
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/AERO"
+    ],
+    "social": [
+        "https://twitter.com/@aerocoin"
+    ],
+    "source_code": [
+        "https://github.com/aeronaero/aeron"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://aeron.aero"
 }

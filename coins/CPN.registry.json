@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"CompuCoin","fromSymbol":"CPN","toSymbol":"ALL","website":"http://compucoin.org/","network":{"t_total_supply":19615019,"t_available_supply":19615019,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/CPN"],"explorer":[],"chat":[],"social":["https://twitter.com/@compucoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "CPN",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "CompuCoin",
+    "network": {
+        "t_available_supply": 19615019,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 19615019
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/CPN"
+    ],
+    "social": [
+        "https://twitter.com/@compucoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://compucoin.org/"
+}

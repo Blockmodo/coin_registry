@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"MilkCoin","fromSymbol":"MUU","toSymbol":"ALL","website":"-","network":{"t_total_supply":0,"t_available_supply":0,"t_max_supply":4500000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS ","algorithm":"SHA256","description":{"en":""},"quote":["https://blockmodo.com/quotes/MUU"],"explorer":[],"chat":[],"social":["https://twitter.com/"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "MUU",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "MilkCoin",
+    "network": {
+        "t_available_supply": 0,
+        "t_block_reward": 0,
+        "t_max_supply": 4500000000,
+        "t_total_supply": 0
+    },
+    "proof_type": "PoW/PoS ",
+    "quote": [
+        "https://blockmodo.com/quotes/MUU"
+    ],
+    "social": [
+        "https://twitter.com/"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
+}

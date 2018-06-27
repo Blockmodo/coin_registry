@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"FlutterCoin","fromSymbol":"FLT","toSymbol":"ALL","website":"http://fluttercoin.us/","network":{"t_total_supply":436450711,"t_available_supply":436450711,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS/PoW/PoT","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/FLT"],"explorer":[],"chat":[],"social":["https://twitter.com/@fluttercoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "FLT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "FlutterCoin",
+    "network": {
+        "t_available_supply": 436450711,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 436450711
+    },
+    "proof_type": "PoS/PoW/PoT",
+    "quote": [
+        "https://blockmodo.com/quotes/FLT"
+    ],
+    "social": [
+        "https://twitter.com/@fluttercoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://fluttercoin.us/"
+}

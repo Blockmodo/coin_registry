@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"Dotcoin","fromSymbol":"DOT","toSymbol":"ALL","website":"https://www.cryptopia.co.nz","network":{"t_total_supply":307119750,"t_available_supply":307119750,"t_max_supply":890000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"Scrypt","description":{"en":""},"quote":["https://blockmodo.com/quotes/DOT"],"explorer":[],"chat":[],"social":["https://twitter.com/@dotcoinnz"],"community":[],"source_code":[]}
+{
+    "algorithm": "Scrypt",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "DOT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Dotcoin",
+    "network": {
+        "t_available_supply": 307119750,
+        "t_block_reward": 0,
+        "t_max_supply": 890000000,
+        "t_total_supply": 307119750
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/DOT"
+    ],
+    "social": [
+        "https://twitter.com/@dotcoinnz"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.cryptopia.co.nz"
+}

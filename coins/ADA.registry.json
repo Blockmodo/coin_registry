@@ -1,41 +1,41 @@
 {
-  "type": "COINREGISTRY",
-  "version": 1,
-  "name": "Cardano",
-  "fromSymbol": "ADA",
-  "toSymbol": "ALL",
-  "website": "https://www.cardanohub.org",
-  "network": {
-    "t_total_supply": 31112483745,
-    "t_available_supply": 25927070538,
-    "t_max_supply": 45000000000,
-    "t_block_reward": 0
-  },
-  "is_crypto": true,
-  "is_minable": false,
-  "proof_type": "PoS",
-  "algorithm": "Ouroboros",
-  "description": {
-    "en": "Cardano SL (or Cardano Settlement Layer) is a cryptographic currency designed and developed by IOHK in conjunction with the University of Edinburgh, the University of Athens and the University of Connecticut. Cardano SL is based on the Haskell implementation of the white paper 'Ouroboros: A Provably Secure Proof of Stake Blockchain Protocol' by Aggelos Kiayias, Alexander Russell, Bernardo David and Roman Oliynykov. \nYou can think of Cardano SL as Bitcoin reimagined with a freedom to fix Bitcoin’s design flaws. Please read “What Makes Cardano SL Special?” for more information about similarities and differences between Cardano SL and Bitcoin."
-  },
-  "quote": [
-    "https://blockmodo.com/quotes/ADA"
-  ],
-  "explorer": [
-  	"https://cardanoexplorer.com"
-  ],
-  "chat": [
-  	"https://t.me/CardanoAnnouncements"
-  ],
-  "social": [
-    "https://twitter.com/@cardanocom"
-  ],
-  "community": [
-    "https://www.reddit.com/r/cardano",
-    "https://www.reddit.com/r/ada",
-    "https://forum.cardano.org"
-  ],
-  "source_code": [
-    "https://github.com/input-output-hk/cardano-sl"
-  ]
+    "algorithm": "Ouroboros",
+    "chat": [
+        "https://t.me/CardanoAnnouncements"
+    ],
+    "community": [
+        "https://www.reddit.com/r/cardano",
+        "https://www.reddit.com/r/ada",
+        "https://forum.cardano.org"
+    ],
+    "description": {
+        "en": "Cardano SL (or Cardano Settlement Layer) is a cryptographic currency designed and developed by IOHK in conjunction with the University of Edinburgh, the University of Athens and the University of Connecticut. Cardano SL is based on the Haskell implementation of the white paper 'Ouroboros: A Provably Secure Proof of Stake Blockchain Protocol' by Aggelos Kiayias, Alexander Russell, Bernardo David and Roman Oliynykov. \nYou can think of Cardano SL as Bitcoin reimagined with a freedom to fix Bitcoin\u2019s design flaws. Please read \u201cWhat Makes Cardano SL Special?\u201d for more information about similarities and differences between Cardano SL and Bitcoin."
+    },
+    "explorer": [
+        "https://cardanoexplorer.com"
+    ],
+    "fromSymbol": "ADA",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Cardano",
+    "network": {
+        "t_available_supply": 25927070538,
+        "t_block_reward": 0,
+        "t_max_supply": 45000000000,
+        "t_total_supply": 31112483745
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/ADA"
+    ],
+    "social": [
+        "https://twitter.com/@cardanocom"
+    ],
+    "source_code": [
+        "https://github.com/input-output-hk/cardano-sl"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.cardanohub.org"
 }

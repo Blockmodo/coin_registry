@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"PosEx","fromSymbol":"PEX","toSymbol":"ALL","website":"-","network":{"t_total_supply":2453240,"t_available_supply":2453240,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"","algorithm":"SHA256D","description":{"en":""},"quote":["https://blockmodo.com/quotes/PEX"],"explorer":[],"chat":[],"social":["https://twitter.com/@PoSeX_2016"],"community":[],"source_code":[]}
+{
+    "algorithm": "SHA256D",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "PEX",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "PosEx",
+    "network": {
+        "t_available_supply": 2453240,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 2453240
+    },
+    "proof_type": "",
+    "quote": [
+        "https://blockmodo.com/quotes/PEX"
+    ],
+    "social": [
+        "https://twitter.com/@PoSeX_2016"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "-"
+}

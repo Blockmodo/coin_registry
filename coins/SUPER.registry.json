@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"SuperCoin","fromSymbol":"SUPER","toSymbol":"ALL","website":"https://bitcointalk.org/index.php?topic=618552.0","network":{"t_total_supply":49027871,"t_available_supply":49027871,"t_max_supply":0,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoS","algorithm":"X11","description":{"en":""},"quote":["https://blockmodo.com/quotes/SUPER"],"explorer":[],"chat":[],"social":["https://twitter.com/@supercoinv2"],"community":[],"source_code":[]}
+{
+    "algorithm": "X11",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "SUPER",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "SuperCoin",
+    "network": {
+        "t_available_supply": 49027871,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 49027871
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/SUPER"
+    ],
+    "social": [
+        "https://twitter.com/@supercoinv2"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://bitcointalk.org/index.php?topic=618552.0"
+}

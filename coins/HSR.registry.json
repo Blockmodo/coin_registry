@@ -1,1 +1,37 @@
-{"type":"COINREGISTRY","version":1,"name":"Hshare","fromSymbol":"HSR","toSymbol":"ALL","website":"https://h.cash/","network":{"t_total_supply":43138057,"t_available_supply":43138057,"t_max_supply":84000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW/PoS","algorithm":"","description":{"en":""},"quote":["https://blockmodo.com/quotes/HSR"],"explorer":[],"chat":[],"social":["https://twitter.com/@Mkt_Hcash"],"community":["https://www.reddit.com/r/hcash/.rss"],"source_code":["https://github.com/HcashOrg/hcashwallet/commits/dev.atom","https://github.com/HcashOrg/Hcash/commits/master.atom","https://github.com/HcashOrg/hcashd/commits/dev.atom"]}
+{
+    "algorithm": "",
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/hcash/.rss"
+    ],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "HSR",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Hshare",
+    "network": {
+        "t_available_supply": 43138057,
+        "t_block_reward": 0,
+        "t_max_supply": 84000000,
+        "t_total_supply": 43138057
+    },
+    "proof_type": "PoW/PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/HSR"
+    ],
+    "social": [
+        "https://twitter.com/@Mkt_Hcash"
+    ],
+    "source_code": [
+        "https://github.com/HcashOrg/hcashwallet/commits/dev.atom",
+        "https://github.com/HcashOrg/Hcash/commits/master.atom",
+        "https://github.com/HcashOrg/hcashd/commits/dev.atom"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://h.cash/"
+}

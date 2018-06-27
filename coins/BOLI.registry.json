@@ -1,1 +1,31 @@
-{"type":"COINREGISTRY","version":1,"name":"BolivarCoin","fromSymbol":"BOLI","toSymbol":"ALL","website":"http://bolicoin.com/","network":{"t_total_supply":10612675,"t_available_supply":10612675,"t_max_supply":25000000,"t_block_reward":0},"is_crypto":true,"is_minable":false,"proof_type":"PoW","algorithm":"X11","description":{"en":""},"quote":["https://blockmodo.com/quotes/BOLI"],"explorer":[],"chat":[],"social":["https://twitter.com/@Bolivarcoin"],"community":[],"source_code":[]}
+{
+    "algorithm": "X11",
+    "chat": [],
+    "community": [],
+    "description": {
+        "en": ""
+    },
+    "explorer": [],
+    "fromSymbol": "BOLI",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "BolivarCoin",
+    "network": {
+        "t_available_supply": 10612675,
+        "t_block_reward": 0,
+        "t_max_supply": 25000000,
+        "t_total_supply": 10612675
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/BOLI"
+    ],
+    "social": [
+        "https://twitter.com/@Bolivarcoin"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "http://bolicoin.com/"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "COINREGISTRY",
+  "version": 1,
+  "name": "Selfie GO",
+  "fromSymbol": "SGO",
+  "toSymbol": "ALL",
+  "website": "https://ico.selfie-go.com",
+  "network": {
+    "t_total_supply": 0,
+    "t_available_supply": 0,
+    "t_max_supply": 100000000,
+    "t_block_reward": 0
+  },
+  "is_crypto": true,
+  "is_minable": true,
+  "proof_type": "",
+  "algorithm": "",
+  "description": {
+    "en": "Selfie GO is a blockchain-using social network that utilizes AR technologies and its own cryptocurrency. The project shares its revenue with users on a daily basis, by buying back on the exchanges the equivalent of 30% of advertising revenue in SGO tokens. These tokens are then distributed to active participants of the social network."
+  },
+  "quote": [
+    "https://blockmodo.com/quotes/SGO"
+  ],
+  "explorer": [],
+  "chat": [
+  	"https://t.me/SelfieGO"
+  ],
+  "social": [
+    "https://twitter.com/SelfieGOApp",
+    "https://www.facebook.com/selfiegocom"
+  ],
+  "community": [
+    "https://www.reddit.com/r/selfiego"
+  ],
+  "source_code": [
+  	"https://github.com/ElylandLLC/ico"
+  ]
+}

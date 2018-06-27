@@ -14,7 +14,7 @@
     ],
     "fromSymbol": "SPRTS",
     "is_crypto": true,
-    "is_minable": false,
+    "is_minable": true,
     "name": "Sprouts",
     "network": {
         "t_available_supply": 13113982184446,

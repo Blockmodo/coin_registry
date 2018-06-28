@@ -9,7 +9,10 @@
     "description": {
         "en": "Based on its blockchain valuation mechanism, Nebulas proposes future-oriented incentive and consensus systems, and the ability to self-evolve without forking."
     },
-    "explorer": [],
+    "explorer": [
+        "https://etherscan.io/token/0x5d65d971895edc438f465c17db6992698a52318d",
+        "https://ethplorer.io/address/0x5d65d971895edc438f465c17db6992698a52318d"
+    ],
     "fromSymbol": "NAS",
     "is_crypto": true,
     "is_minable": false,

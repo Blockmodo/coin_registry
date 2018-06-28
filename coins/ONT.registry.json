@@ -1,0 +1,42 @@
+{
+    "algorithm": "",
+    "chat": [
+        "https://t.me/OntologyNetworkCN",
+        "https://t.me/OntologyNetwork",
+        "https://discordapp.com/invite/4TQujHj"
+    ],
+    "community": [
+        "https://reddit.com/r/OntologyNetwork"
+    ],
+    "description": {
+        "en": "Ontology is a new high-performance public blockchain project & a distributed trust collaboration platform. \nOntology provides new high-performance public blockchains that include a series of complete distributed ledgers and smart contract systems."
+    },
+    "explorer": [
+        "https://neotracker.io/asset/ceab719b8baa2310f232ee0d277c061704541cfb"
+    ],
+    "fromSymbol": "ONT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Open Trading Network",
+    "network": {
+        "t_available_supply": 151292175,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 1000000000
+    },
+    "proof_type": null,
+    "quote": [
+        "https://blockmodo.com/quotes/ONT"
+    ],
+    "social": [
+        "https://twitter.com/OntologyNetwork",
+        "https://www.facebook.com/Ontology-Network-468098413590227/"
+    ],
+    "source_code": [
+        "https://github.com/ontio/ontology"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://ont.io/"
+}

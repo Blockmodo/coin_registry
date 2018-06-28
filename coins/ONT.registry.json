@@ -1,5 +1,5 @@
 {
-    "algorithm": "",
+    "algorithm": null,
     "chat": [
         "https://t.me/OntologyNetworkCN",
         "https://t.me/OntologyNetwork",
@@ -17,7 +17,7 @@
     "fromSymbol": "ONT",
     "is_crypto": true,
     "is_minable": false,
-    "name": "Open Trading Network",
+    "name": "Ontology",
     "network": {
         "t_available_supply": 151292175,
         "t_block_reward": 0,

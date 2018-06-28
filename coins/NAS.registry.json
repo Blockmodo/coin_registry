@@ -1,11 +1,13 @@
 {
-    "algorithm": "",
-    "chat": [],
+    "algorithm": null,
+    "chat": [
+        "https://nebulasio.herokuapp.com/"
+    ],
     "community": [
-        "https://www.reddit.com/r/nebulas/.rss"
+        "https://www.reddit.com/r/nebulas"
     ],
     "description": {
-        "en": ""
+        "en": "Based on its blockchain valuation mechanism, Nebulas proposes future-oriented incentive and consensus systems, and the ability to self-evolve without forking."
     },
     "explorer": [],
     "fromSymbol": "NAS",
@@ -18,14 +20,20 @@
         "t_max_supply": 100000000,
         "t_total_supply": 45500000
     },
-    "proof_type": "",
+    "proof_type": null,
     "quote": [
         "https://blockmodo.com/quotes/NAS"
     ],
     "social": [
-        "https://twitter.com/@nebulasio"
+        "https://twitter.com/@nebulasio",
+        "https://www.facebook.com/nebulasproject"
     ],
-    "source_code": [],
+    "source_code": [
+        "https://github.com/nebulasio/WebExtensionWallet",
+        "https://github.com/nebulasio/neb.py",
+        "https://github.com/nebulasio/nebPay",
+        "https://github.com/nebulasio/go-nebulas"
+    ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",
     "version": 1,

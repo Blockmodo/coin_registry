@@ -1,0 +1,40 @@
+{
+    "algorithm": null,
+    "chat": [
+        "https://t.me/Ochain"
+    ],
+    "community": [
+        "https://www.reddit.com/r/0chain/"
+    ],
+    "description": {
+        "en": "0chain is a fast, flexible, free dCloud for a dApp on any chain. Underlying technology is a 2D Byzantine DPoS consensus protocol (2D-BPoS) with sub-second finality, a fast high-security storage protocol, a self-forking protocol to create a chain for a specific app or vertical, an inflation protocol to manage zero cost with 1% inflation, and infinite scalability with parallel chains."
+    },
+    "explorer": [
+        "https://etherscan.io/token/0xb9EF770B6A5e12E45983C5D80545258aA38F3B78"
+    ],
+    "fromSymbol": "ZCN",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "0chain",
+    "network": {
+        "t_available_supply": 40000000,
+        "t_block_reward": 0,
+        "t_max_supply": 40000000,
+        "t_total_supply": 40000000
+    },
+    "proof_type": null,
+    "quote": [
+        "https://blockmodo.com/quotes/ZCN"
+    ],
+    "social": [
+        "https://twitter.com/0costcloud",
+        "https://www.facebook.com/0chain"
+    ],
+    "source_code": [
+        "https://github.com/0chain/docs"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://0chain.net"
+}

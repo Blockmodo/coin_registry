@@ -1,0 +1,39 @@
+{
+    "algorithm": null,
+    "chat": [
+        "https://t.me/okexofficial_en",
+        "https://t.me/okexofficial_cn"
+    ],
+    "community": [
+        "https://www.reddit.com/r/OKEx"
+    ],
+    "description": {
+        "en": "OKB is a utility token issued by the OKB foundation. OKB is accepted on OKEx and it`s a vital piece of its architecture & development. Through the highly complementary relationship, OKB will be applied not only on the OKEx platform but on other related projects as well."
+    },
+    "explorer": [
+        "https://etherscan.io/token/0xe302bf71b1f6f3024e7642f9c824ac86b58436a0"
+    ],
+    "fromSymbol": "OKB",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "OKB",
+    "network": {
+        "t_available_supply": 1000000000,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 1000000000
+    },
+    "proof_type": null,
+    "quote": [
+        "https://blockmodo.com/quotes/OKB"
+    ],
+    "social": [
+        "https://twitter.com/okex_",
+        "https://www.facebook.com/okexofficial/"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.okex.com/"
+}

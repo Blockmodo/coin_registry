@@ -2,8 +2,7 @@
     "algorithm": "SHA-512",
     "chat": [],
     "community": [
-        "https://www.reddit.com/r/BitShares/.rss",
-        "https://www.reddit.com/r/BitShares/.rss"
+        "https://www.reddit.com/r/BitShares"
     ],
     "description": {
         "en": ""
@@ -27,8 +26,8 @@
         "https://twitter.com/@_bitshares"
     ],
     "source_code": [
-        "https://github.com/bitshares/bitshares-core/commits/master.atom",
-        "https://github.com/bitshares/bitshares-ui/commits/staging.atom"
+        "https://github.com/bitshares/bitshares-core",
+        "https://github.com/bitshares/bitshares-ui"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",

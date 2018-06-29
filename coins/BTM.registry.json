@@ -2,7 +2,7 @@
     "algorithm": "Scrypt",
     "chat": [],
     "community": [
-        "https://www.reddit.com/r/BytomBlockchain/.rss"
+        "https://www.reddit.com/r/BytomBlockchain"
     ],
     "description": {
         "en": ""
@@ -26,7 +26,7 @@
         "https://twitter.com/@ProjectBitmark"
     ],
     "source_code": [
-        "https://github.com/Bytom/bytom/commits/master.atom"
+        "https://github.com/Bytom/bytom"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",

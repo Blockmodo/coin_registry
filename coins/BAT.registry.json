@@ -2,7 +2,7 @@
     "algorithm": "",
     "chat": [],
     "community": [
-        "https://www.reddit.com/r/BATProject/.rss"
+        "https://www.reddit.com/r/BATProject"
     ],
     "description": {
         "en": ""
@@ -26,14 +26,14 @@
         "https://twitter.com/@attentiontoken"
     ],
     "source_code": [
-        "https://github.com/brave-intl/brave-payments-tools/commits/master.atom",
-        "https://github.com/brave-intl/bat-usermodel/commits/master.atom",
-        "https://github.com/brave-intl/bat-balance/commits/master.atom",
-        "https://github.com/brave-intl/bat-go/commits/master.atom",
-        "https://github.com/brave-intl/bat-client/commits/master.atom",
-        "https://github.com/brave-intl/publishers/commits/staging.atom",
-        "https://github.com/brave-intl/bat-publisher/commits/master.atom",
-        "https://github.com/brave-intl/bat-ledger/commits/master.atom"
+        "https://github.com/brave-intl/brave-payments-tools",
+        "https://github.com/brave-intl/bat-usermodel",
+        "https://github.com/brave-intl/bat-balance",
+        "https://github.com/brave-intl/bat-go",
+        "https://github.com/brave-intl/bat-client",
+        "https://github.com/brave-intl/publishers",
+        "https://github.com/brave-intl/bat-publisher",
+        "https://github.com/brave-intl/bat-ledger"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",

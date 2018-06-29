@@ -2,7 +2,7 @@
     "algorithm": "Leased POS",
     "chat": [],
     "community": [
-        "https://www.reddit.com/r/Wavesplatform/.rss"
+        "https://www.reddit.com/r/Wavesplatform"
     ],
     "description": {
         "en": ""
@@ -26,8 +26,8 @@
         "https://twitter.com/@wavesplatform"
     ],
     "source_code": [
-        "https://github.com/wavesplatform/Waves/commits/master.atom",
-        "https://github.com/wavesplatform/WavesGUI/commits/master.atom"
+        "https://github.com/wavesplatform/Waves",
+        "https://github.com/wavesplatform/WavesGUI"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",

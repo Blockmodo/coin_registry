@@ -2,7 +2,7 @@
     "algorithm": "",
     "chat": [],
     "community": [
-        "https://www.reddit.com/r/Iota/.rss"
+        "https://www.reddit.com/r/Iota"
     ],
     "description": {
         "en": ""
@@ -26,9 +26,9 @@
         "https://twitter.com/@iotatoken"
     ],
     "source_code": [
-        "https://github.com/iotaledger/giota/commits/master.atom",
-        "https://github.com/iotaledger/iota.lib.js/commits/master.atom",
-        "https://github.com/iotaledger/iota.lib.java/commits/master.atom"
+        "https://github.com/iotaledger/giota",
+        "https://github.com/iotaledger/iota.lib.js",
+        "https://github.com/iotaledger/iota.lib.java"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",

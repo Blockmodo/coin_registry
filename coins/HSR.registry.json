@@ -2,7 +2,7 @@
     "algorithm": "",
     "chat": [],
     "community": [
-        "https://www.reddit.com/r/hcash/.rss"
+        "https://www.reddit.com/r/hcash"
     ],
     "description": {
         "en": ""
@@ -26,9 +26,9 @@
         "https://twitter.com/@Mkt_Hcash"
     ],
     "source_code": [
-        "https://github.com/HcashOrg/hcashwallet/commits/dev.atom",
-        "https://github.com/HcashOrg/Hcash/commits/master.atom",
-        "https://github.com/HcashOrg/hcashd/commits/dev.atom"
+        "https://github.com/HcashOrg/hcashwallet",
+        "https://github.com/HcashOrg/Hcash",
+        "https://github.com/HcashOrg/hcashd"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",

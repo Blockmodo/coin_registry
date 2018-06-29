@@ -2,7 +2,7 @@
     "algorithm": "",
     "chat": [],
     "community": [
-        "https://www.reddit.com/r/zilliqa/.rss"
+        "https://www.reddit.com/r/zilliqa"
     ],
     "description": {
         "en": ""
@@ -26,8 +26,8 @@
         "https://twitter.com/@zilliqa"
     ],
     "source_code": [
-        "https://github.com/Zilliqa/Zilliqa/commits/master.atom",
-        "https://github.com/Zilliqa/Zilliqa-Wallet/commits/master.atom"
+        "https://github.com/Zilliqa/Zilliqa",
+        "https://github.com/Zilliqa/Zilliqa-Wallet"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",

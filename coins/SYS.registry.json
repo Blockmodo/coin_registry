@@ -2,7 +2,7 @@
     "algorithm": "Scrypt",
     "chat": [],
     "community": [
-        "https://www.reddit.com/r/SysCoin/.rss"
+        "https://www.reddit.com/r/SysCoin"
     ],
     "description": {
         "en": ""
@@ -26,8 +26,8 @@
         "https://twitter.com/@syscoin"
     ],
     "source_code": [
-        "https://github.com/syscoin/syscoin/commits/master.atom",
-        "https://github.com/syscoin/syscoin-api/commits/master.atom"
+        "https://github.com/syscoin/syscoin",
+        "https://github.com/syscoin/syscoin-api"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",

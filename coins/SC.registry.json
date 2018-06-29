@@ -2,7 +2,7 @@
     "algorithm": "Blake2b",
     "chat": [],
     "community": [
-        "https://www.reddit.com/r/siacoin/.rss"
+        "https://www.reddit.com/r/siacoin"
     ],
     "description": {
         "en": ""
@@ -26,8 +26,8 @@
         "https://twitter.com/@SiaTechHQ"
     ],
     "source_code": [
-        "https://github.com/NebulousLabs/Sia/commits/master.atom",
-        "https://github.com/NebulousLabs/Sia-UI/commits/master.atom"
+        "https://github.com/NebulousLabs/Sia",
+        "https://github.com/NebulousLabs/Sia-UI"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",

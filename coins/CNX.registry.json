@@ -2,7 +2,7 @@
     "algorithm": "",
     "chat": [],
     "community": [
-        "https://www.reddit.com/user/Cryptonex-CNX/.rss"
+        "https://www.reddit.com/user/Cryptonex-CNX"
     ],
     "description": {
         "en": ""
@@ -26,7 +26,7 @@
         "https://twitter.com/"
     ],
     "source_code": [
-        "https://github.com/Cryptonex/source/commits/master.atom"
+        "https://github.com/Cryptonex/source"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",

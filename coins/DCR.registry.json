@@ -2,7 +2,7 @@
     "algorithm": "BLAKE256",
     "chat": [],
     "community": [
-        "https://www.reddit.com/r/decred/.rss"
+        "https://www.reddit.com/r/decred"
     ],
     "description": {
         "en": ""
@@ -26,9 +26,9 @@
         "https://twitter.com/decredproject"
     ],
     "source_code": [
-        "https://github.com/decred/dcrdata/commits/master.atom",
-        "https://github.com/decred/politeia/commits/master.atom",
-        "https://github.com/decred/decrediton/commits/master.atom"
+        "https://github.com/decred/dcrdata",
+        "https://github.com/decred/politeia",
+        "https://github.com/decred/decrediton"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",

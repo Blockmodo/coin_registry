@@ -2,7 +2,7 @@
     "algorithm": "CryptoNight",
     "chat": [],
     "community": [
-        "https://www.reddit.com/r/BytecoinBCN/.rss"
+        "https://www.reddit.com/r/BytecoinBCN"
     ],
     "description": {
         "en": ""
@@ -26,8 +26,8 @@
         "https://twitter.com/@Bytecoin_BCN"
     ],
     "source_code": [
-        "https://github.com/amjuarez/bytecoin/commits/master.atom",
-        "https://github.com/amjuarez/bytecoin-gui/commits/master.atom"
+        "https://github.com/amjuarez/bytecoin",
+        "https://github.com/amjuarez/bytecoin-gui"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",

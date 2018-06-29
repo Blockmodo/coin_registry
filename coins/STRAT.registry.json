@@ -2,7 +2,7 @@
     "algorithm": "X13",
     "chat": [],
     "community": [
-        "https://www.reddit.com/r/stratisplatform/.rss"
+        "https://www.reddit.com/r/stratisplatform"
     ],
     "description": {
         "en": ""
@@ -26,9 +26,9 @@
         "https://twitter.com/@stratisplatform"
     ],
     "source_code": [
-        "https://github.com/stratisproject/StratisBitcoinFullNode/commits/master.atom",
-        "https://github.com/stratisproject/FullNodeUI/commits/master.atom",
-        "https://github.com/stratisproject/BlockExplorer/commits/master.atom"
+        "https://github.com/stratisproject/StratisBitcoinFullNode",
+        "https://github.com/stratisproject/FullNodeUI",
+        "https://github.com/stratisproject/BlockExplorer"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",

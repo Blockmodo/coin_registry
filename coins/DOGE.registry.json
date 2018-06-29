@@ -2,8 +2,8 @@
     "algorithm": "Scrypt",
     "chat": [],
     "community": [
-        "https://www.reddit.com/r/dogecoin/.rss",
-        "https://www.reddit.com/r/DogeNews/.rss"
+        "https://www.reddit.com/r/dogecoin",
+        "https://www.reddit.com/r/DogeNews"
     ],
     "description": {
         "en": ""
@@ -27,7 +27,7 @@
         "https://twitter.com/@dogecoin"
     ],
     "source_code": [
-        "https://github.com/dogecoin/dogecoin/commits/master.atom"
+        "https://github.com/dogecoin/dogecoin"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",

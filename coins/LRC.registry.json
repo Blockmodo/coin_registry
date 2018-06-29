@@ -2,7 +2,7 @@
     "algorithm": "",
     "chat": [],
     "community": [
-        "https://www.reddit.com/r/loopring/.rss"
+        "https://www.reddit.com/r/loopring"
     ],
     "description": {
         "en": ""
@@ -26,8 +26,8 @@
         "https://twitter.com/@loopringorg"
     ],
     "source_code": [
-        "https://github.com/Loopring/loopr2/commits/master.atom",
-        "https://github.com/Loopring/loopr-ios/commits/master.atom"
+        "https://github.com/Loopring/loopr2",
+        "https://github.com/Loopring/loopr-ios"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",

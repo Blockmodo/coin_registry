@@ -2,8 +2,7 @@
     "algorithm": "Multiple",
     "chat": [],
     "community": [
-        "https://www.reddit.com/r/Digibyte/.rss",
-        "https://www.reddit.com/r/Digibyte/.rss"
+        "https://www.reddit.com/r/Digibyte"
     ],
     "description": {
         "en": ""
@@ -27,8 +26,8 @@
         "https://twitter.com/@DigiByteCoin"
     ],
     "source_code": [
-        "https://github.com/digibyte/digibyte/commits/master.atom",
-        "https://github.com/digibyte/digiandroid/commits/master.atom"
+        "https://github.com/digibyte/digibyte",
+        "https://github.com/digibyte/digiandroid"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",

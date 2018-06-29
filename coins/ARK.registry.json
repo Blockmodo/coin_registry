@@ -2,7 +2,7 @@
     "algorithm": "DPoS",
     "chat": [],
     "community": [
-        "https://www.reddit.com/r/ArkEcosystem/.rss"
+        "https://www.reddit.com/r/ArkEcosystem"
     ],
     "description": {
         "en": ""
@@ -26,9 +26,9 @@
         "https://twitter.com/@ArkEcosystem"
     ],
     "source_code": [
-        "https://github.com/ArkEcosystem/ark-desktop/commits/master.atom",
-        "https://github.com/ArkEcosystem/arky/commits/aip11-dev.atom",
-        "https://github.com/ArkEcosystem/ark-client/commits/master.atom"
+        "https://github.com/ArkEcosystem/ark-desktop",
+        "https://github.com/ArkEcosystem/arky",
+        "https://github.com/ArkEcosystem/ark-client"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",

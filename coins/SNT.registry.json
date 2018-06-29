@@ -2,7 +2,7 @@
     "algorithm": "",
     "chat": [],
     "community": [
-        "https://www.reddit.com/r/statusim/.rss"
+        "https://www.reddit.com/r/statusim"
     ],
     "description": {
         "en": ""
@@ -26,8 +26,8 @@
         "https://twitter.com/@ethstatus"
     ],
     "source_code": [
-        "https://github.com/status-im/status-network-token/commits/master.atom",
-        "https://github.com/status-im/status-react/commits/develop.atom"
+        "https://github.com/status-im/status-network-token",
+        "https://github.com/status-im/status-react"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",

@@ -2,7 +2,7 @@
     "algorithm": "",
     "chat": [],
     "community": [
-        "https://www.reddit.com/r/Electroneum/.rss"
+        "https://www.reddit.com/r/Electroneum"
     ],
     "description": {
         "en": ""
@@ -26,7 +26,7 @@
         "https://twitter.com/@electroneum"
     ],
     "source_code": [
-        "https://github.com/electroneum/electroneum-pool/commits/master.atom"
+        "https://github.com/electroneum/electroneum-pool"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",

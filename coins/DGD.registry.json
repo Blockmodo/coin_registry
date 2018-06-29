@@ -2,12 +2,14 @@
     "algorithm": "",
     "chat": [],
     "community": [
-        "https://www.reddit.com/r/digix/.rss"
+        "https://www.reddit.com/r/digix"
     ],
     "description": {
         "en": ""
     },
-    "explorer": [],
+    "explorer": [
+        "https://etherscan.io/token/dgd"
+    ],
     "fromSymbol": "DGD",
     "is_crypto": true,
     "is_minable": false,
@@ -26,10 +28,11 @@
         "https://twitter.com/@DigixGlobal"
     ],
     "source_code": [
-        "https://github.com/DigixGlobal/contract-tools/commits/master.atom"
+        "https://github.com/DigixGlobal/lite-dgx-contract",
+        "https://github.com/DigixGlobal/dao-contracts"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",
     "version": 1,
-    "website": "https://www.dgx.io/"
+    "website": "https://digix.global/"
 }

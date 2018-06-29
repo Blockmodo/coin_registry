@@ -2,8 +2,8 @@
     "algorithm": "",
     "chat": [],
     "community": [
-        "https://www.reddit.com/r/0xProject/.rss",
-        "https://www.reddit.com/r/zrxtrader/.rss"
+        "https://www.reddit.com/r/0xProject",
+        "https://www.reddit.com/r/zrxtrader"
     ],
     "description": {
         "en": ""
@@ -27,7 +27,7 @@
         "https://twitter.com/@0xproject"
     ],
     "source_code": [
-        "https://github.com/0xProject/0x-monorepo/commits/development.atom"
+        "https://github.com/0xProject/0x-monorepo"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",

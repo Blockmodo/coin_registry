@@ -2,7 +2,7 @@
     "algorithm": "Equihash",
     "chat": [],
     "community": [
-        "https://www.reddit.com/r/komodoplatform/.rss"
+        "https://www.reddit.com/r/komodoplatform"
     ],
     "description": {
         "en": ""
@@ -26,7 +26,7 @@
         "https://twitter.com/@komodoplatform"
     ],
     "source_code": [
-        "https://github.com/jl777/komodo/commits/master.atom"
+        "https://github.com/jl777/komodo"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",

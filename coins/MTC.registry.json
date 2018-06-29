@@ -13,10 +13,10 @@
         "https://ethplorer.io/address/0x905e337c6c8645263d3521205aa37bf4d034e745",
         "https://etherscan.io/token/0x905E337c6c8645263D3521205Aa37bf4d034e745"
     ],
-    "fromSymbol": "Docademic",
+    "fromSymbol": "MTC",
     "is_crypto": true,
     "is_minable": false,
-    "name": "MTC",
+    "name": "Docademic",
     "network": {
         "t_available_supply": 289365393,
         "t_block_reward": 0,
@@ -25,7 +25,7 @@
     },
     "proof_type": null,
     "quote": [
-        "https://blockmodo.com/quotes/MCT"
+        "https://blockmodo.com/quotes/MTC"
     ],
     "social": [
         "https://www.instagram.com/docademic",

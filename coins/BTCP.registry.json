@@ -1,0 +1,42 @@
+{
+    "algorithm": "SHA256",
+    "chat": [
+        "https://discordapp.com/invite/eGuQQUR",
+        "https://t.me/BTCPrivate"
+    ],
+    "community": [
+        "https://www.reddit.com/r/BTC_Private"
+    ],
+    "description": {
+        "en": "A private, decentralized, fast, open source, community-driven coin."
+    },
+    "explorer": [
+        "https://explorer.btcprivate.org/"
+    ],
+    "fromSymbol": "BTCP",
+    "is_crypto": true,
+    "is_minable": true,
+    "name": "Bitcoin Private",
+    "network": {
+        "t_available_supply": 20474029,
+        "t_block_reward": 1.5625,
+        "t_max_supply": 21000000,
+        "t_total_supply": 20474029
+    },
+    "proof_type": "PoW",
+    "quote": [
+        "https://blockmodo.com/quotes/BTCP"
+    ],
+    "social": [
+        "https://www.facebook.com/bitcoinprivate/",
+        "https://twitter.com/bitcoinprivate",
+        "https://www.instagram.com/btcprivateofficial"
+    ],
+    "source_code": [
+        "https://github.com/BTCPrivate/BitcoinPrivate"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://btcprivate.org"
+}

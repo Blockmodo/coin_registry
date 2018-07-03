@@ -1,22 +1,28 @@
 {
     "algorithm": "",
-    "chat": [],
+    "chat": [
+        "https://discordapp.com/invite/7Gu2mG5"
+    ],
     "community": [
-        "https://www.reddit.com/r/Iota"
+        "https://www.reddit.com/r/Iota",
+        "https://forum.iota.org"
     ],
     "description": {
-        "en": ""
+        "en": "IOTA is a distributed ledger for the Internet of Things. The first ledger with microtransactions without fees as well as secure data transfer. Quantum proof."
     },
-    "explorer": [],
-    "fromSymbol": "IOT",
+    "explorer": [
+        "https://iotasear.ch",
+        "https://thetangle.org"
+    ],
+    "fromSymbol": "MIOTA",
     "is_crypto": true,
     "is_minable": false,
     "name": "IOTA",
     "network": {
-        "t_available_supply": 0,
+        "t_available_supply": 2779530283,
         "t_block_reward": 0,
         "t_max_supply": 2779530283,
-        "t_total_supply": 0
+        "t_total_supply": 2779530283
     },
     "proof_type": "Tangle",
     "quote": [

@@ -9,9 +9,7 @@
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/blockmodo_developers)
-[![Twitter blockmodo](https://img.shields.io/badge/twitter-czechboy0-green.svg)](http://twitter.com/blockmodo)
-[![Website blockmodo](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?label=website)](https://blockmodo.com)
-
+[![Twitter blockmodo](https://img.shields.io/badge/twitter-blockmodo-green.svg)](http://twitter.com/blockmodo)
 
 ## Introduction
 

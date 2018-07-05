@@ -19,7 +19,7 @@ Coin Registry is a collection of JSON formatted information files that is primar
 
 A COINREGISTRY JSON information file: 
 
-```json
+```javascript
 {
 	"type": "COINREGISTRY",
 	"version": 1,

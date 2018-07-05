@@ -7,6 +7,10 @@
     />
 </p>
 
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/blockmodo_developers)
+[![Twitter blockmodo](https://img.shields.io/badge/twitter-blockmodo-green.svg)](http://twitter.com/blockmodo)
+
 ## Introduction
 
 Coin Registry is a collection of JSON formatted information files that is primarily used by website developers, exchange operators, terminal developers, and news publications to show accurate information about different coins. 
@@ -15,7 +19,7 @@ Coin Registry is a collection of JSON formatted information files that is primar
 
 A COINREGISTRY JSON information file: 
 
-```json
+```javascript
 {
 	"type": "COINREGISTRY",
 	"version": 1,
@@ -170,6 +174,10 @@ We are always looking for help. If you have a relevant edit, please feel free to
 ## Contributors
 
 Icon: [cryptocurrency by mikicon](https://thenounproject.com/mikicon/uploads/?i=1601185)
+
+## Looking for real-time streaming pricing data?
+
+Blockmodo provides real-time streaming pricing data on over 1500+ coins straight from exchanges. In addition, the API also streams news, code checkins, and social posts. Feel free to check out [Blockmodo API docs.](https://blockmodo.com/docs/api)
 
 ## Community
 

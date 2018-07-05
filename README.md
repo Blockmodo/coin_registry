@@ -7,6 +7,12 @@
     />
 </p>
 
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/blockmodo_developers)
+[![Twitter blockmodo](https://img.shields.io/badge/twitter-czechboy0-green.svg)](http://twitter.com/blockmodo)
+[![Website blockmodo](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?label=website)](https://blockmodo.com)
+
+
 ## Introduction
 
 Coin Registry is a collection of JSON formatted information files that is primarily used by website developers, exchange operators, terminal developers, and news publications to show accurate information about different coins. 

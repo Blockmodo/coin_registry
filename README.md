@@ -175,6 +175,10 @@ We are always looking for help. If you have a relevant edit, please feel free to
 
 Icon: [cryptocurrency by mikicon](https://thenounproject.com/mikicon/uploads/?i=1601185)
 
+## Looking for real-time streaming pricing data?
+
+Blockmodo provides real-time streaming pricing data on over 1500+ coins straight from exchanges. In addition, the API also streams news, code checkins, and social posts. Feel free to check out [Blockmodo API docs.](https://blockmodo.com/docs/api)
+
 ## Community
 
 Coin Registry is maintained by Blockmodo and we're on Telegram. Visit us [on Telegram](https://t.me/blockmodo_developers)

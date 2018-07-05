@@ -1,20 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
+    "algorithm": null,
+    "chat": [
+        "https://riot.im/app/#/room/#tezos:matrix.org"
+    ],
+    "community": [
+        "https://www.reddit.com/r/tezos"
+    ],
     "description": {
-        "en": ""
+        "en": "Tezos is a new blockchain launched via an uncapped token sale. Like Ethereum, Tezos supports Turing complete smart contracts; however, it differs from Ethereum in the use of its consensus algorithm, governance mechanisms, and smart contract programming languages."
     },
-    "explorer": [],
+    "explorer": [
+        "https://tezos.id",
+        "http://tzscan.io"
+    ],
     "fromSymbol": "XTZ",
     "is_crypto": true,
     "is_minable": false,
     "name": "Tezos",
     "network": {
-        "t_available_supply": 0,
+        "t_available_supply": 607489041,
         "t_block_reward": 0,
         "t_max_supply": 0,
-        "t_total_supply": 0
+        "t_total_supply": 763306930
     },
     "proof_type": "DPoS",
     "quote": [
@@ -27,5 +34,5 @@
     "toSymbol": "ALL",
     "type": "COINREGISTRY",
     "version": 1,
-    "website": "https://www.tezos.com/"
+    "website": "https://tezos.com/"
 }

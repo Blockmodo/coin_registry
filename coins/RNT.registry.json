@@ -1,0 +1,41 @@
+{
+    "algorithm": null,
+    "chat": [
+        "https://t.me/OneRootProject",
+        "https://shang.qq.com/wpa/qunwpa?idkey=b4fc0957490cd96189015b025a05a9494bd80dc862a968a769afe77a5ba99f5b"
+    ],
+    "community": [
+        "https://www.reddit.com/r/OneRoot/"
+    ],
+    "description": {
+        "en": "ONEROOT Project brings together the tangible and intangible resources inside and outside the industry. In the process of optimizing and integrating resources, ONEROOT extends the idea of a shared economy and separates the right to use and the ownership of resources, and proposes the concept of a distributed business engine. With the help of blockchain technology, the co-builders can digitize the right to use resources, including software, hardware, manpower, etc., and establish transparent value exchange and cooperation rules, which greatly improve the resource utilization efficiency. In addition, participants have established a new cooperative relationship based on equal cooperation and common development, which has significant advantages compared with the traditional business model dominated by centralized entities."
+    },
+    "explorer": [
+        "https://ethplorer.io/address/0xff603f43946a3a28df5e6a73172555d8c8b02386",
+        "https://etherscan.io/token/0xff603f43946a3a28df5e6a73172555d8c8b02386"
+    ],
+    "fromSymbol": "RNT",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "OneRoot",
+    "network": {
+        "t_available_supply": 241789281,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 400000000
+    },
+    "proof_type": null,
+    "quote": [
+        "https://blockmodo.com/quotes/RNT"
+    ],
+    "social": [
+        "https://twitter.com/@OnerootNetwork"
+    ],
+    "source_code": [
+        "https://github.com/OnerootProject/r1"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://www.oneroot.io/en"
+}

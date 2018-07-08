@@ -1,0 +1,35 @@
+{
+    "algorithm": null,
+    "chat": [
+        "https://t.me/yuanchain"
+    ],
+    "community": [],
+    "description": {
+        "en": "The Yuan Chain platform combines various innovative technologies, such as Hot Replacement Smart Contract and inter-blockchain technology, building a new blockchain network architecture. It features the decentralized characteristics of public blockchain while capable of having the high performance and privacy for which a permissioned blockchain is needed."
+    },
+    "explorer": [
+        "https://etherscan.io/token/0x350791c10c94cbf154c6d1edfd14e09bb46edff5"
+    ],
+    "fromSymbol": "YCC",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Yuan Chain",
+    "network": {
+        "t_available_supply": 1000000000,
+        "t_block_reward": 0,
+        "t_max_supply": 0,
+        "t_total_supply": 1000000000
+    },
+    "proof_type": null,
+    "quote": [
+        "https://blockmodo.com/quotes/YCC"
+    ],
+    "social": [
+        "https://twitter.com/@yuanchain"
+    ],
+    "source_code": [],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://yuan.org"
+}

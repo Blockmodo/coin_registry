@@ -21,7 +21,7 @@ A COINREGISTRY JSON information file:
 
 <p align="center">
     <img 
-        width="400px"
+        width="800px"
         src="https://github.com/Blockmodo/art/blob/master/coin_registry/output/code_example.png"
     />
 </p>

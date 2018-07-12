@@ -3,7 +3,9 @@
     "chat": [
 		"https://t.me/BSD_Bitsend"
 	],
-    "community": [],
+    "community": [
+	    "https://www.reddit.com/r/Bitsend"
+    ],
     "description": {
         "en": "Bitsend is a open source peer-to peer cryptocurrency with Proof of Work and Masternode Support."
     },
@@ -15,7 +17,7 @@
     "is_minable": true,
     "name": "BitSend",
     "network": {
-        "t_available_supply": 19557625,
+        "t_available_supply": 19784800,
         "t_block_reward": 25,
         "t_max_supply": 210000000,
         "t_total_supply": 19557625
@@ -33,5 +35,5 @@
     "toSymbol": "ALL",
     "type": "COINREGISTRY",
     "version": 1,
-    "website": "https://www.bitsend.info/"
+    "website": "https://www.bitsend.info"
 }

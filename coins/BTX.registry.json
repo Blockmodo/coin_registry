@@ -1,8 +1,8 @@
 {
     "algorithm": "Time Travel 10",
     "chat": [
-		"https://t.me/bitcore_btx_official"
-	],
+        "https://t.me/bitcore_btx_official"
+    ],
     "community": [
         "https://www.reddit.com/r/bitcore_btx"
     ],
@@ -10,9 +10,9 @@
         "en": "Bitcore is a Hybrid (UTXO) Fork from the Bitcoin Blockchain and started April 2017."
     },
     "explorer": [
-		"https://chainz.cryptoid.info/btx/",
-		"https://insight.bitcore.cc/"	
-	],
+        "https://chainz.cryptoid.info/btx/",
+        "https://insight.bitcore.cc/"
+    ],
     "fromSymbol": "BTX",
     "is_crypto": true,
     "is_minable": true,
@@ -31,8 +31,8 @@
         "https://twitter.com/@bitcore_btx"
     ],
     "source_code": [
-		"https://github.com/LIMXTEC/BitCore"
-	],
+        "https://github.com/LIMXTEC/BitCore"
+    ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",
     "version": 1,

@@ -6,8 +6,8 @@
         "en": ""
     },
     "explorer": [
-		"https://chainz.cryptoid.info/mec"
-	],
+        "https://chainz.cryptoid.info/mec"
+    ],
     "fromSymbol": "MEC",
     "is_crypto": true,
     "is_minable": true,
@@ -26,8 +26,8 @@
         "https://twitter.com/@mega_coin"
     ],
     "source_code": [
-		"https://github.com/LIMXTEC/Megacoin"
-	],
+        "https://github.com/LIMXTEC/Megacoin"
+    ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",
     "version": 1,

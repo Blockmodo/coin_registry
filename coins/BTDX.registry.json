@@ -1,11 +1,15 @@
 {
     "algorithm": "Quark",
-    "chat": [],
+    "chat": [
+		"https://t.me/bitcloud_btdx"
+	],
     "community": [],
     "description": {
-        "en": ""
+        "en": "Bitcloud is a open source peer-to peer cryptocurrency with Proof of Work and Masternode Support."
     },
-    "explorer": [],
+    "explorer": [
+		"https://chainz.cryptoid.info/btdx"
+	],
     "fromSymbol": "BTDX",
     "is_crypto": true,
     "is_minable": false,
@@ -23,9 +27,11 @@
     "social": [
         "https://twitter.com/@Bitcloud_BTD"
     ],
-    "source_code": [],
+    "source_code": [
+		"https://github.com/LIMXTEC/Bitcloud"
+	],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",
     "version": 1,
-    "website": "http://bit-cloud.net/"
+    "website": "https://bit-cloud.info/"
 }

@@ -1,12 +1,10 @@
 {
     "algorithm": "CryptoNight-V7",
     "chat": [
-        "https://telegram.me/flakechain"
+        "https://telegram.me/flakechain",
+        "https://discordapp.com/invite/NqgvVYT"
     ],
-    "community": [
-        "http://flake.space",
-        "http://flakechain.github.io"
-    ],
+    "community": [],
     "description": {
         "en": "FlakeChain is a decentralized cryptocurrency, meaning it is secure digital cash operated by a network of users. Transactions are confirmed by distributed consensus and then immutably recorded on the blockchain. Third-parties do not need to be trusted to keep your Flakes safe."
     },
@@ -31,7 +29,9 @@
         "https://twitter.com/@flakechain"
     ],
     "source_code": [
-        "https://github.com/flakechain/flake-core"
+        "https://github.com/flakechain/flake-core",
+        "https://github.com/flakechain/flake-app",
+        "https://github.com/flakechain/flake-web"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",

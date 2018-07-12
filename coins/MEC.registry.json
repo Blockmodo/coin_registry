@@ -5,14 +5,16 @@
     "description": {
         "en": ""
     },
-    "explorer": [],
+    "explorer": [
+		"https://chainz.cryptoid.info/mec"
+	],
     "fromSymbol": "MEC",
     "is_crypto": true,
-    "is_minable": false,
+    "is_minable": true,
     "name": "MegaCoin",
     "network": {
         "t_available_supply": 37196781,
-        "t_block_reward": 0,
+        "t_block_reward": 6.25,
         "t_max_supply": 42000000,
         "t_total_supply": 37196781
     },
@@ -23,7 +25,9 @@
     "social": [
         "https://twitter.com/@mega_coin"
     ],
-    "source_code": [],
+    "source_code": [
+		"https://github.com/LIMXTEC/Megacoin"
+	],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",
     "version": 1,

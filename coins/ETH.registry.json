@@ -22,7 +22,7 @@
     "network": {
         "t_available_supply": 100664592,
         "t_block_reward": 3,
-        "t_max_supply": "Unknown",
+        "t_max_supply": 0,
         "t_total_supply": 100664592
     },
     "proof_type": "PoW",

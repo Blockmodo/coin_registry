@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Sativa Coin",
   "network": {
-    "t_available_supply": 7094800,
+    "t_available_supply": 7094801,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 7094800
+    "t_total_supply": 7094801
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/STV"],

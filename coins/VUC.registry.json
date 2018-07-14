@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Virta Unique Coin",
   "network": {
-    "t_available_supply": 62010825,
+    "t_available_supply": 62011050,
     "t_block_reward": 0,
     "t_max_supply": 120000000,
-    "t_total_supply": 62010825
+    "t_total_supply": 62011050
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/VUC"],

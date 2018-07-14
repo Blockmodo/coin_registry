@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "RonPaulCoin",
   "network": {
-    "t_available_supply": 950764,
+    "t_available_supply": 950771,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 950764
+    "t_total_supply": 950771
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/RPC"],

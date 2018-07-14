@@ -1,31 +1,27 @@
 {
-    "algorithm": "X13",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CJ",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "CryptoJacks",
-    "network": {
-        "t_available_supply": 406568581,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 406568581
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/CJ"
-    ],
-    "social": [
-        "https://twitter.com/CryptoJacksCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://cryptojacks.com/"
+  "algorithm": "X13",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CJ",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "CryptoJacks",
+  "network": {
+    "t_available_supply": 406568581,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 406568581
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/CJ"],
+  "social": ["https://twitter.com/CryptoJacksCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://cryptojacks.com/"
 }

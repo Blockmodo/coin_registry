@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SPF",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "SportyFi",
-    "network": {
-        "t_available_supply": 52812425,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 52812425
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/SPF"
-    ],
-    "social": [
-        "https://twitter.com/@sportyfi_io"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://sportyfi.io"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SPF",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SportyFi",
+  "network": {
+    "t_available_supply": 52827425,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 70673454
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/SPF"],
+  "social": ["https://twitter.com/@sportyfi_io"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://sportyfi.io"
 }

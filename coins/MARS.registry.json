@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MARS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "MarsCoin ",
-    "network": {
-        "t_available_supply": 28279074,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 28279074
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/MARS"
-    ],
-    "social": [
-        "https://twitter.com/@marscoinorg"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://marscoin.org/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MARS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "MarsCoin ",
+  "network": {
+    "t_available_supply": 28279074,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 28279074
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/MARS"],
+  "social": ["https://twitter.com/@marscoinorg"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://marscoin.org/"
 }

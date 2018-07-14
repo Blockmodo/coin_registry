@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SKIN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Skincoin",
-    "network": {
-        "t_available_supply": 88183483,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 88183483
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/SKIN"
-    ],
-    "social": [
-        "https://twitter.com/@skincoin_org"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://skincoin.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SKIN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Skincoin",
+  "network": {
+    "t_available_supply": 88183483,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 388183483
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/SKIN"],
+  "social": ["https://twitter.com/@skincoin_org"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://skincoin.org/"
 }

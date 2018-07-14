@@ -1,31 +1,27 @@
 {
-    "algorithm": "Ethash",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ELE",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Elementrem",
-    "network": {
-        "t_available_supply": 26130864,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 26130864
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/ELE"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.elementrem.org/"
+  "algorithm": "Ethash",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ELE",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Elementrem",
+  "network": {
+    "t_available_supply": 26139113,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 26139113
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/ELE"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.elementrem.org/"
 }

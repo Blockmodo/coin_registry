@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SNM",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "SONM",
-    "network": {
-        "t_available_supply": 359600000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 359600000
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/SNM"
-    ],
-    "social": [
-        "https://twitter.com/@sonmdevelopment"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://sonm.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SNM",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SONM",
+  "network": {
+    "t_available_supply": 359600000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 444000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/SNM"],
+  "social": ["https://twitter.com/@sonmdevelopment"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://sonm.io/"
 }

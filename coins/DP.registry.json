@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DP",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "DigitalPrice",
-    "network": {
-        "t_available_supply": 19780674,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 19780674
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/DP"
-    ],
-    "social": [
-        "https://twitter.com/@digitalprice_"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://digitalprice.org/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DP",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "DigitalPrice",
+  "network": {
+    "t_available_supply": 19780674,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 27280675
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/DP"],
+  "social": ["https://twitter.com/@digitalprice_"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://digitalprice.org/"
 }

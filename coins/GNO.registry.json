@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/gnosisPM"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "GNO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Gnosis",
-    "network": {
-        "t_available_supply": 1104590,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 1104590
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/GNO"
-    ],
-    "social": [
-        "https://twitter.com/@gnosisPM"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://gnosis.pm"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/gnosisPM"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "GNO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Gnosis",
+  "network": {
+    "t_available_supply": 1104590,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 10000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/GNO"],
+  "social": ["https://twitter.com/@gnosisPM"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://gnosis.pm"
 }

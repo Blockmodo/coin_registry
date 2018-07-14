@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "XRL",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Rialto.AI",
-    "network": {
-        "t_available_supply": 76803282,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 76803282
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/XRL"
-    ],
-    "social": [
-        "https://twitter.com/@RialtoAI"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.rialto.ai/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "XRL",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Rialto.AI",
+  "network": {
+    "t_available_supply": 76989346,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/XRL"],
+  "social": ["https://twitter.com/@RialtoAI"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.rialto.ai/"
 }

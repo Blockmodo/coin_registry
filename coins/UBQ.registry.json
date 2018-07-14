@@ -1,33 +1,27 @@
 {
-    "algorithm": "Dagger-Hashimoto",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/Ubiq"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "UBQ",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Ubiq",
-    "network": {
-        "t_available_supply": 41334013,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 41334013
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/UBQ"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://ubiqsmart.com"
+  "algorithm": "Dagger-Hashimoto",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/Ubiq"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "UBQ",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Ubiq",
+  "network": {
+    "t_available_supply": 41639696,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 41639696
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/UBQ"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://ubiqsmart.com"
 }

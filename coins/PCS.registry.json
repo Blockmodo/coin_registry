@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PCS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Pabyosi Coin",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 0
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/PCS"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://pbcinfo.net/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PCS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Pabyosi Coin",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 30993751760
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/PCS"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://pbcinfo.net/"
 }

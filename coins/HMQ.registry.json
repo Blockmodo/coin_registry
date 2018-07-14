@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "HMQ",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Humaniq",
-    "network": {
-        "t_available_supply": 165571555,
-        "t_block_reward": 0,
-        "t_max_supply": 920952070,
-        "t_total_supply": 165571555
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/HMQ"
-    ],
-    "social": [
-        "https://twitter.com/@Humaniq_co"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://humaniq.co/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "HMQ",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Humaniq",
+  "network": {
+    "t_available_supply": 185286753,
+    "t_block_reward": 0,
+    "t_max_supply": 920952070,
+    "t_total_supply": 206618753
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/HMQ"],
+  "social": ["https://twitter.com/@Humaniq_co"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://humaniq.co/"
 }

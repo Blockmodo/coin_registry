@@ -1,35 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/populous_platform"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PPT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Populous",
-    "network": {
-        "t_available_supply": 37004027,
-        "t_block_reward": 0,
-        "t_max_supply": 53252246,
-        "t_total_supply": 37004027
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/PPT"
-    ],
-    "social": [
-        "https://twitter.com/@bitpopulous"
-    ],
-    "source_code": [
-        "https://github.com/bitpopulous/populous-smartcontracts"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://populous.co/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/populous_platform"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PPT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Populous",
+  "network": {
+    "t_available_supply": 37004027,
+    "t_block_reward": 0,
+    "t_max_supply": 53252246,
+    "t_total_supply": 53252246
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/PPT"],
+  "social": ["https://twitter.com/@bitpopulous"],
+  "source_code": ["https://github.com/bitpopulous/populous-smartcontracts"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://populous.co/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "EDT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "EtherDelta",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 0
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/EDT"
-    ],
-    "social": [
-        "https://twitter.com/@EtherDelta"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://etherdelta.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "EDT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "EtherDelta",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1500000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/EDT"],
+  "social": ["https://twitter.com/@EtherDelta"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://etherdelta.com/"
 }

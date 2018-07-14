@@ -1,33 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/GameCreditsCrypto"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "GAME",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Gamecredits",
-    "network": {
-        "t_available_supply": 64355352,
-        "t_block_reward": 0,
-        "t_max_supply": 84000000,
-        "t_total_supply": 64355352
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/GAME"
-    ],
-    "social": [
-        "https://twitter.com/@Game_Credits"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://gamecredits.com/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/GameCreditsCrypto"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "GAME",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Gamecredits",
+  "network": {
+    "t_available_supply": 64355352,
+    "t_block_reward": 0,
+    "t_max_supply": 84000000,
+    "t_total_supply": 64355352
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/GAME"],
+  "social": ["https://twitter.com/@Game_Credits"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://gamecredits.com/"
 }

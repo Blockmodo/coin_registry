@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "EQT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "EquiTrader",
-    "network": {
-        "t_available_supply": 10783861,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 10783861
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/EQT"
-    ],
-    "social": [
-        "https://twitter.com/@Equi_Trader"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "EQT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "EquiTrader",
+  "network": {
+    "t_available_supply": 10851682,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 11951682
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/EQT"],
+  "social": ["https://twitter.com/@Equi_Trader"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

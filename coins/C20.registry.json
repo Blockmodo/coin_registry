@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "C20",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Crypto20",
-    "network": {
-        "t_available_supply": 39698326,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 39698326
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/C20"
-    ],
-    "social": [
-        "https://twitter.com/@CRYPTOtwenty"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://crypto20.com"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "C20",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Crypto20",
+  "network": {
+    "t_available_supply": 40380394,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 40656082
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/C20"],
+  "social": ["https://twitter.com/@CRYPTOtwenty"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://crypto20.com"
 }

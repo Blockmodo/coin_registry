@@ -1,31 +1,27 @@
 {
-    "algorithm": "SHA256",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BITB",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BitBean",
-    "network": {
-        "t_available_supply": 2565809000,
-        "t_block_reward": 0,
-        "t_max_supply": 50000000000,
-        "t_total_supply": 2565809000
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/BITB"
-    ],
-    "social": [
-        "https://twitter.com/@BitBeanCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.bitbean.org/"
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BITB",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BitBean",
+  "network": {
+    "t_available_supply": 2600432000,
+    "t_block_reward": 0,
+    "t_max_supply": 50000000000,
+    "t_total_supply": 2600432000
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/BITB"],
+  "social": ["https://twitter.com/@BitBeanCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.bitbean.org/"
 }

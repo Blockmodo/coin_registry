@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SENSE",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Sense Token",
-    "network": {
-        "t_available_supply": 149112044,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 149112044
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/SENSE"
-    ],
-    "social": [
-        "https://twitter.com/@sensay"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://t.sensetoken.com/cryptocompare"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SENSE",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Sense Token",
+  "network": {
+    "t_available_supply": 179111869,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 663636366
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/SENSE"],
+  "social": ["https://twitter.com/@sensay"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://t.sensetoken.com/cryptocompare"
 }

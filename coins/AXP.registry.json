@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "AXP",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "aXpire",
-    "network": {
-        "t_available_supply": 265000000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 265000000
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/AXP"
-    ],
-    "social": [
-        "https://twitter.com/@aXpire_official"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://axpire.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "AXP",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "aXpire",
+  "network": {
+    "t_available_supply": 265000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 350000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/AXP"],
+  "social": ["https://twitter.com/@aXpire_official"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://axpire.io/"
 }

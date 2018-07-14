@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "LEO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "LEOcoin",
-    "network": {
-        "t_available_supply": 101743211,
-        "t_block_reward": 0,
-        "t_max_supply": 1000000000,
-        "t_total_supply": 101743211
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/LEO"
-    ],
-    "social": [
-        "https://twitter.com/@LEOcoinORG"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.leocoin.org/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "LEO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "LEOcoin",
+  "network": {
+    "t_available_supply": 101743211,
+    "t_block_reward": 0,
+    "t_max_supply": 1000000000,
+    "t_total_supply": 110100629
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/LEO"],
+  "social": ["https://twitter.com/@LEOcoinORG"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.leocoin.org/"
 }

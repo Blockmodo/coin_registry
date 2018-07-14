@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "GTC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Game",
-    "network": {
-        "t_available_supply": 29887402,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 29887402
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/GTC"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://game.com/#/home"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "GTC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Game",
+  "network": {
+    "t_available_supply": 29887402,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 89786652
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/GTC"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://game.com/#/home"
 }

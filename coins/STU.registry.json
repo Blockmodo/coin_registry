@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "STU",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BitJob",
-    "network": {
-        "t_available_supply": 48043991,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 48043991
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/STU"
-    ],
-    "social": [
-        "https://twitter.com/@BitJob_Team"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://bitjob.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "STU",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BitJob",
+  "network": {
+    "t_available_supply": 48043991,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 200000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/STU"],
+  "social": ["https://twitter.com/@BitJob_Team"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://bitjob.io/"
 }

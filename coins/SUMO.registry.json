@@ -1,31 +1,27 @@
 {
-    "algorithm": "CryptoNight",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SUMO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Sumokoin",
-    "network": {
-        "t_available_supply": 5809513,
-        "t_block_reward": 0,
-        "t_max_supply": 88888888,
-        "t_total_supply": 5809513
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/SUMO"
-    ],
-    "social": [
-        "https://twitter.com/@Sumokoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.sumokoin.org/"
+  "algorithm": "CryptoNight",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SUMO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Sumokoin",
+  "network": {
+    "t_available_supply": 6148043,
+    "t_block_reward": 0,
+    "t_max_supply": 88888888,
+    "t_total_supply": 15036932
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/SUMO"],
+  "social": ["https://twitter.com/@Sumokoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.sumokoin.org/"
 }

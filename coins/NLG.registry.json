@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "NLG",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Gulden",
-    "network": {
-        "t_available_supply": 399648900,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 399648900
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/NLG"
-    ],
-    "social": [
-        "https://twitter.com/@Gulden"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "www.gulden.com"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "NLG",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Gulden",
+  "network": {
+    "t_available_supply": 400924000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 472424000
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/NLG"],
+  "social": ["https://twitter.com/@Gulden"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "www.gulden.com"
 }

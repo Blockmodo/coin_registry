@@ -1,31 +1,27 @@
 {
-    "algorithm": "Groestl",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "FAIR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "FairCoin",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 0
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/FAIR"
-    ],
-    "social": [
-        "https://twitter.com/@FairCoinTeam"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://fair-coin.org/"
+  "algorithm": "Groestl",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "FAIR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "FairCoin",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1200000000
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/FAIR"],
+  "social": ["https://twitter.com/@FairCoinTeam"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://fair-coin.org/"
 }

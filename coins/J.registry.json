@@ -1,31 +1,27 @@
 {
-    "algorithm": "Multiple",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "J",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "JoinCoin",
-    "network": {
-        "t_available_supply": 3126895,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 3126895
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/J"
-    ],
-    "social": [
-        "https://twitter.com/@Joincoin_Team"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "Multiple",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "J",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "JoinCoin",
+  "network": {
+    "t_available_supply": 3141024,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 3141024
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/J"],
+  "social": ["https://twitter.com/@Joincoin_Team"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

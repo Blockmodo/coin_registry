@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "IOC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "IOCoin",
-    "network": {
-        "t_available_supply": 16786356,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 16786356
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/IOC"
-    ],
-    "social": [
-        "https://twitter.com/@IO_Coin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://iocoin.io/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "IOC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "IOCoin",
+  "network": {
+    "t_available_supply": 16830685,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 16830685
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/IOC"],
+  "social": ["https://twitter.com/@IO_Coin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://iocoin.io/"
 }

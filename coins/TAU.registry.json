@@ -1,31 +1,27 @@
 {
-    "algorithm": "DPoS",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "TAU",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Lamden Tau",
-    "network": {
-        "t_available_supply": 142215728,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 142215728
-    },
-    "proof_type": "DPoS",
-    "quote": [
-        "https://blockmodo.com/quotes/TAU"
-    ],
-    "social": [
-        "https://twitter.com/@LamdenTau"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://lamden.io/"
+  "algorithm": "DPoS",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "TAU",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Lamden Tau",
+  "network": {
+    "t_available_supply": 142215728,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 288090567
+  },
+  "proof_type": "DPoS",
+  "quote": ["https://blockmodo.com/quotes/TAU"],
+  "social": ["https://twitter.com/@LamdenTau"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://lamden.io/"
 }

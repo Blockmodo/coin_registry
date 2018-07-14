@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "WISH",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "MyWish",
-    "network": {
-        "t_available_supply": 18825212,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 18825212
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/WISH"
-    ],
-    "social": [
-        "https://twitter.com/@mywishplatform"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://mywish.io/index.html"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "WISH",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "MyWish",
+  "network": {
+    "t_available_supply": 18825212,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 19803895
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/WISH"],
+  "social": ["https://twitter.com/@mywishplatform"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://mywish.io/index.html"
 }

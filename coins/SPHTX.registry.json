@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SPHTX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "SophiaTX",
-    "network": {
-        "t_available_supply": 192141767,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 192141767
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/SPHTX"
-    ],
-    "social": [
-        "https://twitter.com/@Sophia_TX_"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.sophiatx.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SPHTX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SophiaTX",
+  "network": {
+    "t_available_supply": 192211067,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 350000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/SPHTX"],
+  "social": ["https://twitter.com/@Sophia_TX_"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.sophiatx.com/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "IMX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Impact",
-    "network": {
-        "t_available_supply": 110012079,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 110012079
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/IMX"
-    ],
-    "social": [
-        "https://twitter.com/@Impact_coin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://impact-coin.com/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "IMX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Impact",
+  "network": {
+    "t_available_supply": 110076874,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 110076874
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/IMX"],
+  "social": ["https://twitter.com/@Impact_coin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://impact-coin.com/"
 }

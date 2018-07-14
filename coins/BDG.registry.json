@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BDG",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BitDegree",
-    "network": {
-        "t_available_supply": 354569198,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 354569198
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/BDG"
-    ],
-    "social": [
-        "https://twitter.com/@bitdegree_org"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.bitdegree.org"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BDG",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BitDegree",
+  "network": {
+    "t_available_supply": 355338365,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 514800000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/BDG"],
+  "social": ["https://twitter.com/@bitdegree_org"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.bitdegree.org"
 }

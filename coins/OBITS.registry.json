@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "OBITS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Obits Coin",
-    "network": {
-        "t_available_supply": 15674600,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 15674600
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/OBITS"
-    ],
-    "social": [
-        "https://twitter.com/@Open_Bits"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://obits.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "OBITS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Obits Coin",
+  "network": {
+    "t_available_supply": 15674600,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 15674600
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/OBITS"],
+  "social": ["https://twitter.com/@Open_Bits"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://obits.io/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "POLL",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ClearPoll",
-    "network": {
-        "t_available_supply": 6999991,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 6999991
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/POLL"
-    ],
-    "social": [
-        "https://twitter.com/@voteclearpoll"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.clearpoll.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "POLL",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ClearPoll",
+  "network": {
+    "t_available_supply": 6999991,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 8999992
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/POLL"],
+  "social": ["https://twitter.com/@voteclearpoll"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.clearpoll.io/"
 }

@@ -1,42 +1,27 @@
 {
-    "algorithm": null,
-    "chat": [
-        "https://t.me/joinchat/GWeOM0Nc_R_htbcpJha7mA"
-    ],
-    "community": [
-        "https://www.reddit.com/r/Docademic"
-    ],
-    "description": {
-        "en": "The DOCADEMIC PLATFORM is a single globally-sourced healthcare service platform for the public that begins with free Human Doctor-AI assisted Video Telemedicine service (DOCADEMIC APP) already in use in 20 countries by thousands of users and an associated suite of AI assisted tools and social network for the medical community  (Docademic for Doctors)."
-    },
-    "explorer": [
-        "https://ethplorer.io/address/0x905e337c6c8645263d3521205aa37bf4d034e745",
-        "https://etherscan.io/token/0x905E337c6c8645263D3521205Aa37bf4d034e745"
-    ],
-    "fromSymbol": "MTC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Docademic",
-    "network": {
-        "t_available_supply": 289365393,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 850000000
-    },
-    "proof_type": null,
-    "quote": [
-        "https://blockmodo.com/quotes/MTC"
-    ],
-    "social": [
-        "https://www.instagram.com/docademic",
-        "https://twitter.com/docademic",
-        "https://www.facebook.com/Docademic"
-    ],
-    "source_code": [
-        "https://github.com/Docademic/Docademic-ICO"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://mtc.docademic.com"
+  "algorithm": null,
+  "chat": ["https://t.me/joinchat/GWeOM0Nc_R_htbcpJha7mA"],
+  "community": ["https://www.reddit.com/r/Docademic"],
+  "description": {
+    "en": "The DOCADEMIC PLATFORM is a single globally-sourced healthcare service platform for the public that begins with free Human Doctor-AI assisted Video Telemedicine service (DOCADEMIC APP) already in use in 20 countries by thousands of users and an associated suite of AI assisted tools and social network for the medical community  (Docademic for Doctors)."
+  },
+  "explorer": ["https://ethplorer.io/address/0x905e337c6c8645263d3521205aa37bf4d034e745", "https://etherscan.io/token/0x905E337c6c8645263D3521205Aa37bf4d034e745"],
+  "fromSymbol": "MTC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Docademic",
+  "network": {
+    "t_available_supply": 214300790,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 850000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/MTC"],
+  "social": ["https://www.instagram.com/docademic", "https://twitter.com/docademic", "https://www.facebook.com/Docademic"],
+  "source_code": ["https://github.com/Docademic/Docademic-ICO"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://mtc.docademic.com"
 }

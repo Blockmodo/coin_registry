@@ -1,31 +1,27 @@
 {
-    "algorithm": "Quark",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DIME",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "DimeCoin",
-    "network": {
-        "t_available_supply": 539096740560,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 539096740560
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/DIME"
-    ],
-    "social": [
-        "https://twitter.com/@Dimecoin_"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.dimecoin.com.co/"
+  "algorithm": "Quark",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DIME",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "DimeCoin",
+  "network": {
+    "t_available_supply": 539096740560,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 539096740560
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/DIME"],
+  "social": ["https://twitter.com/@Dimecoin_"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.dimecoin.com.co/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "NIST5",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DNR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Denarius",
-    "network": {
-        "t_available_supply": 3044922,
-        "t_block_reward": 0,
-        "t_max_supply": 10000000,
-        "t_total_supply": 3044922
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/DNR"
-    ],
-    "social": [
-        "https://twitter.com/@denariuscoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://denarius.io/"
+  "algorithm": "NIST5",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DNR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Denarius",
+  "network": {
+    "t_available_supply": 3197035,
+    "t_block_reward": 0,
+    "t_max_supply": 10000000,
+    "t_total_supply": 3197035
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/DNR"],
+  "social": ["https://twitter.com/@denariuscoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://denarius.io/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "NXC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Nexium",
-    "network": {
-        "t_available_supply": 66520614,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 66520614
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/NXC"
-    ],
-    "social": [
-        "https://twitter.com/@BeyondVoidGame"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://beyond-the-void.net/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "NXC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Nexium",
+  "network": {
+    "t_available_supply": 66520584,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 66520584
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/NXC"],
+  "social": ["https://twitter.com/@BeyondVoidGame"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://beyond-the-void.net/"
 }

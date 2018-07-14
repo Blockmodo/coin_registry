@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PYLNT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Pylon Network",
-    "network": {
-        "t_available_supply": 355246,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 355246
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/PYLNT"
-    ],
-    "social": [
-        "https://twitter.com/@KlenergyTech"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://pylon-network.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PYLNT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Pylon Network",
+  "network": {
+    "t_available_supply": 356562,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 633858
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/PYLNT"],
+  "social": ["https://twitter.com/@KlenergyTech"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://pylon-network.org/"
 }

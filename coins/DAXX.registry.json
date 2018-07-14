@@ -1,31 +1,27 @@
 {
-    "algorithm": "Ethash",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DAXX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "DaxxCoin",
-    "network": {
-        "t_available_supply": 520891780,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 520891780
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/DAXX"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://daxxcoin.org/"
+  "algorithm": "Ethash",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DAXX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "DaxxCoin",
+  "network": {
+    "t_available_supply": 520891780,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 545891780
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/DAXX"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://daxxcoin.org/"
 }

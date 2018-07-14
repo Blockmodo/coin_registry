@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "NIO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Autonio",
-    "network": {
-        "t_available_supply": 67578135,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 67578135
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/NIO"
-    ],
-    "social": [
-        "https://twitter.com/@AI_Autonio"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://auton.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "NIO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Autonio",
+  "network": {
+    "t_available_supply": 68338135,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 220466789
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/NIO"],
+  "social": ["https://twitter.com/@AI_Autonio"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://auton.io/"
 }

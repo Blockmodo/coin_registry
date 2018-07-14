@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "GOLOS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Golos",
-    "network": {
-        "t_available_supply": 124518891,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 124518891
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/GOLOS"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://golos.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "GOLOS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Golos",
+  "network": {
+    "t_available_supply": 124518891,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 124518891
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/GOLOS"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://golos.io/"
 }

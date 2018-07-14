@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DGC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "DigiCoin",
-    "network": {
-        "t_available_supply": 29377163,
-        "t_block_reward": 0,
-        "t_max_supply": 48166000,
-        "t_total_supply": 29377163
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/DGC"
-    ],
-    "social": [
-        "https://twitter.com/@DigitalcoinDGC"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://digitalcoin.co/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DGC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "DigiCoin",
+  "network": {
+    "t_available_supply": 29585043,
+    "t_block_reward": 0,
+    "t_max_supply": 48166000,
+    "t_total_supply": 29585043
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/DGC"],
+  "social": ["https://twitter.com/@DigitalcoinDGC"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://digitalcoin.co/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "GRLC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Garlicoin",
-    "network": {
-        "t_available_supply": 9677751,
-        "t_block_reward": 0,
-        "t_max_supply": 69000000,
-        "t_total_supply": 9677751
-    },
-    "proof_type": "Scrypt-adaptive-N (ASIC resistant)",
-    "quote": [
-        "https://blockmodo.com/quotes/GRLC"
-    ],
-    "social": [
-        "https://twitter.com/https://twitter.com/GarlicoinOrg"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://garlicoin.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "GRLC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Garlicoin",
+  "network": {
+    "t_available_supply": 9677751,
+    "t_block_reward": 0,
+    "t_max_supply": 69000000,
+    "t_total_supply": 9850152
+  },
+  "proof_type": "Scrypt-adaptive-N (ASIC resistant)",
+  "quote": ["https://blockmodo.com/quotes/GRLC"],
+  "social": ["https://twitter.com/https://twitter.com/GarlicoinOrg"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://garlicoin.io/"
 }

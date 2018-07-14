@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CAPP",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Cappasity",
-    "network": {
-        "t_available_supply": 457032658,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 457032658
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/CAPP"
-    ],
-    "social": [
-        "https://twitter.com/@cappasity"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://artoken.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CAPP",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Cappasity",
+  "network": {
+    "t_available_supply": 473270344,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 578499783
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/CAPP"],
+  "social": ["https://twitter.com/@cappasity"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://artoken.io/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "GOOD",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "GoodCoin",
-    "network": {
-        "t_available_supply": 620508777,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 620508777
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/GOOD"
-    ],
-    "social": [
-        "https://twitter.com/@GOODCoinNews"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "GOOD",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "GoodCoin",
+  "network": {
+    "t_available_supply": 620508777,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 888000000
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/GOOD"],
+  "social": ["https://twitter.com/@GOODCoinNews"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

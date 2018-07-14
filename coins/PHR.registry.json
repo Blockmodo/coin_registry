@@ -1,31 +1,27 @@
 {
-    "algorithm": "PoS",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PHR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Phreak",
-    "network": {
-        "t_available_supply": 13554976,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 13554976
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/PHR"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "PoS",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PHR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Phreak",
+  "network": {
+    "t_available_supply": 13778665,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 13778665
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/PHR"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

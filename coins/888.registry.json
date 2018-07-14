@@ -1,37 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/OctoCoin"
-    ],
-    "description": {
-        "en": "Octocoin is an innovative payment network using peer-to-peer technology to operate with no central banks. Based on the Bitcoin Protocol, the Octocoin currency system enables instant payments to anyone, anywhere in the world. Transactions and minting are carried out collectively by the 'network', a vast worldwide interconnect of Octocoin peer nodes."
-    },
-    "explorer": [
-        "https://chainz.cryptoid.info/octo/"
-    ],
-    "fromSymbol": "888",
-    "is_crypto": true,
-    "is_minable": true,
-    "name": "Octocoin",
-    "network": {
-        "t_available_supply": 54884074,
-        "t_block_reward": 0,
-        "t_max_supply": 135776563,
-        "t_total_supply": 54884074
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/888"
-    ],
-    "social": [
-        "https://twitter.com/OctocoinProject"
-    ],
-    "source_code": [
-        "https://github.com/octocoin-project/octocoin"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://octocoinfoundation.org"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/OctoCoin"],
+  "description": {
+    "en": "Octocoin is an innovative payment network using peer-to-peer technology to operate with no central banks. Based on the Bitcoin Protocol, the Octocoin currency system enables instant payments to anyone, anywhere in the world. Transactions and minting are carried out collectively by the 'network', a vast worldwide interconnect of Octocoin peer nodes."
+  },
+  "explorer": ["https://chainz.cryptoid.info/octo/"],
+  "fromSymbol": "888",
+  "is_crypto": true,
+  "is_minable": true,
+  "name": "Octocoin",
+  "network": {
+    "t_available_supply": 54914174,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 54914174
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/888"],
+  "social": ["https://twitter.com/OctocoinProject"],
+  "source_code": ["https://github.com/octocoin-project/octocoin"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://octocoinfoundation.org"
 }

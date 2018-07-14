@@ -1,35 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/Augur"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "REP",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Augur",
-    "network": {
-        "t_available_supply": 11000000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 11000000
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/REP"
-    ],
-    "social": [
-        "https://twitter.com/@AugurProject"
-    ],
-    "source_code": [
-        "https://github.com/AugurProject/augur"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://augur.net/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/Augur"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "REP",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Augur",
+  "network": {
+    "t_available_supply": 11000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 11000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/REP"],
+  "social": ["https://twitter.com/@AugurProject"],
+  "source_code": ["https://github.com/AugurProject/augur"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://augur.net/"
 }

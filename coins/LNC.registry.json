@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "LNC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BlockLancer",
-    "network": {
-        "t_available_supply": 120140384,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 120140384
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/LNC"
-    ],
-    "social": [
-        "https://twitter.com/@blocklancer"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://blocklancer.net/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "LNC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BlockLancer",
+  "network": {
+    "t_available_supply": 120140384,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 152177339
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/LNC"],
+  "social": ["https://twitter.com/@blocklancer"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://blocklancer.net/"
 }

@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/Quantstamp"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "QSP",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Quantstamp",
-    "network": {
-        "t_available_supply": 617314171,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 617314171
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/QSP"
-    ],
-    "social": [
-        "https://twitter.com/@Quantstamp"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://quantstamp.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/Quantstamp"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "QSP",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Quantstamp",
+  "network": {
+    "t_available_supply": 617314171,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 976442388
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/QSP"],
+  "social": ["https://twitter.com/@Quantstamp"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://quantstamp.com/"
 }

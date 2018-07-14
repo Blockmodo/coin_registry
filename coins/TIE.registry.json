@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "TIE",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Ties Network",
-    "network": {
-        "t_available_supply": 40761740,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 40761740
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/TIE"
-    ],
-    "social": [
-        "https://twitter.com/@tiesnetwork"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://ties.network/?utm_source=cryptocompare.com&utm_medium=tracker"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "TIE",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Ties Network",
+  "network": {
+    "t_available_supply": 40761740,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 59251278
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/TIE"],
+  "social": ["https://twitter.com/@tiesnetwork"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://ties.network/?utm_source=cryptocompare.com&utm_medium=tracker"
 }

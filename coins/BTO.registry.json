@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BTO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Bottos",
-    "network": {
-        "t_available_supply": 498473628,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 498473628
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/BTO"
-    ],
-    "social": [
-        "https://twitter.com/@bottos_ai"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.bottos.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BTO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Bottos",
+  "network": {
+    "t_available_supply": 499202793,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/BTO"],
+  "social": ["https://twitter.com/@bottos_ai"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.bottos.org/"
 }

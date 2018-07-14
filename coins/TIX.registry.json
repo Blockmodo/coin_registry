@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "TIX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Blocktix",
-    "network": {
-        "t_available_supply": 40000000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 40000000
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/TIX"
-    ],
-    "social": [
-        "https://twitter.com/@blocktix"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://blocktix.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "TIX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Blocktix",
+  "network": {
+    "t_available_supply": 40000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 62500000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/TIX"],
+  "social": ["https://twitter.com/@blocktix"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://blocktix.io/"
 }

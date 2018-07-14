@@ -1,38 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [
-        "https://asiadigicointeam.slack.com/"
-    ],
-    "community": [
-        "https://www.reddit.com/r/Asiadigicoin"
-    ],
-    "description": {
-        "en": "ADCN is an experimental new digital currency that enables instant payments to anyone, anywhere in the world. ADCN uses a proof-of-work method in order for the ADCN blockchain network to achieve distributed consensus. ADCN Core is the name of open source software which enables the use of this currency and everyone can contribute."
-    },
-    "explorer": [
-        "https://etherscan.io/address/0x67237b0294f78ebd5a2ba97fa7179d248df00401"
-    ],
-    "fromSymbol": "ADCN",
-    "is_crypto": true,
-    "is_minable": true,
-    "name": "Asiadigicoin",
-    "network": {
-        "t_available_supply": 24931054,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 24931054
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/ADCN"
-    ],
-    "social": [
-        "https://twitter.com/OfficialADCN",
-        "https://www.facebook.com/asiadigicoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.asiadigicoin.org/"
+  "algorithm": "Scrypt",
+  "chat": ["https://asiadigicointeam.slack.com/"],
+  "community": ["https://www.reddit.com/r/Asiadigicoin"],
+  "description": {
+    "en": "ADCN is an experimental new digital currency that enables instant payments to anyone, anywhere in the world. ADCN uses a proof-of-work method in order for the ADCN blockchain network to achieve distributed consensus. ADCN Core is the name of open source software which enables the use of this currency and everyone can contribute."
+  },
+  "explorer": ["https://etherscan.io/address/0x67237b0294f78ebd5a2ba97fa7179d248df00401"],
+  "fromSymbol": "ADCN",
+  "is_crypto": true,
+  "is_minable": true,
+  "name": "Asiadigicoin",
+  "network": {
+    "t_available_supply": 24931054,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 210000000
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/ADCN"],
+  "social": ["https://twitter.com/OfficialADCN", "https://www.facebook.com/asiadigicoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.asiadigicoin.org/"
 }

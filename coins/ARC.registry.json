@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ARC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ArcticCoin",
-    "network": {
-        "t_available_supply": 24854769,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 24854769
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/ARC"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://arcticcoin.org/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ARC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ArcticCoin",
+  "network": {
+    "t_available_supply": 24909707,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 24909707
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/ARC"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://arcticcoin.org/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "X15",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "HAL",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Halcyon",
-    "network": {
-        "t_available_supply": 5997936,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 5997936
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/HAL"
-    ],
-    "social": [
-        "https://twitter.com/@HalcyonDev"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "X15",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "HAL",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Halcyon",
+  "network": {
+    "t_available_supply": 6081083,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 6081083
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/HAL"],
+  "social": ["https://twitter.com/@HalcyonDev"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

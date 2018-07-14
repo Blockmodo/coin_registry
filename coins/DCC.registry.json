@@ -1,31 +1,27 @@
 {
-    "algorithm": "SHA256",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DCC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "DarkCrave",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 277500,
-        "t_total_supply": 0
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/DCC"
-    ],
-    "social": [
-        "https://twitter.com/@Dark_Crave"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DCC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "DarkCrave",
+  "network": {
+    "t_available_supply": 873800162,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 3384960382
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/DCC"],
+  "social": ["https://twitter.com/@Dark_Crave"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

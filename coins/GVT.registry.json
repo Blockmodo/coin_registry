@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/genesisvision"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "GVT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Genesis Vision",
-    "network": {
-        "t_available_supply": 3726781,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 3726781
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/GVT"
-    ],
-    "social": [
-        "https://twitter.com/@genesis_vision"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://genesis.vision/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/genesisvision"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "GVT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Genesis Vision",
+  "network": {
+    "t_available_supply": 3726781,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 4436644
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/GVT"],
+  "social": ["https://twitter.com/@genesis_vision"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://genesis.vision/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "REX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "REX",
-    "network": {
-        "t_available_supply": 8660756,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 8660756
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/REX"
-    ],
-    "social": [
-        "https://twitter.com/@rexmls"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "REX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "REX",
+  "network": {
+    "t_available_supply": 8660756,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 24015497
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/REX"],
+  "social": ["https://twitter.com/@rexmls"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

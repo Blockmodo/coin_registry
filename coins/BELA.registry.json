@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BELA",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BelaCoin",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 41120107,
-        "t_total_supply": 0
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/BELA"
-    ],
-    "social": [
-        "https://twitter.com/@BelaCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://belacoin.org/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BELA",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BelaCoin",
+  "network": {
+    "t_available_supply": 36945897,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 43228811
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/BELA"],
+  "social": ["https://twitter.com/@BelaCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://belacoin.org/"
 }

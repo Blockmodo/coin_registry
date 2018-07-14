@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CSC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "CasinoCoin",
-    "network": {
-        "t_available_supply": 35973085511,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 35973085511
-    },
-    "proof_type": "PoC",
-    "quote": [
-        "https://blockmodo.com/quotes/CSC"
-    ],
-    "social": [
-        "https://twitter.com/@CasinoCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CSC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "CasinoCoin",
+  "network": {
+    "t_available_supply": 35973085511,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 39999999905
+  },
+  "proof_type": "PoC",
+  "quote": ["https://blockmodo.com/quotes/CSC"],
+  "social": ["https://twitter.com/@CasinoCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

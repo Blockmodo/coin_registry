@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MSP",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Mothership",
-    "network": {
-        "t_available_supply": 140000000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 140000000
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/MSP"
-    ],
-    "social": [
-        "https://twitter.com/@MothershipCX"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://mothership.cx/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MSP",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Mothership",
+  "network": {
+    "t_available_supply": 140000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 200000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/MSP"],
+  "social": ["https://twitter.com/@MothershipCX"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://mothership.cx/"
 }

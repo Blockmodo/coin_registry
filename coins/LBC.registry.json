@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "LBC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "LBRY Credits",
-    "network": {
-        "t_available_supply": 167241196,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 167241196
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/LBC"
-    ],
-    "social": [
-        "https://twitter.com/@LBRYio"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://lbry.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "LBC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "LBRY Credits",
+  "network": {
+    "t_available_supply": 167241196,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 542141200
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/LBC"],
+  "social": ["https://twitter.com/@LBRYio"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://lbry.io/"
 }

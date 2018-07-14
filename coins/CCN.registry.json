@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CCN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "CannaCoin",
-    "network": {
-        "t_available_supply": 4701803,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 4701803
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/CCN"
-    ],
-    "social": [
-        "https://twitter.com/@CCNProject"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://cannacoin.cc/index.php"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CCN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "CannaCoin",
+  "network": {
+    "t_available_supply": 4701873,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 4701873
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/CCN"],
+  "social": ["https://twitter.com/@CCNProject"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://cannacoin.cc/index.php"
 }

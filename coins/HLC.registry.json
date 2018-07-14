@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "HLC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Halal-Chain",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 0
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/HLC"
-    ],
-    "social": [
-        "https://twitter.com/@halalchain"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.halalchain.ae/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "HLC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Halal-Chain",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/HLC"],
+  "social": ["https://twitter.com/@halalchain"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.halalchain.ae/"
 }

@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/civicplatform"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CVC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Civic",
-    "network": {
-        "t_available_supply": 342699966,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 342699966
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/CVC"
-    ],
-    "social": [
-        "https://twitter.com/@civickey"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.civic.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/civicplatform"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CVC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Civic",
+  "network": {
+    "t_available_supply": 342699966,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/CVC"],
+  "social": ["https://twitter.com/@civickey"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.civic.com/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "GAM",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Gambit coin",
-    "network": {
-        "t_available_supply": 1200279,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 1200279
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/GAM"
-    ],
-    "social": [
-        "https://twitter.com/@gambitcrypto"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://gambitcrypto.com/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "GAM",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Gambit coin",
+  "network": {
+    "t_available_supply": 1154053,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 2599999
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/GAM"],
+  "social": ["https://twitter.com/@gambitcrypto"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://gambitcrypto.com/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SXUT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "SPECTRE Utility Token",
-    "network": {
-        "t_available_supply": 24529558,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 24529558
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/SXUT"
-    ],
-    "social": [
-        "https://twitter.com/@SpectreAI"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.spectre.ai/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SXUT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SPECTRE Utility Token",
+  "network": {
+    "t_available_supply": 24529558,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 42980365
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/SXUT"],
+  "social": ["https://twitter.com/@SpectreAI"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.spectre.ai/"
 }

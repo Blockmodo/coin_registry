@@ -1,43 +1,27 @@
 {
-    "algorithm": "SHA256",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/Bitcoincash",
-        "https://www.reddit.com/r/bch"
-    ],
-    "description": {
-        "en": "Bitcoin Cash is a cryptocurrency. In mid-2017, a group of developers wanting to increase bitcoin block size limit prepared a code change. The change, called a hard fork, took effect on 1 August 2017."
-    },
-    "explorer": [
-        "https://www.blocktrail.com/BCC",
-        "https://blockdozer.com/",
-        "https://blockchair.com/bitcoin-cash/blocks"
-    ],
-    "fromSymbol": "BCH",
-    "is_crypto": true,
-    "is_minable": true,
-    "name": "Bitcoin Cash / BCC",
-    "network": {
-        "t_available_supply": 17203363,
-        "t_block_reward": 0,
-        "t_max_supply": 21000000,
-        "t_total_supply": 17203363
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/BCH"
-    ],
-    "social": [
-        "https://twitter.com/@BITCOlNCASH"
-    ],
-    "source_code": [
-        "https://github.com/Bitcoin-ABC/bitcoin-abc",
-        "https://github.com/bitcoinclassic/bitcoinclassic",
-        "https://github.com/bitcoinxt/bitcoinxt",
-        "https://github.com/BitcoinUnlimited/BitcoinUnlimited"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.bitcoincash.org"
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/Bitcoincash", "https://www.reddit.com/r/bch"],
+  "description": {
+    "en": "Bitcoin Cash is a cryptocurrency. In mid-2017, a group of developers wanting to increase bitcoin block size limit prepared a code change. The change, called a hard fork, took effect on 1 August 2017."
+  },
+  "explorer": ["https://www.blocktrail.com/BCC", "https://blockdozer.com/", "https://blockchair.com/bitcoin-cash/blocks"],
+  "fromSymbol": "BCH",
+  "is_crypto": true,
+  "is_minable": true,
+  "name": "Bitcoin Cash / BCC",
+  "network": {
+    "t_available_supply": 17236600,
+    "t_block_reward": 0,
+    "t_max_supply": 21000000,
+    "t_total_supply": 17236600
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/BCH"],
+  "social": ["https://twitter.com/@BITCOlNCASH"],
+  "source_code": ["https://github.com/Bitcoin-ABC/bitcoin-abc", "https://github.com/bitcoinclassic/bitcoinclassic", "https://github.com/bitcoinxt/bitcoinxt", "https://github.com/BitcoinUnlimited/BitcoinUnlimited"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.bitcoincash.org"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DGPT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "DigiPulse",
-    "network": {
-        "t_available_supply": 2262814,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 2262814
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/DGPT"
-    ],
-    "social": [
-        "https://twitter.com/@DigiPulseIO"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.digipulse.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DGPT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "DigiPulse",
+  "network": {
+    "t_available_supply": 2262814,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 5420576
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/DGPT"],
+  "social": ["https://twitter.com/@DigiPulseIO"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.digipulse.io/"
 }

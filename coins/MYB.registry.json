@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MYB",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "MyBit",
-    "network": {
-        "t_available_supply": 57190221,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 57190221
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/MYB"
-    ],
-    "social": [
-        "https://twitter.com/@MyBit_DApp"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://mybit.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MYB",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "MyBit",
+  "network": {
+    "t_available_supply": 69697060,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 180000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/MYB"],
+  "social": ["https://twitter.com/@MyBit_DApp"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://mybit.io/"
 }

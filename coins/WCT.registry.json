@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "WCT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Waves Community Token",
-    "network": {
-        "t_available_supply": 9964597,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 9964597
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/WCT"
-    ],
-    "social": [
-        "https://twitter.com/@wavesplatform"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://wavesplatform.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "WCT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Waves Community Token",
+  "network": {
+    "t_available_supply": 9964596,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 9999999
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/WCT"],
+  "social": ["https://twitter.com/@wavesplatform"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://wavesplatform.com/"
 }

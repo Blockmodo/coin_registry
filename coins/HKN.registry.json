@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "HKN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Hacken",
-    "network": {
-        "t_available_supply": 5123675,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 5123675
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/HKN"
-    ],
-    "social": [
-        "https://twitter.com/@Hacken_io"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://hacken.io"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "HKN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Hacken",
+  "network": {
+    "t_available_supply": 5344209,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 5600000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/HKN"],
+  "social": ["https://twitter.com/@Hacken_io"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://hacken.io"
 }

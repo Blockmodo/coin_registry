@@ -1,36 +1,27 @@
 {
-    "algorithm": "SHA256",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": "ACOIN is a digital currency that enables instant payments to anyone, anywhere in the world. Acoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Acoin Core is the name of open source software which enables the use of this currency. Open Source Code."
-    },
-    "explorer": [
-        "http://madmando.info",
-        ""
-    ],
-    "fromSymbol": "ACOIN",
-    "is_crypto": true,
-    "is_minable": true,
-    "name": "ACoin",
-    "network": {
-        "t_available_supply": 1220085,
-        "t_block_reward": 0,
-        "t_max_supply": 1600000,
-        "t_total_supply": 1220085
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/ACOIN"
-    ],
-    "social": [
-        "https://twitter.com/@acointeam"
-    ],
-    "source_code": [
-        "https://github.com/acoin-project/acoin"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://acoin.info"
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": "ACOIN is a digital currency that enables instant payments to anyone, anywhere in the world. Acoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Acoin Core is the name of open source software which enables the use of this currency. Open Source Code."
+  },
+  "explorer": ["http://madmando.info", ""],
+  "fromSymbol": "ACOIN",
+  "is_crypto": true,
+  "is_minable": true,
+  "name": "ACoin",
+  "network": {
+    "t_available_supply": 1220085,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1220085
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/ACOIN"],
+  "social": ["https://twitter.com/@acointeam"],
+  "source_code": ["https://github.com/acoin-project/acoin"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://acoin.info"
 }

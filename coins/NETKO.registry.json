@@ -1,31 +1,27 @@
 {
-    "algorithm": "Blake",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "NETKO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Netko",
-    "network": {
-        "t_available_supply": 5630815,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 5630815
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/NETKO"
-    ],
-    "social": [
-        "https://twitter.com/@NetkoCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://netko.tech/"
+  "algorithm": "Blake",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "NETKO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Netko",
+  "network": {
+    "t_available_supply": 5776040,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 5776040
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/NETKO"],
+  "social": ["https://twitter.com/@NetkoCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://netko.tech/"
 }

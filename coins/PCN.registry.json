@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PCN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "PeepCoin",
-    "network": {
-        "t_available_supply": 16634926988,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 16634926988
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/PCN"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PCN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "PeepCoin",
+  "network": {
+    "t_available_supply": 18359595072,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 57559595072
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/PCN"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

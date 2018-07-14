@@ -1,31 +1,27 @@
 {
-    "algorithm": "PoS",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "EXCL",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Exclusive Coin",
-    "network": {
-        "t_available_supply": 4637185,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 4637185
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/EXCL"
-    ],
-    "social": [
-        "https://twitter.com/@exclusivecoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://exclusivecoin.pw/"
+  "algorithm": "PoS",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "EXCL",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Exclusive Coin",
+  "network": {
+    "t_available_supply": 4672911,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 4672911
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/EXCL"],
+  "social": ["https://twitter.com/@exclusivecoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://exclusivecoin.pw/"
 }

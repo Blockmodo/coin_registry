@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DOT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Dotcoin",
-    "network": {
-        "t_available_supply": 307119750,
-        "t_block_reward": 0,
-        "t_max_supply": 890000000,
-        "t_total_supply": 307119750
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/DOT"
-    ],
-    "social": [
-        "https://twitter.com/@dotcoinnz"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.cryptopia.co.nz"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DOT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Dotcoin",
+  "network": {
+    "t_available_supply": 311455750,
+    "t_block_reward": 0,
+    "t_max_supply": 890000000,
+    "t_total_supply": 576455750
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/DOT"],
+  "social": ["https://twitter.com/@dotcoinnz"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.cryptopia.co.nz"
 }

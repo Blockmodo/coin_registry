@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "TOA",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "TOA Coin",
-    "network": {
-        "t_available_supply": 2547880279,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 2547880279
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/TOA"
-    ],
-    "social": [
-        "https://twitter.com/@ToaCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.toacoin.com/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "TOA",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "TOA Coin",
+  "network": {
+    "t_available_supply": 2560324244,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 9016306994
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/TOA"],
+  "social": ["https://twitter.com/@ToaCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.toacoin.com/"
 }

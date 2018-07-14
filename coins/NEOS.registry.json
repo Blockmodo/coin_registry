@@ -1,31 +1,27 @@
 {
-    "algorithm": "SHA256",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "NEOS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "NeosCoin",
-    "network": {
-        "t_available_supply": 3853925,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 3853925
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/NEOS"
-    ],
-    "social": [
-        "https://twitter.com/@NeosCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.neoscoin.com/"
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "NEOS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "NeosCoin",
+  "network": {
+    "t_available_supply": 3885027,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 3885027
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/NEOS"],
+  "social": ["https://twitter.com/@NeosCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.neoscoin.com/"
 }

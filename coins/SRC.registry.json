@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SRC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "SecureCoin",
-    "network": {
-        "t_available_supply": 8683231,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 8683231
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/SRC"
-    ],
-    "social": [
-        "https://twitter.com/@SecureCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://securecoin.org/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SRC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SecureCoin",
+  "network": {
+    "t_available_supply": 8833076,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 8833076
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/SRC"],
+  "social": ["https://twitter.com/@SecureCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://securecoin.org/"
 }

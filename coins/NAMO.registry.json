@@ -1,31 +1,27 @@
 {
-    "algorithm": "NIST5",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "NAMO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "NamoCoin",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 1200000000,
-        "t_total_supply": 0
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/NAMO"
-    ],
-    "social": [
-        "https://twitter.com/@namocoin_team"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://namocoin.co.in/"
+  "algorithm": "NIST5",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "NAMO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "NamoCoin",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 1200000000,
+    "t_total_supply": 560211620
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/NAMO"],
+  "social": ["https://twitter.com/@namocoin_team"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://namocoin.co.in/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CARBON",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Carboncoin",
-    "network": {
-        "t_available_supply": 15392021010,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 15392021010
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/CARBON"
-    ],
-    "social": [
-        "https://twitter.com/@truecarboncoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "www.carboncoin.cc"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CARBON",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Carboncoin",
+  "network": {
+    "t_available_supply": 15392021312,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 15392021312
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/CARBON"],
+  "social": ["https://twitter.com/@truecarboncoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "www.carboncoin.cc"
 }

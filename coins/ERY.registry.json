@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ERY",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Eryllium",
-    "network": {
-        "t_available_supply": 12552178,
-        "t_block_reward": 0,
-        "t_max_supply": 100000000,
-        "t_total_supply": 12552178
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/ERY"
-    ],
-    "social": [
-        "https://twitter.com/@eryllium"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://eryllium.com"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ERY",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Eryllium",
+  "network": {
+    "t_available_supply": 12755231,
+    "t_block_reward": 0,
+    "t_max_supply": 100000000,
+    "t_total_supply": 17450773
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/ERY"],
+  "social": ["https://twitter.com/@eryllium"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://eryllium.com"
 }

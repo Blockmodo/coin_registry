@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SMLY",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "SmileyCoin",
-    "network": {
-        "t_available_supply": 25960250000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 25960250000
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/SMLY"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SMLY",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SmileyCoin",
+  "network": {
+    "t_available_supply": 25960250000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 25960250000
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/SMLY"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

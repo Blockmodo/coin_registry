@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BQ",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Bitqy",
-    "network": {
-        "t_available_supply": 3112671431,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 3112671431
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/BQ"
-    ],
-    "social": [
-        "https://twitter.com/@bitqyOfficial"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://bitqy.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BQ",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Bitqy",
+  "network": {
+    "t_available_supply": 3112670515,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 10000000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/BQ"],
+  "social": ["https://twitter.com/@bitqyOfficial"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://bitqy.org/"
 }

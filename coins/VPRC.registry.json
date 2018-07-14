@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "VPRC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "VapersCoin",
-    "network": {
-        "t_available_supply": 780124964,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 780124964
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/VPRC"
-    ],
-    "social": [
-        "https://twitter.com/@vaperscoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://vaperscoin.com"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "VPRC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "VapersCoin",
+  "network": {
+    "t_available_supply": 780124964,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1635124964
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/VPRC"],
+  "social": ["https://twitter.com/@vaperscoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://vaperscoin.com"
 }

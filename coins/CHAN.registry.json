@@ -1,31 +1,27 @@
 {
-    "algorithm": "Cloverhash",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CHAN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ChanCoin",
-    "network": {
-        "t_available_supply": 9070145,
-        "t_block_reward": 0,
-        "t_max_supply": 27000000,
-        "t_total_supply": 9070145
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/CHAN"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "Cloverhash",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CHAN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ChanCoin",
+  "network": {
+    "t_available_supply": 9410848,
+    "t_block_reward": 0,
+    "t_max_supply": 27000000,
+    "t_total_supply": 9410848
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/CHAN"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

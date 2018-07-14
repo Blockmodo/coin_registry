@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PHS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "PhilosophersStone",
-    "network": {
-        "t_available_supply": 6014340,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 6014340
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/PHS"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://phstones.com/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PHS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "PhilosophersStone",
+  "network": {
+    "t_available_supply": 6014340,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 6014340
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/PHS"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://phstones.com/"
 }

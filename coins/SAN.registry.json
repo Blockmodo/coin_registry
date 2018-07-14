@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/santiment"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SAN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Santiment",
-    "network": {
-        "t_available_supply": 62660371,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 62660371
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/SAN"
-    ],
-    "social": [
-        "https://twitter.com/@santimentfeed"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.santiment.net/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/santiment"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SAN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Santiment",
+  "network": {
+    "t_available_supply": 62660371,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 83337000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/SAN"],
+  "social": ["https://twitter.com/@santimentfeed"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.santiment.net/"
 }

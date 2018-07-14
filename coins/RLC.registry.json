@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/iexec"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "RLC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "iEx.ec",
-    "network": {
-        "t_available_supply": 80070793,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 80070793
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/RLC"
-    ],
-    "social": [
-        "https://twitter.com/@iEx_ec"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://iex.ec/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/iexec"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "RLC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "iEx.ec",
+  "network": {
+    "t_available_supply": 80070793,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 86999785
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/RLC"],
+  "social": ["https://twitter.com/@iEx_ec"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://iex.ec/"
 }

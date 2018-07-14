@@ -1,31 +1,27 @@
 {
-    "algorithm": "Blake",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BLC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BlakeCoin",
-    "network": {
-        "t_available_supply": 18510770,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 18510770
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/BLC"
-    ],
-    "social": [
-        "https://twitter.com/@BlakeCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://blakecoin.org/"
+  "algorithm": "Blake",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BLC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BlakeCoin",
+  "network": {
+    "t_available_supply": 18754634,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 18754634
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/BLC"],
+  "social": ["https://twitter.com/@BlakeCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://blakecoin.org/"
 }

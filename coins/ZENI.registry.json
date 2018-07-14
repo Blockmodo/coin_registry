@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ZENI",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Zennies",
-    "network": {
-        "t_available_supply": 1000812836,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 1000812836
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/ZENI"
-    ],
-    "social": [
-        "https://twitter.com/@ZeniZone"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://zeni.zone/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ZENI",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Zennies",
+  "network": {
+    "t_available_supply": 1000812836,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000812836
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/ZENI"],
+  "social": ["https://twitter.com/@ZeniZone"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://zeni.zone/"
 }

@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/boscoin"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BOS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BOScoin",
-    "network": {
-        "t_available_supply": 445898741,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 445898741
-    },
-    "proof_type": "mFBA",
-    "quote": [
-        "https://blockmodo.com/quotes/BOS"
-    ],
-    "social": [
-        "https://twitter.com/@boscoinio"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.boscoin.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/boscoin"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BOS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BOScoin",
+  "network": {
+    "t_available_supply": 445916055,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 500000000
+  },
+  "proof_type": "mFBA",
+  "quote": ["https://blockmodo.com/quotes/BOS"],
+  "social": ["https://twitter.com/@boscoinio"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.boscoin.io/"
 }

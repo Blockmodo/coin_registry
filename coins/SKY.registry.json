@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/SkycoinProject"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SKY",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Skycoin",
-    "network": {
-        "t_available_supply": 9000000,
-        "t_block_reward": 0,
-        "t_max_supply": 100000000,
-        "t_total_supply": 9000000
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/SKY"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://skycoin.net/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/SkycoinProject"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SKY",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Skycoin",
+  "network": {
+    "t_available_supply": 10000000,
+    "t_block_reward": 0,
+    "t_max_supply": 100000000,
+    "t_total_supply": 25000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/SKY"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://skycoin.net/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "B@",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BankCoin",
-    "network": {
-        "t_available_supply": 10291781,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 10291781
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/B@"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://bankcoin.global/?lang=en"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "B@",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BankCoin",
+  "network": {
+    "t_available_supply": 10291781,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 25000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/B@"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://bankcoin.global/?lang=en"
 }

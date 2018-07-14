@@ -1,36 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/loopring"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "LRC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Loopring",
-    "network": {
-        "t_available_supply": 572074043,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 572074043
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/LRC"
-    ],
-    "social": [
-        "https://twitter.com/@loopringorg"
-    ],
-    "source_code": [
-        "https://github.com/Loopring/loopr2",
-        "https://github.com/Loopring/loopr-ios"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://loopring.org"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/loopring"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "LRC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Loopring",
+  "network": {
+    "t_available_supply": 572074043,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1374956262
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/LRC"],
+  "social": ["https://twitter.com/@loopringorg"],
+  "source_code": ["https://github.com/Loopring/loopr2", "https://github.com/Loopring/loopr-ios"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://loopring.org"
 }

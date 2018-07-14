@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CURE",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Curecoin",
-    "network": {
-        "t_available_supply": 23879593,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 23879593
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/CURE"
-    ],
-    "social": [
-        "https://twitter.com/@CureCoin_Team"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.curecoin.net/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CURE",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Curecoin",
+  "network": {
+    "t_available_supply": 23882938,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 23882938
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/CURE"],
+  "social": ["https://twitter.com/@CureCoin_Team"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.curecoin.net/"
 }

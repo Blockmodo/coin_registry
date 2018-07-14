@@ -1,36 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/SysCoin"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SYS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "SysCoin",
-    "network": {
-        "t_available_supply": 535637429,
-        "t_block_reward": 0,
-        "t_max_supply": 888000000,
-        "t_total_supply": 535637429
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/SYS"
-    ],
-    "social": [
-        "https://twitter.com/@syscoin"
-    ],
-    "source_code": [
-        "https://github.com/syscoin/syscoin",
-        "https://github.com/syscoin/syscoin-api"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://syscoin.org/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/SysCoin"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SYS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SysCoin",
+  "network": {
+    "t_available_supply": 536792197,
+    "t_block_reward": 0,
+    "t_max_supply": 888000000,
+    "t_total_supply": 536792197
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/SYS"],
+  "social": ["https://twitter.com/@syscoin"],
+  "source_code": ["https://github.com/syscoin/syscoin", "https://github.com/syscoin/syscoin-api"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://syscoin.org/"
 }

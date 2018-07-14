@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CRB",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Creditbit ",
-    "network": {
-        "t_available_supply": 16690934,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 16690934
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/CRB"
-    ],
-    "social": [
-        "https://twitter.com/@credit_2"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.creditbit.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CRB",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Creditbit ",
+  "network": {
+    "t_available_supply": 16691694,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 16691694
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/CRB"],
+  "social": ["https://twitter.com/@credit_2"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.creditbit.org/"
 }

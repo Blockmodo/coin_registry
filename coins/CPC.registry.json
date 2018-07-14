@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CPC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "CapriCoin",
-    "network": {
-        "t_available_supply": 1990045,
-        "t_block_reward": 0,
-        "t_max_supply": 205000000,
-        "t_total_supply": 1990045
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/CPC"
-    ],
-    "social": [
-        "https://twitter.com/@Capricoin_Team"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://capricoin.com/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CPC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "CapriCoin",
+  "network": {
+    "t_available_supply": 1990045,
+    "t_block_reward": 0,
+    "t_max_supply": 205000000,
+    "t_total_supply": 200995023
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/CPC"],
+  "social": ["https://twitter.com/@Capricoin_Team"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://capricoin.com/"
 }

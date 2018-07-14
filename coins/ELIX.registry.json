@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ELIX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Elixir",
-    "network": {
-        "t_available_supply": 31926493,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 31926493
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ELIX"
-    ],
-    "social": [
-        "https://twitter.com/@elixtoken"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://elixirtoken.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ELIX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Elixir",
+  "network": {
+    "t_available_supply": 31928096,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 31928096
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ELIX"],
+  "social": ["https://twitter.com/@elixtoken"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://elixirtoken.io/"
 }

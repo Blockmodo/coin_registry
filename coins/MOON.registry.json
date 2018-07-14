@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MOON",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "MoonCoin",
-    "network": {
-        "t_available_supply": 224342874020,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 224342874020
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/MOON"
-    ],
-    "social": [
-        "https://twitter.com/@RealMooncoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MOON",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "MoonCoin",
+  "network": {
+    "t_available_supply": 224443943664,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 224443943664
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/MOON"],
+  "social": ["https://twitter.com/@RealMooncoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

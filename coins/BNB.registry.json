@@ -1,41 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [
-        "https://t.me/binanceexchange"
-    ],
-    "community": [
-        "https://www.reddit.com/r/BNBTrader",
-        "https://www.reddit.com/r/binanceexchange"
-    ],
-    "description": {
-        "en": "From the ICO, Binance issued its own token called the Binance Coin, with BNB as the symbol. BNB runs natively on the Ethereum blockchain and follows the ERC20 token standard.The token was established with a total supply of 200 million. As per our whitepaper, Binance plans to use 20% of our profits each Quarter to buyback and burn BNB, until 50% of the total BNB supply (100 million) is burned."
-    },
-    "explorer": [
-        "https://ethplorer.io/address/0xb8c77482e45f1f44de1745f52c74426c631bdd52",
-        "https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
-    ],
-    "fromSymbol": "BNB",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Binance Coin",
-    "network": {
-        "t_available_supply": 194972068,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 114041290
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/BNB"
-    ],
-    "social": [
-        "https://twitter.com/@binance",
-        "https://www.instagram.com/binanceexchange",
-        "https://www.facebook.com/binanceexchange"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.binance.com/"
+  "algorithm": "",
+  "chat": ["https://t.me/binanceexchange"],
+  "community": ["https://www.reddit.com/r/BNBTrader", "https://www.reddit.com/r/binanceexchange"],
+  "description": {
+    "en": "From the ICO, Binance issued its own token called the Binance Coin, with BNB as the symbol. BNB runs natively on the Ethereum blockchain and follows the ERC20 token standard.The token was established with a total supply of 200 million. As per our whitepaper, Binance plans to use 20% of our profits each Quarter to buyback and burn BNB, until 50% of the total BNB supply (100 million) is burned."
+  },
+  "explorer": ["https://ethplorer.io/address/0xb8c77482e45f1f44de1745f52c74426c631bdd52", "https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52"],
+  "fromSymbol": "BNB",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Binance Coin",
+  "network": {
+    "t_available_supply": 114041290,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 194972068
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/BNB"],
+  "social": ["https://twitter.com/@binance", "https://www.instagram.com/binanceexchange", "https://www.facebook.com/binanceexchange"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.binance.com/"
 }

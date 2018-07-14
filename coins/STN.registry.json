@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "STN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Steneum Coin",
-    "network": {
-        "t_available_supply": 2790938,
-        "t_block_reward": 0,
-        "t_max_supply": 20000000,
-        "t_total_supply": 2790938
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/STN"
-    ],
-    "social": [
-        "https://twitter.com/@steneumcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.steneum.com/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "STN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Steneum Coin",
+  "network": {
+    "t_available_supply": 2898553,
+    "t_block_reward": 0,
+    "t_max_supply": 20000000,
+    "t_total_supply": 6053397
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/STN"],
+  "social": ["https://twitter.com/@steneumcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.steneum.com/"
 }

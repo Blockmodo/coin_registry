@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CPY",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "COPYTRACK",
-    "network": {
-        "t_available_supply": 22342937,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 22342937
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/CPY"
-    ],
-    "social": [
-        "https://twitter.com/@CopytrackHQ"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://copytrack.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CPY",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "COPYTRACK",
+  "network": {
+    "t_available_supply": 22878925,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 53000748
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/CPY"],
+  "social": ["https://twitter.com/@CopytrackHQ"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://copytrack.io/"
 }

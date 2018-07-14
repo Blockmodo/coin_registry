@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/PowerLedger"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "POWR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Power Ledger",
-    "network": {
-        "t_available_supply": 373406633,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 373406633
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/POWR"
-    ],
-    "social": [
-        "https://twitter.com/@PowerLedger_io"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://powerledger.io"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/PowerLedger"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "POWR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Power Ledger",
+  "network": {
+    "t_available_supply": 373730395,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/POWR"],
+  "social": ["https://twitter.com/@PowerLedger_io"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://powerledger.io"
 }

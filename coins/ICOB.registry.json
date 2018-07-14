@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ICOB",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Icobid",
-    "network": {
-        "t_available_supply": 107048455,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 107048455
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/ICOB"
-    ],
-    "social": [
-        "https://twitter.com/@pioneer8816"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.icobidplatform.net/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ICOB",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Icobid",
+  "network": {
+    "t_available_supply": 107048455,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 107048455
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/ICOB"],
+  "social": ["https://twitter.com/@pioneer8816"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.icobidplatform.net/"
 }

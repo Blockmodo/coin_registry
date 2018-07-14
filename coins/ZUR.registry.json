@@ -1,31 +1,27 @@
 {
-    "algorithm": "Quark",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ZUR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Zurcoin",
-    "network": {
-        "t_available_supply": 87653034,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 87653034
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/ZUR"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://shai102.wixsite.com/zurcoin"
+  "algorithm": "Quark",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ZUR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Zurcoin",
+  "network": {
+    "t_available_supply": 87653034,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 87653034
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/ZUR"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://shai102.wixsite.com/zurcoin"
 }

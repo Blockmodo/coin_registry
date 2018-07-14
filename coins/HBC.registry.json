@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "HBC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "HomeBlockCoin",
-    "network": {
-        "t_available_supply": 5000000,
-        "t_block_reward": 0,
-        "t_max_supply": 28000000,
-        "t_total_supply": 5000000
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/HBC"
-    ],
-    "social": [
-        "https://twitter.com/@HomeBlockCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.homeblockcoin.com/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "HBC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "HomeBlockCoin",
+  "network": {
+    "t_available_supply": 5000000,
+    "t_block_reward": 0,
+    "t_max_supply": 28000000,
+    "t_total_supply": 9529146
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/HBC"],
+  "social": ["https://twitter.com/@HomeBlockCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.homeblockcoin.com/"
 }

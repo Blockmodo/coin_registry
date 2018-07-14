@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ASTRO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Astronaut",
-    "network": {
-        "t_available_supply": 3313833,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 3313833
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ASTRO"
-    ],
-    "social": [
-        "https://twitter.com/@astronautcap"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.astronaut.capital/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ASTRO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Astronaut",
+  "network": {
+    "t_available_supply": 3313833,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 6999999
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ASTRO"],
+  "social": ["https://twitter.com/@astronautcap"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.astronaut.capital/"
 }

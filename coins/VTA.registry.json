@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "VTA",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "VirtaCoin",
-    "network": {
-        "t_available_supply": 5201310113,
-        "t_block_reward": 0,
-        "t_max_supply": 21000000000,
-        "t_total_supply": 5201310113
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/VTA"
-    ],
-    "social": [
-        "https://twitter.com/@VirtaCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.virtalocal.com/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "VTA",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "VirtaCoin",
+  "network": {
+    "t_available_supply": 5201310113,
+    "t_block_reward": 0,
+    "t_max_supply": 21000000000,
+    "t_total_supply": 12666916683
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/VTA"],
+  "social": ["https://twitter.com/@VirtaCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.virtalocal.com/"
 }

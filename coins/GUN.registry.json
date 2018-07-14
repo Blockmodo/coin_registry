@@ -1,31 +1,27 @@
 {
-    "algorithm": "NeoScrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "GUN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "GunCoin",
-    "network": {
-        "t_available_supply": 217528828,
-        "t_block_reward": 0,
-        "t_max_supply": 500000000,
-        "t_total_supply": 217528828
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/GUN"
-    ],
-    "social": [
-        "https://twitter.com/@TeamGuncoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://guncoin.info/"
+  "algorithm": "NeoScrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "GUN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "GunCoin",
+  "network": {
+    "t_available_supply": 220374028,
+    "t_block_reward": 0,
+    "t_max_supply": 500000000,
+    "t_total_supply": 220374028
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/GUN"],
+  "social": ["https://twitter.com/@TeamGuncoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://guncoin.info/"
 }

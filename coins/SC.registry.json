@@ -1,36 +1,27 @@
 {
-    "algorithm": "Blake2b",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/siacoin"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Siacoin",
-    "network": {
-        "t_available_supply": 35204699472,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 35204699472
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/SC"
-    ],
-    "social": [
-        "https://twitter.com/@SiaTechHQ"
-    ],
-    "source_code": [
-        "https://github.com/NebulousLabs/Sia",
-        "https://github.com/NebulousLabs/Sia-UI"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://sia.tech/"
+  "algorithm": "Blake2b",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/siacoin"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Siacoin",
+  "network": {
+    "t_available_supply": 35651714784,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 35651714784
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/SC"],
+  "social": ["https://twitter.com/@SiaTechHQ"],
+  "source_code": ["https://github.com/NebulousLabs/Sia", "https://github.com/NebulousLabs/Sia-UI"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://sia.tech/"
 }

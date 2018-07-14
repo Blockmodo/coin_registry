@@ -1,36 +1,27 @@
 {
-    "algorithm": "Multiple",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/vergecurrency"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "XVG",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Verge",
-    "network": {
-        "t_available_supply": 15054315539,
-        "t_block_reward": 0,
-        "t_max_supply": 16555000000,
-        "t_total_supply": 15054315539
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/XVG"
-    ],
-    "social": [
-        "https://twitter.com/@vergecurrency"
-    ],
-    "source_code": [
-        "https://github.com/vergecurrency/VERGE",
-        "https://github.com/vergecurrency/vergecurrency.com"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://vergecurrency.com/"
+  "algorithm": "Multiple",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/vergecurrency"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "XVG",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Verge",
+  "network": {
+    "t_available_supply": 15054315539,
+    "t_block_reward": 0,
+    "t_max_supply": 16555000000,
+    "t_total_supply": 15054315539
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/XVG"],
+  "social": ["https://twitter.com/@vergecurrency"],
+  "source_code": ["https://github.com/vergecurrency/VERGE", "https://github.com/vergecurrency/vergecurrency.com"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://vergecurrency.com/"
 }

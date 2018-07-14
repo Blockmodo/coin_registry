@@ -1,31 +1,27 @@
 {
-    "algorithm": "SHA256",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SBTC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Super Bitcoin",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 21210000,
-        "t_total_supply": 0
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/SBTC"
-    ],
-    "social": [
-        "https://twitter.com/SuperBTC2"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://supersmartbitcoin.com/"
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SBTC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Super Bitcoin",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 21210000,
+    "t_total_supply": 0
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/SBTC"],
+  "social": ["https://twitter.com/SuperBTC2"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://supersmartbitcoin.com/"
 }

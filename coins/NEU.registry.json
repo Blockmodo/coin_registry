@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "NEU",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Neumark",
-    "network": {
-        "t_available_supply": 28737127,
-        "t_block_reward": 0,
-        "t_max_supply": 1500000000,
-        "t_total_supply": 28737127
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/NEU"
-    ],
-    "social": [
-        "https://twitter.com/@neufundorg"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://neufund.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "NEU",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Neumark",
+  "network": {
+    "t_available_supply": 28731068,
+    "t_block_reward": 0,
+    "t_max_supply": 1500000000,
+    "t_total_supply": 53005272
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/NEU"],
+  "social": ["https://twitter.com/@neufundorg"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://neufund.org/"
 }

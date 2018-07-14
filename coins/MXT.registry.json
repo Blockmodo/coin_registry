@@ -1,31 +1,27 @@
 {
-    "algorithm": "X13",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MXT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "MartexCoin",
-    "network": {
-        "t_available_supply": 3023457,
-        "t_block_reward": 0,
-        "t_max_supply": 5000000,
-        "t_total_supply": 3023457
-    },
-    "proof_type": " PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/MXT"
-    ],
-    "social": [
-        "https://twitter.com/@martexcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://martexcoin.org/"
+  "algorithm": "X13",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MXT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "MartexCoin",
+  "network": {
+    "t_available_supply": 3042397,
+    "t_block_reward": 0,
+    "t_max_supply": 5000000,
+    "t_total_supply": 3042397
+  },
+  "proof_type": " PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/MXT"],
+  "social": ["https://twitter.com/@martexcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://martexcoin.org/"
 }

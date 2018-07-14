@@ -1,31 +1,27 @@
 {
-    "algorithm": "Ethash",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "EXP",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Expanse",
-    "network": {
-        "t_available_supply": 7906397,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 7906397
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/EXP"
-    ],
-    "social": [
-        "https://twitter.com/@ExpanseOfficial"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.expanse.tech/"
+  "algorithm": "Ethash",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "EXP",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Expanse",
+  "network": {
+    "t_available_supply": 10495278,
+    "t_block_reward": 0,
+    "t_max_supply": 100000000,
+    "t_total_supply": 19495278
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/EXP"],
+  "social": ["https://twitter.com/@ExpanseOfficial"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.expanse.tech/"
 }

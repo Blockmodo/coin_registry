@@ -1,33 +1,27 @@
 {
-    "algorithm": "PoS",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/Particl"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PART",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Particl",
-    "network": {
-        "t_available_supply": 9015285,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 9015285
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/PART"
-    ],
-    "social": [
-        "https://twitter.com/@particlproject"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://particl.io/"
+  "algorithm": "PoS",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/Particl"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PART",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Particl",
+  "network": {
+    "t_available_supply": 10036539,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 9040539
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/PART"],
+  "social": ["https://twitter.com/@particlproject"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://particl.io/"
 }

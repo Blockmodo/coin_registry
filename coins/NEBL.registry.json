@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/Neblio"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "NEBL",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Neblio",
-    "network": {
-        "t_available_supply": 13247508,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 13247508
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/NEBL"
-    ],
-    "social": [
-        "https://twitter.com/@NeblioTeam"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://nebl.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/Neblio"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "NEBL",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Neblio",
+  "network": {
+    "t_available_supply": 13319613,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 14063629
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/NEBL"],
+  "social": ["https://twitter.com/@NeblioTeam"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://nebl.io/"
 }

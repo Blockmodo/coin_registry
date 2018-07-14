@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "OCL",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Oceanlab",
-    "network": {
-        "t_available_supply": 46500000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 46500000
-    },
-    "proof_type": "DPoS/LPoS",
-    "quote": [
-        "https://blockmodo.com/quotes/OCL"
-    ],
-    "social": [
-        "https://twitter.com/@oceanlab_eu"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://oceanlab.eu"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "OCL",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Oceanlab",
+  "network": {
+    "t_available_supply": 46500000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 50000000
+  },
+  "proof_type": "DPoS/LPoS",
+  "quote": ["https://blockmodo.com/quotes/OCL"],
+  "social": ["https://twitter.com/@oceanlab_eu"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://oceanlab.eu"
 }

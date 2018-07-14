@@ -1,31 +1,27 @@
 {
-    "algorithm": "SHA256",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CRW",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Crown Coin",
-    "network": {
-        "t_available_supply": 18911628,
-        "t_block_reward": 0,
-        "t_max_supply": 42000000,
-        "t_total_supply": 18911628
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/CRW"
-    ],
-    "social": [
-        "https://twitter.com/@Crowncoin1"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://crown.tech/"
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CRW",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Crown Coin",
+  "network": {
+    "t_available_supply": 19231786,
+    "t_block_reward": 0,
+    "t_max_supply": 42000000,
+    "t_total_supply": 19231786
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/CRW"],
+  "social": ["https://twitter.com/@Crowncoin1"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://crown.tech/"
 }

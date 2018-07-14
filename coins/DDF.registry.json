@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DDF",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Digital Developers Fund",
-    "network": {
-        "t_available_supply": 5118307,
-        "t_block_reward": 0,
-        "t_max_supply": 6428932,
-        "t_total_supply": 5118307
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/DDF"
-    ],
-    "social": [
-        "https://twitter.com/@DigitalDevFund"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.digitaldevelopersfund.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DDF",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Digital Developers Fund",
+  "network": {
+    "t_available_supply": 5118307,
+    "t_block_reward": 0,
+    "t_max_supply": 6428932,
+    "t_total_supply": 6428932
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/DDF"],
+  "social": ["https://twitter.com/@DigitalDevFund"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.digitaldevelopersfund.com/"
 }

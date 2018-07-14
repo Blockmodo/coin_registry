@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "COLX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ColossusCoinXT",
-    "network": {
-        "t_available_supply": 10934162766,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 10934162766
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/COLX"
-    ],
-    "social": [
-        "https://twitter.com/@colossuscoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.colossuscoin.org/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "COLX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ColossusCoinXT",
+  "network": {
+    "t_available_supply": 10978851416,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 11038384796
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/COLX"],
+  "social": ["https://twitter.com/@colossuscoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.colossuscoin.org/"
 }

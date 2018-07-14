@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SAFEX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "SafeExchangeCoin",
-    "network": {
-        "t_available_supply": 1543157590,
-        "t_block_reward": 0,
-        "t_max_supply": 2147483647,
-        "t_total_supply": 1543157590
-    },
-    "proof_type": "PoC",
-    "quote": [
-        "https://blockmodo.com/quotes/SAFEX"
-    ],
-    "social": [
-        "https://twitter.com/@safe_exchange"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://safex.io/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SAFEX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SafeExchangeCoin",
+  "network": {
+    "t_available_supply": 1543157590,
+    "t_block_reward": 0,
+    "t_max_supply": 2147483647,
+    "t_total_supply": 2147483647
+  },
+  "proof_type": "PoC",
+  "quote": ["https://blockmodo.com/quotes/SAFEX"],
+  "social": ["https://twitter.com/@safe_exchange"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://safex.io/"
 }

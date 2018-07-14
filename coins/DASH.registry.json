@@ -1,43 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [
-        "https://discordapp.com/invite/9z8zX5j"
-    ],
-    "community": [
-        "https://www.reddit.com/r/dashpay",
-        "https://www.dash.org/forum"
-    ],
-    "description": {
-        "en": "Dash is an open source peer-to-peer cryptocurrency and decentralized autonomous organization. It features instant transactions, private transactions and a self-funded, self-governed organizational structure."
-    },
-    "explorer": [
-        "https://chainz.cryptoid.info/dash",
-        "https://insight.dash.org/insight",
-        "https://explorer.dash.org/chain/Dash"
-    ],
-    "fromSymbol": "DASH",
-    "is_crypto": true,
-    "is_minable": true,
-    "name": "DigitalCash",
-    "network": {
-        "t_available_supply": 8146367,
-        "t_block_reward": 0,
-        "t_max_supply": 18900000,
-        "t_total_supply": 8153791
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/DASH"
-    ],
-    "social": [
-        "https://twitter.com/@Dashpay",
-        "https://www.facebook.com/DashPay"
-    ],
-    "source_code": [
-        "https://github.com/dashpay/dash"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://dash.org"
+  "algorithm": "X11",
+  "chat": ["https://discordapp.com/invite/9z8zX5j"],
+  "community": ["https://www.reddit.com/r/dashpay", "https://www.dash.org/forum"],
+  "description": {
+    "en": "Dash is an open source peer-to-peer cryptocurrency and decentralized autonomous organization. It features instant transactions, private transactions and a self-funded, self-governed organizational structure."
+  },
+  "explorer": ["https://chainz.cryptoid.info/dash", "https://insight.dash.org/insight", "https://explorer.dash.org/chain/Dash"],
+  "fromSymbol": "DASH",
+  "is_crypto": true,
+  "is_minable": true,
+  "name": "DigitalCash",
+  "network": {
+    "t_available_supply": 8193639,
+    "t_block_reward": 0,
+    "t_max_supply": 18900000,
+    "t_total_supply": 8193639
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/DASH"],
+  "social": ["https://twitter.com/@Dashpay", "https://www.facebook.com/DashPay"],
+  "source_code": ["https://github.com/dashpay/dash"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://dash.org"
 }

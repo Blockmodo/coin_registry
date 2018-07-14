@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/SubstratumNetwork"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SUB",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Substratum Network",
-    "network": {
-        "t_available_supply": 383021000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 383021000
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/SUB"
-    ],
-    "social": [
-        "https://twitter.com/@SubstratumNet"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://substratum.net/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/SubstratumNetwork"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SUB",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Substratum Network",
+  "network": {
+    "t_available_supply": 383021000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 472000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/SUB"],
+  "social": ["https://twitter.com/@SubstratumNet"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://substratum.net/"
 }

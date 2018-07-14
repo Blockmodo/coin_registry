@@ -1,31 +1,27 @@
 {
-    "algorithm": "POS 3.0",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "XSPEC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Spectre",
-    "network": {
-        "t_available_supply": 20785264,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 20785264
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/XSPEC"
-    ],
-    "social": [
-        "https://twitter.com/@SpectreCash"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://spectreproject.io/"
+  "algorithm": "POS 3.0",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "XSPEC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Spectre",
+  "network": {
+    "t_available_supply": 20785264,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 20785264
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/XSPEC"],
+  "social": ["https://twitter.com/@SpectreCash"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://spectreproject.io/"
 }

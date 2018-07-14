@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BSC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BowsCoin",
-    "network": {
-        "t_available_supply": 5550102,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 5550102
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/BSC"
-    ],
-    "social": [
-        "https://twitter.com/@NastaGm"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://thebows.ru/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BSC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BowsCoin",
+  "network": {
+    "t_available_supply": 5550102,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 5550102
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/BSC"],
+  "social": ["https://twitter.com/@NastaGm"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://thebows.ru/"
 }

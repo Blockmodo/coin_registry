@@ -1,42 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [
-        "https://t.me/nemred"
-    ],
-    "community": [
-        "https://www.reddit.com/r/nem"
-    ],
-    "description": {
-        "en": "NEM is a peer-to-peer crypto platform. It is written in Java and JavaScript with 100% original source code. NEM has a stated goal of a wide distribution model and has introduced new features in blockchain technology in its proof-of-importance (POI) algorithm. NEM also features an integrated P2P secure and encrypted messaging system, multisignature accounts and an Eigentrust++ reputation system."
-    },
-    "explorer": [
-        "http://explorer.nemchina.com/",
-        "http://chain.nem.ninja/#/blocks/0"
-    ],
-    "fromSymbol": "XEM",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "NEM",
-    "network": {
-        "t_available_supply": 8999999999,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 8999999999
-    },
-    "proof_type": "PoI",
-    "quote": [
-        "https://blockmodo.com/quotes/XEM"
-    ],
-    "social": [
-        "https://twitter.com/@NEMofficial",
-        "https://www.facebook.com/ourNEM"
-    ],
-    "source_code": [
-        "https://github.com/NemProject/NEMiOSApp",
-        "https://github.com/NemProject/csharp2nem"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.nem.io/"
+  "algorithm": "",
+  "chat": ["https://t.me/nemred"],
+  "community": ["https://www.reddit.com/r/nem"],
+  "description": {
+    "en": "NEM is a peer-to-peer crypto platform. It is written in Java and JavaScript with 100% original source code. NEM has a stated goal of a wide distribution model and has introduced new features in blockchain technology in its proof-of-importance (POI) algorithm. NEM also features an integrated P2P secure and encrypted messaging system, multisignature accounts and an Eigentrust++ reputation system."
+  },
+  "explorer": ["http://explorer.nemchina.com/", "http://chain.nem.ninja/#/blocks/0"],
+  "fromSymbol": "XEM",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "NEM",
+  "network": {
+    "t_available_supply": 8999999999,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 8999999999
+  },
+  "proof_type": "PoI",
+  "quote": ["https://blockmodo.com/quotes/XEM"],
+  "social": ["https://twitter.com/@NEMofficial", "https://www.facebook.com/ourNEM"],
+  "source_code": ["https://github.com/NemProject/NEMiOSApp", "https://github.com/NemProject/csharp2nem"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.nem.io/"
 }

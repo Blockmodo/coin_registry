@@ -1,41 +1,27 @@
 {
-    "algorithm": "X13",
-    "chat": [
-        "https://bitcoindiamonds.slack.com",
-        "https://t.me/BCDcommunity"
-    ],
-    "community": [
-        "https://www.reddit.com/user/Bitcoin-Diamond"
-    ],
-    "description": {
-        "en": "Bitcoin Diamond-Speeding up transaction processing on the basis of bitcoin protocol."
-    },
-    "explorer": [
-        "http://explorer.btcd.io",
-        "http://btcd.io"
-    ],
-    "fromSymbol": "BCD",
-    "is_crypto": true,
-    "is_minable": true,
-    "name": "Bitcoin Diamond",
-    "network": {
-        "t_available_supply": 153756875,
-        "t_block_reward": 0,
-        "t_max_supply": 210000000,
-        "t_total_supply": 153756875
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/BCD"
-    ],
-    "social": [
-        "https://twitter.com/@BitcoinDiamond_"
-    ],
-    "source_code": [
-        "https://github.com/eveybcd/BitcoinDiamond"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://btcd.io"
+  "algorithm": "X13",
+  "chat": ["https://bitcoindiamonds.slack.com", "https://t.me/BCDcommunity"],
+  "community": ["https://www.reddit.com/user/Bitcoin-Diamond"],
+  "description": {
+    "en": "Bitcoin Diamond-Speeding up transaction processing on the basis of bitcoin protocol."
+  },
+  "explorer": ["http://explorer.btcd.io", "http://btcd.io"],
+  "fromSymbol": "BCD",
+  "is_crypto": true,
+  "is_minable": true,
+  "name": "Bitcoin Diamond",
+  "network": {
+    "t_available_supply": 153756875,
+    "t_block_reward": 0,
+    "t_max_supply": 210000000,
+    "t_total_supply": 156756875
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/BCD"],
+  "social": ["https://twitter.com/@BitcoinDiamond_"],
+  "source_code": ["https://github.com/eveybcd/BitcoinDiamond"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://btcd.io"
 }

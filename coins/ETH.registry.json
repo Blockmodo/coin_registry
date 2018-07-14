@@ -1,45 +1,27 @@
 {
-    "algorithm": "Ethash",
-    "chat": [
-        "https://telegram.me/joinchat/AyAwgj-vtnMdUxRvCgicuQ"
-    ],
-    "community": [
-        "https://www.reddit.com/r/ethereum",
-        "https://www.reddit.com/r/ethtrader"
-    ],
-    "description": {
-        "en": "Ethereum is an open-source, public, blockchain-based distributed computing platform and operating system featuring smart contract functionality. It supports a modified version of Nakamoto consensus via transaction-based state transitions."
-    },
-    "explorer": [
-        "https://etherscan.io/",
-        "https://www.etherchain.org/",
-        "https://ethplorer.io/"
-    ],
-    "fromSymbol": "ETH",
-    "is_crypto": true,
-    "is_minable": true,
-    "name": "Ethereum",
-    "network": {
-        "t_available_supply": 100664592,
-        "t_block_reward": 3,
-        "t_max_supply": 0,
-        "t_total_supply": 100664592
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/ETH"
-    ],
-    "social": [
-        "https://twitter.com/ethereum",
-        "https://www.facebook.com/ethereumproject/"
-    ],
-    "source_code": [
-        "https://github.com/ethereum/go-ethereum",
-        "https://github.com/ethereum/cpp-ethereum",
-        "https://github.com/paritytech/parity"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.ethereum.org/"
+  "algorithm": "Ethash",
+  "chat": ["https://telegram.me/joinchat/AyAwgj-vtnMdUxRvCgicuQ"],
+  "community": ["https://www.reddit.com/r/ethereum", "https://www.reddit.com/r/ethtrader"],
+  "description": {
+    "en": "Ethereum is an open-source, public, blockchain-based distributed computing platform and operating system featuring smart contract functionality. It supports a modified version of Nakamoto consensus via transaction-based state transitions."
+  },
+  "explorer": ["https://etherscan.io/", "https://www.etherchain.org/", "https://ethplorer.io/"],
+  "fromSymbol": "ETH",
+  "is_crypto": true,
+  "is_minable": true,
+  "name": "Ethereum",
+  "network": {
+    "t_available_supply": 100680873,
+    "t_block_reward": 3,
+    "t_max_supply": 0,
+    "t_total_supply": 100680873
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/ETH"],
+  "social": ["https://twitter.com/ethereum", "https://www.facebook.com/ethereumproject/"],
+  "source_code": ["https://github.com/ethereum/go-ethereum", "https://github.com/ethereum/cpp-ethereum", "https://github.com/paritytech/parity"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.ethereum.org/"
 }

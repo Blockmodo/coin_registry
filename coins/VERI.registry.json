@@ -1,35 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/vericoin"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "VERI",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Veritaseum",
-    "network": {
-        "t_available_supply": 2036645,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 2036645
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/VERI"
-    ],
-    "social": [
-        "https://twitter.com/@ReggieMiddleton"
-    ],
-    "source_code": [
-        "https://github.com/vericoin/vericoin"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://veritas.veritaseum.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/vericoin"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "VERI",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Veritaseum",
+  "network": {
+    "t_available_supply": 2036645,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/VERI"],
+  "social": ["https://twitter.com/@ReggieMiddleton"],
+  "source_code": ["https://github.com/vericoin/vericoin"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://veritas.veritaseum.com/"
 }

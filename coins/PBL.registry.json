@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PBL",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Publica",
-    "network": {
-        "t_available_supply": 18582933,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 18582933
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/PBL"
-    ],
-    "social": [
-        "https://twitter.com/@PublicaIO"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://publica.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PBL",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Publica",
+  "network": {
+    "t_available_supply": 18582933,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 33787150
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/PBL"],
+  "social": ["https://twitter.com/@PublicaIO"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://publica.io/"
 }

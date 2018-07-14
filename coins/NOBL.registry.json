@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "NOBL",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "NobleCoin",
-    "network": {
-        "t_available_supply": 2330169502,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 2330169502
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/NOBL"
-    ],
-    "social": [
-        "https://twitter.com/@NobleCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.noblemovement.com/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "NOBL",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "NobleCoin",
+  "network": {
+    "t_available_supply": 2331450116,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 2331450116
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/NOBL"],
+  "social": ["https://twitter.com/@NobleCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.noblemovement.com/"
 }

@@ -1,42 +1,27 @@
 {
-    "algorithm": null,
-    "chat": [
-        "https://discordapp.com/invite/xrm56DV"
-    ],
-    "community": [
-        "https://www.reddit.com/r/Synereo"
-    ],
-    "description": {
-        "en": "Synereo is a company developing software tools and solutions for the Attention Economy based on decentralized organizational principles, set to create a fairer, freer Internet."
-    },
-    "explorer": [
-        "https://www.omniexplorer.info/asset/39"
-    ],
-    "fromSymbol": "AMP",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Synereo",
-    "network": {
-        "t_available_supply": 100728564,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 622410799
-    },
-    "proof_type": "Pow/PoSC",
-    "quote": [
-        "https://blockmodo.com/quotes/AMP"
-    ],
-    "social": [
-        "https://twitter.com/@Synereo"
-    ],
-    "source_code": [
-        "https://github.com/synereo/synereo.github.io",
-        "https://github.com/synereo/crowdsale-lite",
-        "https://github.com/synereo/synereo-node",
-        "https://github.com/synereo/synereo"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.synereo.com"
+  "algorithm": null,
+  "chat": ["https://discordapp.com/invite/xrm56DV"],
+  "community": ["https://www.reddit.com/r/Synereo"],
+  "description": {
+    "en": "Synereo is a company developing software tools and solutions for the Attention Economy based on decentralized organizational principles, set to create a fairer, freer Internet."
+  },
+  "explorer": ["https://www.omniexplorer.info/asset/39"],
+  "fromSymbol": "AMP",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Synereo",
+  "network": {
+    "t_available_supply": 100728564,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 622410799
+  },
+  "proof_type": "Pow/PoSC",
+  "quote": ["https://blockmodo.com/quotes/AMP"],
+  "social": ["https://twitter.com/@Synereo"],
+  "source_code": ["https://github.com/synereo/synereo.github.io", "https://github.com/synereo/crowdsale-lite", "https://github.com/synereo/synereo-node", "https://github.com/synereo/synereo"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.synereo.com"
 }

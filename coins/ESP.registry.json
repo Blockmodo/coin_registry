@@ -1,31 +1,27 @@
 {
-    "algorithm": "HMQ1725",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ESP",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Espers",
-    "network": {
-        "t_available_supply": 21788723019,
-        "t_block_reward": 0,
-        "t_max_supply": 50000000000,
-        "t_total_supply": 21788723019
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/ESP"
-    ],
-    "social": [
-        "https://twitter.com/@EspersCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://espers.io/"
+  "algorithm": "HMQ1725",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ESP",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Espers",
+  "network": {
+    "t_available_supply": 21904245383,
+    "t_block_reward": 0,
+    "t_max_supply": 50000000000,
+    "t_total_supply": 21904245383
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/ESP"],
+  "social": ["https://twitter.com/@EspersCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://espers.io/"
 }

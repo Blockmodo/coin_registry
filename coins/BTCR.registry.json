@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BTCR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BitCurrency",
-    "network": {
-        "t_available_supply": 169598616,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 169598616
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/BTCR"
-    ],
-    "social": [
-        "https://twitter.com/@BitcurrencyTeam"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BTCR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BitCurrency",
+  "network": {
+    "t_available_supply": 169598616,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 169598616
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/BTCR"],
+  "social": ["https://twitter.com/@BitcurrencyTeam"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

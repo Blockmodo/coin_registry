@@ -1,31 +1,27 @@
 {
-    "algorithm": "SHA256",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ZET",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ZetaCoin",
-    "network": {
-        "t_available_supply": 168225154,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 168225154
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/ZET"
-    ],
-    "social": [
-        "https://twitter.com/@zetacoins"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://zetacoin.com/"
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ZET",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ZetaCoin",
+  "network": {
+    "t_available_supply": 168340839,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 168340839
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/ZET"],
+  "social": ["https://twitter.com/@zetacoins"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://zetacoin.com/"
 }

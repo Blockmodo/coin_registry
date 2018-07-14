@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/Edgeless"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "EDG",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Edgeless",
-    "network": {
-        "t_available_supply": 88087036,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 88087036
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/EDG"
-    ],
-    "social": [
-        "https://twitter.com/@edgelessproject"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://edgeless.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/Edgeless"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "EDG",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Edgeless",
+  "network": {
+    "t_available_supply": 95639612,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 132046997
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/EDG"],
+  "social": ["https://twitter.com/@edgelessproject"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://edgeless.io/"
 }

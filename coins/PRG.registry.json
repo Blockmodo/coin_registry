@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PRG",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Paragon",
-    "network": {
-        "t_available_supply": 65936599,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 65936599
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/PRG"
-    ],
-    "social": [
-        "https://twitter.com/@ParagonCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://crowdsale.paragoncoin.com/?ref=27c0b4a26107667308d77e91"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PRG",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Paragon",
+  "network": {
+    "t_available_supply": 65936598,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 164936588
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/PRG"],
+  "social": ["https://twitter.com/@ParagonCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://crowdsale.paragoncoin.com/?ref=27c0b4a26107667308d77e91"
 }

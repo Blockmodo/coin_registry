@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "REF",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "RefToken",
-    "network": {
-        "t_available_supply": 732429,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 732429
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/REF"
-    ],
-    "social": [
-        "https://twitter.com/@RefToken"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://reftoken.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "REF",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "RefToken",
+  "network": {
+    "t_available_supply": 732429,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 50000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/REF"],
+  "social": ["https://twitter.com/@RefToken"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://reftoken.io/"
 }

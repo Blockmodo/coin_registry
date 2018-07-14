@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "INFX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Influxcoin",
-    "network": {
-        "t_available_supply": 1673383,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 1673383
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/INFX"
-    ],
-    "social": [
-        "https://twitter.com/@Infxcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://chainworksindustries.com/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "INFX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Influxcoin",
+  "network": {
+    "t_available_supply": 1673383,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1673383
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/INFX"],
+  "social": ["https://twitter.com/@Infxcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://chainworksindustries.com/"
 }

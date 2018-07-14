@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "TRUST",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "TrustPlus",
-    "network": {
-        "t_available_supply": 32086595,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 32086595
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/TRUST"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://trustplus.co/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "TRUST",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "TrustPlus",
+  "network": {
+    "t_available_supply": 32086595,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 32086595
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/TRUST"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://trustplus.co/"
 }

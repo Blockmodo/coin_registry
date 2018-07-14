@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DBET",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Decent.bet",
-    "network": {
-        "t_available_supply": 128724198,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 128724198
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/DBET"
-    ],
-    "social": [
-        "https://twitter.com/@Decent_Bet"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.decent.bet/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DBET",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Decent.bet",
+  "network": {
+    "t_available_supply": 129665862,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 187318785
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/DBET"],
+  "social": ["https://twitter.com/@Decent_Bet"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.decent.bet/"
 }

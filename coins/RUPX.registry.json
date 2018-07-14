@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "RUPX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Rupaya",
-    "network": {
-        "t_available_supply": 26714657,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 26714657
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/RUPX"
-    ],
-    "social": [
-        "https://twitter.com/@RupayaCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.rupayacoin.org/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "RUPX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Rupaya",
+  "network": {
+    "t_available_supply": 29497584,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 29497584
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/RUPX"],
+  "social": ["https://twitter.com/@RupayaCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.rupayacoin.org/"
 }

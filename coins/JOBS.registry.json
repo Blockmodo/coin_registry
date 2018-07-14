@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "JOBS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "JobsCoin",
-    "network": {
-        "t_available_supply": 106019270,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 106019270
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/JOBS"
-    ],
-    "social": [
-        "https://twitter.com/@Jobscoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://jobscoin.us/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "JOBS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "JobsCoin",
+  "network": {
+    "t_available_supply": 106019270,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 200019300
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/JOBS"],
+  "social": ["https://twitter.com/@Jobscoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://jobscoin.us/"
 }

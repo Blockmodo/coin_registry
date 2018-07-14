@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "FOTA",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Fortuna",
-    "network": {
-        "t_available_supply": 403728511,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 403728511
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/FOTA"
-    ],
-    "social": [
-        "https://twitter.com/@FortunaBlockch1"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.fota.top/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "FOTA",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Fortuna",
+  "network": {
+    "t_available_supply": 415268556,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/FOTA"],
+  "social": ["https://twitter.com/@FortunaBlockch1"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.fota.top/"
 }

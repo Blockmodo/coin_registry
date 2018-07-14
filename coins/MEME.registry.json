@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MEME",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Pepe",
-    "network": {
-        "t_available_supply": 22619625,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 22619625
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/MEME"
-    ],
-    "social": [
-        "https://twitter.com/@pepecoins"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://memetic.ai/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MEME",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Pepe",
+  "network": {
+    "t_available_supply": 22799265,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 23166517
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/MEME"],
+  "social": ["https://twitter.com/@pepecoins"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://memetic.ai/"
 }

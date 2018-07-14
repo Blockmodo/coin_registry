@@ -1,31 +1,27 @@
 {
-    "algorithm": "NeoScrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DSR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Desire",
-    "network": {
-        "t_available_supply": 2996172,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 2996172
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/DSR"
-    ],
-    "social": [
-        "https://twitter.com/@DesireCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.desire-crypto.com/"
+  "algorithm": "NeoScrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DSR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Desire",
+  "network": {
+    "t_available_supply": 2996172,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 3596172
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/DSR"],
+  "social": ["https://twitter.com/@DesireCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.desire-crypto.com/"
 }

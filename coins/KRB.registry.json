@@ -1,31 +1,27 @@
 {
-    "algorithm": "CryptoNight",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "KRB",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Karbo",
-    "network": {
-        "t_available_supply": 6069354,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 6069354
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/KRB"
-    ],
-    "social": [
-        "https://twitter.com/@krbcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://karbowanec.com/"
+  "algorithm": "CryptoNight",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "KRB",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Karbo",
+  "network": {
+    "t_available_supply": 6187234,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 6187234
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/KRB"],
+  "social": ["https://twitter.com/@krbcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://karbowanec.com/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "GLD",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "GoldCoin",
-    "network": {
-        "t_available_supply": 41097560,
-        "t_block_reward": 0,
-        "t_max_supply": 72245700,
-        "t_total_supply": 41097560
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/GLD"
-    ],
-    "social": [
-        "https://twitter.com/@goldcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.goldcoin.org/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "GLD",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "GoldCoin",
+  "network": {
+    "t_available_supply": 41142828,
+    "t_block_reward": 0,
+    "t_max_supply": 72245700,
+    "t_total_supply": 41142828
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/GLD"],
+  "social": ["https://twitter.com/@goldcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.goldcoin.org/"
 }

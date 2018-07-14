@@ -1,40 +1,27 @@
 {
-    "algorithm": null,
-    "chat": [
-        "https://discordapp.com/invite/VNrDBUV",
-        "https://t.me/rivetz_corp"
-    ],
-    "community": [
-        "https://www.reddit.com/r/Rivetz/"
-    ],
-    "description": {
-        "en": "Rivetz works through the Trusted Execution Environment: a private hardware “vault” on your phone that is completely independent from the operating system. Inside of this vault, everything is isolated – so no apps or software or operating system can see what’s inside. This is where Rivetz works to securely manage your secrets, your passwords, keys, and other private information."
-    },
-    "explorer": [
-        "https://ethplorer.io/address/0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244",
-        "https://etherscan.io/token/0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244"
-    ],
-    "fromSymbol": "RVT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Rivetz",
-    "network": {
-        "t_available_supply": 26244468,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 200000000
-    },
-    "proof_type": null,
-    "quote": [
-        "https://blockmodo.com/quotes/RVT"
-    ],
-    "social": [
-        "https://twitter.com/@rivetzcorp",
-        "https://www.facebook.com/Rivetzcorp/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://rivetzintl.com"
+  "algorithm": null,
+  "chat": ["https://discordapp.com/invite/VNrDBUV", "https://t.me/rivetz_corp"],
+  "community": ["https://www.reddit.com/r/Rivetz/"],
+  "description": {
+    "en": "Rivetz works through the Trusted Execution Environment: a private hardware “vault” on your phone that is completely independent from the operating system. Inside of this vault, everything is isolated – so no apps or software or operating system can see what’s inside. This is where Rivetz works to securely manage your secrets, your passwords, keys, and other private information."
+  },
+  "explorer": ["https://ethplorer.io/address/0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244", "https://etherscan.io/token/0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244"],
+  "fromSymbol": "RVT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Rivetz",
+  "network": {
+    "t_available_supply": 26244468,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 200000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/RVT"],
+  "social": ["https://twitter.com/@rivetzcorp", "https://www.facebook.com/Rivetzcorp/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://rivetzintl.com"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "C11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ITZ",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Interzone",
-    "network": {
-        "t_available_supply": 2652019,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 2652019
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/ITZ"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://interzone.space/"
+  "algorithm": "C11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ITZ",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Interzone",
+  "network": {
+    "t_available_supply": 2652019,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 3112019
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/ITZ"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://interzone.space/"
 }

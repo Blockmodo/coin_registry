@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ICX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ICON Project",
-    "network": {
-        "t_available_supply": 387431340,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 387431340
-    },
-    "proof_type": "LFT",
-    "quote": [
-        "https://blockmodo.com/quotes/ICX"
-    ],
-    "social": [
-        "https://twitter.com/@helloiconworld"
-    ],
-    "source_code": [
-        "https://github.com/icon-foundation/ico"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.icon.foundation/en/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ICX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ICON Project",
+  "network": {
+    "t_available_supply": 387431340,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 800460000
+  },
+  "proof_type": "LFT",
+  "quote": ["https://blockmodo.com/quotes/ICX"],
+  "social": ["https://twitter.com/@helloiconworld"],
+  "source_code": ["https://github.com/icon-foundation/ico"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.icon.foundation/en/"
 }

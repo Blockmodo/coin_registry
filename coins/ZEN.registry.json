@@ -1,33 +1,27 @@
 {
-    "algorithm": "Equihash",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/zen"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ZEN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ZenCash",
-    "network": {
-        "t_available_supply": 4111450,
-        "t_block_reward": 0,
-        "t_max_supply": 21000000,
-        "t_total_supply": 4111450
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/ZEN"
-    ],
-    "social": [
-        "https://twitter.com/@ZenCashOfficial"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://zensystem.io/"
+  "algorithm": "Equihash",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/zen"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ZEN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ZenCash",
+  "network": {
+    "t_available_supply": 4271713,
+    "t_block_reward": 0,
+    "t_max_supply": 21000000,
+    "t_total_supply": 4271713
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/ZEN"],
+  "social": ["https://twitter.com/@ZenCashOfficial"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://zensystem.io/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "DPoS",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "LWF",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Local World Forwarders",
-    "network": {
-        "t_available_supply": 94128333,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 94128333
-    },
-    "proof_type": "DPoS",
-    "quote": [
-        "https://blockmodo.com/quotes/LWF"
-    ],
-    "social": [
-        "https://twitter.com/@lwf_ico"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.lwf.io/en"
+  "algorithm": "DPoS",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "LWF",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Local World Forwarders",
+  "network": {
+    "t_available_supply": 94836767,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 105983035
+  },
+  "proof_type": "DPoS",
+  "quote": ["https://blockmodo.com/quotes/LWF"],
+  "social": ["https://twitter.com/@lwf_ico"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.lwf.io/en"
 }

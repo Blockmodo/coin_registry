@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "POS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "PoSToken",
-    "network": {
-        "t_available_supply": 1012978,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 1012978
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/POS"
-    ],
-    "social": [
-        "https://twitter.com/@PoSToken"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://postoken.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "POS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "PoSToken",
+  "network": {
+    "t_available_supply": 1020312,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1218789
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/POS"],
+  "social": ["https://twitter.com/@PoSToken"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://postoken.org/"
 }

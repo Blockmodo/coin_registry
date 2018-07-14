@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "LGO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Legolas Exchange",
-    "network": {
-        "t_available_supply": 119695679,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 119695679
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/LGO"
-    ],
-    "social": [
-        "https://twitter.com/@LegolasExchange"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://legolas.exchange/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "LGO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Legolas Exchange",
+  "network": {
+    "t_available_supply": 119995679,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 217698062
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/LGO"],
+  "social": ["https://twitter.com/@LegolasExchange"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://legolas.exchange/"
 }

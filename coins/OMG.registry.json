@@ -1,44 +1,27 @@
 {
-    "algorithm": null,
-    "chat": [
-        "https://chat.omisego.network/home",
-        "https://telegram.me/omisego"
-    ],
-    "community": [
-        "https://www.reddit.com/r/omise_go",
-        "https://www.reddit.com/r/OMGtrader"
-    ],
-    "description": {
-        "en": "The OMG network is a scaling solution for finance on Ethereum, enabling transparent, peer-to-peer transactions in real-time. The decentralized network facilitates self-sovereign financial services across geographies, asset classes and applications."
-    },
-    "explorer": [
-        "https://ethplorer.io/address/0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
-        "https://etherscan.io/token/OmiseGo"
-    ],
-    "fromSymbol": "OMG",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "OmiseGo",
-    "network": {
-        "t_available_supply": 102042552,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 140245398
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/OMG"
-    ],
-    "social": [
-        "https://twitter.com/@omise_go"
-    ],
-    "source_code": [
-        "https://github.com/omise/omise-go",
-        "https://github.com/omise/omise-php",
-        "https://github.com/omise/omise-dotnet"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://omg.omise.co/"
+  "algorithm": null,
+  "chat": ["https://chat.omisego.network/home", "https://telegram.me/omisego"],
+  "community": ["https://www.reddit.com/r/omise_go", "https://www.reddit.com/r/OMGtrader"],
+  "description": {
+    "en": "The OMG network is a scaling solution for finance on Ethereum, enabling transparent, peer-to-peer transactions in real-time. The decentralized network facilitates self-sovereign financial services across geographies, asset classes and applications."
+  },
+  "explorer": ["https://ethplorer.io/address/0xd26114cd6ee289accf82350c8d8487fedb8a0c07", "https://etherscan.io/token/OmiseGo"],
+  "fromSymbol": "OMG",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "OmiseGo",
+  "network": {
+    "t_available_supply": 140245398,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 140245398
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/OMG"],
+  "social": ["https://twitter.com/@omise_go"],
+  "source_code": ["https://github.com/omise/omise-go", "https://github.com/omise/omise-php", "https://github.com/omise/omise-dotnet"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://omg.omise.co/"
 }

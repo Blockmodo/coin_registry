@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DNA",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Encrypgen",
-    "network": {
-        "t_available_supply": 62219914,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 62219914
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/DNA"
-    ],
-    "social": [
-        "https://twitter.com/@encrypgen"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.encrypgen.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DNA",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Encrypgen",
+  "network": {
+    "t_available_supply": 62219914,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 70978131
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/DNA"],
+  "social": ["https://twitter.com/@encrypgen"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.encrypgen.com/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "FSBT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Forty Seven Bank",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 0
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/FSBT"
-    ],
-    "social": [
-        "https://twitter.com/@47foundation"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.fortyseven.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "FSBT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Forty Seven Bank",
+  "network": {
+    "t_available_supply": 3509535,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 3699483
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/FSBT"],
+  "social": ["https://twitter.com/@47foundation"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.fortyseven.io/"
 }

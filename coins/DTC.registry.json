@@ -1,31 +1,27 @@
 {
-    "algorithm": "Multiple",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DTC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Datacoin",
-    "network": {
-        "t_available_supply": 31903132,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 31903132
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/DTC"
-    ],
-    "social": [
-        "https://twitter.com/@DatacoinX"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://datacoin.info/"
+  "algorithm": "Multiple",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DTC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Datacoin",
+  "network": {
+    "t_available_supply": 32237073,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 32237073
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/DTC"],
+  "social": ["https://twitter.com/@DatacoinX"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://datacoin.info/"
 }

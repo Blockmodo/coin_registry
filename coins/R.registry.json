@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/revain"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "R",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Revain",
-    "network": {
-        "t_available_supply": 186450000,
-        "t_block_reward": 0,
-        "t_max_supply": 484450000,
-        "t_total_supply": 186450000
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/R"
-    ],
-    "social": [
-        "https://twitter.com/@Revain_org"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://revain.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/revain"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "R",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Revain",
+  "network": {
+    "t_available_supply": 186450000,
+    "t_block_reward": 0,
+    "t_max_supply": 484450000,
+    "t_total_supply": 484450000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/R"],
+  "social": ["https://twitter.com/@Revain_org"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://revain.org/"
 }

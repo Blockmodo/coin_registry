@@ -1,31 +1,27 @@
 {
-    "algorithm": "Dagger",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PIRL",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Pirl",
-    "network": {
-        "t_available_supply": 19759717,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 19759717
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/PIRL"
-    ],
-    "social": [
-        "https://twitter.com/@PirlOfficial"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://pirl.io/"
+  "algorithm": "Dagger",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PIRL",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Pirl",
+  "network": {
+    "t_available_supply": 21427442,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 21427442
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/PIRL"],
+  "social": ["https://twitter.com/@PirlOfficial"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://pirl.io/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "OK",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "OKCash",
-    "network": {
-        "t_available_supply": 74064284,
-        "t_block_reward": 0,
-        "t_max_supply": 105000000,
-        "t_total_supply": 74064284
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/OK"
-    ],
-    "social": [
-        "https://twitter.com/@OKCashCrypto"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://okcash.co/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "OK",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "OKCash",
+  "network": {
+    "t_available_supply": 74096589,
+    "t_block_reward": 0,
+    "t_max_supply": 105000000,
+    "t_total_supply": 74096589
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/OK"],
+  "social": ["https://twitter.com/@OKCashCrypto"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://okcash.co/"
 }

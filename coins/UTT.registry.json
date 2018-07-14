@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "UTT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "United Traders Token",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 0
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/UTT"
-    ],
-    "social": [
-        "https://twitter.com/@Uttoken"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://unitedtraders.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "UTT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "United Traders Token",
+  "network": {
+    "t_available_supply": 37341840,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 69403131
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/UTT"],
+  "social": ["https://twitter.com/@Uttoken"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://unitedtraders.com/"
 }

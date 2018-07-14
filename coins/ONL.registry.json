@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ONL",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "On.Live",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 111000000,
-        "t_total_supply": 0
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ONL"
-    ],
-    "social": [
-        "https://twitter.com/@on_live"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://on.live/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ONL",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "On.Live",
+  "network": {
+    "t_available_supply": 20167612,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 59725382
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ONL"],
+  "social": ["https://twitter.com/@on_live"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://on.live/"
 }

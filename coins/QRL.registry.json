@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "QRL",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Quantum Resistant Ledger",
-    "network": {
-        "t_available_supply": 52000000,
-        "t_block_reward": 0,
-        "t_max_supply": 105000000,
-        "t_total_supply": 52000000
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/QRL"
-    ],
-    "social": [
-        "https://twitter.com/@QRLedger"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://theqrl.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "QRL",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Quantum Resistant Ledger",
+  "network": {
+    "t_available_supply": 52000000,
+    "t_block_reward": 0,
+    "t_max_supply": 105000000,
+    "t_total_supply": 65000000
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/QRL"],
+  "social": ["https://twitter.com/@QRLedger"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://theqrl.org/"
 }

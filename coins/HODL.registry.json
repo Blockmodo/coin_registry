@@ -1,31 +1,27 @@
 {
-    "algorithm": "1GB AES Pattern Search",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "HODL",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "HOdlcoin",
-    "network": {
-        "t_available_supply": 164342925,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 164342925
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/HODL"
-    ],
-    "social": [
-        "https://twitter.com/@hodlcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.hodlcoin.com/"
+  "algorithm": "1GB AES Pattern Search",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "HODL",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "HOdlcoin",
+  "network": {
+    "t_available_supply": 164342925,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 250000000
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/HODL"],
+  "social": ["https://twitter.com/@hodlcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.hodlcoin.com/"
 }

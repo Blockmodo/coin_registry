@@ -1,42 +1,27 @@
 {
-    "algorithm": "DPoS",
-    "chat": [
-        "https://slack.achain.com/",
-        "https://t.me/AchainOfficial"
-    ],
-    "community": [
-        "https://newforum.achain.com",
-        "https://www.reddit.com/r/Achain_Official"
-    ],
-    "description": {
-        "en": "Achain is a public #blockchain platform that enables developers to issue tokens, #smartcontracts, create applications and blockchain systems."
-    },
-    "explorer": [
-        "https://browser.achain.com"
-    ],
-    "fromSymbol": "ACT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Achain",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 1000000000,
-        "t_total_supply": 0
-    },
-    "proof_type": "DPoS",
-    "quote": [
-        "https://blockmodo.com/quotes/ACT"
-    ],
-    "social": [
-        "https://twitter.com/AchainOfficial",
-        "https://www.facebook.com/AchainOfficial"
-    ],
-    "source_code": [
-        "https://github.com/Achain-Dev/Achain"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.achain.com/"
+  "algorithm": "DPoS",
+  "chat": ["https://slack.achain.com/", "https://t.me/AchainOfficial"],
+  "community": ["https://newforum.achain.com", "https://www.reddit.com/r/Achain_Official"],
+  "description": {
+    "en": "Achain is a public #blockchain platform that enables developers to issue tokens, #smartcontracts, create applications and blockchain systems."
+  },
+  "explorer": ["https://browser.achain.com"],
+  "fromSymbol": "ACT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Achain",
+  "network": {
+    "t_available_supply": 553504084,
+    "t_block_reward": 0,
+    "t_max_supply": 1000000000,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": "DPoS",
+  "quote": ["https://blockmodo.com/quotes/ACT"],
+  "social": ["https://twitter.com/AchainOfficial", "https://www.facebook.com/AchainOfficial"],
+  "source_code": ["https://github.com/Achain-Dev/Achain"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.achain.com/"
 }

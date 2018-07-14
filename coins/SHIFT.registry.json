@@ -1,31 +1,27 @@
 {
-    "algorithm": "DPoS",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SHIFT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Shift",
-    "network": {
-        "t_available_supply": 12164338,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 12164338
-    },
-    "proof_type": "DPoS",
-    "quote": [
-        "https://blockmodo.com/quotes/SHIFT"
-    ],
-    "social": [
-        "https://twitter.com/@ShiftNrg"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.shiftnrg.org/"
+  "algorithm": "DPoS",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SHIFT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Shift",
+  "network": {
+    "t_available_supply": 12235347,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 12235347
+  },
+  "proof_type": "DPoS",
+  "quote": ["https://blockmodo.com/quotes/SHIFT"],
+  "social": ["https://twitter.com/@ShiftNrg"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.shiftnrg.org/"
 }

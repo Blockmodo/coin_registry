@@ -1,35 +1,27 @@
 {
-    "algorithm": "X13",
-    "chat": [
-        "https://t.me/acescoinchat"
-    ],
-    "community": [],
-    "description": {
-        "en": "Intended to be worldwide accepted in online games."
-    },
-    "explorer": [],
-    "fromSymbol": "ACES",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Aces",
-    "network": {
-        "t_available_supply": 90000000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 90000000
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/ACES"
-    ],
-    "social": [
-        "https://twitter.com/@CoinAces"
-    ],
-    "source_code": [
-        "https://github.com/aces-coin/AcesCoin"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "X13",
+  "chat": ["https://t.me/acescoinchat"],
+  "community": [],
+  "description": {
+    "en": "Intended to be worldwide accepted in online games."
+  },
+  "explorer": [],
+  "fromSymbol": "ACES",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Aces",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 0
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/ACES"],
+  "social": ["https://twitter.com/@CoinAces"],
+  "source_code": ["https://github.com/aces-coin/AcesCoin"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

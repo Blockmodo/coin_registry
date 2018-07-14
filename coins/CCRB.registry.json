@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CCRB",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "CryptoCarbon",
-    "network": {
-        "t_available_supply": 3562111,
-        "t_block_reward": 0,
-        "t_max_supply": 70000000,
-        "t_total_supply": 3562111
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/CCRB"
-    ],
-    "social": [
-        "https://twitter.com/@CryptoCarbon"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CCRB",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "CryptoCarbon",
+  "network": {
+    "t_available_supply": 24690718,
+    "t_block_reward": 0,
+    "t_max_supply": 70000000,
+    "t_total_supply": 70000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/CCRB"],
+  "social": ["https://twitter.com/@CryptoCarbon"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

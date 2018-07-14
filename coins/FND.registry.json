@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "FND",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "FundRequest",
-    "network": {
-        "t_available_supply": 31356053,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 31356053
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/FND"
-    ],
-    "social": [
-        "https://twitter.com/@fundrequest_io"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://fundrequest.io"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "FND",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "FundRequest",
+  "network": {
+    "t_available_supply": 31416193,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 98611464
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/FND"],
+  "social": ["https://twitter.com/@fundrequest_io"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://fundrequest.io"
 }

@@ -1,54 +1,27 @@
 {
-    "algorithm": null,
-    "chat": [
-        "https://t.me/singularitynet"
-    ],
-    "community": [
-        "https://www.reddit.com/r/SingularityNet",
-        "https://community.singularitynet.io"
-    ],
-    "description": {
-        "en": "SingularityNET lets anyone create, share, and monetize AI services at scale. The world\u2019s decentralized AI network has arrived."
-    },
-    "explorer": [
-        "https://ethplorer.io/address/0x8eb24319393716668d768dcec29356ae9cffe285",
-        "https://etherscan.io/token/0x8eb24319393716668d768dcec29356ae9cffe285"
-    ],
-    "fromSymbol": "AGI",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "SingularityNET",
-    "network": {
-        "t_available_supply": 539673260,
-        "t_block_reward": 0,
-        "t_max_supply": 1000000000000,
-        "t_total_supply": 1000000000000
-    },
-    "proof_type": null,
-    "quote": [
-        "https://blockmodo.com/quotes/AGI"
-    ],
-    "social": [
-        "https://twitter.com/@singularity_net",
-        "https://facebook.com/singularitynet.io"
-    ],
-    "source_code": [
-        "https://github.com/singnet/token-contracts",
-        "https://github.com/singnet/alpha-service-example",
-        "https://github.com/singnet/wiki",
-        "https://github.com/singnet/agi-faucet",
-        "https://github.com/singnet/alpha-daemon",
-        "https://github.com/singnet/offernet",
-        "https://github.com/singnet/face-services",
-        "https://github.com/singnet/alpha-dapp",
-        "https://github.com/singnet/network-analytics-services",
-        "https://github.com/singnet/semantic-vision",
-        "https://github.com/singnet/simulation",
-        "https://github.com/singnet/snet-cli",
-        "https://github.com/singnet/alpha-blockchain"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://singularitynet.io/"
+  "algorithm": null,
+  "chat": ["https://t.me/singularitynet"],
+  "community": ["https://www.reddit.com/r/SingularityNet", "https://community.singularitynet.io"],
+  "description": {
+    "en": "SingularityNET lets anyone create, share, and monetize AI services at scale. The world’s decentralized AI network has arrived."
+  },
+  "explorer": ["https://ethplorer.io/address/0x8eb24319393716668d768dcec29356ae9cffe285", "https://etherscan.io/token/0x8eb24319393716668d768dcec29356ae9cffe285"],
+  "fromSymbol": "AGI",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SingularityNET",
+  "network": {
+    "t_available_supply": 539673260,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/AGI"],
+  "social": ["https://twitter.com/@singularity_net", "https://facebook.com/singularitynet.io"],
+  "source_code": ["https://github.com/singnet/token-contracts", "https://github.com/singnet/alpha-service-example", "https://github.com/singnet/wiki", "https://github.com/singnet/agi-faucet", "https://github.com/singnet/alpha-daemon", "https://github.com/singnet/offernet", "https://github.com/singnet/face-services", "https://github.com/singnet/alpha-dapp", "https://github.com/singnet/network-analytics-services", "https://github.com/singnet/semantic-vision", "https://github.com/singnet/simulation", "https://github.com/singnet/snet-cli", "https://github.com/singnet/alpha-blockchain"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://singularitynet.io/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ECASH",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Ethereum Cash",
-    "network": {
-        "t_available_supply": 14100000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 14100000
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ECASH"
-    ],
-    "social": [
-        "https://twitter.com/@EthereumCash_"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.ethereumcash.technology/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ECASH",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Ethereum Cash",
+  "network": {
+    "t_available_supply": 14100000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 15000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ECASH"],
+  "social": ["https://twitter.com/@EthereumCash_"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.ethereumcash.technology/"
 }

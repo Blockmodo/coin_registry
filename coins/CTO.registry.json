@@ -1,31 +1,27 @@
 {
-    "algorithm": "Lyra2RE",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CTO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Crypto",
-    "network": {
-        "t_available_supply": 13742738,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 13742738
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/CTO"
-    ],
-    "social": [
-        "https://twitter.com/@OfficialCrypto"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "Lyra2RE",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CTO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Crypto",
+  "network": {
+    "t_available_supply": 13742738,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 13742738
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/CTO"],
+  "social": ["https://twitter.com/@OfficialCrypto"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

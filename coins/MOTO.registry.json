@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MOTO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Motocoin",
-    "network": {
-        "t_available_supply": 19642673,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 19642673
-    },
-    "proof_type": "PoP",
-    "quote": [
-        "https://blockmodo.com/quotes/MOTO"
-    ],
-    "social": [
-        "https://twitter.com/@Motocoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://motocoin.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MOTO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Motocoin",
+  "network": {
+    "t_available_supply": 19642673,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 32173303
+  },
+  "proof_type": "PoP",
+  "quote": ["https://blockmodo.com/quotes/MOTO"],
+  "social": ["https://twitter.com/@Motocoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://motocoin.org/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PLAY",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "HEROcoin",
-    "network": {
-        "t_available_supply": 119754840,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 119754840
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/PLAY"
-    ],
-    "social": [
-        "https://twitter.com/@HEROcoinio"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.herocoin.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PLAY",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "HEROcoin",
+  "network": {
+    "t_available_supply": 119754840,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 252165029
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/PLAY"],
+  "social": ["https://twitter.com/@HEROcoinio"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.herocoin.io/"
 }

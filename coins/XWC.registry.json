@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "XWC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "WhiteCoin",
-    "network": {
-        "t_available_supply": 249121929,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 249121929
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/XWC"
-    ],
-    "social": [
-        "https://twitter.com/@whitecoiner"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.whitecoin.info/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "XWC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "WhiteCoin",
+  "network": {
+    "t_available_supply": 249267189,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 249267189
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/XWC"],
+  "social": ["https://twitter.com/@whitecoiner"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.whitecoin.info/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "SHA256",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "EUC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Eurocoin",
-    "network": {
-        "t_available_supply": 12416554,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 12416554
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/EUC"
-    ],
-    "social": [
-        "https://twitter.com/@EuroCoinBot"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "EUC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Eurocoin",
+  "network": {
+    "t_available_supply": 12416554,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 12416554
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/EUC"],
+  "social": ["https://twitter.com/@EuroCoinBot"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

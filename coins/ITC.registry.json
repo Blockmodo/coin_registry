@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ITC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "IoT Chain",
-    "network": {
-        "t_available_supply": 60203460,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 60203460
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ITC"
-    ],
-    "social": [
-        "https://twitter.com/@IoT_Chain"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://iotchain.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ITC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "IoT Chain",
+  "network": {
+    "t_available_supply": 60354575,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ITC"],
+  "social": ["https://twitter.com/@IoT_Chain"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://iotchain.io/"
 }

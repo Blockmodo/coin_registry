@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "XBY",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "XtraBYtes",
-    "network": {
-        "t_available_supply": 430000000,
-        "t_block_reward": 0,
-        "t_max_supply": 650000000,
-        "t_total_supply": 430000000
-    },
-    "proof_type": "PoSign",
-    "quote": [
-        "https://blockmodo.com/quotes/XBY"
-    ],
-    "social": [
-        "https://twitter.com/@XtraBYtes"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.xtrabytes.global/#home"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "XBY",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "XtraBYtes",
+  "network": {
+    "t_available_supply": 430000000,
+    "t_block_reward": 0,
+    "t_max_supply": 650000000,
+    "t_total_supply": 650000000
+  },
+  "proof_type": "PoSign",
+  "quote": ["https://blockmodo.com/quotes/XBY"],
+  "social": ["https://twitter.com/@XtraBYtes"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.xtrabytes.global/#home"
 }

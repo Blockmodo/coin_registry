@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "YEE",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Yee",
-    "network": {
-        "t_available_supply": 1365218125,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 1365218125
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/YEE"
-    ],
-    "social": [
-        "https://twitter.com/@YeeToken"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.yeefoundation.com"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "YEE",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Yee",
+  "network": {
+    "t_available_supply": 1365218125,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 10000000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/YEE"],
+  "social": ["https://twitter.com/@YeeToken"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.yeefoundation.com"
 }

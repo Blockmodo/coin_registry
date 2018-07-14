@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CMT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "CometCoin",
-    "network": {
-        "t_available_supply": 872830,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 872830
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/CMT"
-    ],
-    "social": [
-        "https://twitter.com/@cometcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://cometcoin.com/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CMT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "CometCoin",
+  "network": {
+    "t_available_supply": 872830,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 872830
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/CMT"],
+  "social": ["https://twitter.com/@cometcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://cometcoin.com/"
 }

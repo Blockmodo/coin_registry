@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SFC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Solarflarecoin",
-    "network": {
-        "t_available_supply": 14083450,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 14083450
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/SFC"
-    ],
-    "social": [
-        "https://twitter.com/@solarflarecoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://solarflarecoin.us/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SFC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Solarflarecoin",
+  "network": {
+    "t_available_supply": 14083450,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 14083450
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/SFC"],
+  "social": ["https://twitter.com/@solarflarecoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://solarflarecoin.us/"
 }

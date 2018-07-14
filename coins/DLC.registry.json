@@ -1,31 +1,27 @@
 {
-    "algorithm": "SHA256",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DLC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "DollarCoin",
-    "network": {
-        "t_available_supply": 9106714,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 9106714
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/DLC"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DLC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "DollarCoin",
+  "network": {
+    "t_available_supply": 9106714,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 9106714
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/DLC"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

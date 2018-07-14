@@ -1,31 +1,27 @@
 {
-    "algorithm": "SHA256",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "UNO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Unobtanium",
-    "network": {
-        "t_available_supply": 198822,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 198822
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/UNO"
-    ],
-    "social": [
-        "https://twitter.com/@bryceweiner"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://unobtanium.uno/"
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "UNO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Unobtanium",
+  "network": {
+    "t_available_supply": 198929,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 198929
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/UNO"],
+  "social": ["https://twitter.com/@bryceweiner"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://unobtanium.uno/"
 }

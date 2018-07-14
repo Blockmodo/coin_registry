@@ -1,31 +1,27 @@
 {
-    "algorithm": "NIST5",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ECA",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Electra",
-    "network": {
-        "t_available_supply": 25787682198,
-        "t_block_reward": 0,
-        "t_max_supply": 30000000000,
-        "t_total_supply": 25787682198
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/ECA"
-    ],
-    "social": [
-        "https://twitter.com/@ElectracoinECA"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://electraproject.org"
+  "algorithm": "NIST5",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ECA",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Electra",
+  "network": {
+    "t_available_supply": 26287114623,
+    "t_block_reward": 0,
+    "t_max_supply": 30000000000,
+    "t_total_supply": 27154271176
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/ECA"],
+  "social": ["https://twitter.com/@ElectracoinECA"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://electraproject.org"
 }

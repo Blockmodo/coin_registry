@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SOUL",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "SoulCoin",
-    "network": {
-        "t_available_supply": 58332939,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 58332939
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/SOUL"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SOUL",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SoulCoin",
+  "network": {
+    "t_available_supply": 58332939,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 91136374
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/SOUL"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

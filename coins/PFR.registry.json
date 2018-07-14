@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PFR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "PayFair",
-    "network": {
-        "t_available_supply": 88999687,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 88999687
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/PFR"
-    ],
-    "social": [
-        "https://twitter.com/@payfairio"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://payfair.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PFR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "PayFair",
+  "network": {
+    "t_available_supply": 88999687,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 88999687
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/PFR"],
+  "social": ["https://twitter.com/@payfairio"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://payfair.io/"
 }

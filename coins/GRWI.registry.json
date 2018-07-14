@@ -1,31 +1,27 @@
 {
-    "algorithm": "DPoS",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "GRWI",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Growers International",
-    "network": {
-        "t_available_supply": 1186338,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 1186338
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/GRWI"
-    ],
-    "social": [
-        "https://twitter.com/@GrowersIntl"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://growersintl.com/coin/"
+  "algorithm": "DPoS",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "GRWI",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Growers International",
+  "network": {
+    "t_available_supply": 1190098,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1190098
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/GRWI"],
+  "social": ["https://twitter.com/@GrowersIntl"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://growersintl.com/coin/"
 }

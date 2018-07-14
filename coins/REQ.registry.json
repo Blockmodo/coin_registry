@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/RequestNetwork"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "REQ",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Request Network",
-    "network": {
-        "t_available_supply": 697341700,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 697341700
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/REQ"
-    ],
-    "social": [
-        "https://twitter.com/@RequestNetwork"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://request.network/#/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/RequestNetwork"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "REQ",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Request Network",
+  "network": {
+    "t_available_supply": 697761634,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 999991397
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/REQ"],
+  "social": ["https://twitter.com/@RequestNetwork"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://request.network/#/"
 }

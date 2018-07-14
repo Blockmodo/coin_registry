@@ -1,38 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [
-        "https://discord.gg/qAu852P"
-    ],
-    "community": [
-        "https://www.reddit.com/r/FirstBloodio/"
-    ],
-    "description": {
-        "en": "FirstBlood is a decentralized eSports platform built on Ethereum. It allows players to test their skills and to bet on games without being subject to downtime, hacks, traditional money transfers, financial regulations, and middleman corruption and fees. FirstBlood intends to make the eSports industry more transparent and efficient while bringing in a new demographic into the crypto community, thus bringing cryptocurrencies one step closer to mainstream adoption."
-    },
-    "explorer": [],
-    "fromSymbol": "1ST",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "FirstBlood",
-    "network": {
-        "t_available_supply": 85558371,
-        "t_block_reward": 0,
-        "t_max_supply": 93468691,
-        "t_total_supply": 85558371
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/1ST"
-    ],
-    "social": [
-        "https://twitter.com/@firstbloodio",
-        "https://www.facebook.com/firstbloodio"
-    ],
-    "source_code": [
-        "https://github.com/Firstbloodio/token"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://firstblood.io"
+  "algorithm": "",
+  "chat": ["https://discord.gg/qAu852P"],
+  "community": ["https://www.reddit.com/r/FirstBloodio/"],
+  "description": {
+    "en": "FirstBlood is a decentralized eSports platform built on Ethereum. It allows players to test their skills and to bet on games without being subject to downtime, hacks, traditional money transfers, financial regulations, and middleman corruption and fees. FirstBlood intends to make the eSports industry more transparent and efficient while bringing in a new demographic into the crypto community, thus bringing cryptocurrencies one step closer to mainstream adoption."
+  },
+  "explorer": [],
+  "fromSymbol": "1ST",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "FirstBlood",
+  "network": {
+    "t_available_supply": 85558371,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 93468691
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/1ST"],
+  "social": ["https://twitter.com/@firstbloodio", "https://www.facebook.com/firstbloodio"],
+  "source_code": ["https://github.com/Firstbloodio/token"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://firstblood.io"
 }

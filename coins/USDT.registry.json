@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/Tether"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "USDT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Tether",
-    "network": {
-        "t_available_supply": 2607140346,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 2607140346
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/USDT"
-    ],
-    "social": [
-        "https://twitter.com/@Tether_to"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://tether.to/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/Tether"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "USDT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Tether",
+  "network": {
+    "t_available_supply": 2707140346,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 3080109502
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/USDT"],
+  "social": ["https://twitter.com/@Tether_to"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://tether.to/"
 }

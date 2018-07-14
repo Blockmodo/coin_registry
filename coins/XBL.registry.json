@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "XBL",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Billionaire Token",
-    "network": {
-        "t_available_supply": 3268274,
-        "t_block_reward": 0,
-        "t_max_supply": 3315372,
-        "t_total_supply": 3268274
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/XBL"
-    ],
-    "social": [
-        "https://twitter.com/@BillionaireTkn"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://billionairetoken.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "XBL",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Billionaire Token",
+  "network": {
+    "t_available_supply": 3268274,
+    "t_block_reward": 0,
+    "t_max_supply": 3315372,
+    "t_total_supply": 3315270
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/XBL"],
+  "social": ["https://twitter.com/@BillionaireTkn"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://billionairetoken.com/"
 }

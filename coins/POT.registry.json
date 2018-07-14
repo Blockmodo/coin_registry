@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "POT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "PotCoin",
-    "network": {
-        "t_available_supply": 220167043,
-        "t_block_reward": 0,
-        "t_max_supply": 420000000,
-        "t_total_supply": 220167043
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/POT"
-    ],
-    "social": [
-        "https://twitter.com/@PotCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.potcoin.com/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "POT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "PotCoin",
+  "network": {
+    "t_available_supply": 220247186,
+    "t_block_reward": 0,
+    "t_max_supply": 420000000,
+    "t_total_supply": 220247186
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/POT"],
+  "social": ["https://twitter.com/@PotCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.potcoin.com/"
 }

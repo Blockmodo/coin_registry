@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "AVA",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Avalon",
-    "network": {
-        "t_available_supply": 27226583,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 27226583
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/AVA"
-    ],
-    "social": [
-        "https://twitter.com/@Avalonplatform"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://avalon.nu/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "AVA",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Avalon",
+  "network": {
+    "t_available_supply": 27226584,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 61571086
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/AVA"],
+  "social": ["https://twitter.com/@Avalonplatform"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://avalon.nu/"
 }

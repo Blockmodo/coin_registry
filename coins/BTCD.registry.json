@@ -1,33 +1,27 @@
 {
-    "algorithm": "SHA256",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/bitcoindark"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BTCD",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BitcoinDark",
-    "network": {
-        "t_available_supply": 1288862,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 1288862
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/BTCD"
-    ],
-    "social": [
-        "https://twitter.com/@BitcoinDark"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://bitcoindark.com/"
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/bitcoindark"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BTCD",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BitcoinDark",
+  "network": {
+    "t_available_supply": 1288862,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1288862
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/BTCD"],
+  "social": ["https://twitter.com/@BitcoinDark"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://bitcoindark.com/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "GUP",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Guppy",
-    "network": {
-        "t_available_supply": 75000000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 75000000
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/GUP"
-    ],
-    "social": [
-        "https://twitter.com/@matchpool"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://matchpool.co/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "GUP",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Guppy",
+  "network": {
+    "t_available_supply": 75000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 98855150
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/GUP"],
+  "social": ["https://twitter.com/@matchpool"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://matchpool.co/"
 }

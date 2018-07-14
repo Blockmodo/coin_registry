@@ -1,31 +1,27 @@
 {
-    "algorithm": "Counterparty",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BCY",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BitCrystals",
-    "network": {
-        "t_available_supply": 23167827,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 23167827
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/BCY"
-    ],
-    "social": [
-        "https://twitter.com/@spellsofgenesis"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://bitcrystals.com/"
+  "algorithm": "Counterparty",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BCY",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BitCrystals",
+  "network": {
+    "t_available_supply": 23163104,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 23163104
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/BCY"],
+  "social": ["https://twitter.com/@spellsofgenesis"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://bitcrystals.com/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "CryptoNight",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MSR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Masari",
-    "network": {
-        "t_available_supply": 5977407,
-        "t_block_reward": 0,
-        "t_max_supply": 18500000,
-        "t_total_supply": 5977407
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/MSR"
-    ],
-    "social": [
-        "https://twitter.com/@masaricurrency"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://getmasari.org/"
+  "algorithm": "CryptoNight",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MSR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Masari",
+  "network": {
+    "t_available_supply": 6365474,
+    "t_block_reward": 0,
+    "t_max_supply": 18500000,
+    "t_total_supply": 6365474
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/MSR"],
+  "social": ["https://twitter.com/@masaricurrency"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://getmasari.org/"
 }

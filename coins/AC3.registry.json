@@ -1,37 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [
-        "https://t.me/ac3network"
-    ],
-    "community": [
-        "https://www.reddit.com/r/ac3_"
-    ],
-    "description": {
-        "en": "AC3 is the leading blockchain powered digital content marketplace. Our mission is to be the one and only trusted destination to discover, protect, pay for and consume quality content and e-learning courses. We support the creators of original content and protect their content with our digital rights technology called Proof of Creation."
-    },
-    "explorer": [],
-    "fromSymbol": "AC3",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "AC3",
-    "network": {
-        "t_available_supply": 80123968,
-        "t_block_reward": 1,
-        "t_max_supply": 100000000,
-        "t_total_supply": 80123968
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/AC3"
-    ],
-    "social": [
-        "https://twitter.com/@ac3_network",
-        "https://www.facebook.com/AC3net",
-        "https://www.instagram.com/codingblog/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://ac3.io/"
+  "algorithm": "X11",
+  "chat": ["https://t.me/ac3network"],
+  "community": ["https://www.reddit.com/r/ac3_"],
+  "description": {
+    "en": "AC3 is the leading blockchain powered digital content marketplace. Our mission is to be the one and only trusted destination to discover, protect, pay for and consume quality content and e-learning courses. We support the creators of original content and protect their content with our digital rights technology called Proof of Creation."
+  },
+  "explorer": [],
+  "fromSymbol": "AC3",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "AC3",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 1,
+    "t_max_supply": 0,
+    "t_total_supply": 80123968
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/AC3"],
+  "social": ["https://twitter.com/@ac3_network", "https://www.facebook.com/AC3net", "https://www.instagram.com/codingblog/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://ac3.io/"
 }

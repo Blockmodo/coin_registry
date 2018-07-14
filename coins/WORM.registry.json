@@ -1,31 +1,27 @@
 {
-    "algorithm": "PoS",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "WORM",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "HealthyWorm",
-    "network": {
-        "t_available_supply": 115390100,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 115390100
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/WORM"
-    ],
-    "social": [
-        "https://twitter.com/@HealthyWormCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://healthyworm.com/"
+  "algorithm": "PoS",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "WORM",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "HealthyWorm",
+  "network": {
+    "t_available_supply": 115494551,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 115494551
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/WORM"],
+  "social": ["https://twitter.com/@HealthyWormCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://healthyworm.com/"
 }

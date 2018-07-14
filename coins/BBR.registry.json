@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BBR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Boolberry",
-    "network": {
-        "t_available_supply": 11681486,
-        "t_block_reward": 0,
-        "t_max_supply": 18450000,
-        "t_total_supply": 11681486
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/BBR"
-    ],
-    "social": [
-        "https://twitter.com/@BoolberryBBR"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://boolberry.com/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BBR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Boolberry",
+  "network": {
+    "t_available_supply": 11781954,
+    "t_block_reward": 0,
+    "t_max_supply": 18450000,
+    "t_total_supply": 11781954
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/BBR"],
+  "social": ["https://twitter.com/@BoolberryBBR"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://boolberry.com/"
 }

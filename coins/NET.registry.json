@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "NET",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "NetCoin",
-    "network": {
-        "t_available_supply": 787126712,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 787126712
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/NET"
-    ],
-    "social": [
-        "https://twitter.com/@NetcoinNET"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://netcoinfoundation.org/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "NET",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "NetCoin",
+  "network": {
+    "t_available_supply": 787126712,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 787126712
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/NET"],
+  "social": ["https://twitter.com/@NetcoinNET"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://netcoinfoundation.org/"
 }

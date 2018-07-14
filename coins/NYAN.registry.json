@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "NYAN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "NyanCoin",
-    "network": {
-        "t_available_supply": 322805606,
-        "t_block_reward": 0,
-        "t_max_supply": 337000000,
-        "t_total_supply": 322805606
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/NYAN"
-    ],
-    "social": [
-        "https://twitter.com/@Nyan_Coin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://nyan-coin.org/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "NYAN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "NyanCoin",
+  "network": {
+    "t_available_supply": 322805606,
+    "t_block_reward": 0,
+    "t_max_supply": 337000000,
+    "t_total_supply": 322805606
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/NYAN"],
+  "social": ["https://twitter.com/@Nyan_Coin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://nyan-coin.org/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "CryptoNight",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DCY",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Dinastycoin",
-    "network": {
-        "t_available_supply": 1667546239,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 1667546239
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/DCY"
-    ],
-    "social": [
-        "https://twitter.com/@dinastycoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.dinastycoin.com/"
+  "algorithm": "CryptoNight",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DCY",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Dinastycoin",
+  "network": {
+    "t_available_supply": 1682473754,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1682473754
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/DCY"],
+  "social": ["https://twitter.com/@dinastycoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.dinastycoin.com/"
 }

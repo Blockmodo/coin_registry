@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CTX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "CarTaxi",
-    "network": {
-        "t_available_supply": 39928144,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 39928144
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/CTX"
-    ],
-    "social": [
-        "https://twitter.com/@CarTaxi_24"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://cartaxi.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CTX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "CarTaxi",
+  "network": {
+    "t_available_supply": 39928144,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 59928144
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/CTX"],
+  "social": ["https://twitter.com/@CarTaxi_24"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://cartaxi.io/"
 }

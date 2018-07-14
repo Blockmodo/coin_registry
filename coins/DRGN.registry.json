@@ -1,35 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/drgn"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DRGN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Dragonchain",
-    "network": {
-        "t_available_supply": 238421940,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 238421940
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/DRGN"
-    ],
-    "social": [
-        "https://twitter.com/https://twitter.com/dragonchaingang"
-    ],
-    "source_code": [
-        "https://github.com/dragonchain/dragonchain"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://dragonchain.com"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/drgn"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DRGN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Dragonchain",
+  "network": {
+    "t_available_supply": 238421940,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 433494437
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/DRGN"],
+  "social": ["https://twitter.com/https://twitter.com/dragonchaingang"],
+  "source_code": ["https://github.com/dragonchain/dragonchain"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://dragonchain.com"
 }

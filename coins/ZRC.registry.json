@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ZRC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ZrCoin",
-    "network": {
-        "t_available_supply": 3907503,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 3907503
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ZRC"
-    ],
-    "social": [
-        "https://twitter.com/@ZrCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://zrcoin.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ZRC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ZrCoin",
+  "network": {
+    "t_available_supply": 3907503,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 4988894
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ZRC"],
+  "social": ["https://twitter.com/@ZrCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://zrcoin.io/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "UP",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "UpToken",
-    "network": {
-        "t_available_supply": 141777756,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 141777756
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/UP"
-    ],
-    "social": [
-        "https://twitter.com/@UpToken"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://uptoken.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "UP",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "UpToken",
+  "network": {
+    "t_available_supply": 146400981,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 184638000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/UP"],
+  "social": ["https://twitter.com/@UpToken"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://uptoken.org/"
 }

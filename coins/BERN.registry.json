@@ -1,31 +1,27 @@
 {
-    "algorithm": "X14",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BERN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BERNcash",
-    "network": {
-        "t_available_supply": 71234301,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 71234301
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/BERN"
-    ],
-    "social": [
-        "https://twitter.com/@berncash"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://berncoin.org/"
+  "algorithm": "X14",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BERN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BERNcash",
+  "network": {
+    "t_available_supply": 71234301,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 71234301
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/BERN"],
+  "social": ["https://twitter.com/@berncash"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://berncoin.org/"
 }

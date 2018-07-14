@@ -1,35 +1,27 @@
 {
-    "algorithm": "Equihash",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/BitcoinGoldHQ"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BTG",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Bitcoin Gold",
-    "network": {
-        "t_available_supply": 61062,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 61062
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/BTG"
-    ],
-    "social": [
-        "https://twitter.com/@bitcoingold"
-    ],
-    "source_code": [
-        "https://github.com/BTCGPU/BTCGPU"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://bitcoingold.org/"
+  "algorithm": "Equihash",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/BitcoinGoldHQ"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BTG",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Bitcoin Gold",
+  "network": {
+    "t_available_supply": 61211,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 61211
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/BTG"],
+  "social": ["https://twitter.com/@bitcoingold"],
+  "source_code": ["https://github.com/BTCGPU/BTCGPU"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://bitcoingold.org/"
 }

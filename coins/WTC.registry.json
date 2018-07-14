@@ -1,33 +1,27 @@
 {
-    "algorithm": "Ethash",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/waltonchain"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "WTC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Waltonchain",
-    "network": {
-        "t_available_supply": 31144099,
-        "t_block_reward": 0,
-        "t_max_supply": 100000000,
-        "t_total_supply": 31144099
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/WTC"
-    ],
-    "social": [
-        "https://twitter.com/@waltonchain"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.waltonchain.org/"
+  "algorithm": "Ethash",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/waltonchain"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "WTC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Waltonchain",
+  "network": {
+    "t_available_supply": 40144099,
+    "t_block_reward": 0,
+    "t_max_supply": 100000000,
+    "t_total_supply": 70000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/WTC"],
+  "social": ["https://twitter.com/@waltonchain"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.waltonchain.org/"
 }

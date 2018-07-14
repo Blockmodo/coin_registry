@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "REAL",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "REAL",
-    "network": {
-        "t_available_supply": 10055817,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 10055817
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/REAL"
-    ],
-    "social": [
-        "https://twitter.com/http://www.real.markets"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.real.markets"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "REAL",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "REAL",
+  "network": {
+    "t_available_supply": 10055817,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 19717288
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/REAL"],
+  "social": ["https://twitter.com/http://www.real.markets"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.real.markets"
 }

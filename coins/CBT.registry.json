@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CBT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "CommerceBlock Token",
-    "network": {
-        "t_available_supply": 173256686,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 173256686
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/CBT"
-    ],
-    "social": [
-        "https://twitter.com/@commerceblock"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.commerceblock.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CBT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "CommerceBlock Token",
+  "network": {
+    "t_available_supply": 173256686,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 743256686
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/CBT"],
+  "social": ["https://twitter.com/@commerceblock"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.commerceblock.com/"
 }

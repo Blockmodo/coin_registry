@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DOPE",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "DopeCoin",
-    "network": {
-        "t_available_supply": 116845228,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 116845228
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/DOPE"
-    ],
-    "social": [
-        "https://twitter.com/@dopecoinGold"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.dopecoin.com/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DOPE",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "DopeCoin",
+  "network": {
+    "t_available_supply": 116845228,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 116845228
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/DOPE"],
+  "social": ["https://twitter.com/@dopecoinGold"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.dopecoin.com/"
 }

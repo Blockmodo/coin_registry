@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "NSR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "NuShares",
-    "network": {
-        "t_available_supply": 2777600756,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 2777600756
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/NSR"
-    ],
-    "social": [
-        "https://twitter.com/@OfficialNuBits"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://nubits.com/nushares/introduction"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "NSR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "NuShares",
+  "network": {
+    "t_available_supply": 2777600756,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 3134648141
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/NSR"],
+  "social": ["https://twitter.com/@OfficialNuBits"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://nubits.com/nushares/introduction"
 }

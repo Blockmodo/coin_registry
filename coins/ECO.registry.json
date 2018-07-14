@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ECO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ECOcoin",
-    "network": {
-        "t_available_supply": 1163014,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 1163014
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/ECO"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ECO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ECOcoin",
+  "network": {
+    "t_available_supply": 1164762,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1166308
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/ECO"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

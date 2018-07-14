@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "HBZ",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Helbiz",
-    "network": {
-        "t_available_supply": 547522129,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 547522129
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/HBZ"
-    ],
-    "social": [
-        "https://twitter.com/@helbizofficial"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.helbizcoin.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "HBZ",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Helbiz",
+  "network": {
+    "t_available_supply": 547522129,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1005250000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/HBZ"],
+  "social": ["https://twitter.com/@helbizofficial"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.helbizcoin.io/"
 }

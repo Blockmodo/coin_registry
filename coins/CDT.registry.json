@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CDT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "CoinDash",
-    "network": {
-        "t_available_supply": 661953039,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 661953039
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/CDT"
-    ],
-    "social": [
-        "https://twitter.com/@coindashio"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.coindash.io"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CDT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "CoinDash",
+  "network": {
+    "t_available_supply": 662187039,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/CDT"],
+  "social": ["https://twitter.com/@coindashio"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.coindash.io"
 }

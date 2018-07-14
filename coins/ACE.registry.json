@@ -1,42 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [
-        "https://t.me/TokenStars_en"
-    ],
-    "community": [
-        "https://www.reddit.com/r/TokenStars/"
-    ],
-    "description": {
-        "en": "ACE TokenStars \u2014 blockchain-based celebrity management platform that applies decentralized scouting and community voting to ensure transparent engagement for millions of users: celebrities + fans + brands & advertisers."
-    },
-    "explorer": [
-        "https://etherscan.io/token/0x06147110022b768ba8f99a8f385df11a151a9cc8",
-        "https://ethplorer.io/address/0x06147110022b768ba8f99a8f385df11a151a9cc8"
-    ],
-    "fromSymbol": "ACE",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "TokenStars",
-    "network": {
-        "t_available_supply": 9247099,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 14476036
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ACE"
-    ],
-    "social": [
-        "https://twitter.com/@TokenStars",
-        "https://www.facebook.com/TokenStars"
-    ],
-    "source_code": [
-        "https://github.com/tokenstars/ace-token",
-        "https://github.com/tokenstars/SolidityAuction"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://tokenstars.com/en/ace/"
+  "algorithm": "",
+  "chat": ["https://t.me/TokenStars_en"],
+  "community": ["https://www.reddit.com/r/TokenStars/"],
+  "description": {
+    "en": "ACE TokenStars — blockchain-based celebrity management platform that applies decentralized scouting and community voting to ensure transparent engagement for millions of users: celebrities + fans + brands & advertisers."
+  },
+  "explorer": ["https://etherscan.io/token/0x06147110022b768ba8f99a8f385df11a151a9cc8", "https://ethplorer.io/address/0x06147110022b768ba8f99a8f385df11a151a9cc8"],
+  "fromSymbol": "ACE",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "TokenStars",
+  "network": {
+    "t_available_supply": 9248821,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 14476036
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ACE"],
+  "social": ["https://twitter.com/@TokenStars", "https://www.facebook.com/TokenStars"],
+  "source_code": ["https://github.com/tokenstars/ace-token", "https://github.com/tokenstars/SolidityAuction"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://tokenstars.com/en/ace/"
 }

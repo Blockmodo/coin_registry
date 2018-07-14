@@ -1,31 +1,27 @@
 {
-    "algorithm": "NeoScrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "GBX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "GoByte",
-    "network": {
-        "t_available_supply": 1804763,
-        "t_block_reward": 0,
-        "t_max_supply": 31800000,
-        "t_total_supply": 1804763
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/GBX"
-    ],
-    "social": [
-        "https://twitter.com/@gobytenetwork"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.gobyte.network/"
+  "algorithm": "NeoScrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "GBX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "GoByte",
+  "network": {
+    "t_available_supply": 1989068,
+    "t_block_reward": 0,
+    "t_max_supply": 31800000,
+    "t_total_supply": 2814055
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/GBX"],
+  "social": ["https://twitter.com/@gobytenetwork"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.gobyte.network/"
 }

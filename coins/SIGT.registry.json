@@ -1,31 +1,27 @@
 {
-    "algorithm": "SkunkHash v2 Raptor",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SIGT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Signatum",
-    "network": {
-        "t_available_supply": 107972766,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 107972766
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/SIGT"
-    ],
-    "social": [
-        "https://twitter.com/@signatum_"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://signatum.io/"
+  "algorithm": "SkunkHash v2 Raptor",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SIGT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Signatum",
+  "network": {
+    "t_available_supply": 107972766,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 107972766
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/SIGT"],
+  "social": ["https://twitter.com/@signatum_"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://signatum.io/"
 }

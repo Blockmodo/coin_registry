@@ -1,31 +1,27 @@
 {
-    "algorithm": "X13",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SLG",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "SterlingCoin",
-    "network": {
-        "t_available_supply": 4241006,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 4241006
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/SLG"
-    ],
-    "social": [
-        "https://twitter.com/@SterlingcoinSLG"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://sterlingcoin.org.uk/"
+  "algorithm": "X13",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SLG",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SterlingCoin",
+  "network": {
+    "t_available_supply": 4241006,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 4241006
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/SLG"],
+  "social": ["https://twitter.com/@SterlingcoinSLG"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://sterlingcoin.org.uk/"
 }

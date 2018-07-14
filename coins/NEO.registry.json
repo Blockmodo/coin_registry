@@ -1,46 +1,27 @@
 {
-    "algorithm": null,
-    "chat": [
-        "https://discordapp.com/invite/b8QNXwD"
-    ],
-    "community": [
-        "https://www.reddit.com/r/NEO",
-        "https://www.reddit.com/r/Neotrader"
-    ],
-    "description": {
-        "en": "NEO is a non-profit community-based blockchain project that utilizes blockchain technology and digital identity to digitize assets, to automate the management of digital assets using smart contracts, and to realize a 'smart economy' with a distributed network."
-    },
-    "explorer": [
-        "https://neoexplorer.co",
-        "http://antcha.in",
-        "https://neotracker.io"
-    ],
-    "fromSymbol": "NEO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "NEO",
-    "network": {
-        "t_available_supply": 65000000,
-        "t_block_reward": 0,
-        "t_max_supply": 100000000,
-        "t_total_supply": 65000000
-    },
-    "proof_type": null,
-    "quote": [
-        "https://blockmodo.com/quotes/NEO"
-    ],
-    "social": [
-        "https://twitter.com/@neo_blockchain",
-        "https://www.facebook.com/NEOSmartEcon"
-    ],
-    "source_code": [
-        "https://github.com/neo-project/neo",
-        "https://github.com/neo-project/neo-gui",
-        "https://github.com/neo-project/neo-cli",
-        "https://github.com/neo-project/neo"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://neo.org"
+  "algorithm": null,
+  "chat": ["https://discordapp.com/invite/b8QNXwD"],
+  "community": ["https://www.reddit.com/r/NEO", "https://www.reddit.com/r/Neotrader"],
+  "description": {
+    "en": "NEO is a non-profit community-based blockchain project that utilizes blockchain technology and digital identity to digitize assets, to automate the management of digital assets using smart contracts, and to realize a 'smart economy' with a distributed network."
+  },
+  "explorer": ["https://neoexplorer.co", "http://antcha.in", "https://neotracker.io"],
+  "fromSymbol": "NEO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "NEO",
+  "network": {
+    "t_available_supply": 65000000,
+    "t_block_reward": 0,
+    "t_max_supply": 100000000,
+    "t_total_supply": 100000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/NEO"],
+  "social": ["https://twitter.com/@neo_blockchain", "https://www.facebook.com/NEOSmartEcon"],
+  "source_code": ["https://github.com/neo-project/neo", "https://github.com/neo-project/neo-gui", "https://github.com/neo-project/neo-cli", "https://github.com/neo-project/neo"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://neo.org"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "GET",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Guaranteed Entrance Token",
-    "network": {
-        "t_available_supply": 11388258,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 11388258
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/GET"
-    ],
-    "social": [
-        "https://twitter.com/@GUTStickets"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://guts.tickets"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "GET",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Guaranteed Entrance Token",
+  "network": {
+    "t_available_supply": 11388258,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 33368773
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/GET"],
+  "social": ["https://twitter.com/@GUTStickets"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://guts.tickets"
 }

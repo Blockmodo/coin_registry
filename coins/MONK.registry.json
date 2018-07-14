@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MONK",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Monkey Project",
-    "network": {
-        "t_available_supply": 1142912,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 1142912
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/MONK"
-    ],
-    "social": [
-        "https://twitter.com/@MONKEYPROJECT_"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://monkey.community/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MONK",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Monkey Project",
+  "network": {
+    "t_available_supply": 1142912,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1492862
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/MONK"],
+  "social": ["https://twitter.com/@MONKEYPROJECT_"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://monkey.community/"
 }

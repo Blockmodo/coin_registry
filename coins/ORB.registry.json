@@ -1,31 +1,27 @@
 {
-    "algorithm": "NeoScrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ORB",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Orbitcoin",
-    "network": {
-        "t_available_supply": 3220616,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 3220616
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/ORB"
-    ],
-    "social": [
-        "https://twitter.com/@OrBitcoinLove"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://orbitcoin.org/"
+  "algorithm": "NeoScrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ORB",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Orbitcoin",
+  "network": {
+    "t_available_supply": 3220616,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 3220616
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/ORB"],
+  "social": ["https://twitter.com/@OrBitcoinLove"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://orbitcoin.org/"
 }

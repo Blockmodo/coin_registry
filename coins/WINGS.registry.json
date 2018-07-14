@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "WINGS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Wings DAO",
-    "network": {
-        "t_available_supply": 89708333,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 89708333
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/WINGS"
-    ],
-    "social": [
-        "https://twitter.com/@wingsplatform"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://wings.ai/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "WINGS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Wings DAO",
+  "network": {
+    "t_available_supply": 89708333,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/WINGS"],
+  "social": ["https://twitter.com/@wingsplatform"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://wings.ai/"
 }

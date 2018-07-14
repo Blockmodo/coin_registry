@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "STK",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "STK Token",
-    "network": {
-        "t_available_supply": 341834585,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 341834585
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/STK"
-    ],
-    "social": [
-        "https://twitter.com/@STKtoken"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://stktoken.com"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "STK",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "STK Token",
+  "network": {
+    "t_available_supply": 341834585,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 500000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/STK"],
+  "social": ["https://twitter.com/@STKtoken"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://stktoken.com"
 }

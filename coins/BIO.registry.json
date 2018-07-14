@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BIO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Biocoin",
-    "network": {
-        "t_available_supply": 628238866,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 628238866
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/BIO"
-    ],
-    "social": [
-        "https://twitter.com/@biocoinproject"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://biocoin.bio/en"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BIO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Biocoin",
+  "network": {
+    "t_available_supply": 640388517,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 828450036
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/BIO"],
+  "social": ["https://twitter.com/@biocoinproject"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://biocoin.bio/en"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DCT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Decent",
-    "network": {
-        "t_available_supply": 51306089,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 51306089
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/DCT"
-    ],
-    "social": [
-        "https://twitter.com/@DECENTplatform"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://decent.ch/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DCT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Decent",
+  "network": {
+    "t_available_supply": 51306089,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 73197775
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/DCT"],
+  "social": ["https://twitter.com/@DECENTplatform"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://decent.ch/"
 }

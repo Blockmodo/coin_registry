@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "RPC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "RonPaulCoin",
-    "network": {
-        "t_available_supply": 940311,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 940311
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/RPC"
-    ],
-    "social": [
-        "https://twitter.com/@RPCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.ronpaulcoin.com/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "RPC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "RonPaulCoin",
+  "network": {
+    "t_available_supply": 950659,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 950659
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/RPC"],
+  "social": ["https://twitter.com/@RPCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.ronpaulcoin.com/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ARCO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "AquariusCoin",
-    "network": {
-        "t_available_supply": 1789530,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 1789530
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/ARCO"
-    ],
-    "social": [
-        "https://twitter.com/@ArcCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://aquariuscoin.com/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ARCO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "AquariusCoin",
+  "network": {
+    "t_available_supply": 1824117,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1824117
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/ARCO"],
+  "social": ["https://twitter.com/@ArcCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://aquariuscoin.com/"
 }

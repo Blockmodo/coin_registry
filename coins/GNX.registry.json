@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/GenaroNetwork"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "GNX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Genaro Network",
-    "network": {
-        "t_available_supply": 241663510,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 241663510
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/GNX"
-    ],
-    "social": [
-        "https://twitter.com/@GenaroNetwork"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://genaro.network/en"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/GenaroNetwork"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "GNX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Genaro Network",
+  "network": {
+    "t_available_supply": 246747591,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 675000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/GNX"],
+  "social": ["https://twitter.com/@GenaroNetwork"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://genaro.network/en"
 }

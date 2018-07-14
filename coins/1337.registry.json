@@ -1,38 +1,27 @@
 {
-    "algorithm": "X13",
-    "chat": [
-        "https://t.me/elitecoinofficial",
-        "https://discordapp.com/invite/np7BmKV"
-    ],
-    "community": [
-        "https://www.reddit.com/r/1337Foundation/"
-    ],
-    "description": {
-        "en": "Elite coin is the gaming currency that brings the gaming world and cryptoworld together. We plan to achieve this by integrating Elite into games and allowing users to use Elite as an in-game currency. The idea is to make the process of earning and spending fun for everyone."
-    },
-    "explorer": [],
-    "fromSymbol": "1337",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "1337",
-    "network": {
-        "t_available_supply": 26206241920,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 26206241920
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/1337"
-    ],
-    "social": [
-        "https://twitter.com/1337CoinUpdates"
-    ],
-    "source_code": [
-        "https://github.com/xenonflux/1337"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "X13",
+  "chat": ["https://t.me/elitecoinofficial", "https://discordapp.com/invite/np7BmKV"],
+  "community": ["https://www.reddit.com/r/1337Foundation/"],
+  "description": {
+    "en": "Elite coin is the gaming currency that brings the gaming world and cryptoworld together. We plan to achieve this by integrating Elite into games and allowing users to use Elite as an in-game currency. The idea is to make the process of earning and spending fun for everyone."
+  },
+  "explorer": [],
+  "fromSymbol": "1337",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "1337",
+  "network": {
+    "t_available_supply": 26218758203,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 29021111318
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/1337"],
+  "social": ["https://twitter.com/1337CoinUpdates"],
+  "source_code": ["https://github.com/xenonflux/1337"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

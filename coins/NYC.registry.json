@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "NYC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "NewYorkCoin",
-    "network": {
-        "t_available_supply": 134024588760,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 134024588760
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/NYC"
-    ],
-    "social": [
-        "https://twitter.com/@nycoincommunity"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://nycoin.net/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "NYC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "NewYorkCoin",
+  "network": {
+    "t_available_supply": 134024588760,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 134024588760
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/NYC"],
+  "social": ["https://twitter.com/@nycoincommunity"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://nycoin.net/"
 }

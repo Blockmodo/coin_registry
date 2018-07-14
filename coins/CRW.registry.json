@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Crown Coin",
   "network": {
-    "t_available_supply": 19235899,
+    "t_available_supply": 19236061,
     "t_block_reward": 0,
     "t_max_supply": 42000000,
-    "t_total_supply": 19235899
+    "t_total_supply": 19236061
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/CRW"],

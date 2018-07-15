@@ -1,31 +1,27 @@
 {
-    "algorithm": "Dagger",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "UR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "UR",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 0
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/UR"
-    ],
-    "social": [
-        "https://twitter.com/@URforall"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.ur.technology/"
+  "algorithm": "Dagger",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "UR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "UR",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 0
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/UR"],
+  "social": ["https://twitter.com/@URforall"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.ur.technology/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "Multiple",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BTQ",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BitQuark",
-    "network": {
-        "t_available_supply": 10320561,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 10320561
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/BTQ"
-    ],
-    "social": [
-        "https://twitter.com/@BitQuarkCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.bitquark.info/"
+  "algorithm": "Multiple",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BTQ",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BitQuark",
+  "network": {
+    "t_available_supply": 10436508,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 10436508
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/BTQ"],
+  "social": ["https://twitter.com/@BitQuarkCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.bitquark.info/"
 }

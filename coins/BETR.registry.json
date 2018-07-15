@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BETR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BetterBetting",
-    "network": {
-        "t_available_supply": 154738285,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 154738285
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/BETR"
-    ],
-    "social": [
-        "https://twitter.com/@BETRBetting"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://betterbetting.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BETR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BetterBetting",
+  "network": {
+    "t_available_supply": 154938285,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 200585763
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/BETR"],
+  "social": ["https://twitter.com/@BETRBetting"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://betterbetting.org/"
 }

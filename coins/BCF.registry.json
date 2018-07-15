@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BCF",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BitcoinFast",
-    "network": {
-        "t_available_supply": 14830902,
-        "t_block_reward": 0,
-        "t_max_supply": 2500000000,
-        "t_total_supply": 14830902
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/BCF"
-    ],
-    "social": [
-        "https://twitter.com/@BitCoinFastTeam"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://bitcoinfast.wordpress.com/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BCF",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BitcoinFast",
+  "network": {
+    "t_available_supply": 15253216,
+    "t_block_reward": 0,
+    "t_max_supply": 2500000000,
+    "t_total_supply": 15253216
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/BCF"],
+  "social": ["https://twitter.com/@BitCoinFastTeam"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://bitcoinfast.wordpress.com/"
 }

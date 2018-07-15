@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "FLIK",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "FLiK",
-    "network": {
-        "t_available_supply": 60123682,
-        "t_block_reward": 0,
-        "t_max_supply": 600000000,
-        "t_total_supply": 60123682
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/FLIK"
-    ],
-    "social": [
-        "https://twitter.com/@TheFlikIO"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.theflik.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "FLIK",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "FLiK",
+  "network": {
+    "t_available_supply": 60123682,
+    "t_block_reward": 0,
+    "t_max_supply": 600000000,
+    "t_total_supply": 80000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/FLIK"],
+  "social": ["https://twitter.com/@TheFlikIO"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.theflik.io/"
 }

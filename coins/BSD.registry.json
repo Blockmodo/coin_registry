@@ -1,39 +1,27 @@
 {
-    "algorithm": "Xevan",
-    "chat": [
-        "https://t.me/BSD_Bitsend"
-    ],
-    "community": [
-        "https://www.reddit.com/r/Bitsend"
-    ],
-    "description": {
-        "en": "Bitsend is a open source peer-to peer cryptocurrency with Proof of Work and Masternode Support."
-    },
-    "explorer": [
-        "https://chainz.cryptoid.info/bsd/"
-    ],
-    "fromSymbol": "BSD",
-    "is_crypto": true,
-    "is_minable": true,
-    "name": "BitSend",
-    "network": {
-        "t_available_supply": 19784800,
-        "t_block_reward": 25,
-        "t_max_supply": 210000000,
-        "t_total_supply": 19557625
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/BSD"
-    ],
-    "social": [
-        "https://twitter.com/@Bit_send"
-    ],
-    "source_code": [
-        "https://github.com/LIMXTEC/BitSend"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.bitsend.info"
+  "algorithm": "Xevan",
+  "chat": ["https://t.me/BSD_Bitsend"],
+  "community": ["https://www.reddit.com/r/Bitsend"],
+  "description": {
+    "en": "Bitsend is a open source peer-to peer cryptocurrency with Proof of Work and Masternode Support."
+  },
+  "explorer": ["https://chainz.cryptoid.info/bsd/"],
+  "fromSymbol": "BSD",
+  "is_crypto": true,
+  "is_minable": true,
+  "name": "BitSend",
+  "network": {
+    "t_available_supply": 19815800,
+    "t_block_reward": 25,
+    "t_max_supply": 0,
+    "t_total_supply": 19815800
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/BSD"],
+  "social": ["https://twitter.com/@Bit_send"],
+  "source_code": ["https://github.com/LIMXTEC/BitSend"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.bitsend.info"
 }

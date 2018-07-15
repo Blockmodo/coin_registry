@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SGR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Sugar Exchange",
-    "network": {
-        "t_available_supply": 18036133,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 18036133
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/SGR"
-    ],
-    "social": [
-        "https://twitter.com/@Sugar_Exchange"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://sugarexchange.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SGR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Sugar Exchange",
+  "network": {
+    "t_available_supply": 18943177,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 80000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/SGR"],
+  "social": ["https://twitter.com/@Sugar_Exchange"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://sugarexchange.io/"
 }

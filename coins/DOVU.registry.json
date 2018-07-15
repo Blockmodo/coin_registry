@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DOVU",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "DOVU",
-    "network": {
-        "t_available_supply": 79745430,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 79745430
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/DOVU"
-    ],
-    "social": [
-        "https://twitter.com/@dovuapi"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://dovu.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DOVU",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "DOVU",
+  "network": {
+    "t_available_supply": 79745430,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 963761390
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/DOVU"],
+  "social": ["https://twitter.com/@dovuapi"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://dovu.io/"
 }

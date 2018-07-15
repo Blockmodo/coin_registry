@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "KUSH",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "KushCoin",
-    "network": {
-        "t_available_supply": 5560217,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 5560217
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/KUSH"
-    ],
-    "social": [
-        "https://twitter.com/@KushCoinDev"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "KUSH",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "KushCoin",
+  "network": {
+    "t_available_supply": 5573661,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 5573661
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/KUSH"],
+  "social": ["https://twitter.com/@KushCoinDev"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MINT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "MintCoin",
-    "network": {
-        "t_available_supply": 24947260808,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 24947260808
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/MINT"
-    ],
-    "social": [
-        "https://twitter.com/@MintcoinTeam"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.mintcoinofficial.com/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MINT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "MintCoin",
+  "network": {
+    "t_available_supply": 24947260808,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 24947260808
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/MINT"],
+  "social": ["https://twitter.com/@MintcoinTeam"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.mintcoinofficial.com/"
 }

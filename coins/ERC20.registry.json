@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ERC20",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Index ERC20",
-    "network": {
-        "t_available_supply": 1574741156,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 1574741156
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ERC20"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://index-erc20.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ERC20",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Index ERC20",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 13000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ERC20"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://index-erc20.io/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SOAR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Soarcoin",
-    "network": {
-        "t_available_supply": 1077533090,
-        "t_block_reward": 0,
-        "t_max_supply": 5000000000,
-        "t_total_supply": 1077533090
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/SOAR"
-    ],
-    "social": [
-        "https://twitter.com/@soarcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.soarlabs.org"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SOAR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Soarcoin",
+  "network": {
+    "t_available_supply": 1076641972,
+    "t_block_reward": 0,
+    "t_max_supply": 5000000000,
+    "t_total_supply": 5000000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/SOAR"],
+  "social": ["https://twitter.com/@soarcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.soarlabs.org"
 }

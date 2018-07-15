@@ -1,31 +1,27 @@
 {
-    "algorithm": "PoS",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BRO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Bitradio",
-    "network": {
-        "t_available_supply": 6502687,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 6502687
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/BRO"
-    ],
-    "social": [
-        "https://twitter.com/bitrad_io"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.bitrad.io/"
+  "algorithm": "PoS",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BRO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Bitradio",
+  "network": {
+    "t_available_supply": 6573442,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 11573446
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/BRO"],
+  "social": ["https://twitter.com/bitrad_io"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.bitrad.io/"
 }

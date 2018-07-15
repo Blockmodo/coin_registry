@@ -1,38 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/digix"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [
-        "https://etherscan.io/token/dgd"
-    ],
-    "fromSymbol": "DGD",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Digix DAO",
-    "network": {
-        "t_available_supply": 2000000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 2000000
-    },
-    "proof_type": "N/A",
-    "quote": [
-        "https://blockmodo.com/quotes/DGD"
-    ],
-    "social": [
-        "https://twitter.com/@DigixGlobal"
-    ],
-    "source_code": [
-        "https://github.com/DigixGlobal/lite-dgx-contract",
-        "https://github.com/DigixGlobal/dao-contracts"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://digix.global/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/digix"],
+  "description": {
+    "en": ""
+  },
+  "explorer": ["https://etherscan.io/token/dgd"],
+  "fromSymbol": "DGD",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Digix DAO",
+  "network": {
+    "t_available_supply": 2000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 2000000
+  },
+  "proof_type": "N/A",
+  "quote": ["https://blockmodo.com/quotes/DGD"],
+  "social": ["https://twitter.com/@DigixGlobal"],
+  "source_code": ["https://github.com/DigixGlobal/lite-dgx-contract", "https://github.com/DigixGlobal/dao-contracts"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://digix.global/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BLZ",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Bluzelle",
-    "network": {
-        "t_available_supply": 608557394,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 608557394
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/BLZ"
-    ],
-    "social": [
-        "https://twitter.com/@BluzelleHQ"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://bluzelle.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BLZ",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Bluzelle",
+  "network": {
+    "t_available_supply": 608557394,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 608557394
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/BLZ"],
+  "social": ["https://twitter.com/@BluzelleHQ"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://bluzelle.com/"
 }

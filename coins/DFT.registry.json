@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DFT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Draftcoin",
-    "network": {
-        "t_available_supply": 7905030,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 7905030
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/DFT"
-    ],
-    "social": [
-        "https://twitter.com/@Draftcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "BTCDraft.com"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DFT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Draftcoin",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 2100000000
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/DFT"],
+  "social": ["https://twitter.com/@Draftcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "BTCDraft.com"
 }

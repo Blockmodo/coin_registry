@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DAT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Datum",
-    "network": {
-        "t_available_supply": 905358042,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 905358042
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/DAT"
-    ],
-    "social": [
-        "https://twitter.com/@datumnetwork"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://datum.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DAT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Datum",
+  "network": {
+    "t_available_supply": 905358042,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 2653841598
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/DAT"],
+  "social": ["https://twitter.com/@datumnetwork"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://datum.org/"
 }

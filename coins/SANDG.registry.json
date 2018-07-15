@@ -1,31 +1,27 @@
 {
-    "algorithm": "SHA256",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SANDG",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Save and Gain",
-    "network": {
-        "t_available_supply": 3064800,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 3064800
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/SANDG"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SANDG",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Save and Gain",
+  "network": {
+    "t_available_supply": 3064800,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 3064800
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/SANDG"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

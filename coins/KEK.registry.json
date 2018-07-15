@@ -1,31 +1,27 @@
 {
-    "algorithm": "POS 2.0",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "KEK",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "KekCoin",
-    "network": {
-        "t_available_supply": 10711407,
-        "t_block_reward": 0,
-        "t_max_supply": 21000000,
-        "t_total_supply": 10711407
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/KEK"
-    ],
-    "social": [
-        "https://twitter.com/@KekCore"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.kekcoin.co/"
+  "algorithm": "POS 2.0",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "KEK",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "KekCoin",
+  "network": {
+    "t_available_supply": 10716385,
+    "t_block_reward": 0,
+    "t_max_supply": 21000000,
+    "t_total_supply": 11716385
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/KEK"],
+  "social": ["https://twitter.com/@KekCore"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.kekcoin.co/"
 }

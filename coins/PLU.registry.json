@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PLU",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Pluton",
-    "network": {
-        "t_available_supply": 850000,
-        "t_block_reward": 0,
-        "t_max_supply": 20000000,
-        "t_total_supply": 850000
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/PLU"
-    ],
-    "social": [
-        "https://twitter.com/@PlutusIT"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://plutus.it/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PLU",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Pluton",
+  "network": {
+    "t_available_supply": 850000,
+    "t_block_reward": 0,
+    "t_max_supply": 20000000,
+    "t_total_supply": 20000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/PLU"],
+  "social": ["https://twitter.com/@PlutusIT"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://plutus.it/"
 }

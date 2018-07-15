@@ -1,31 +1,27 @@
 {
-    "algorithm": "SHA256",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "TGC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "TigerCoin",
-    "network": {
-        "t_available_supply": 43536800,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 43536800
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/TGC"
-    ],
-    "social": [
-        "https://twitter.com/@TigerCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://tigercoin.wordpress.com/"
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "TGC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "TigerCoin",
+  "network": {
+    "t_available_supply": 43536800,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 43536800
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/TGC"],
+  "social": ["https://twitter.com/@TigerCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://tigercoin.wordpress.com/"
 }

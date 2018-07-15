@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MTN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "TrackNetToken",
-    "network": {
-        "t_available_supply": 185000000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 185000000
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/MTN"
-    ],
-    "social": [
-        "https://twitter.com/@MyTrackNet"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.mytracknet.com"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MTN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "TrackNetToken",
+  "network": {
+    "t_available_supply": 185000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 500000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/MTN"],
+  "social": ["https://twitter.com/@MyTrackNet"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.mytracknet.com"
 }

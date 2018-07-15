@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "EXRN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "EXRNchain",
-    "network": {
-        "t_available_supply": 92500000000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 92500000000
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/EXRN"
-    ],
-    "social": [
-        "https://twitter.com/@EXRNtoken"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://exrnchain.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "EXRN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "EXRNchain",
+  "network": {
+    "t_available_supply": 92500000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/EXRN"],
+  "social": ["https://twitter.com/@EXRNtoken"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://exrnchain.com/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "NVC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "NovaCoin",
-    "network": {
-        "t_available_supply": 2104969,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 2104969
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/NVC"
-    ],
-    "social": [
-        "https://twitter.com/@MarketNvc"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://novacoin.org/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "NVC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "NovaCoin",
+  "network": {
+    "t_available_supply": 2125186,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 2125186
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/NVC"],
+  "social": ["https://twitter.com/@MarketNvc"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://novacoin.org/"
 }

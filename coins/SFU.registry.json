@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SFU",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Saifu",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 0
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/SFU"
-    ],
-    "social": [
-        "https://twitter.com/@AiSaifu"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://ico.saifu.ai/?utm_source=cryptocompare&utm_medium=overview&utm_campaign=listings"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SFU",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Saifu",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 112161073
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/SFU"],
+  "social": ["https://twitter.com/@AiSaifu"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://ico.saifu.ai/?utm_source=cryptocompare&utm_medium=overview&utm_campaign=listings"
 }

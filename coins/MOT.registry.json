@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MOT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Olympus Labs",
-    "network": {
-        "t_available_supply": 38068046,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 38068046
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/MOT"
-    ],
-    "social": [
-        "https://twitter.com/@olympuslabsbc"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://olympuslabs.io/web"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MOT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Olympus Labs",
+  "network": {
+    "t_available_supply": 36868359,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/MOT"],
+  "social": ["https://twitter.com/@olympuslabsbc"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://olympuslabs.io/web"
 }

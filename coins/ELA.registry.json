@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ELA",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Elastos",
-    "network": {
-        "t_available_supply": 5226103,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 5226103
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ELA"
-    ],
-    "social": [
-        "https://twitter.com/@Elastos_org"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.elastos.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ELA",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Elastos",
+  "network": {
+    "t_available_supply": 5252491,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 33739386
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ELA"],
+  "social": ["https://twitter.com/@Elastos_org"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.elastos.org/"
 }

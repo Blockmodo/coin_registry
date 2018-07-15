@@ -1,33 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/SaluS"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SLS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "SaluS",
-    "network": {
-        "t_available_supply": 1010642,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 1010642
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/SLS"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://saluscoin.info/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/SaluS"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SLS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SaluS",
+  "network": {
+    "t_available_supply": 1010740,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1010740
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/SLS"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://saluscoin.info/"
 }

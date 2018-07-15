@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "POST",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "PostCoin",
-    "network": {
-        "t_available_supply": 15868233,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 15868233
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/POST"
-    ],
-    "social": [
-        "https://twitter.com/@POSTcoinArena"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "POST",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "PostCoin",
+  "network": {
+    "t_available_supply": 15868233,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 15868233
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/POST"],
+  "social": ["https://twitter.com/@POSTcoinArena"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

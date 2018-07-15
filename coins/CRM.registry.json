@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CRM",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Cream",
-    "network": {
-        "t_available_supply": 45108749,
-        "t_block_reward": 0,
-        "t_max_supply": 100000000,
-        "t_total_supply": 45108749
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/CRM"
-    ],
-    "social": [
-        "https://twitter.com/@creamcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://creamcoin.com/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CRM",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Cream",
+  "network": {
+    "t_available_supply": 45108749,
+    "t_block_reward": 0,
+    "t_max_supply": 100000000,
+    "t_total_supply": 45108749
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/CRM"],
+  "social": ["https://twitter.com/@creamcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://creamcoin.com/"
 }

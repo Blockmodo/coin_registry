@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "UCASH",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "U.CASH",
-    "network": {
-        "t_available_supply": 1844678441,
-        "t_block_reward": 0,
-        "t_max_supply": 21000000000,
-        "t_total_supply": 1844678441
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/UCASH"
-    ],
-    "social": [
-        "https://twitter.com/udotcash"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://u.cash"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "UCASH",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "U.CASH",
+  "network": {
+    "t_available_supply": 1844678441,
+    "t_block_reward": 0,
+    "t_max_supply": 21000000000,
+    "t_total_supply": 21000000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/UCASH"],
+  "social": ["https://twitter.com/udotcash"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://u.cash"
 }

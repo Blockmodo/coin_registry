@@ -1,44 +1,27 @@
 {
-    "algorithm": null,
-    "chat": [
-        "https://nebulasio.herokuapp.com/"
-    ],
-    "community": [
-        "https://www.reddit.com/r/nebulas"
-    ],
-    "description": {
-        "en": "Based on its blockchain valuation mechanism, Nebulas proposes future-oriented incentive and consensus systems, and the ability to self-evolve without forking."
-    },
-    "explorer": [
-        "https://etherscan.io/token/0x5d65d971895edc438f465c17db6992698a52318d",
-        "https://ethplorer.io/address/0x5d65d971895edc438f465c17db6992698a52318d"
-    ],
-    "fromSymbol": "NAS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Nebulas",
-    "network": {
-        "t_available_supply": 45500000,
-        "t_block_reward": 0,
-        "t_max_supply": 100000000,
-        "t_total_supply": 45500000
-    },
-    "proof_type": null,
-    "quote": [
-        "https://blockmodo.com/quotes/NAS"
-    ],
-    "social": [
-        "https://twitter.com/@nebulasio",
-        "https://www.facebook.com/nebulasproject"
-    ],
-    "source_code": [
-        "https://github.com/nebulasio/WebExtensionWallet",
-        "https://github.com/nebulasio/neb.py",
-        "https://github.com/nebulasio/nebPay",
-        "https://github.com/nebulasio/go-nebulas"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://nebulas.io/"
+  "algorithm": null,
+  "chat": ["https://nebulasio.herokuapp.com/"],
+  "community": ["https://www.reddit.com/r/nebulas"],
+  "description": {
+    "en": "Based on its blockchain valuation mechanism, Nebulas proposes future-oriented incentive and consensus systems, and the ability to self-evolve without forking."
+  },
+  "explorer": ["https://etherscan.io/token/0x5d65d971895edc438f465c17db6992698a52318d", "https://ethplorer.io/address/0x5d65d971895edc438f465c17db6992698a52318d"],
+  "fromSymbol": "NAS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Nebulas",
+  "network": {
+    "t_available_supply": 45500000,
+    "t_block_reward": 0,
+    "t_max_supply": 100000000,
+    "t_total_supply": 100000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/NAS"],
+  "social": ["https://twitter.com/@nebulasio", "https://www.facebook.com/nebulasproject"],
+  "source_code": ["https://github.com/nebulasio/WebExtensionWallet", "https://github.com/nebulasio/neb.py", "https://github.com/nebulasio/nebPay", "https://github.com/nebulasio/go-nebulas"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://nebulas.io/"
 }

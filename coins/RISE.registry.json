@@ -1,31 +1,27 @@
 {
-    "algorithm": "DPoS",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "RISE",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Rise",
-    "network": {
-        "t_available_supply": 126002036,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 126002036
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/RISE"
-    ],
-    "social": [
-        "https://twitter.com/@RiseVisionTeam"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://rise.vision/"
+  "algorithm": "DPoS",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "RISE",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Rise",
+  "network": {
+    "t_available_supply": 126784328,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 126784328
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/RISE"],
+  "social": ["https://twitter.com/@RiseVisionTeam"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://rise.vision/"
 }

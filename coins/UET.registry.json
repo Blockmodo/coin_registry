@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "UET",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Useless Ethereum Token",
-    "network": {
-        "t_available_supply": 3965716,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 3965716
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/UET"
-    ],
-    "social": [
-        "https://twitter.com/@uetoken"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://uetoken.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "UET",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Useless Ethereum Token",
+  "network": {
+    "t_available_supply": 3965716,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 3965716
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/UET"],
+  "social": ["https://twitter.com/@uetoken"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://uetoken.com/"
 }

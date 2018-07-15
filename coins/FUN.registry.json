@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/FunfairTech"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "FUN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "FunFair",
-    "network": {
-        "t_available_supply": 5010848189,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 5010848189
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/FUN"
-    ],
-    "social": [
-        "https://twitter.com/@FunFairTech"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://funfair.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/FunfairTech"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "FUN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "FunFair",
+  "network": {
+    "t_available_supply": 5010848189,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 10999873621
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/FUN"],
+  "social": ["https://twitter.com/@FunFairTech"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://funfair.io/"
 }

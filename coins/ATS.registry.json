@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ATS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Authorship",
-    "network": {
-        "t_available_supply": 99970428,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 99970428
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ATS"
-    ],
-    "social": [
-        "https://twitter.com/@authorship_com"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://authorship.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ATS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Authorship",
+  "network": {
+    "t_available_supply": 99971428,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ATS"],
+  "social": ["https://twitter.com/@authorship_com"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://authorship.com/"
 }

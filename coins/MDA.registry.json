@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MDA",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Moeda",
-    "network": {
-        "t_available_supply": 19628888,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 19628888
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/MDA"
-    ],
-    "social": [
-        "https://twitter.com/@moedabanking"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://moeda.in/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MDA",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Moeda",
+  "network": {
+    "t_available_supply": 19628888,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 19628888
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/MDA"],
+  "social": ["https://twitter.com/@moedabanking"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://moeda.in/"
 }

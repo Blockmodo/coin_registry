@@ -1,31 +1,27 @@
 {
-    "algorithm": "Equihash",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "HUSH",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Hush",
-    "network": {
-        "t_available_supply": 4127438,
-        "t_block_reward": 0,
-        "t_max_supply": 21000000,
-        "t_total_supply": 4127438
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/HUSH"
-    ],
-    "social": [
-        "https://twitter.com/@MyHushTeam"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://myhush.org/"
+  "algorithm": "Equihash",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "HUSH",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Hush",
+  "network": {
+    "t_available_supply": 4294163,
+    "t_block_reward": 0,
+    "t_max_supply": 21000000,
+    "t_total_supply": 4294163
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/HUSH"],
+  "social": ["https://twitter.com/@MyHushTeam"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://myhush.org/"
 }

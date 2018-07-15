@@ -1,33 +1,27 @@
-{
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/PolymathNetwork/"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "POLY",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "PolyBit",
-    "network": {
-        "t_available_supply": 276420107,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 276420107
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/POLY"
-    ],
-    "social": [
-        "https://twitter.com/@polybitco"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/PolymathNetwork/"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "POLY",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "PolyBit",
+  "network": {
+    "t_available_supply": 276420107,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/POLY"],
+  "social": ["https://twitter.com/@polybitco"],
+  "source_code": ["https://github.com/PolymathNetwork/polymath-core", "https://github.com/PolymathNetwork/polymath-issuer"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://polymath.network/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MYST",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Mysterium",
-    "network": {
-        "t_available_supply": 23004415,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 23004415
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/MYST"
-    ],
-    "social": [
-        "https://twitter.com/@MysteriumNetwork"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://mysterium.network/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MYST",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Mysterium",
+  "network": {
+    "t_available_supply": 23264502,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 32433366
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/MYST"],
+  "social": ["https://twitter.com/@MysteriumNetwork"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://mysterium.network/"
 }

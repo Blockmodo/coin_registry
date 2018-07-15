@@ -1,31 +1,27 @@
 {
-    "algorithm": "X13",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MNM",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Mineum",
-    "network": {
-        "t_available_supply": 9436367,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 9436367
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/MNM"
-    ],
-    "social": [
-        "https://twitter.com/@mineumproject "
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://mineum.org/"
+  "algorithm": "X13",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MNM",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Mineum",
+  "network": {
+    "t_available_supply": 9436367,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 9586367
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/MNM"],
+  "social": ["https://twitter.com/@mineumproject "],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://mineum.org/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "RAIN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Condensate",
-    "network": {
-        "t_available_supply": 215402262,
-        "t_block_reward": 0,
-        "t_max_supply": 500000000,
-        "t_total_supply": 215402262
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/RAIN"
-    ],
-    "social": [
-        "https://twitter.com/@condensate_rain"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "RAIN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Condensate",
+  "network": {
+    "t_available_supply": 235230039,
+    "t_block_reward": 0,
+    "t_max_supply": 500000000,
+    "t_total_supply": 235230039
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/RAIN"],
+  "social": ["https://twitter.com/@condensate_rain"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

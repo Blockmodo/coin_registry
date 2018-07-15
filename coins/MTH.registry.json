@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MTH",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Monetha",
-    "network": {
-        "t_available_supply": 217471923,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 217471923
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/MTH"
-    ],
-    "social": [
-        "https://twitter.com/@Monetha_io"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.monetha.io"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MTH",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Monetha",
+  "network": {
+    "t_available_supply": 217471923,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 402400000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/MTH"],
+  "social": ["https://twitter.com/@Monetha_io"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.monetha.io"
 }

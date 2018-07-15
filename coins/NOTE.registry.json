@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "NOTE",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Dnotes",
-    "network": {
-        "t_available_supply": 131779125,
-        "t_block_reward": 0,
-        "t_max_supply": 500000000,
-        "t_total_supply": 131779125
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/NOTE"
-    ],
-    "social": [
-        "https://twitter.com/@DNotesCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://dnotescoin.com/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "NOTE",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Dnotes",
+  "network": {
+    "t_available_supply": 135043262,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 155043262
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/NOTE"],
+  "social": ["https://twitter.com/@DNotesCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://dnotescoin.com/"
 }

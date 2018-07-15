@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "EXY",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Experty",
-    "network": {
-        "t_available_supply": 27088352,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 27088352
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/EXY"
-    ],
-    "social": [
-        "https://twitter.com/@experty_io"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.experty.io"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "EXY",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Experty",
+  "network": {
+    "t_available_supply": 27088352,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 79404564
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/EXY"],
+  "social": ["https://twitter.com/@experty_io"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.experty.io"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CVCOIN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Crypviser",
-    "network": {
-        "t_available_supply": 9837033,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 9837033
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/CVCOIN"
-    ],
-    "social": [
-        "https://twitter.com/@cvcoin_ico"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://ico.crypviser.net/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CVCOIN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Crypviser",
+  "network": {
+    "t_available_supply": 9837033,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 15000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/CVCOIN"],
+  "social": ["https://twitter.com/@cvcoin_ico"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://ico.crypviser.net/"
 }

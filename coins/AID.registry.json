@@ -1,38 +1,27 @@
 {
-    "algorithm": null,
-    "chat": [
-        "https://t.me/aidcoincommunity"
-    ],
-    "community": [
-        "https://www.reddit.com/r/AidCoin"
-    ],
-    "description": {
-        "en": "AidCoin is the ERC20 token that aims to become the preferred method to donate transparently through the Ethereum blockchain and to access the ecosystem of services provided by the AIDChain platform. The adoption of cryptocurrencies will impact the way we donate in the future, and AidCoin is poised to play a leading role in this new era of fundraising."
-    },
-    "explorer": [],
-    "fromSymbol": "AID",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "AidCoin",
-    "network": {
-        "t_available_supply": 40409478,
-        "t_block_reward": 0,
-        "t_max_supply": 100000000,
-        "t_total_supply": 40409478
-    },
-    "proof_type": null,
-    "quote": [
-        "https://blockmodo.com/quotes/AID"
-    ],
-    "social": [
-        "https://twitter.com/@aid_coin",
-        "https://www.facebook.com/AidCoinCo"
-    ],
-    "source_code": [
-        "https://github.com/AidCoinCo/aidcoin"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.aidcoin.co"
+  "algorithm": null,
+  "chat": ["https://t.me/aidcoincommunity"],
+  "community": ["https://www.reddit.com/r/AidCoin"],
+  "description": {
+    "en": "AidCoin is the ERC20 token that aims to become the preferred method to donate transparently through the Ethereum blockchain and to access the ecosystem of services provided by the AIDChain platform. The adoption of cryptocurrencies will impact the way we donate in the future, and AidCoin is poised to play a leading role in this new era of fundraising."
+  },
+  "explorer": [],
+  "fromSymbol": "AID",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "AidCoin",
+  "network": {
+    "t_available_supply": 39889982,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/AID"],
+  "social": ["https://twitter.com/@aid_coin", "https://www.facebook.com/AidCoinCo"],
+  "source_code": ["https://github.com/AidCoinCo/aidcoin"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.aidcoin.co"
 }

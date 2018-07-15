@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CACH",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Cachecoin",
-    "network": {
-        "t_available_supply": 4195132,
-        "t_block_reward": 0,
-        "t_max_supply": 10000000,
-        "t_total_supply": 4195132
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/CACH"
-    ],
-    "social": [
-        "https://twitter.com/@CACHeCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://cachecoin.org/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CACH",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Cachecoin",
+  "network": {
+    "t_available_supply": 4195132,
+    "t_block_reward": 0,
+    "t_max_supply": 10000000,
+    "t_total_supply": 4195132
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/CACH"],
+  "social": ["https://twitter.com/@CACHeCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://cachecoin.org/"
 }

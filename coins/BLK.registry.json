@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BLK",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BlackCoin",
-    "network": {
-        "t_available_supply": 76913264,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 76913264
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/BLK"
-    ],
-    "social": [
-        "https://twitter.com/@CoinBlack"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://blackcoin.co/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BLK",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BlackCoin",
+  "network": {
+    "t_available_supply": 76958551,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 76958551
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/BLK"],
+  "social": ["https://twitter.com/@CoinBlack"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://blackcoin.co/"
 }

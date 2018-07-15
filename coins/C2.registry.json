@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "C2",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Coin.2",
-    "network": {
-        "t_available_supply": 78245975,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 78245975
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/C2"
-    ],
-    "social": [
-        "https://twitter.com/@Coin2Crypto"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "C2",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Coin.2",
+  "network": {
+    "t_available_supply": 78245975,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 133273764
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/C2"],
+  "social": ["https://twitter.com/@Coin2Crypto"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

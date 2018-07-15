@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "TGT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "TargetCoin",
-    "network": {
-        "t_available_supply": 952429892,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 952429892
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/TGT"
-    ],
-    "social": [
-        "https://twitter.com/@TargetCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.tgtcoins.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "TGT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "TargetCoin",
+  "network": {
+    "t_available_supply": 952429892,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 2000100000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/TGT"],
+  "social": ["https://twitter.com/@TargetCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.tgtcoins.com/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PRL",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Oyster Pearl",
-    "network": {
-        "t_available_supply": 84966676,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 84966676
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/PRL"
-    ],
-    "social": [
-        "https://twitter.com/@OysterProtocol"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://oyster.ws/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PRL",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Oyster Pearl",
+  "network": {
+    "t_available_supply": 84966676,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 98592692
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/PRL"],
+  "social": ["https://twitter.com/@OysterProtocol"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://oyster.ws/"
 }

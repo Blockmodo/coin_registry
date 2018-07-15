@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MILO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "MiloCoin",
-    "network": {
-        "t_available_supply": 10789954,
-        "t_block_reward": 0,
-        "t_max_supply": 30015000,
-        "t_total_supply": 10789954
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/MILO"
-    ],
-    "social": [
-        "https://twitter.com/@GetMiloCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://milocoin.info"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MILO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "MiloCoin",
+  "network": {
+    "t_available_supply": 10789954,
+    "t_block_reward": 0,
+    "t_max_supply": 30015000,
+    "t_total_supply": 10789954
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/MILO"],
+  "social": ["https://twitter.com/@GetMiloCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://milocoin.info"
 }

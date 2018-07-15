@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/raidennetwork"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "RDN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "RadonPay",
-    "network": {
-        "t_available_supply": 50168936,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 50168936
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/RDN"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/raidennetwork"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "RDN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "RadonPay",
+  "network": {
+    "t_available_supply": 50168936,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/RDN"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

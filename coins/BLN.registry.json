@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BLN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Bolenum",
-    "network": {
-        "t_available_supply": 10000000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 10000000
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/BLN"
-    ],
-    "social": [
-        "https://twitter.com/@BolenumPlatform"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://bolenum.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BLN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Bolenum",
+  "network": {
+    "t_available_supply": 10000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 10000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/BLN"],
+  "social": ["https://twitter.com/@BolenumPlatform"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://bolenum.com/"
 }

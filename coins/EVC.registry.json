@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "EVC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Eventchain",
-    "network": {
-        "t_available_supply": 31250497,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 31250497
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/EVC"
-    ],
-    "social": [
-        "https://twitter.com/@EventChain_io"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://eventchain.io"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "EVC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Eventchain",
+  "network": {
+    "t_available_supply": 31250497,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 84000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/EVC"],
+  "social": ["https://twitter.com/@EventChain_io"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://eventchain.io"
 }

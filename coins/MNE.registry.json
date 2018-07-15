@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MNE",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Minereum",
-    "network": {
-        "t_available_supply": 3160635,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 3160635
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/MNE"
-    ],
-    "social": [
-        "https://twitter.com/@minereumtoken"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.minereum.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MNE",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Minereum",
+  "network": {
+    "t_available_supply": 3347527,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 3347527
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/MNE"],
+  "social": ["https://twitter.com/@minereumtoken"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.minereum.com/"
 }

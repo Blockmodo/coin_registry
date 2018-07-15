@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/Dentacoin"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DCN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Dentacoin",
-    "network": {
-        "t_available_supply": 325226613094,
-        "t_block_reward": 0,
-        "t_max_supply": 8000000000000,
-        "t_total_supply": 325226613094
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/DCN"
-    ],
-    "social": [
-        "https://twitter.com/@dentacoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.dentacoin.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/Dentacoin"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DCN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Dentacoin",
+  "network": {
+    "t_available_supply": 325226613094,
+    "t_block_reward": 0,
+    "t_max_supply": 8000000000000,
+    "t_total_supply": 1963173416169
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/DCN"],
+  "social": ["https://twitter.com/@dentacoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.dentacoin.com/"
 }

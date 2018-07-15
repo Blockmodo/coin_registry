@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CXO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "CargoX",
-    "network": {
-        "t_available_supply": 129071409,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 129071409
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/CXO"
-    ],
-    "social": [
-        "https://twitter.com/@CargoXio"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://cargox.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CXO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "CargoX",
+  "network": {
+    "t_available_supply": 129071409,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 215119016
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/CXO"],
+  "social": ["https://twitter.com/@CargoXio"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://cargox.io/"
 }

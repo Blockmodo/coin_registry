@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/TenX"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PAY",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "TenX",
-    "network": {
-        "t_available_supply": 109200361,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 109200361
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/PAY"
-    ],
-    "social": [
-        "https://twitter.com/@tenxwallet"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.tenx.tech/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/TenX"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PAY",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "TenX",
+  "network": {
+    "t_available_supply": 109200361,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 205218256
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/PAY"],
+  "social": ["https://twitter.com/@tenxwallet"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.tenx.tech/"
 }

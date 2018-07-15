@@ -1,33 +1,27 @@
 {
-    "algorithm": "X13",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/NavCoin"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "NAV",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "NavCoin",
-    "network": {
-        "t_available_supply": 62981442,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 62981442
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/NAV"
-    ],
-    "social": [
-        "https://twitter.com/@NavCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://navcoin.org/"
+  "algorithm": "X13",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/NavCoin"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "NAV",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "NavCoin",
+  "network": {
+    "t_available_supply": 63068250,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 63068250
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/NAV"],
+  "social": ["https://twitter.com/@NavCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://navcoin.org/"
 }

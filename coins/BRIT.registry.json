@@ -1,31 +1,27 @@
 {
-    "algorithm": "X13",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BRIT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BritCoin",
-    "network": {
-        "t_available_supply": 21268092,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 21268092
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/BRIT"
-    ],
-    "social": [
-        "https://twitter.com/@britcoin3uk"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://britcoin.xyz/"
+  "algorithm": "X13",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BRIT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BritCoin",
+  "network": {
+    "t_available_supply": 21268092,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 21268092
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/BRIT"],
+  "social": ["https://twitter.com/@britcoin3uk"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://britcoin.xyz/"
 }

@@ -1,35 +1,27 @@
 {
-    "algorithm": "SHA256",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": "611 coin is a crypto currency featuring an included free anonymous domain name system."
-    },
-    "explorer": [
-        "https://611project.org/explore/block-explorer/"
-    ],
-    "fromSymbol": "611",
-    "is_crypto": true,
-    "is_minable": true,
-    "name": "SixEleven",
-    "network": {
-        "t_available_supply": 449154,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 449154
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/611"
-    ],
-    "social": [
-        "https://twitter.com/611Coin"
-    ],
-    "source_code": [
-        "https://github.com/611project/sixeleven"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://611project.org/"
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": "611 coin is a crypto currency featuring an included free anonymous domain name system."
+  },
+  "explorer": ["https://611project.org/explore/block-explorer/"],
+  "fromSymbol": "611",
+  "is_crypto": true,
+  "is_minable": true,
+  "name": "SixEleven",
+  "network": {
+    "t_available_supply": 451290,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 451290
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/611"],
+  "social": ["https://twitter.com/611Coin"],
+  "source_code": ["https://github.com/611project/sixeleven"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://611project.org/"
 }

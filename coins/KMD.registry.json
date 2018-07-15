@@ -1,35 +1,27 @@
 {
-    "algorithm": "Equihash",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/komodoplatform"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "KMD",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Komodo",
-    "network": {
-        "t_available_supply": 104253976,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 104253976
-    },
-    "proof_type": "dPoW/PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/KMD"
-    ],
-    "social": [
-        "https://twitter.com/@komodoplatform"
-    ],
-    "source_code": [
-        "https://github.com/jl777/komodo"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://komodoplatform.com/"
+  "algorithm": "Equihash",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/komodoplatform"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "KMD",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Komodo",
+  "network": {
+    "t_available_supply": 104254884,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 104254884
+  },
+  "proof_type": "dPoW/PoW",
+  "quote": ["https://blockmodo.com/quotes/KMD"],
+  "social": ["https://twitter.com/@komodoplatform"],
+  "source_code": ["https://github.com/jl777/komodo"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://komodoplatform.com/"
 }

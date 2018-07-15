@@ -1,35 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/monacoin"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MONA",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "MonaCoin",
-    "network": {
-        "t_available_supply": 60327975,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 60327975
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/MONA"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [
-        "https://github.com/monacoinproject/monacoin"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://monacoin.org/en/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/monacoin"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MONA",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "MonaCoin",
+  "network": {
+    "t_available_supply": 60863525,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 60863525
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/MONA"],
+  "social": ["https://twitter.com/"],
+  "source_code": ["https://github.com/monacoinproject/monacoin"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://monacoin.org/en/"
 }

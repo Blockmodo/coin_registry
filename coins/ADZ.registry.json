@@ -1,36 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [
-        "https://forum.adzbuzz.com",
-        "https://www.reddit.com/r/ADZCoin"
-    ],
-    "description": {
-        "en": "ADZcoin is a decentralized cryptocurrency (digital money) that can be traded for Bitcoin/cash or that can be replaced for advertising space on the ADZbuzz network. Every ADZcoin represents part of the daily ad inventory on the fast growing ADZbuzz network, giving it the intrinsic value. Advertisers pay billions of Dollars for ad space elsewhere but with ADZcoin they can swap them for lifelong ad credits on the ADZbuzz network, i.e., pay once, advertise forever."
-    },
-    "explorer": [],
-    "fromSymbol": "ADZ",
-    "is_crypto": true,
-    "is_minable": true,
-    "name": "Adzcoin",
-    "network": {
-        "t_available_supply": 43785046,
-        "t_block_reward": 0,
-        "t_max_supply": 84000000,
-        "t_total_supply": 43785046
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/ADZ"
-    ],
-    "social": [
-        "https://twitter.com/@ADZbuzz"
-    ],
-    "source_code": [
-        "https://github.com/AdzCoin/adzcoin"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://adzcoin.org/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": ["https://forum.adzbuzz.com", "https://www.reddit.com/r/ADZCoin"],
+  "description": {
+    "en": "ADZcoin is a decentralized cryptocurrency (digital money) that can be traded for Bitcoin/cash or that can be replaced for advertising space on the ADZbuzz network. Every ADZcoin represents part of the daily ad inventory on the fast growing ADZbuzz network, giving it the intrinsic value. Advertisers pay billions of Dollars for ad space elsewhere but with ADZcoin they can swap them for lifelong ad credits on the ADZbuzz network, i.e., pay once, advertise forever."
+  },
+  "explorer": [],
+  "fromSymbol": "ADZ",
+  "is_crypto": true,
+  "is_minable": true,
+  "name": "Adzcoin",
+  "network": {
+    "t_available_supply": 43924249,
+    "t_block_reward": 0,
+    "t_max_supply": 84000000,
+    "t_total_supply": 43924249
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/ADZ"],
+  "social": ["https://twitter.com/@ADZbuzz"],
+  "source_code": ["https://github.com/AdzCoin/adzcoin"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://adzcoin.org/"
 }

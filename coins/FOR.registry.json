@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "FOR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Force Coin",
-    "network": {
-        "t_available_supply": 123192742,
-        "t_block_reward": 0,
-        "t_max_supply": 200000000,
-        "t_total_supply": 123192742
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/FOR"
-    ],
-    "social": [
-        "https://twitter.com/@forcecoinunited"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://forcecoin.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "FOR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Force Coin",
+  "network": {
+    "t_available_supply": 123192742,
+    "t_block_reward": 0,
+    "t_max_supply": 200000000,
+    "t_total_supply": 126794083
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/FOR"],
+  "social": ["https://twitter.com/@forcecoinunited"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://forcecoin.io/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "RBY",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "RubyCoin",
-    "network": {
-        "t_available_supply": 25756366,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 25756366
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/RBY"
-    ],
-    "social": [
-        "https://twitter.com/@RubyCoinOrg"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.rubycoin.org/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "RBY",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "RubyCoin",
+  "network": {
+    "t_available_supply": 25840022,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 25840022
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/RBY"],
+  "social": ["https://twitter.com/@RubyCoinOrg"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.rubycoin.org/"
 }

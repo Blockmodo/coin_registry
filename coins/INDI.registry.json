@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "INDI",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "IndiCoin",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 0
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/INDI"
-    ],
-    "social": [
-        "https://twitter.com/@Indi_Coin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.indicoin.org.in/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "INDI",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "IndiCoin",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 360000000
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/INDI"],
+  "social": ["https://twitter.com/@Indi_Coin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.indicoin.org.in/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DTX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "DataBroker DAO",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 225000000,
-        "t_total_supply": 0
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/DTX"
-    ],
-    "social": [
-        "https://twitter.com/@DataBrokerDAO"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://databrokerdao.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DTX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "DataBroker DAO",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 46094019
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/DTX"],
+  "social": ["https://twitter.com/@DataBrokerDAO"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://databrokerdao.com/"
 }

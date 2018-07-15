@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ITT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Intelligent Trading Technologies",
-    "network": {
-        "t_available_supply": 9799899,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 9799899
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ITT"
-    ],
-    "social": [
-        "https://twitter.com/@ITT_Token"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://intelligenttrading.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ITT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Intelligent Trading Technologies",
+  "network": {
+    "t_available_supply": 9799899,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 11500000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ITT"],
+  "social": ["https://twitter.com/@ITT_Token"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://intelligenttrading.org/"
 }

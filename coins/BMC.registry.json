@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BMC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Blackmoon Crypto",
-    "network": {
-        "t_available_supply": 21210608,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 21210608
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/BMC"
-    ],
-    "social": [
-        "https://twitter.com/@BlackmoonFG"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://blackmooncrypto.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BMC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Blackmoon Crypto",
+  "network": {
+    "t_available_supply": 21175863,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 60000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/BMC"],
+  "social": ["https://twitter.com/@BlackmoonFG"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://blackmooncrypto.com/"
 }

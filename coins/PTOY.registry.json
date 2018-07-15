@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PTOY",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Patientory",
-    "network": {
-        "t_available_supply": 70000000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 70000000
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/PTOY"
-    ],
-    "social": [
-        "https://twitter.com/@Patientory"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.patientory.com"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PTOY",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Patientory",
+  "network": {
+    "t_available_supply": 70000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100002000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/PTOY"],
+  "social": ["https://twitter.com/@Patientory"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.patientory.com"
 }

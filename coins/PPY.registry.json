@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PPY",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Peerplays",
-    "network": {
-        "t_available_supply": 4421624,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 4421624
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/PPY"
-    ],
-    "social": [
-        "https://twitter.com/@PeerPlays"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.peerplays.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PPY",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Peerplays",
+  "network": {
+    "t_available_supply": 4423153,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 5541903
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/PPY"],
+  "social": ["https://twitter.com/@PeerPlays"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.peerplays.com/"
 }

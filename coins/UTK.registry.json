@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "UTK",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Utrust",
-    "network": {
-        "t_available_supply": 308086691,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 308086691
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/UTK"
-    ],
-    "social": [
-        "https://twitter.com/@UTRUST_Official"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://utrust.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "UTK",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Utrust",
+  "network": {
+    "t_available_supply": 310859438,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 500000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/UTK"],
+  "social": ["https://twitter.com/@UTRUST_Official"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://utrust.io/"
 }

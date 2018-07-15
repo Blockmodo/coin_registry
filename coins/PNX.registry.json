@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PNX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "PhantomX",
-    "network": {
-        "t_available_supply": 25969773,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 25969773
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/PNX"
-    ],
-    "social": [
-        "https://twitter.com/@PhantomX_Coin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://phantomx.co"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PNX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "PhantomX",
+  "network": {
+    "t_available_supply": 27255989,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 27255989
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/PNX"],
+  "social": ["https://twitter.com/@PhantomX_Coin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://phantomx.co"
 }

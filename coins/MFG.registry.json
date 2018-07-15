@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MFG",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "SyncFab",
-    "network": {
-        "t_available_supply": 137157590,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 137157590
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/MFG"
-    ],
-    "social": [
-        "https://twitter.com/@SYNCFAB"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://syncfab.com"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MFG",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SyncFab",
+  "network": {
+    "t_available_supply": 160488754,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 950000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/MFG"],
+  "social": ["https://twitter.com/@SYNCFAB"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://syncfab.com"
 }

@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/ByteBall"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "GBYTE",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Byteball",
-    "network": {
-        "t_available_supply": 645946,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 645946
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/GBYTE"
-    ],
-    "social": [
-        "https://twitter.com/@ByteballOrg"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://byteball.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/ByteBall"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "GBYTE",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Byteball",
+  "network": {
+    "t_available_supply": 645946,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/GBYTE"],
+  "social": ["https://twitter.com/@ByteballOrg"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://byteball.org/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ATOM",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Atomic Coin",
-    "network": {
-        "t_available_supply": 16442160,
-        "t_block_reward": 0,
-        "t_max_supply": 252000000,
-        "t_total_supply": 16442160
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/ATOM"
-    ],
-    "social": [
-        "https://twitter.com/@AtomcoinProject"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.atomicproject.org/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ATOM",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Atomic Coin",
+  "network": {
+    "t_available_supply": 16703954,
+    "t_block_reward": 0,
+    "t_max_supply": 252000000,
+    "t_total_supply": 16703954
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/ATOM"],
+  "social": ["https://twitter.com/@AtomcoinProject"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.atomicproject.org/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "Argon2",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DYN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Dynamic",
-    "network": {
-        "t_available_supply": 4979774,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 4979774
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/DYN"
-    ],
-    "social": [
-        "https://twitter.com/@dualitychain"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://duality.solutions/"
+  "algorithm": "Argon2",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DYN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Dynamic",
+  "network": {
+    "t_available_supply": 5030199,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 14118520
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/DYN"],
+  "social": ["https://twitter.com/@dualitychain"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://duality.solutions/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MST",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "MustangCoin",
-    "network": {
-        "t_available_supply": 630343,
-        "t_block_reward": 0,
-        "t_max_supply": 3000000,
-        "t_total_supply": 630343
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/MST"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://mustangcoin.xyz/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MST",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "MustangCoin",
+  "network": {
+    "t_available_supply": 630343,
+    "t_block_reward": 0,
+    "t_max_supply": 3000000,
+    "t_total_supply": 630343
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/MST"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://mustangcoin.xyz/"
 }

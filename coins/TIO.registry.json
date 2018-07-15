@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "TIO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Trade.io",
-    "network": {
-        "t_available_supply": 89921436,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 89921436
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/TIO"
-    ],
-    "social": [
-        "https://twitter.com/@TradeToken"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": " https://trade.io/?utm_source=crypto-compare&utm_medium=listing&utm_campaign=media-buy"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "TIO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Trade.io",
+  "network": {
+    "t_available_supply": 89921436,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 223534823
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/TIO"],
+  "social": ["https://twitter.com/@TradeToken"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": " https://trade.io/?utm_source=crypto-compare&utm_medium=listing&utm_campaign=media-buy"
 }

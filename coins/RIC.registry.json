@@ -1,31 +1,27 @@
 {
-    "algorithm": "Groestl",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "RIC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Riecoin",
-    "network": {
-        "t_available_supply": 43562950,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 43562950
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/RIC"
-    ],
-    "social": [
-        "https://twitter.com/@riecoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://riecoin.org/"
+  "algorithm": "Groestl",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "RIC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Riecoin",
+  "network": {
+    "t_available_supply": 43897850,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 43897850
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/RIC"],
+  "social": ["https://twitter.com/@riecoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://riecoin.org/"
 }

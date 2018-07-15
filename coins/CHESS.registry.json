@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CHESS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ChessCoin",
-    "network": {
-        "t_available_supply": 54032769,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 54032769
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/CHESS"
-    ],
-    "social": [
-        "https://twitter.com/@Chess_Coin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://chesscoinpro.com/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CHESS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ChessCoin",
+  "network": {
+    "t_available_supply": 54032769,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 54032769
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/CHESS"],
+  "social": ["https://twitter.com/@Chess_Coin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://chesscoinpro.com/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BITS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BitstarCoin",
-    "network": {
-        "t_available_supply": 19435699,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 19435699
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/BITS"
-    ],
-    "social": [
-        "https://twitter.com/@Bitstar_coinz"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://bitstarcoin.com/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BITS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BitstarCoin",
+  "network": {
+    "t_available_supply": 19501990,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 19501990
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/BITS"],
+  "social": ["https://twitter.com/@Bitstar_coinz"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://bitstarcoin.com/"
 }

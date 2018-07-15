@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "TSL",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Energo",
-    "network": {
-        "t_available_supply": 678361823,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 678361823
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/TSL"
-    ],
-    "social": [
-        "https://twitter.com/Energo Labs"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://energolabs.com/#/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "TSL",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Energo",
+  "network": {
+    "t_available_supply": 602378920,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/TSL"],
+  "social": ["https://twitter.com/Energo Labs"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://energolabs.com/#/"
 }

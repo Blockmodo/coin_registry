@@ -1,31 +1,27 @@
 {
-    "algorithm": "PHI1612",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "LUX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "LUXCoin",
-    "network": {
-        "t_available_supply": 1901302,
-        "t_block_reward": 0,
-        "t_max_supply": 60000000,
-        "t_total_supply": 1901302
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/LUX"
-    ],
-    "social": [
-        "https://twitter.com/@LUX_Coin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://luxcore.io/"
+  "algorithm": "PHI1612",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "LUX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "LUXCoin",
+  "network": {
+    "t_available_supply": 2018779,
+    "t_block_reward": 0,
+    "t_max_supply": 60000000,
+    "t_total_supply": 5018779
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/LUX"],
+  "social": ["https://twitter.com/@LUX_Coin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://luxcore.io/"
 }

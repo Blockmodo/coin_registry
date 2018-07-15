@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "LINX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Linx",
-    "network": {
-        "t_available_supply": 25948600,
-        "t_block_reward": 0,
-        "t_max_supply": 100000000,
-        "t_total_supply": 25948600
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/LINX"
-    ],
-    "social": [
-        "https://twitter.com/@linXcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://mylinx.io/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "LINX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Linx",
+  "network": {
+    "t_available_supply": 26793456,
+    "t_block_reward": 0,
+    "t_max_supply": 100000000,
+    "t_total_supply": 27793456
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/LINX"],
+  "social": ["https://twitter.com/@linXcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://mylinx.io/"
 }

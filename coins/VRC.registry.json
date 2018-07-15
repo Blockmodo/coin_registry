@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "VRC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "VeriCoin",
-    "network": {
-        "t_available_supply": 31020462,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 31020462
-    },
-    "proof_type": "PoST",
-    "quote": [
-        "https://blockmodo.com/quotes/VRC"
-    ],
-    "social": [
-        "https://twitter.com/@VeriCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.vericoin.info/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "VRC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "VeriCoin",
+  "network": {
+    "t_available_supply": 31063402,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 31063402
+  },
+  "proof_type": "PoST",
+  "quote": ["https://blockmodo.com/quotes/VRC"],
+  "social": ["https://twitter.com/@VeriCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.vericoin.info/"
 }

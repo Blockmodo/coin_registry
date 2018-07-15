@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CFI",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Cofound.it",
-    "network": {
-        "t_available_supply": 325000000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 325000000
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/CFI"
-    ],
-    "social": [
-        "https://twitter.com/@cofound_it"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://cofound.it/en/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CFI",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Cofound.it",
+  "network": {
+    "t_available_supply": 325000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 500000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/CFI"],
+  "social": ["https://twitter.com/@cofound_it"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://cofound.it/en/"
 }

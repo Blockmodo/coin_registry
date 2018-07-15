@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "OMNI",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Omni",
-    "network": {
-        "t_available_supply": 561148,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 561148
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/OMNI"
-    ],
-    "social": [
-        "https://twitter.com/@Omni_layer"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.omnilayer.org/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "OMNI",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Omni",
+  "network": {
+    "t_available_supply": 561235,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 617551
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/OMNI"],
+  "social": ["https://twitter.com/@Omni_layer"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.omnilayer.org/"
 }

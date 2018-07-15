@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/EnjinCoin"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ENJ",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Enjin Coin",
-    "network": {
-        "t_available_supply": 756192535,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 756192535
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ENJ"
-    ],
-    "social": [
-        "https://twitter.com/@enjincs"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://enjincoin.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/EnjinCoin"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ENJ",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Enjin Coin",
+  "network": {
+    "t_available_supply": 756192535,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ENJ"],
+  "social": ["https://twitter.com/@enjincs"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://enjincoin.io/"
 }

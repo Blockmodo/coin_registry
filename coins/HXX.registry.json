@@ -1,31 +1,27 @@
 {
-    "algorithm": "Lyra2RE",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "HXX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "HexxCoin",
-    "network": {
-        "t_available_supply": 1660331,
-        "t_block_reward": 0,
-        "t_max_supply": 9999999,
-        "t_total_supply": 1660331
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/HXX"
-    ],
-    "social": [
-        "https://twitter.com/@hxxcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "Lyra2RE",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "HXX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "HexxCoin",
+  "network": {
+    "t_available_supply": 1686913,
+    "t_block_reward": 0,
+    "t_max_supply": 9999999,
+    "t_total_supply": 1686913
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/HXX"],
+  "social": ["https://twitter.com/@hxxcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

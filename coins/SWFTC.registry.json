@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SWFTC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "SwftCoin",
-    "network": {
-        "t_available_supply": 3639990384,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 3639990384
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/SWFTC"
-    ],
-    "social": [
-        "https://twitter.com/@SwftCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.swftcoin.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SWFTC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SwftCoin",
+  "network": {
+    "t_available_supply": 3639990384,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 10000000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/SWFTC"],
+  "social": ["https://twitter.com/@SwftCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.swftcoin.com/"
 }

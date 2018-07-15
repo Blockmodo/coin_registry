@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ARCT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ArbitrageCT",
-    "network": {
-        "t_available_supply": 85565063,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 85565063
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ARCT"
-    ],
-    "social": [
-        "https://twitter.com/@arbitrage_ct"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://arbitragect.com/en/index.html"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ARCT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ArbitrageCT",
+  "network": {
+    "t_available_supply": 90488181,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 151562181
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ARCT"],
+  "social": ["https://twitter.com/@arbitrage_ct"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://arbitragect.com/en/index.html"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BTCRED",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Bitcoin Red",
-    "network": {
-        "t_available_supply": 20550001,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 20550001
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/BTCRED"
-    ],
-    "social": [
-        "https://twitter.com/@BitcoinRed1"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.bitcoinred.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BTCRED",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Bitcoin Red",
+  "network": {
+    "t_available_supply": 20550001,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 21000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/BTCRED"],
+  "social": ["https://twitter.com/@BitcoinRed1"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.bitcoinred.io/"
 }

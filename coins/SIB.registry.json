@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11GOST",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SIB",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "SibCoin",
-    "network": {
-        "t_available_supply": 16828648,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 16828648
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/SIB"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://sibcoin.org/"
+  "algorithm": "X11GOST",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SIB",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SibCoin",
+  "network": {
+    "t_available_supply": 16882827,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 16882827
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/SIB"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://sibcoin.org/"
 }

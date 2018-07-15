@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "QTL",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Quatloo",
-    "network": {
-        "t_available_supply": 7718883,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 7718883
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/QTL"
-    ],
-    "social": [
-        "https://twitter.com/@quatloocoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://quatloos.org/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "QTL",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Quatloo",
+  "network": {
+    "t_available_supply": 7718883,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 7718883
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/QTL"],
+  "social": ["https://twitter.com/@quatloocoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://quatloos.org/"
 }

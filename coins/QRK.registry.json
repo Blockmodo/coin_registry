@@ -1,31 +1,27 @@
 {
-    "algorithm": "Multiple",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "QRK",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "QuarkCoin",
-    "network": {
-        "t_available_supply": 255568691,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 255568691
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/QRK"
-    ],
-    "social": [
-        "https://twitter.com/@quarkcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.qrk.cc/"
+  "algorithm": "Multiple",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "QRK",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "QuarkCoin",
+  "network": {
+    "t_available_supply": 255699395,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 255699395
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/QRK"],
+  "social": ["https://twitter.com/@quarkcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.qrk.cc/"
 }

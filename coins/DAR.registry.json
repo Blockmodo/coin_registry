@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DAR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Darcrus",
-    "network": {
-        "t_available_supply": 13600388,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 13600388
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/DAR"
-    ],
-    "social": [
-        "https://twitter.com/@darcrus"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://darcr.us/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DAR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Darcrus",
+  "network": {
+    "t_available_supply": 13600388,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 13600388
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/DAR"],
+  "social": ["https://twitter.com/@darcrus"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://darcr.us/"
 }

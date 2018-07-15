@@ -1,33 +1,27 @@
 {
-    "algorithm": "Mars",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/minexcoin"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MNX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "MinexCoin",
-    "network": {
-        "t_available_supply": 3932492,
-        "t_block_reward": 0,
-        "t_max_supply": 19000000,
-        "t_total_supply": 3932492
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/MNX"
-    ],
-    "social": [
-        "https://twitter.com/@minexcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://minexcoin.com/"
+  "algorithm": "Mars",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/minexcoin"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MNX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "MinexCoin",
+  "network": {
+    "t_available_supply": 3973966,
+    "t_block_reward": 0,
+    "t_max_supply": 19000000,
+    "t_total_supply": 5920563
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/MNX"],
+  "social": ["https://twitter.com/@minexcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://minexcoin.com/"
 }

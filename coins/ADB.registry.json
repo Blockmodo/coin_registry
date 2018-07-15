@@ -1,31 +1,27 @@
 {
-    "algorithm": null,
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ADB",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Adbank",
-    "network": {
-        "t_available_supply": 480953700,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 480953700
-    },
-    "proof_type": null,
-    "quote": [
-        "https://blockmodo.com/quotes/ADB"
-    ],
-    "social": [
-        "https://twitter.com/@adbanknetwork"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://adbank.network/"
+  "algorithm": null,
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ADB",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Adbank",
+  "network": {
+    "t_available_supply": 500953700,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/ADB"],
+  "social": ["https://twitter.com/@adbanknetwork"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://adbank.network/"
 }

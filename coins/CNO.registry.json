@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CNO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Coino",
-    "network": {
-        "t_available_supply": 105326975,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 105326975
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/CNO"
-    ],
-    "social": [
-        "https://twitter.com/@CoinoOrg"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.coino.org/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CNO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Coino",
+  "network": {
+    "t_available_supply": 105337689,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 105337689
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/CNO"],
+  "social": ["https://twitter.com/@CoinoOrg"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.coino.org/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "NIST5",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "VUC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Virta Unique Coin",
-    "network": {
-        "t_available_supply": 61935575,
-        "t_block_reward": 0,
-        "t_max_supply": 120000000,
-        "t_total_supply": 61935575
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/VUC"
-    ],
-    "social": [
-        "https://twitter.com/https://twitter.com/VirtaUniqueCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.virtauniquecoin.com/"
+  "algorithm": "NIST5",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "VUC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Virta Unique Coin",
+  "network": {
+    "t_available_supply": 62015900,
+    "t_block_reward": 0,
+    "t_max_supply": 120000000,
+    "t_total_supply": 62015900
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/VUC"],
+  "social": ["https://twitter.com/https://twitter.com/VirtaUniqueCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.virtauniquecoin.com/"
 }

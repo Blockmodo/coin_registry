@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/thetatoken"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "THETA",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Theta",
-    "network": {
-        "t_available_supply": 663902689,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 663902689
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/THETA"
-    ],
-    "social": [
-        "https://twitter.com/@ThetaToken"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.thetatoken.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/thetatoken"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "THETA",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Theta",
+  "network": {
+    "t_available_supply": 664002689,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/THETA"],
+  "social": ["https://twitter.com/@ThetaToken"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.thetatoken.org/"
 }

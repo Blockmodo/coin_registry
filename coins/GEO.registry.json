@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "GEO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "GeoCoin",
-    "network": {
-        "t_available_supply": 3170551,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 3170551
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/GEO"
-    ],
-    "social": [
-        "https://twitter.com/@geo_coin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://geo.money/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "GEO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "GeoCoin",
+  "network": {
+    "t_available_supply": 3170551,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 4000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/GEO"],
+  "social": ["https://twitter.com/@geo_coin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://geo.money/"
 }

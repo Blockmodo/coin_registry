@@ -1,31 +1,27 @@
 {
-    "algorithm": "Multiple",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "TES",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "TeslaCoin",
-    "network": {
-        "t_available_supply": 75634171,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 75634171
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/TES"
-    ],
-    "social": [
-        "https://twitter.com/@TeslaCoins"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://teslacoins.com/"
+  "algorithm": "Multiple",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "TES",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "TeslaCoin",
+  "network": {
+    "t_available_supply": 75899606,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 75899606
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/TES"],
+  "social": ["https://twitter.com/@TeslaCoins"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://teslacoins.com/"
 }

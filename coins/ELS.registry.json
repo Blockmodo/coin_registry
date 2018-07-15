@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ELS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Elysium",
-    "network": {
-        "t_available_supply": 12705060,
-        "t_block_reward": 0,
-        "t_max_supply": 18000000,
-        "t_total_supply": 12705060
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/ELS"
-    ],
-    "social": [
-        "https://twitter.com/@Elysium_coin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ELS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Elysium",
+  "network": {
+    "t_available_supply": 12813000,
+    "t_block_reward": 0,
+    "t_max_supply": 18000000,
+    "t_total_supply": 12813000
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/ELS"],
+  "social": ["https://twitter.com/@Elysium_coin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

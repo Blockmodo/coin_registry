@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CJT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ConnectJob Token",
-    "network": {
-        "t_available_supply": 112839768,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 112839768
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/CJT"
-    ],
-    "social": [
-        "https://twitter.com/@connectjobfd"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://ico.connectjob.io/?utm_source=cryptocompare&utm_medium=link&utm_campaign=cryptocompare"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CJT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ConnectJob Token",
+  "network": {
+    "t_available_supply": 112839768,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 166298157
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/CJT"],
+  "social": ["https://twitter.com/@connectjobfd"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://ico.connectjob.io/?utm_source=cryptocompare&utm_medium=link&utm_campaign=cryptocompare"
 }

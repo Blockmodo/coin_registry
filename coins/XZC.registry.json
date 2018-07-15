@@ -1,33 +1,27 @@
 {
-    "algorithm": "Lyra2Z",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/zcoin"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "XZC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ZCoin",
-    "network": {
-        "t_available_supply": 5018948,
-        "t_block_reward": 0,
-        "t_max_supply": 21400000,
-        "t_total_supply": 5018948
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/XZC"
-    ],
-    "social": [
-        "https://twitter.com/@zcoinofficial"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://zcoin.io"
+  "algorithm": "Lyra2Z",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/zcoin"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "XZC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ZCoin",
+  "network": {
+    "t_available_supply": 5192175,
+    "t_block_reward": 0,
+    "t_max_supply": 21400000,
+    "t_total_supply": 5192175
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/XZC"],
+  "social": ["https://twitter.com/@zcoinofficial"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://zcoin.io"
 }

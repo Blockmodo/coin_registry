@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "TKN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "TokenCard  ",
-    "network": {
-        "t_available_supply": 24329048,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 24329048
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/TKN"
-    ],
-    "social": [
-        "https://twitter.com/@monolith_web3"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://tokencard.io"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "TKN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "TokenCard  ",
+  "network": {
+    "t_available_supply": 24165962,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 39406760
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/TKN"],
+  "social": ["https://twitter.com/@monolith_web3"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://tokencard.io"
 }

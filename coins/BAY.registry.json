@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BAY",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BitBay",
-    "network": {
-        "t_available_supply": 1012146906,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 1012146906
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/BAY"
-    ],
-    "social": [
-        "https://twitter.com/@BitBayMarket"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://bitbaymarket.net/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BAY",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BitBay",
+  "network": {
+    "t_available_supply": 1012146906,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1012146906
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/BAY"],
+  "social": ["https://twitter.com/@BitBayMarket"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://bitbaymarket.net/"
 }

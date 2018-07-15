@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BLT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Bloom Token",
-    "network": {
-        "t_available_supply": 47688531,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 47688531
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/BLT"
-    ],
-    "social": [
-        "https://twitter.com/@BloomToken"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://hellobloom.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BLT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Bloom Token",
+  "network": {
+    "t_available_supply": 47711697,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 150000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/BLT"],
+  "social": ["https://twitter.com/@BloomToken"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://hellobloom.io/"
 }

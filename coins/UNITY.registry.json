@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "UNITY",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "SuperNET",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 0
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/UNITY"
-    ],
-    "social": [
-        "https://twitter.com/@SuperNETorg"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.supernet.org/en"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "UNITY",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SuperNET",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 777777
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/UNITY"],
+  "social": ["https://twitter.com/@SuperNETorg"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.supernet.org/en"
 }

@@ -1,36 +1,27 @@
 {
-    "algorithm": "SHA-512",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/BitShares"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BTS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Bitshares",
-    "network": {
-        "t_available_supply": 2635310000,
-        "t_block_reward": 0,
-        "t_max_supply": 3600570502,
-        "t_total_supply": 2635310000
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/BTS"
-    ],
-    "social": [
-        "https://twitter.com/@_bitshares"
-    ],
-    "source_code": [
-        "https://github.com/bitshares/bitshares-core",
-        "https://github.com/bitshares/bitshares-ui"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://bitshares.org/"
+  "algorithm": "SHA-512",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/BitShares"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BTS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Bitshares",
+  "network": {
+    "t_available_supply": 2641490000,
+    "t_block_reward": 0,
+    "t_max_supply": 3600570502,
+    "t_total_supply": 2641490000
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/BTS"],
+  "social": ["https://twitter.com/@_bitshares"],
+  "source_code": ["https://github.com/bitshares/bitshares-core", "https://github.com/bitshares/bitshares-ui"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://bitshares.org/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "NGC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "NagaCoin",
-    "network": {
-        "t_available_supply": 57672338,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 57672338
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/NGC"
-    ],
-    "social": [
-        "https://twitter.com/@naga_coin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.nagaico.com/?refcode=97qcdy"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "NGC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "NagaCoin",
+  "network": {
+    "t_available_supply": 57672338,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 77910266
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/NGC"],
+  "social": ["https://twitter.com/@naga_coin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.nagaico.com/?refcode=97qcdy"
 }

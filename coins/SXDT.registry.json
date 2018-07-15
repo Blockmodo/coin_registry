@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SXDT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "SPECTRE Dividend Token",
-    "network": {
-        "t_available_supply": 82073519,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 82073519
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/SXDT"
-    ],
-    "social": [
-        "https://twitter.com/@SpectreAI"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.spectre.ai/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SXDT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SPECTRE Dividend Token",
+  "network": {
+    "t_available_supply": 82073519,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 140270691
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/SXDT"],
+  "social": ["https://twitter.com/@SpectreAI"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.spectre.ai/"
 }

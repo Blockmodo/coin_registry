@@ -1,31 +1,27 @@
 {
-    "algorithm": "Shabal256",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BURST",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BurstCoin",
-    "network": {
-        "t_available_supply": 1956172611,
-        "t_block_reward": 0,
-        "t_max_supply": 2158812800,
-        "t_total_supply": 1956172611
-    },
-    "proof_type": "PoC",
-    "quote": [
-        "https://blockmodo.com/quotes/BURST"
-    ],
-    "social": [
-        "https://twitter.com/@Burstcoin_dev"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://burstcoin.info/"
+  "algorithm": "Shabal256",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BURST",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BurstCoin",
+  "network": {
+    "t_available_supply": 1963720709,
+    "t_block_reward": 0,
+    "t_max_supply": 2158812800,
+    "t_total_supply": 1963720709
+  },
+  "proof_type": "PoC",
+  "quote": ["https://blockmodo.com/quotes/BURST"],
+  "social": ["https://twitter.com/@Burstcoin_dev"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://burstcoin.info/"
 }

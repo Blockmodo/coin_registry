@@ -1,31 +1,27 @@
 {
-    "algorithm": "NeoScrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "VIVO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "VIVO Coin",
-    "network": {
-        "t_available_supply": 2132790,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 2132790
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/VIVO"
-    ],
-    "social": [
-        "https://twitter.com/@vivocrypto"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.vivocrypto.com/"
+  "algorithm": "NeoScrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "VIVO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "VIVO Coin",
+  "network": {
+    "t_available_supply": 2290450,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 3110450
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/VIVO"],
+  "social": ["https://twitter.com/@vivocrypto"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.vivocrypto.com/"
 }

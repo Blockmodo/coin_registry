@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ETG",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Ethereum Gold",
-    "network": {
-        "t_available_supply": 12000000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 12000000
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ETG"
-    ],
-    "social": [
-        "https://twitter.com/@ethereumgoldetg"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://ethereumgold.info/wp/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ETG",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Ethereum Gold",
+  "network": {
+    "t_available_supply": 12000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 24000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ETG"],
+  "social": ["https://twitter.com/@ethereumgoldetg"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://ethereumgold.info/wp/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BTCS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Bitcoin Scrypt",
-    "network": {
-        "t_available_supply": 17398713,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 17398713
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/BTCS"
-    ],
-    "social": [
-        "https://twitter.com/@theotherbitcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.bitcoinscrypt.co/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BTCS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Bitcoin Scrypt",
+  "network": {
+    "t_available_supply": 17551938,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 17551938
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/BTCS"],
+  "social": ["https://twitter.com/@theotherbitcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.bitcoinscrypt.co/"
 }

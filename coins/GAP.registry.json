@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "GAP",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Gapcoin",
-    "network": {
-        "t_available_supply": 13343091,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 13343091
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/GAP"
-    ],
-    "social": [
-        "https://twitter.com/@Gapcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://gapcoin.org"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "GAP",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Gapcoin",
+  "network": {
+    "t_available_supply": 13502083,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 13502083
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/GAP"],
+  "social": ["https://twitter.com/@Gapcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://gapcoin.org"
 }

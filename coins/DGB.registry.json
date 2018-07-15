@@ -1,36 +1,27 @@
 {
-    "algorithm": "Multiple",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/Digibyte"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DGB",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "DigiByte",
-    "network": {
-        "t_available_supply": 10422335522,
-        "t_block_reward": 0,
-        "t_max_supply": 21000000000,
-        "t_total_supply": 10422335522
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/DGB"
-    ],
-    "social": [
-        "https://twitter.com/@DigiByteCoin"
-    ],
-    "source_code": [
-        "https://github.com/digibyte/digibyte",
-        "https://github.com/digibyte/digiandroid"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.digibyte.co/"
+  "algorithm": "Multiple",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/Digibyte"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DGB",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "DigiByte",
+  "network": {
+    "t_available_supply": 10526145472,
+    "t_block_reward": 0,
+    "t_max_supply": 21000000000,
+    "t_total_supply": 10526145472
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/DGB"],
+  "social": ["https://twitter.com/@DigiByteCoin"],
+  "source_code": ["https://github.com/digibyte/digibyte", "https://github.com/digibyte/digiandroid"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.digibyte.co/"
 }

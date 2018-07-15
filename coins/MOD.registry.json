@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MOD",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Modum",
-    "network": {
-        "t_available_supply": 18266200,
-        "t_block_reward": 0,
-        "t_max_supply": 27266200,
-        "t_total_supply": 18266200
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/MOD"
-    ],
-    "social": [
-        "https://twitter.com/@modum_io"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://modum.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MOD",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Modum",
+  "network": {
+    "t_available_supply": 18266200,
+    "t_block_reward": 0,
+    "t_max_supply": 27266200,
+    "t_total_supply": 27266200
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/MOD"],
+  "social": ["https://twitter.com/@modum_io"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://modum.io/"
 }

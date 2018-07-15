@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "VLTC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "VaultCoin",
-    "network": {
-        "t_available_supply": 30385540,
-        "t_block_reward": 0,
-        "t_max_supply": 1000000000,
-        "t_total_supply": 30385540
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/VLTC"
-    ],
-    "social": [
-        "https://twitter.com/@vaultcoin96"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "VLTC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "VaultCoin",
+  "network": {
+    "t_available_supply": 30385540,
+    "t_block_reward": 0,
+    "t_max_supply": 1000000000,
+    "t_total_supply": 530385540
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/VLTC"],
+  "social": ["https://twitter.com/@vaultcoin96"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

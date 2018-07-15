@@ -1,37 +1,27 @@
 {
-    "algorithm": "BLAKE256",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/decred"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DCR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Decred",
-    "network": {
-        "t_available_supply": 7145743,
-        "t_block_reward": 0,
-        "t_max_supply": 21000000,
-        "t_total_supply": 7145743
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/DCR"
-    ],
-    "social": [
-        "https://twitter.com/decredproject"
-    ],
-    "source_code": [
-        "https://github.com/decred/dcrdata",
-        "https://github.com/decred/politeia",
-        "https://github.com/decred/decrediton"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://decred.org/"
+  "algorithm": "BLAKE256",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/decred"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DCR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Decred",
+  "network": {
+    "t_available_supply": 8100760,
+    "t_block_reward": 0,
+    "t_max_supply": 21000000,
+    "t_total_supply": 8100760
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/DCR"],
+  "social": ["https://twitter.com/decredproject"],
+  "source_code": ["https://github.com/decred/dcrdata", "https://github.com/decred/politeia", "https://github.com/decred/decrediton"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://decred.org/"
 }

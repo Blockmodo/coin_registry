@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "XTO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Tao",
-    "network": {
-        "t_available_supply": 32985489,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 32985489
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/XTO"
-    ],
-    "social": [
-        "https://twitter.com/@taoblockchain"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://tao.network/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "XTO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Tao",
+  "network": {
+    "t_available_supply": 33027843,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 33027843
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/XTO"],
+  "social": ["https://twitter.com/@taoblockchain"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://tao.network/"
 }

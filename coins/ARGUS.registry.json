@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ARGUS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ArgusCoin",
-    "network": {
-        "t_available_supply": 1148324,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 1148324
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/ARGUS"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.argusnetwork.co/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ARGUS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ArgusCoin",
+  "network": {
+    "t_available_supply": 1148324,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 5194373
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/ARGUS"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.argusnetwork.co/"
 }

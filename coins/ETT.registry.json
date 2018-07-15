@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ETT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "EncryptoTel",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 0
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ETT"
-    ],
-    "social": [
-        "https://twitter.com/@encryptotel"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://encryptotel.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ETT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "EncryptoTel",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 77663987
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ETT"],
+  "social": ["https://twitter.com/@encryptotel"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://encryptotel.com/"
 }

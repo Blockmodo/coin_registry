@@ -1,42 +1,27 @@
 {
-    "algorithm": "CryptoNight-V7",
-    "chat": [
-        "https://telegram.me/bitmonero"
-    ],
-    "community": [
-        "https://www.reddit.com/r/Monero",
-        "https://www.reddit.com/r/xmrtrader",
-        "https://forum.getmonero.org"
-    ],
-    "description": {
-        "en": "Monero is a decentralized cryptocurrency, meaning it is secure digital cash operated by a network of users. Transactions are confirmed by distributed consensus and then immutably recorded on the blockchain. Third-parties do not need to be trusted to keep your Monero safe."
-    },
-    "explorer": [
-        "https://moneroblocks.info",
-        "https://chainradar.com/xmr/blocks"
-    ],
-    "fromSymbol": "XMR",
-    "is_crypto": true,
-    "is_minable": true,
-    "name": "Monero",
-    "network": {
-        "t_available_supply": 16166556,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 16166556
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/XMR"
-    ],
-    "social": [
-        "https://twitter.com/@monero"
-    ],
-    "source_code": [
-        "https://github.com/monero-project/monero"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://getmonero.org/"
+  "algorithm": "CryptoNight-V7",
+  "chat": ["https://telegram.me/bitmonero"],
+  "community": ["https://www.reddit.com/r/Monero", "https://www.reddit.com/r/xmrtrader", "https://forum.getmonero.org"],
+  "description": {
+    "en": "Monero is a decentralized cryptocurrency, meaning it is secure digital cash operated by a network of users. Transactions are confirmed by distributed consensus and then immutably recorded on the blockchain. Third-parties do not need to be trusted to keep your Monero safe."
+  },
+  "explorer": ["https://moneroblocks.info", "https://chainradar.com/xmr/blocks"],
+  "fromSymbol": "XMR",
+  "is_crypto": true,
+  "is_minable": true,
+  "name": "Monero",
+  "network": {
+    "t_available_supply": 16226195,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 16226195
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/XMR"],
+  "social": ["https://twitter.com/@monero"],
+  "source_code": ["https://github.com/monero-project/monero"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://getmonero.org/"
 }

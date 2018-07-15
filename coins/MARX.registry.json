@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MARX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "MarxCoin",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 0
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/MARX"
-    ],
-    "social": [
-        "https://twitter.com/@MARXCOLLECTIVE1"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.marxcoin.com/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MARX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "MarxCoin",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 49312080
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/MARX"],
+  "social": ["https://twitter.com/@MARXCOLLECTIVE1"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.marxcoin.com/"
 }

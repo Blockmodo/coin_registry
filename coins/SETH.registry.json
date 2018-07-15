@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SETH",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Sether",
-    "network": {
-        "t_available_supply": 17294985,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 17294985
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/SETH"
-    ],
-    "social": [
-        "https://twitter.com/@setherplatform"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.sether.io"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SETH",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Sether",
+  "network": {
+    "t_available_supply": 17294985,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 20136683
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/SETH"],
+  "social": ["https://twitter.com/@setherplatform"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.sether.io"
 }

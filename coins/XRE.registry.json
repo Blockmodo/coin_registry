@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11Evo",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "XRE",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "RevolverCoin",
-    "network": {
-        "t_available_supply": 22886629,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 22886629
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/XRE"
-    ],
-    "social": [
-        "https://twitter.com/@RevolverCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.revolvercoin.org/"
+  "algorithm": "X11Evo",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "XRE",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "RevolverCoin",
+  "network": {
+    "t_available_supply": 22953150,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 22953150
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/XRE"],
+  "social": ["https://twitter.com/@RevolverCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.revolvercoin.org/"
 }

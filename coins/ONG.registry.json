@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ONG",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "onG.social",
-    "network": {
-        "t_available_supply": 32081060,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 32081060
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ONG"
-    ],
-    "social": [
-        "https://twitter.com/@OneName_Global"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://ong.social/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ONG",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "onG.social",
+  "network": {
+    "t_available_supply": 33313882,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 150000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ONG"],
+  "social": ["https://twitter.com/@OneName_Global"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://ong.social/"
 }

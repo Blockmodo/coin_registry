@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "GLA",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Gladius",
-    "network": {
-        "t_available_supply": 13852105,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 13852105
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/GLA"
-    ],
-    "social": [
-        "https://twitter.com/@gladiusio"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://gladius.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "GLA",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Gladius",
+  "network": {
+    "t_available_supply": 14005246,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 16840229
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/GLA"],
+  "social": ["https://twitter.com/@gladiusio"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://gladius.io/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "SHA256",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "LEA",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "LeaCoin",
-    "network": {
-        "t_available_supply": 367642515,
-        "t_block_reward": 0,
-        "t_max_supply": 2000000000,
-        "t_total_supply": 367642515
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/LEA"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "LEA",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "LeaCoin",
+  "network": {
+    "t_available_supply": 373608716,
+    "t_block_reward": 0,
+    "t_max_supply": 2000000000,
+    "t_total_supply": 373608716
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/LEA"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

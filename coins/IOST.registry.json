@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/IOStoken"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "IOST",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "IOS token",
-    "network": {
-        "t_available_supply": 8400000000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 8400000000
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/IOST"
-    ],
-    "social": [
-        "https://twitter.com/@IOStoken"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://iost.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/IOStoken"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "IOST",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "IOS token",
+  "network": {
+    "t_available_supply": 8400000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 21000000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/IOST"],
+  "social": ["https://twitter.com/@IOStoken"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://iost.io/"
 }

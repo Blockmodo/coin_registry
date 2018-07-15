@@ -1,34 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/Neotrader",
-        "https://www.reddit.com/r/NEO"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "GAS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Gas",
-    "network": {
-        "t_available_supply": 10128375,
-        "t_block_reward": 0,
-        "t_max_supply": 100000000,
-        "t_total_supply": 10128375
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/GAS"
-    ],
-    "social": [
-        "https://twitter.com/@neo_blockchain"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://neo.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/Neotrader", "https://www.reddit.com/r/NEO"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "GAS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Gas",
+  "network": {
+    "t_available_supply": 10128375,
+    "t_block_reward": 0,
+    "t_max_supply": 100000000,
+    "t_total_supply": 17190378
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/GAS"],
+  "social": ["https://twitter.com/@neo_blockchain"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://neo.org/"
 }

@@ -1,45 +1,27 @@
 {
-    "algorithm": null,
-    "chat": [
-        "https://tronfoundation.slack.com/",
-        "https://t.me/tronnetworkEN03"
-    ],
-    "community": [
-        "https://www.reddit.com/r/Tronix"
-    ],
-    "description": {
-        "en": "Tron is a blockchain-based protocol for a free content entertainment system, allowing  each user to freely publish, store and own data, and in the decentralized autonomous form, decides the distribution, subscription and push of contents and enables content creators by releasing, circulating and dealing with digital assets, thus forming a decentralized content entertainment ecosystem. Tronix ix an ERC20 token based on the Ethereum blockchain, acting as the basic unit of account on the platform."
-    },
-    "explorer": [
-        "https://ethplorer.io/address/0xf230b790e05390fc8295f4d3f60332c93bed42e2",
-        "https://etherscan.io/token/0xf230b790e05390fc8295f4d3f60332c93bed42e2"
-    ],
-    "fromSymbol": "TRX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Tronix",
-    "network": {
-        "t_available_supply": 65748111645,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 65748111645
-    },
-    "proof_type": null,
-    "quote": [
-        "https://blockmodo.com/quotes/TRX"
-    ],
-    "social": [
-        "https://twitter.com/@tronfoundation",
-        "https://www.facebook.com/tronfoundation",
-        "https://www.instagram.com/tronfoundation"
-    ],
-    "source_code": [
-        "https://github.com/tronprotocol/java-tron",
-        "https://github.com/tronprotocol/wallet-cli",
-        "https://github.com/tronprotocol/protocol"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://tron.network/en.html"
+  "algorithm": null,
+  "chat": ["https://tronfoundation.slack.com/", "https://t.me/tronnetworkEN03"],
+  "community": ["https://www.reddit.com/r/Tronix"],
+  "description": {
+    "en": "Tron is a blockchain-based protocol for a free content entertainment system, allowing  each user to freely publish, store and own data, and in the decentralized autonomous form, decides the distribution, subscription and push of contents and enables content creators by releasing, circulating and dealing with digital assets, thus forming a decentralized content entertainment ecosystem. Tronix ix an ERC20 token based on the Ethereum blockchain, acting as the basic unit of account on the platform."
+  },
+  "explorer": ["https://ethplorer.io/address/0xf230b790e05390fc8295f4d3f60332c93bed42e2", "https://etherscan.io/token/0xf230b790e05390fc8295f4d3f60332c93bed42e2"],
+  "fromSymbol": "TRX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Tronix",
+  "network": {
+    "t_available_supply": 65748111645,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 99000000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/TRX"],
+  "social": ["https://twitter.com/@tronfoundation", "https://www.facebook.com/tronfoundation", "https://www.instagram.com/tronfoundation"],
+  "source_code": ["https://github.com/tronprotocol/java-tron", "https://github.com/tronprotocol/wallet-cli", "https://github.com/tronprotocol/protocol"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://tron.network/en.html"
 }

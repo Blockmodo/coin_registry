@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "TPAY",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "TrollPlay",
-    "network": {
-        "t_available_supply": 15416003,
-        "t_block_reward": 0,
-        "t_max_supply": 25000000,
-        "t_total_supply": 15416003
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/TPAY"
-    ],
-    "social": [
-        "https://twitter.com/@TrollPaydotcom"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://trollpay.com"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "TPAY",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "TrollPlay",
+  "network": {
+    "t_available_supply": 15454883,
+    "t_block_reward": 0,
+    "t_max_supply": 25000000,
+    "t_total_supply": 19293104
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/TPAY"],
+  "social": ["https://twitter.com/@TrollPaydotcom"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://trollpay.com"
 }

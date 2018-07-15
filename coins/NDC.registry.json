@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "NDC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "NeverDie",
-    "network": {
-        "t_available_supply": 41004200,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 41004200
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/NDC"
-    ],
-    "social": [
-        "https://twitter.com/@nevereverdie"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://neverdie.com"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "NDC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "NeverDie",
+  "network": {
+    "t_available_supply": 41004200,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 400000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/NDC"],
+  "social": ["https://twitter.com/@nevereverdie"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://neverdie.com"
 }

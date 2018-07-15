@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "LEND",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "EthLend",
-    "network": {
-        "t_available_supply": 1086422877,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 1086422877
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/LEND"
-    ],
-    "social": [
-        "https://twitter.com/@ethlend1"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://ethlend.io/en/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "LEND",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "EthLend",
+  "network": {
+    "t_available_supply": 1098246878,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1299999942
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/LEND"],
+  "social": ["https://twitter.com/@ethlend1"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://ethlend.io/en/"
 }

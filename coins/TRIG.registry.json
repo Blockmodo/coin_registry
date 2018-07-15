@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "TRIG",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Trigger",
-    "network": {
-        "t_available_supply": 32105578,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 32105578
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/TRIG"
-    ],
-    "social": [
-        "https://twitter.com/@blocksafe"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.blocksafefoundation.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "TRIG",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Trigger",
+  "network": {
+    "t_available_supply": 32105578,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 32105578
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/TRIG"],
+  "social": ["https://twitter.com/@blocksafe"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.blocksafefoundation.com/"
 }

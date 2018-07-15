@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PIX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Lampix",
-    "network": {
-        "t_available_supply": 135322017,
-        "t_block_reward": 0,
-        "t_max_supply": 657154880,
-        "t_total_supply": 135322017
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/PIX"
-    ],
-    "social": [
-        "https://twitter.com/@lampix_co"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://lampix.co/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PIX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Lampix",
+  "network": {
+    "t_available_supply": 135322017,
+    "t_block_reward": 0,
+    "t_max_supply": 657154880,
+    "t_total_supply": 327154880
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/PIX"],
+  "social": ["https://twitter.com/@lampix_co"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://lampix.co/"
 }

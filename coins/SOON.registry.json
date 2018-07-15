@@ -1,31 +1,27 @@
 {
-    "algorithm": "SHA256",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SOON",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "SoonCoin",
-    "network": {
-        "t_available_supply": 12462620,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 12462620
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/SOON"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.sooncoin.com/"
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SOON",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SoonCoin",
+  "network": {
+    "t_available_supply": 12462620,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 12462620
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/SOON"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.sooncoin.com/"
 }

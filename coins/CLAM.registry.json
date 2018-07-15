@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CLAM",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "CLAMS",
-    "network": {
-        "t_available_supply": 3094499,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 3094499
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/CLAM"
-    ],
-    "social": [
-        "https://twitter.com/@ClamClient"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.clamcoin.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CLAM",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "CLAMS",
+  "network": {
+    "t_available_supply": 3128123,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 16789703
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/CLAM"],
+  "social": ["https://twitter.com/@ClamClient"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.clamcoin.org/"
 }

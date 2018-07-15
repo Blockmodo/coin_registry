@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "HIRE",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "HireMatch",
-    "network": {
-        "t_available_supply": 32099708,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 32099708
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/HIRE"
-    ],
-    "social": [
-        "https://twitter.com/@hire_match"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://hirematch.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "HIRE",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "HireMatch",
+  "network": {
+    "t_available_supply": 32238260,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 77780000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/HIRE"],
+  "social": ["https://twitter.com/@hire_match"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://hirematch.io/"
 }

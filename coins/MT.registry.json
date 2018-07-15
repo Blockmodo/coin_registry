@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Mycelium Token",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 0
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/MT"
-    ],
-    "social": [
-        "https://twitter.com/@MyceliumCom"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://mycelium.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Mycelium Token",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 4000000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/MT"],
+  "social": ["https://twitter.com/@MyceliumCom"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://mycelium.com/"
 }

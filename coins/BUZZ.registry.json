@@ -1,31 +1,27 @@
 {
-    "algorithm": "SHA256D",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BUZZ",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BuzzCoin",
-    "network": {
-        "t_available_supply": 19798231985,
-        "t_block_reward": 0,
-        "t_max_supply": 20000000000,
-        "t_total_supply": 19798231985
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/BUZZ"
-    ],
-    "social": [
-        "https://twitter.com/@buzzcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "SHA256D",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BUZZ",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BuzzCoin",
+  "network": {
+    "t_available_supply": 19836305233,
+    "t_block_reward": 0,
+    "t_max_supply": 20000000000,
+    "t_total_supply": 19836305233
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/BUZZ"],
+  "social": ["https://twitter.com/@buzzcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

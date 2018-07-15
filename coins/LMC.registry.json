@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "LMC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "LomoCoin",
-    "network": {
-        "t_available_supply": 236092213,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 236092213
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/LMC"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "LMC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "LomoCoin",
+  "network": {
+    "t_available_supply": 237916361,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 322916361
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/LMC"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

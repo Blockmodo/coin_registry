@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/MetalPay"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MTL",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Metal",
-    "network": {
-        "t_available_supply": 25129243,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 25129243
-    },
-    "proof_type": "PoPP",
-    "quote": [
-        "https://blockmodo.com/quotes/MTL"
-    ],
-    "social": [
-        "https://twitter.com/@metalpaysme"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.metalpay.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/MetalPay"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MTL",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Metal",
+  "network": {
+    "t_available_supply": 25240243,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 66588888
+  },
+  "proof_type": "PoPP",
+  "quote": ["https://blockmodo.com/quotes/MTL"],
+  "social": ["https://twitter.com/@metalpaysme"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.metalpay.com/"
 }

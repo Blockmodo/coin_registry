@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BRD",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Bread token",
-    "network": {
-        "t_available_supply": 88422978,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 88422978
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/BRD"
-    ],
-    "social": [
-        "https://twitter.com/@breadtoken"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://token.breadapp.com"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BRD",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Bread token",
+  "network": {
+    "t_available_supply": 88733978,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 88862718
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/BRD"],
+  "social": ["https://twitter.com/@breadtoken"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://token.breadapp.com"
 }

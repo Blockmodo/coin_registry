@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "KED",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Klingon Empire Darsek",
-    "network": {
-        "t_available_supply": 22382496,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 22382496
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/KED"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://ked.scificrypto.info/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "KED",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Klingon Empire Darsek",
+  "network": {
+    "t_available_supply": 22784343,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 22784343
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/KED"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://ked.scificrypto.info/"
 }

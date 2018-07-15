@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "OPT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Opus",
-    "network": {
-        "t_available_supply": 140080549,
-        "t_block_reward": 0,
-        "t_max_supply": 249308531,
-        "t_total_supply": 140080549
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/OPT"
-    ],
-    "social": [
-        "https://twitter.com/@opusfoundation"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://opus-foundation.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "OPT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Opus",
+  "network": {
+    "t_available_supply": 140080549,
+    "t_block_reward": 0,
+    "t_max_supply": 249308531,
+    "t_total_supply": 249308531
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/OPT"],
+  "social": ["https://twitter.com/@opusfoundation"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://opus-foundation.org/"
 }

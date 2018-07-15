@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "GEN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Genstake",
-    "network": {
-        "t_available_supply": 35276316,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 35276316
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/GEN"
-    ],
-    "social": [
-        "https://twitter.com/@Genstake"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://genstake.com/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "GEN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Genstake",
+  "network": {
+    "t_available_supply": 37136326,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 60000000
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/GEN"],
+  "social": ["https://twitter.com/@Genstake"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://genstake.com/"
 }

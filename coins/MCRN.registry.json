@@ -1,31 +1,27 @@
 {
-    "algorithm": "PoS",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MCRN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "MacronCoin",
-    "network": {
-        "t_available_supply": 401421401,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 401421401
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/MCRN"
-    ],
-    "social": [
-        "https://twitter.com/@macroncoin_mcrn"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "PoS",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MCRN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "MacronCoin",
+  "network": {
+    "t_available_supply": 401421401,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 401421401
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/MCRN"],
+  "social": ["https://twitter.com/@macroncoin_mcrn"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

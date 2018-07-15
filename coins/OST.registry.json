@@ -1,39 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/Simple_Token"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "OST",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Simple Token",
-    "network": {
-        "t_available_supply": 338884679,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 338884679
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/OST"
-    ],
-    "social": [
-        "https://twitter.com/@TheSimpleToken"
-    ],
-    "source_code": [
-        "https://github.com/OpenSTFoundation/openst-payments",
-        "https://github.com/OpenSTFoundation/ost-sdk-ruby",
-        "https://github.com/OpenSTFoundation/openst-platform-apis",
-        "https://github.com/OpenSTFoundation/openst-platform",
-        "https://github.com/OpenSTFoundation/openst-notification"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://simpletoken.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/Simple_Token"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "OST",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Simple Token",
+  "network": {
+    "t_available_supply": 355695066,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 800000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/OST"],
+  "social": ["https://twitter.com/@TheSimpleToken"],
+  "source_code": ["https://github.com/OpenSTFoundation/openst-payments", "https://github.com/OpenSTFoundation/ost-sdk-ruby", "https://github.com/OpenSTFoundation/openst-platform-apis", "https://github.com/OpenSTFoundation/openst-platform", "https://github.com/OpenSTFoundation/openst-notification"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://simpletoken.org/"
 }

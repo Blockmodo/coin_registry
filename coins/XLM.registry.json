@@ -1,44 +1,27 @@
 {
-    "algorithm": null,
-    "chat": [
-        "https://slack.stellar.org"
-    ],
-    "community": [
-        "https://www.reddit.com/r/Stellar",
-        "https://www.reddit.com/r/xlm",
-        "https://galactictalk.org",
-        "https://stellarcommunity.org"
-    ],
-    "description": {
-        "en": "Stellar (XLM) is a completely decentralized consensus platform. It is designed to support any type of currency. It has a built in decentralized exchange that can be used to trade any type of currency or asset. "
-    },
-    "explorer": [
-        "https://steexp.com",
-        "https://stellar.expert/explorer/public",
-        "https://dashboard.stellar.org"
-    ],
-    "fromSymbol": "XLM",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Stellar",
-    "network": {
-        "t_available_supply": 18759715711,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 104045664101
-    },
-    "proof_type": null,
-    "quote": [
-        "https://blockmodo.com/quotes/XLM"
-    ],
-    "social": [
-        "https://twitter.com/stellarorg"
-    ],
-    "source_code": [
-        "https://github.com/stellar/stellar-core"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.stellar.org"
+  "algorithm": null,
+  "chat": ["https://slack.stellar.org"],
+  "community": ["https://www.reddit.com/r/Stellar", "https://www.reddit.com/r/xlm", "https://galactictalk.org", "https://stellarcommunity.org"],
+  "description": {
+    "en": "Stellar (XLM) is a completely decentralized consensus platform. It is designed to support any type of currency. It has a built in decentralized exchange that can be used to trade any type of currency or asset. "
+  },
+  "explorer": ["https://steexp.com", "https://stellar.expert/explorer/public", "https://dashboard.stellar.org"],
+  "fromSymbol": "XLM",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Stellar",
+  "network": {
+    "t_available_supply": 18766110217,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 104105206535
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/XLM"],
+  "social": ["https://twitter.com/stellarorg"],
+  "source_code": ["https://github.com/stellar/stellar-core"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.stellar.org"
 }

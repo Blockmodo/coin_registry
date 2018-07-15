@@ -1,31 +1,27 @@
 {
-    "algorithm": "Groestl",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DMD",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Diamond",
-    "network": {
-        "t_available_supply": 2830079,
-        "t_block_reward": 0,
-        "t_max_supply": 4380000,
-        "t_total_supply": 2830079
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/DMD"
-    ],
-    "social": [
-        "https://twitter.com/@dmdcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://bit.diamonds/"
+  "algorithm": "Groestl",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DMD",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Diamond",
+  "network": {
+    "t_available_supply": 2861386,
+    "t_block_reward": 0,
+    "t_max_supply": 4380000,
+    "t_total_supply": 2861386
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/DMD"],
+  "social": ["https://twitter.com/@dmdcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://bit.diamonds/"
 }

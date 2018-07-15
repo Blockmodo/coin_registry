@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/aragonproject"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ANT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Aragon",
-    "network": {
-        "t_available_supply": 28209823,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 28209823
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ANT"
-    ],
-    "social": [
-        "https://twitter.com/@AragonProject"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://aragon.one"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/aragonproject"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ANT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Aragon",
+  "network": {
+    "t_available_supply": 28215645,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 39609524
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ANT"],
+  "social": ["https://twitter.com/@AragonProject"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://aragon.one"
 }

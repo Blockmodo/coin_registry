@@ -1,34 +1,27 @@
 {
-    "algorithm": "PoS",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/NXT",
-        "https://www.reddit.com/r/NXT"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "NXT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Nxt",
-    "network": {
-        "t_available_supply": 998999942,
-        "t_block_reward": 0,
-        "t_max_supply": 1000000000,
-        "t_total_supply": 998999942
-    },
-    "proof_type": "PoS/LPoS",
-    "quote": [
-        "https://blockmodo.com/quotes/NXT"
-    ],
-    "social": [
-        "https://twitter.com/@nxtcommunity"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://nxt.org/"
+  "algorithm": "PoS",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/NXT", "https://www.reddit.com/r/NXT"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "NXT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Nxt",
+  "network": {
+    "t_available_supply": 998999942,
+    "t_block_reward": 0,
+    "t_max_supply": 1000000000,
+    "t_total_supply": 998999942
+  },
+  "proof_type": "PoS/LPoS",
+  "quote": ["https://blockmodo.com/quotes/NXT"],
+  "social": ["https://twitter.com/@nxtcommunity"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://nxt.org/"
 }

@@ -36,7 +36,7 @@ A COINREGISTRY JSON information file:
 	"is_crypto": true,
 	"is_minable": true,
 	"proof_type": "PoW",
-	"algorithm": "SHA256",
+	"algorithm": "Ethash",
 	"description": {
 		"en": "Ethereum is an open-source, public, blockchain-based distributed computing platform and operating system featuring smart contract functionality. It supports a modified version of Nakamoto consensus via transaction-based state transitions."
 	},

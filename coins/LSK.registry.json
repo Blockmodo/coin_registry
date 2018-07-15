@@ -1,39 +1,27 @@
 {
-    "algorithm": "DPoS",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/Lisk"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "LSK",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Lisk",
-    "network": {
-        "t_available_supply": 107189416,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 107189416
-    },
-    "proof_type": "DPoS",
-    "quote": [
-        "https://blockmodo.com/quotes/LSK"
-    ],
-    "social": [
-        "https://twitter.com/@LiskHQ "
-    ],
-    "source_code": [
-        "https://github.com/LiskHQ/lisk-js",
-        "https://github.com/LiskHQ/lisk-hub",
-        "https://github.com/LiskHQ/lisk",
-        "https://github.com/LiskHQ/lisk-explorer",
-        "https://github.com/LiskHQ/lisky"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://lisk.io"
+  "algorithm": "DPoS",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/Lisk"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "LSK",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Lisk",
+  "network": {
+    "t_available_supply": 107997248,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 123243696
+  },
+  "proof_type": "DPoS",
+  "quote": ["https://blockmodo.com/quotes/LSK"],
+  "social": ["https://twitter.com/@LiskHQ "],
+  "source_code": ["https://github.com/LiskHQ/lisk-js", "https://github.com/LiskHQ/lisk-hub", "https://github.com/LiskHQ/lisk", "https://github.com/LiskHQ/lisk-explorer", "https://github.com/LiskHQ/lisky"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://lisk.io"
 }

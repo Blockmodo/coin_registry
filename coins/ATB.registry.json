@@ -1,31 +1,27 @@
 {
-    "algorithm": "SHA256",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ATB",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ATB coin",
-    "network": {
-        "t_available_supply": 41939419,
-        "t_block_reward": 0,
-        "t_max_supply": 300000000,
-        "t_total_supply": 41939419
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/ATB"
-    ],
-    "social": [
-        "https://twitter.com/@atbcoincom"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://atbcoin.com/"
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ATB",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ATB coin",
+  "network": {
+    "t_available_supply": 42038227,
+    "t_block_reward": 0,
+    "t_max_supply": 300000000,
+    "t_total_supply": 54015027
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/ATB"],
+  "social": ["https://twitter.com/@atbcoincom"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://atbcoin.com/"
 }

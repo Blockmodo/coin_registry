@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "HPC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "HappyCoin",
-    "network": {
-        "t_available_supply": 14571397,
-        "t_block_reward": 0,
-        "t_max_supply": 100000000,
-        "t_total_supply": 14571397
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/HPC"
-    ],
-    "social": [
-        "https://twitter.com/@happycoin5"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://happycoin.blog/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "HPC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "HappyCoin",
+  "network": {
+    "t_available_supply": 14838674,
+    "t_block_reward": 0,
+    "t_max_supply": 100000000,
+    "t_total_supply": 14838674
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/HPC"],
+  "social": ["https://twitter.com/@happycoin5"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://happycoin.blog/"
 }

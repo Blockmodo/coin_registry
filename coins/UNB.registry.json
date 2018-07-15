@@ -1,31 +1,27 @@
 {
-    "algorithm": "SHA256",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "UNB",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "UnbreakableCoin",
-    "network": {
-        "t_available_supply": 2278150,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 2278150
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/UNB"
-    ],
-    "social": [
-        "https://twitter.com/@Unbreakablcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.unbreakablecoin.com/"
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "UNB",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "UnbreakableCoin",
+  "network": {
+    "t_available_supply": 2278150,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 2278150
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/UNB"],
+  "social": ["https://twitter.com/@Unbreakablcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.unbreakablecoin.com/"
 }

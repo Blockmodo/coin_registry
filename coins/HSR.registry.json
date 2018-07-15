@@ -1,37 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/hcash"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "HSR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Hshare",
-    "network": {
-        "t_available_supply": 43138057,
-        "t_block_reward": 0,
-        "t_max_supply": 84000000,
-        "t_total_supply": 43138057
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/HSR"
-    ],
-    "social": [
-        "https://twitter.com/@Mkt_Hcash"
-    ],
-    "source_code": [
-        "https://github.com/HcashOrg/hcashwallet",
-        "https://github.com/HcashOrg/Hcash",
-        "https://github.com/HcashOrg/hcashd"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://h.cash/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/hcash"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "HSR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Hshare",
+  "network": {
+    "t_available_supply": 43232665,
+    "t_block_reward": 0,
+    "t_max_supply": 84000000,
+    "t_total_supply": 43232665
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/HSR"],
+  "social": ["https://twitter.com/@Mkt_Hcash"],
+  "source_code": ["https://github.com/HcashOrg/hcashwallet", "https://github.com/HcashOrg/Hcash", "https://github.com/HcashOrg/hcashd"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://h.cash/"
 }

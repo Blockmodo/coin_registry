@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "THC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "The Hempcoin",
-    "network": {
-        "t_available_supply": 230478760,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 230478760
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/THC"
-    ],
-    "social": [
-        "https://twitter.com/@thehempcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://hempcoin.org/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "THC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "The Hempcoin",
+  "network": {
+    "t_available_supply": 230478760,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 230478760
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/THC"],
+  "social": ["https://twitter.com/@thehempcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://hempcoin.org/"
 }

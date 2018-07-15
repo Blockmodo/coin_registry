@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "INCNT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Incent",
-    "network": {
-        "t_available_supply": 46016602,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 46016602
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/INCNT"
-    ],
-    "social": [
-        "https://twitter.com/@IncentLoyalty"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.incentloyalty.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "INCNT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Incent",
+  "network": {
+    "t_available_supply": 46016601,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 46016624
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/INCNT"],
+  "social": ["https://twitter.com/@IncentLoyalty"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.incentloyalty.com/"
 }

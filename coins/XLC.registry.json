@@ -1,31 +1,27 @@
 {
-    "algorithm": "CryptoNight",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "XLC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "LeviarCoin",
-    "network": {
-        "t_available_supply": 12178546,
-        "t_block_reward": 0,
-        "t_max_supply": 54000000,
-        "t_total_supply": 12178546
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/XLC"
-    ],
-    "social": [
-        "https://twitter.com/leviarcoin_fdn"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://leviarcoin.org/project"
+  "algorithm": "CryptoNight",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "XLC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "LeviarCoin",
+  "network": {
+    "t_available_supply": 12333802,
+    "t_block_reward": 0,
+    "t_max_supply": 54000000,
+    "t_total_supply": 12333802
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/XLC"],
+  "social": ["https://twitter.com/leviarcoin_fdn"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://leviarcoin.org/project"
 }

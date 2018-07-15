@@ -1,33 +1,27 @@
 {
-    "algorithm": "Lyra2RE",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/vertcoin"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "VTC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "VertCoin",
-    "network": {
-        "t_available_supply": 44751450,
-        "t_block_reward": 0,
-        "t_max_supply": 84000000,
-        "t_total_supply": 44751450
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/VTC"
-    ],
-    "social": [
-        "https://twitter.com/@Vertcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://vertcoin.org/"
+  "algorithm": "Lyra2RE",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/vertcoin"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "VTC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "VertCoin",
+  "network": {
+    "t_available_supply": 45087950,
+    "t_block_reward": 0,
+    "t_max_supply": 84000000,
+    "t_total_supply": 45087950
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/VTC"],
+  "social": ["https://twitter.com/@Vertcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://vertcoin.org/"
 }

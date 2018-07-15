@@ -1,31 +1,27 @@
 {
-    "algorithm": "BLAKE256",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PHO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Photon",
-    "network": {
-        "t_available_supply": 23421184618,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 23421184618
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/PHO"
-    ],
-    "social": [
-        "https://twitter.com/@PhotonCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "BLAKE256",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PHO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Photon",
+  "network": {
+    "t_available_supply": 23778062595,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 23778062595
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/PHO"],
+  "social": ["https://twitter.com/@PhotonCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

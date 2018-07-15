@@ -1,31 +1,27 @@
 {
-    "algorithm": "Multiple",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "XMY",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "MyriadCoin",
-    "network": {
-        "t_available_supply": 1583572000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 1583572000
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/XMY"
-    ],
-    "social": [
-        "https://twitter.com/@myriadcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://myriadcoin.org/"
+  "algorithm": "Multiple",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "XMY",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "MyriadCoin",
+  "network": {
+    "t_available_supply": 1589465750,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1589465750
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/XMY"],
+  "social": ["https://twitter.com/@myriadcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://myriadcoin.org/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "QuBit",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "LTCR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "LiteCreed",
-    "network": {
-        "t_available_supply": 30227750,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 30227750
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/LTCR"
-    ],
-    "social": [
-        "https://twitter.com/@litecredproject"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "QuBit",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "LTCR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "LiteCreed",
+  "network": {
+    "t_available_supply": 30227750,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 30227750
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/LTCR"],
+  "social": ["https://twitter.com/@litecredproject"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

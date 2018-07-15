@@ -1,40 +1,27 @@
 {
-    "algorithm": "Time Travel 10",
-    "chat": [
-        "https://t.me/bitcore_btx_official"
-    ],
-    "community": [
-        "https://www.reddit.com/r/bitcore_btx"
-    ],
-    "description": {
-        "en": "Bitcore is a Hybrid (UTXO) Fork from the Bitcoin Blockchain and started April 2017."
-    },
-    "explorer": [
-        "https://chainz.cryptoid.info/btx/",
-        "https://insight.bitcore.cc/"
-    ],
-    "fromSymbol": "BTX",
-    "is_crypto": true,
-    "is_minable": true,
-    "name": "Bitcore",
-    "network": {
-        "t_available_supply": 15575051,
-        "t_block_reward": 3.125,
-        "t_max_supply": 21000000,
-        "t_total_supply": 15575051
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/BTX"
-    ],
-    "social": [
-        "https://twitter.com/@bitcore_btx"
-    ],
-    "source_code": [
-        "https://github.com/LIMXTEC/BitCore"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://bitcore.cc"
+  "algorithm": "Time Travel 10",
+  "chat": ["https://t.me/bitcore_btx_official"],
+  "community": ["https://www.reddit.com/r/bitcore_btx"],
+  "description": {
+    "en": "Bitcore is a Hybrid (UTXO) Fork from the Bitcoin Blockchain and started April 2017."
+  },
+  "explorer": ["https://chainz.cryptoid.info/btx/", "https://insight.bitcore.cc/"],
+  "fromSymbol": "BTX",
+  "is_crypto": true,
+  "is_minable": true,
+  "name": "Bitcore",
+  "network": {
+    "t_available_supply": 15616885,
+    "t_block_reward": 3.125,
+    "t_max_supply": 21000000,
+    "t_total_supply": 17071113
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/BTX"],
+  "social": ["https://twitter.com/@bitcore_btx"],
+  "source_code": ["https://github.com/LIMXTEC/BitCore"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://bitcore.cc"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "HBT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Hubiit",
-    "network": {
-        "t_available_supply": 13516418,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 13516418
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/HBT"
-    ],
-    "social": [
-        "https://twitter.com/@hubiinetwork"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.hubii.network/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "HBT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Hubiit",
+  "network": {
+    "t_available_supply": 13516418,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 31801784
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/HBT"],
+  "social": ["https://twitter.com/@hubiinetwork"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.hubii.network/"
 }

@@ -1,35 +1,27 @@
 {
-    "algorithm": "Quark",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/pivx"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PIVX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Private Instant Verified Transaction",
-    "network": {
-        "t_available_supply": 56546522,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 56546522
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/PIVX"
-    ],
-    "social": [
-        "https://twitter.com/@_pivx"
-    ],
-    "source_code": [
-        "https://github.com/PIVX-Project/PIVX"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://pivx.org/"
+  "algorithm": "Quark",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/pivx"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PIVX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Private Instant Verified Transaction",
+  "network": {
+    "t_available_supply": 56720443,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 56720443
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/PIVX"],
+  "social": ["https://twitter.com/@_pivx"],
+  "source_code": ["https://github.com/PIVX-Project/PIVX"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://pivx.org/"
 }

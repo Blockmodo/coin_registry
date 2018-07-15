@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "WDC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "WorldCoin",
-    "network": {
-        "t_available_supply": 119606941,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 119606941
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/WDC"
-    ],
-    "social": [
-        "https://twitter.com/@worldcoin_dach"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.worldcoinalliance.net/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "WDC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "WorldCoin",
+  "network": {
+    "t_available_supply": 119606941,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 119606941
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/WDC"],
+  "social": ["https://twitter.com/@worldcoin_dach"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.worldcoinalliance.net/"
 }

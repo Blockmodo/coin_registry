@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "INXT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Internxt",
-    "network": {
-        "t_available_supply": 629610,
-        "t_block_reward": 0,
-        "t_max_supply": 629610,
-        "t_total_supply": 629610
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/INXT"
-    ],
-    "social": [
-        "https://twitter.com/@internxt_io"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://internxt.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "INXT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Internxt",
+  "network": {
+    "t_available_supply": 629610,
+    "t_block_reward": 0,
+    "t_max_supply": 629610,
+    "t_total_supply": 629610
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/INXT"],
+  "social": ["https://twitter.com/@internxt_io"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://internxt.io/"
 }

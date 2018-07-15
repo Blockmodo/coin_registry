@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "YOC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "YoCoin",
-    "network": {
-        "t_available_supply": 112194700,
-        "t_block_reward": 0,
-        "t_max_supply": 336000000,
-        "t_total_supply": 112194700
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/YOC"
-    ],
-    "social": [
-        "https://twitter.com/@yocoin15"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.yocoin.org/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "YOC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "YoCoin",
+  "network": {
+    "t_available_supply": 112194700,
+    "t_block_reward": 0,
+    "t_max_supply": 336000000,
+    "t_total_supply": 171704700
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/YOC"],
+  "social": ["https://twitter.com/@yocoin15"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.yocoin.org/"
 }

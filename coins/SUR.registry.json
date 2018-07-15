@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SUR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Suretly",
-    "network": {
-        "t_available_supply": 221989,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 221989
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/SUR"
-    ],
-    "social": [
-        "https://twitter.com/@suretly_com"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://suretly.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SUR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Suretly",
+  "network": {
+    "t_available_supply": 221989,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 237614
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/SUR"],
+  "social": ["https://twitter.com/@suretly_com"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://suretly.com/"
 }

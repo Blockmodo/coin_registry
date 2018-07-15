@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ELITE",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "EthereumLite",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 0
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ELITE"
-    ],
-    "social": [
-        "https://twitter.com/@EthereumLite"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.ethereumlite.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ELITE",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "EthereumLite",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ELITE"],
+  "social": ["https://twitter.com/@EthereumLite"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.ethereumlite.org/"
 }

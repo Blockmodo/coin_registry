@@ -1,36 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/zilliqa"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ZIL",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Zilliqa",
-    "network": {
-        "t_available_supply": 7575893444,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 7575893444
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ZIL"
-    ],
-    "social": [
-        "https://twitter.com/@zilliqa"
-    ],
-    "source_code": [
-        "https://github.com/Zilliqa/Zilliqa",
-        "https://github.com/Zilliqa/Zilliqa-Wallet"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.zilliqa.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/zilliqa"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ZIL",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Zilliqa",
+  "network": {
+    "t_available_supply": 7576143444,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 12600000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ZIL"],
+  "social": ["https://twitter.com/@zilliqa"],
+  "source_code": ["https://github.com/Zilliqa/Zilliqa", "https://github.com/Zilliqa/Zilliqa-Wallet"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.zilliqa.com/"
 }

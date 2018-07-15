@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "NTO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Fujinto",
-    "network": {
-        "t_available_supply": 65802448,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 65802448
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/NTO"
-    ],
-    "social": [
-        "https://twitter.com/@FUJINTO_"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://fujinto.io"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "NTO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Fujinto",
+  "network": {
+    "t_available_supply": 65802448,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 400000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/NTO"],
+  "social": ["https://twitter.com/@FUJINTO_"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://fujinto.io"
 }

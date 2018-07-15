@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ERO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Eroscoin",
-    "network": {
-        "t_available_supply": 186744000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 186744000
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ERO"
-    ],
-    "social": [
-        "https://twitter.com/@ErosCoinNews"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://eroscoin.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ERO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Eroscoin",
+  "network": {
+    "t_available_supply": 186744000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 240000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ERO"],
+  "social": ["https://twitter.com/@ErosCoinNews"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://eroscoin.org/"
 }

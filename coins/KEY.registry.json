@@ -1,44 +1,27 @@
 {
-    "algorithm": null,
-    "chat": [
-        "https://t.me/selfkeyfoundation"
-    ],
-    "community": [
-        "https://www.reddit.com/r/selfkey"
-    ],
-    "description": {
-        "en": "Empowering individuals and organizations to find more freedom and privacy through the full ownership of their digital identity."
-    },
-    "explorer": [
-        "https://etherscan.io/token/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7",
-        "https://ethplorer.io/address/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7"
-    ],
-    "fromSymbol": "KEY",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "SelfKey",
-    "network": {
-        "t_available_supply": 2016075804,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 5999999954
-    },
-    "proof_type": null,
-    "quote": [
-        "https://blockmodo.com/quotes/KEY"
-    ],
-    "social": [
-        "https://twitter.com/@SelfKey",
-        "https://www.linkedin.com/company/selfkey"
-    ],
-    "source_code": [
-        "https://github.com/SelfKeyFoundation/Identity-Wallet",
-        "https://github.com/SelfKeyFoundation/selfkey-staking",
-        "https://github.com/SelfKeyFoundation/identity-contracts",
-        "https://github.com/SelfKeyFoundation/selfkey-claim-registry"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://selfkey.org/"
+  "algorithm": null,
+  "chat": ["https://t.me/selfkeyfoundation"],
+  "community": ["https://www.reddit.com/r/selfkey"],
+  "description": {
+    "en": "Empowering individuals and organizations to find more freedom and privacy through the full ownership of their digital identity."
+  },
+  "explorer": ["https://etherscan.io/token/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7", "https://ethplorer.io/address/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7"],
+  "fromSymbol": "KEY",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SelfKey",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/KEY"],
+  "social": ["https://twitter.com/@SelfKey", "https://www.linkedin.com/company/selfkey"],
+  "source_code": ["https://github.com/SelfKeyFoundation/Identity-Wallet", "https://github.com/SelfKeyFoundation/selfkey-staking", "https://github.com/SelfKeyFoundation/identity-contracts", "https://github.com/SelfKeyFoundation/selfkey-claim-registry"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://selfkey.org/"
 }

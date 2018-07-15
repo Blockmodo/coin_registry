@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CAG",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Change",
-    "network": {
-        "t_available_supply": 37109987,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 37109987
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/CAG"
-    ],
-    "social": [
-        "https://twitter.com/@changefinance"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://getchange.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CAG",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Change",
+  "network": {
+    "t_available_supply": 37109987,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 79184116
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/CAG"],
+  "social": ["https://twitter.com/@changefinance"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://getchange.com/"
 }

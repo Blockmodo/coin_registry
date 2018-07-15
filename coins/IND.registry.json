@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "IND",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Indorse",
-    "network": {
-        "t_available_supply": 37042886,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 37042886
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/IND"
-    ],
-    "social": [
-        "https://twitter.com/@joinindorse"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://indorse.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "IND",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Indorse",
+  "network": {
+    "t_available_supply": 37042886,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 170622047
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/IND"],
+  "social": ["https://twitter.com/@joinindorse"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://indorse.io/"
 }

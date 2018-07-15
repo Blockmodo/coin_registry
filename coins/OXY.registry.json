@@ -1,31 +1,27 @@
 {
-    "algorithm": "DPoS",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "OXY",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Oxycoin",
-    "network": {
-        "t_available_supply": 109706090,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 109706090
-    },
-    "proof_type": "DPoS",
-    "quote": [
-        "https://blockmodo.com/quotes/OXY"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://oxycoin.io/"
+  "algorithm": "DPoS",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "OXY",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Oxycoin",
+  "network": {
+    "t_available_supply": 110351745,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 110351745
+  },
+  "proof_type": "DPoS",
+  "quote": ["https://blockmodo.com/quotes/OXY"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://oxycoin.io/"
 }

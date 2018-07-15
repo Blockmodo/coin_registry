@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SLR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "SolarCoin",
-    "network": {
-        "t_available_supply": 44002279,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 44002279
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/SLR"
-    ],
-    "social": [
-        "https://twitter.com/@SolarCoin_SLR"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://solarcoin.org/en/front-page/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SLR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SolarCoin",
+  "network": {
+    "t_available_supply": 44715751,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 98034472314
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/SLR"],
+  "social": ["https://twitter.com/@SolarCoin_SLR"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://solarcoin.org/en/front-page/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "Quark",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SEND",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Social Send",
-    "network": {
-        "t_available_supply": 32074754,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 32074754
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/SEND"
-    ],
-    "social": [
-        "https://twitter.com/@SocialSendCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://socialsend.io/"
+  "algorithm": "Quark",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SEND",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Social Send",
+  "network": {
+    "t_available_supply": 32074754,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 34264697
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/SEND"],
+  "social": ["https://twitter.com/@SocialSendCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://socialsend.io/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "Equihash",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "VOT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Votecoin",
-    "network": {
-        "t_available_supply": 31444250,
-        "t_block_reward": 0,
-        "t_max_supply": 220000000,
-        "t_total_supply": 31444250
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/VOT"
-    ],
-    "social": [
-        "https://twitter.com/@vote_coin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://votecoin.site/"
+  "algorithm": "Equihash",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "VOT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Votecoin",
+  "network": {
+    "t_available_supply": 33101625,
+    "t_block_reward": 0,
+    "t_max_supply": 220000000,
+    "t_total_supply": 33101625
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/VOT"],
+  "social": ["https://twitter.com/@vote_coin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://votecoin.site/"
 }

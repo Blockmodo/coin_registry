@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SEQ",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Sequence",
-    "network": {
-        "t_available_supply": 45726402,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 45726402
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/SEQ"
-    ],
-    "social": [
-        "https://twitter.com/@dualitychain"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://duality.solutions/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SEQ",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Sequence",
+  "network": {
+    "t_available_supply": 45787765,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 45787765
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/SEQ"],
+  "social": ["https://twitter.com/@dualitychain"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://duality.solutions/"
 }

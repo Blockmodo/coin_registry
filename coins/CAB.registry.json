@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CAB",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "CabbageUnit",
-    "network": {
-        "t_available_supply": 10499996,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 10499996
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/CAB"
-    ],
-    "social": [
-        "https://twitter.com/@cabbagetech"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CAB",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "CabbageUnit",
+  "network": {
+    "t_available_supply": 10499996,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 10499996
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/CAB"],
+  "social": ["https://twitter.com/@cabbagetech"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

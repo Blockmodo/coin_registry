@@ -1,31 +1,27 @@
 {
-    "algorithm": "X13",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "XBP",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Black Pearl Coin",
-    "network": {
-        "t_available_supply": 351706612,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 351706612
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/XBP"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.blackpearlcoin.com/"
+  "algorithm": "X13",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "XBP",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Black Pearl Coin",
+  "network": {
+    "t_available_supply": 351792338,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 950873123
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/XBP"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.blackpearlcoin.com/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ORME",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Ormeus Coin",
-    "network": {
-        "t_available_supply": 17029321,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 17029321
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ORME"
-    ],
-    "social": [
-        "https://twitter.com/@ormeuscoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://ormeuscoin.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ORME",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Ormeus Coin",
+  "network": {
+    "t_available_supply": 17029321,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 200000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ORME"],
+  "social": ["https://twitter.com/@ormeuscoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://ormeuscoin.com/"
 }

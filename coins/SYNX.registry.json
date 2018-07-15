@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SYNX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Syndicate",
-    "network": {
-        "t_available_supply": 19531650,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 19531650
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/SYNX"
-    ],
-    "social": [
-        "https://twitter.com/@syndicate_ltd"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://syndicateltd.net/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SYNX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Syndicate",
+  "network": {
+    "t_available_supply": 19531650,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 19531650
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/SYNX"],
+  "social": ["https://twitter.com/@syndicate_ltd"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://syndicateltd.net/"
 }

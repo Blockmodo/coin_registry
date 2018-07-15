@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "HYP",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Hyperstake",
-    "network": {
-        "t_available_supply": 1257438358,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 1257438358
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/HYP"
-    ],
-    "social": [
-        "https://twitter.com/@nigeldollentas"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://hypercrypto.com/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "HYP",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Hyperstake",
+  "network": {
+    "t_available_supply": 1279563584,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1279563584
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/HYP"],
+  "social": ["https://twitter.com/@nigeldollentas"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://hypercrypto.com/"
 }

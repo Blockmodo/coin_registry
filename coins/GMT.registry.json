@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "GMT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Mercury Protocol",
-    "network": {
-        "t_available_supply": 170309625,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 170309625
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/GMT"
-    ],
-    "social": [
-        "https://twitter.com/@MercuryProtocol"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.mercuryprotocol.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "GMT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Mercury Protocol",
+  "network": {
+    "t_available_supply": 170309625,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/GMT"],
+  "social": ["https://twitter.com/@MercuryProtocol"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.mercuryprotocol.com/"
 }

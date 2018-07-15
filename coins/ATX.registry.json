@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ATX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ArtexCoin",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 0
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/ATX"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ATX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ArtexCoin",
+  "network": {
+    "t_available_supply": 18781750,
+    "t_block_reward": 0,
+    "t_max_supply": 500000000,
+    "t_total_supply": 268781750
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/ATX"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

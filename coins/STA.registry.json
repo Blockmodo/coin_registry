@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "STA",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Starta",
-    "network": {
-        "t_available_supply": 5200017,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 5200017
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/STA"
-    ],
-    "social": [
-        "https://twitter.com/@startaico"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://startaico.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "STA",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Starta",
+  "network": {
+    "t_available_supply": 5200017,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 5293348
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/STA"],
+  "social": ["https://twitter.com/@startaico"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://startaico.com/"
 }

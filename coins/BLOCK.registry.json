@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/theblocknet"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BLOCK",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BlockNet",
-    "network": {
-        "t_available_supply": 5199720,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 5199720
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/BLOCK"
-    ],
-    "social": [
-        "https://twitter.com/@The_Blocknet"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://blocknet.co/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/theblocknet"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BLOCK",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BlockNet",
+  "network": {
+    "t_available_supply": 5237265,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 5237265
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/BLOCK"],
+  "social": ["https://twitter.com/@The_Blocknet"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://blocknet.co/"
 }

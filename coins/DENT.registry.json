@@ -1,33 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/dentcoin"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DENT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Dent",
-    "network": {
-        "t_available_supply": 10614760961,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 10614760961
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/DENT"
-    ],
-    "social": [
-        "https://twitter.com/@dentcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.dentcoin.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/dentcoin"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DENT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Dent",
+  "network": {
+    "t_available_supply": 10614760961,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/DENT"],
+  "social": ["https://twitter.com/@dentcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.dentcoin.com/"
 }

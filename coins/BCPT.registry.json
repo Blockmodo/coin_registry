@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BCPT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "BlockMason Credit Protocol",
-    "network": {
-        "t_available_supply": 72438514,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 72438514
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/BCPT"
-    ],
-    "social": [
-        "https://twitter.com/@blockmasonio"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://blockmason.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BCPT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BlockMason Credit Protocol",
+  "network": {
+    "t_available_supply": 73639499,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 116158667
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/BCPT"],
+  "social": ["https://twitter.com/@blockmasonio"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://blockmason.io/"
 }

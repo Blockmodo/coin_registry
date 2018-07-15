@@ -1,31 +1,27 @@
 {
-    "algorithm": "Lyra2RE",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ZOI",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Zoin",
-    "network": {
-        "t_available_supply": 17867418,
-        "t_block_reward": 0,
-        "t_max_supply": 21000000,
-        "t_total_supply": 17867418
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/ZOI"
-    ],
-    "social": [
-        "https://twitter.com/@zoinofficial"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.zoin.space/"
+  "algorithm": "Lyra2RE",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ZOI",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Zoin",
+  "network": {
+    "t_available_supply": 17994562,
+    "t_block_reward": 0,
+    "t_max_supply": 21000000,
+    "t_total_supply": 17994562
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/ZOI"],
+  "social": ["https://twitter.com/@zoinofficial"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.zoin.space/"
 }

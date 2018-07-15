@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ZAP",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Zap",
-    "network": {
-        "t_available_supply": 111900159,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 111900159
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ZAP"
-    ],
-    "social": [
-        "https://twitter.com/@ZapOracles"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.zap.store/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ZAP",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Zap",
+  "network": {
+    "t_available_supply": 114003159,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 520000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ZAP"],
+  "social": ["https://twitter.com/@ZapOracles"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.zap.store/"
 }

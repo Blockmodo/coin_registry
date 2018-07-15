@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PRIX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Privatix",
-    "network": {
-        "t_available_supply": 1182668,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 1182668
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/PRIX"
-    ],
-    "social": [
-        "https://twitter.com/@Privatix1"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://privatix.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PRIX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Privatix",
+  "network": {
+    "t_available_supply": 1182668,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1275455
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/PRIX"],
+  "social": ["https://twitter.com/@Privatix1"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://privatix.io/"
 }

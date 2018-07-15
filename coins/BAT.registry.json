@@ -1,42 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/BATProject"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BAT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Basic Attention Token",
-    "network": {
-        "t_available_supply": 1000000000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 1000000000
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/BAT"
-    ],
-    "social": [
-        "https://twitter.com/@attentiontoken"
-    ],
-    "source_code": [
-        "https://github.com/brave-intl/brave-payments-tools",
-        "https://github.com/brave-intl/bat-usermodel",
-        "https://github.com/brave-intl/bat-balance",
-        "https://github.com/brave-intl/bat-go",
-        "https://github.com/brave-intl/bat-client",
-        "https://github.com/brave-intl/publishers",
-        "https://github.com/brave-intl/bat-publisher",
-        "https://github.com/brave-intl/bat-ledger"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://basicattentiontoken.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/BATProject"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BAT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Basic Attention Token",
+  "network": {
+    "t_available_supply": 1000000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1500000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/BAT"],
+  "social": ["https://twitter.com/@attentiontoken"],
+  "source_code": ["https://github.com/brave-intl/brave-payments-tools", "https://github.com/brave-intl/bat-usermodel", "https://github.com/brave-intl/bat-balance", "https://github.com/brave-intl/bat-go", "https://github.com/brave-intl/bat-client", "https://github.com/brave-intl/publishers", "https://github.com/brave-intl/bat-publisher", "https://github.com/brave-intl/bat-ledger"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://basicattentiontoken.org/"
 }

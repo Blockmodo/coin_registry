@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "EVR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Everus",
-    "network": {
-        "t_available_supply": 144940572,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 144940572
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/EVR"
-    ],
-    "social": [
-        "https://twitter.com/@everusworld"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://everus.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "EVR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Everus",
+  "network": {
+    "t_available_supply": 151106010,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/EVR"],
+  "social": ["https://twitter.com/@everusworld"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://everus.org/"
 }

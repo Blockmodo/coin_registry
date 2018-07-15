@@ -1,39 +1,27 @@
 {
-    "algorithm": null,
-    "chat": [
-        "https://t.me/AidocMe"
-    ],
-    "community": [
-        "https://www.reddit.com/r/AIDOC"
-    ],
-    "description": {
-        "en": "AIDOC uses medical data and smart doctor AI technology to provide you constant health and wellness insight. Our blockchain and advanced imaging technology enable us to build a live 3D visual of your health from vital sign readings. offering you 24-hour health analysis from a digital medical expert capable of anticipating problems and prescribing solutions. By further combining smart hardware with IoT applications we are building a full ecosystem of health services that will one day span all regions of the medical services industry."
-    },
-    "explorer": [
-        "https://ethplorer.io/address/0x584b44853680ee34a0f337b712a8f66d816df151",
-        "https://etherscan.io/token/0x584b44853680ee34a0f337b712a8f66d816df151"
-    ],
-    "fromSymbol": "AIDOC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "AI Doctor",
-    "network": {
-        "t_available_supply": 443333332,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 777777777
-    },
-    "proof_type": null,
-    "quote": [
-        "https://blockmodo.com/quotes/AIDOC"
-    ],
-    "social": [
-        "https://twitter.com/@AIDOCMe",
-        "https://www.facebook.com/AIDOCMe"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.aidoc.me/"
+  "algorithm": null,
+  "chat": ["https://t.me/AidocMe"],
+  "community": ["https://www.reddit.com/r/AIDOC"],
+  "description": {
+    "en": "AIDOC uses medical data and smart doctor AI technology to provide you constant health and wellness insight. Our blockchain and advanced imaging technology enable us to build a live 3D visual of your health from vital sign readings. offering you 24-hour health analysis from a digital medical expert capable of anticipating problems and prescribing solutions. By further combining smart hardware with IoT applications we are building a full ecosystem of health services that will one day span all regions of the medical services industry."
+  },
+  "explorer": ["https://ethplorer.io/address/0x584b44853680ee34a0f337b712a8f66d816df151", "https://etherscan.io/token/0x584b44853680ee34a0f337b712a8f66d816df151"],
+  "fromSymbol": "AIDOC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "AI Doctor",
+  "network": {
+    "t_available_supply": 443333332,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 777777777
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/AIDOC"],
+  "social": ["https://twitter.com/@AIDOCMe", "https://www.facebook.com/AIDOCMe"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.aidoc.me/"
 }

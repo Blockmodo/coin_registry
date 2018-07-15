@@ -1,31 +1,27 @@
 {
-    "algorithm": "SHA256",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "NKA",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "IncaKoin",
-    "network": {
-        "t_available_supply": 15377386797,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 15377386797
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/NKA"
-    ],
-    "social": [
-        "https://twitter.com/@incakoin_420"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "NKA",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "IncaKoin",
+  "network": {
+    "t_available_supply": 15837404819,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 15839404819
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/NKA"],
+  "social": ["https://twitter.com/@incakoin_420"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

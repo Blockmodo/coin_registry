@@ -1,31 +1,27 @@
 {
-    "algorithm": "Ethash",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MUSIC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Musicoin",
-    "network": {
-        "t_available_supply": 776117568,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 776117568
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/MUSIC"
-    ],
-    "social": [
-        "https://twitter.com/@musicoins"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.musicoin.org/"
+  "algorithm": "Ethash",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MUSIC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Musicoin",
+  "network": {
+    "t_available_supply": 776117568,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 776117568
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/MUSIC"],
+  "social": ["https://twitter.com/@musicoins"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.musicoin.org/"
 }

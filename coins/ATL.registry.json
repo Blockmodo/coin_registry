@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ATL",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ATLANT",
-    "network": {
-        "t_available_supply": 37551901,
-        "t_block_reward": 0,
-        "t_max_supply": 54175041,
-        "t_total_supply": 37551901
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ATL"
-    ],
-    "social": [
-        "https://twitter.com/@atlantio"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://runcpa.com/getoffer/38228-e374c9ba76a59b689e008c3e10f3e2fd-865"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ATL",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ATLANT",
+  "network": {
+    "t_available_supply": 37551901,
+    "t_block_reward": 0,
+    "t_max_supply": 54175041,
+    "t_total_supply": 54175041
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ATL"],
+  "social": ["https://twitter.com/@atlantio"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://runcpa.com/getoffer/38228-e374c9ba76a59b689e008c3e10f3e2fd-865"
 }

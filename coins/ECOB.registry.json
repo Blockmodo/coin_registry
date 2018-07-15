@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ECOB",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "EcoBit",
-    "network": {
-        "t_available_supply": 444444444,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 444444444
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ECOB"
-    ],
-    "social": [
-        "https://twitter.com/@EcoBit_io"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.ecobit.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ECOB",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "EcoBit",
+  "network": {
+    "t_available_supply": 444444444,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 8888888888
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ECOB"],
+  "social": ["https://twitter.com/@EcoBit_io"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.ecobit.io/"
 }

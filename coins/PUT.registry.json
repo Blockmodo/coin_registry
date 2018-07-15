@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PUT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "PutinCoin",
-    "network": {
-        "t_available_supply": 436323208,
-        "t_block_reward": 0,
-        "t_max_supply": 2000000000,
-        "t_total_supply": 436323208
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/PUT"
-    ],
-    "social": [
-        "https://twitter.com/@PutinCoinPUT"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://putincoin.org"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PUT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "PutinCoin",
+  "network": {
+    "t_available_supply": 443026502,
+    "t_block_reward": 0,
+    "t_max_supply": 2000000000,
+    "t_total_supply": 443026502
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/PUT"],
+  "social": ["https://twitter.com/@PutinCoinPUT"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://putincoin.org"
 }

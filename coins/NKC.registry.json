@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "NKC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Nukecoinz",
-    "network": {
-        "t_available_supply": 147586172,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 147586172
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/NKC"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.Nukecoinz.org"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "NKC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Nukecoinz",
+  "network": {
+    "t_available_supply": 147586172,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/NKC"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.Nukecoinz.org"
 }

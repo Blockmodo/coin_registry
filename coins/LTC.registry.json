@@ -1,42 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [
-        "https://telegram.me/litecoin"
-    ],
-    "community": [
-        "https://www.reddit.com/r/litecoin",
-        "https://www.reddit.com/r/LitecoinMarkets"
-    ],
-    "description": {
-        "en": "Litecoin is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. Litecoin is an open source, global payment network that is fully decentralized without any central authorities. Mathematics secures the network and empowers individuals to control their own finances. Litecoin features faster transaction confirmation times and improved storage efficiency than the leading math-based currency. With substantial industry support, trade volume and liquidity, Litecoin is a proven medium of commerce complementary to Bitcoin."
-    },
-    "explorer": [
-        "https://live.blockcypher.com/ltc",
-        "https://chainz.cryptoid.info/ltc",
-        "http://explorer.litecoin.net/chain/Litecoin"
-    ],
-    "fromSymbol": "LTC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Litecoin",
-    "network": {
-        "t_available_supply": 57137396,
-        "t_block_reward": 0,
-        "t_max_supply": 84000000,
-        "t_total_supply": 57137396
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/LTC"
-    ],
-    "social": [
-        "https://twitter.com/@litecoin"
-    ],
-    "source_code": [
-        "https://github.com/litecoin-project/litecoin"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://litecoin.com"
+  "algorithm": "Scrypt",
+  "chat": ["https://telegram.me/litecoin"],
+  "community": ["https://www.reddit.com/r/litecoin", "https://www.reddit.com/r/LitecoinMarkets"],
+  "description": {
+    "en": "Litecoin is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. Litecoin is an open source, global payment network that is fully decentralized without any central authorities. Mathematics secures the network and empowers individuals to control their own finances. Litecoin features faster transaction confirmation times and improved storage efficiency than the leading math-based currency. With substantial industry support, trade volume and liquidity, Litecoin is a proven medium of commerce complementary to Bitcoin."
+  },
+  "explorer": ["https://live.blockcypher.com/ltc", "https://chainz.cryptoid.info/ltc", "http://explorer.litecoin.net/chain/Litecoin"],
+  "fromSymbol": "LTC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Litecoin",
+  "network": {
+    "t_available_supply": 57411183,
+    "t_block_reward": 0,
+    "t_max_supply": 84000000,
+    "t_total_supply": 57411183
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/LTC"],
+  "social": ["https://twitter.com/@litecoin"],
+  "source_code": ["https://github.com/litecoin-project/litecoin"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://litecoin.com"
 }

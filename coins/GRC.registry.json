@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "GRC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "GridCoin",
-    "network": {
-        "t_available_supply": 390312753,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 390312753
-    },
-    "proof_type": "DPoR",
-    "quote": [
-        "https://blockmodo.com/quotes/GRC"
-    ],
-    "social": [
-        "https://twitter.com/@GridcoinNetwork"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.gridcoin.us/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "GRC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "GridCoin",
+  "network": {
+    "t_available_supply": 390312753,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 390312753
+  },
+  "proof_type": "DPoR",
+  "quote": ["https://blockmodo.com/quotes/GRC"],
+  "social": ["https://twitter.com/@GridcoinNetwork"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.gridcoin.us/"
 }

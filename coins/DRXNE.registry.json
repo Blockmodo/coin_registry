@@ -1,31 +1,27 @@
 {
-    "algorithm": "PoS",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DRXNE",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Droxne",
-    "network": {
-        "t_available_supply": 74510812,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 74510812
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/DRXNE"
-    ],
-    "social": [
-        "https://twitter.com/@DRXNEgaming"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://droxne.net/"
+  "algorithm": "PoS",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DRXNE",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Droxne",
+  "network": {
+    "t_available_supply": 75884926,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 96452147
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/DRXNE"],
+  "social": ["https://twitter.com/@DRXNEgaming"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://droxne.net/"
 }

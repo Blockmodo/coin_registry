@@ -1,31 +1,27 @@
 {
-    "algorithm": "SHA256",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "NRO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Neuro",
-    "network": {
-        "t_available_supply": 54181083,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 54181083
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/NRO"
-    ],
-    "social": [
-        "https://twitter.com/@neurocoinnews"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://neurocoin.org/"
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "NRO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Neuro",
+  "network": {
+    "t_available_supply": 55270309,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 57270309
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/NRO"],
+  "social": ["https://twitter.com/@neurocoinnews"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://neurocoin.org/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "RMC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Russian Mining Coin",
-    "network": {
-        "t_available_supply": 1507,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 1507
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/RMC"
-    ],
-    "social": [
-        "https://twitter.com/@russianminerco"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://rmc.one/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "RMC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Russian Mining Coin",
+  "network": {
+    "t_available_supply": 1507,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 10757
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/RMC"],
+  "social": ["https://twitter.com/@russianminerco"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://rmc.one/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "TRK",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "TruckCoin",
-    "network": {
-        "t_available_supply": 193511093,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 193511093
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/TRK"
-    ],
-    "social": [
-        "https://twitter.com/@truckcoin_v2"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://truckcoin.net/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "TRK",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "TruckCoin",
+  "network": {
+    "t_available_supply": 197869362,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 197869362
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/TRK"],
+  "social": ["https://twitter.com/@truckcoin_v2"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://truckcoin.net/"
 }

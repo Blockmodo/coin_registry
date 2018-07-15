@@ -1,31 +1,27 @@
 {
-    "algorithm": "SHA256",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "XJO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "JouleCoin",
-    "network": {
-        "t_available_supply": 36078687,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 36078687
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/XJO"
-    ],
-    "social": [
-        "https://twitter.com/@JouleCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.joulecoin.org/"
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "XJO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "JouleCoin",
+  "network": {
+    "t_available_supply": 36270979,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 36270979
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/XJO"],
+  "social": ["https://twitter.com/@JouleCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.joulecoin.org/"
 }

@@ -1,33 +1,27 @@
 {
-    "algorithm": "Keccak",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/smartcash"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SMART",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "SmartCash",
-    "network": {
-        "t_available_supply": 1046151574,
-        "t_block_reward": 0,
-        "t_max_supply": 5000000000,
-        "t_total_supply": 1046151574
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/SMART"
-    ],
-    "social": [
-        "https://twitter.com/@scashofficial"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://smartcash.cc/"
+  "algorithm": "Keccak",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/smartcash"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SMART",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SmartCash",
+  "network": {
+    "t_available_supply": 1053773052,
+    "t_block_reward": 0,
+    "t_max_supply": 5000000000,
+    "t_total_supply": 1654817331
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/SMART"],
+  "social": ["https://twitter.com/@scashofficial"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://smartcash.cc/"
 }

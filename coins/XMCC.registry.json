@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "XMCC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "MonacoCoin",
-    "network": {
-        "t_available_supply": 4857389,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 4857389
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/XMCC"
-    ],
-    "social": [
-        "https://twitter.com/@monoeci_monaco"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.monacocoin.net/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "XMCC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "MonacoCoin",
+  "network": {
+    "t_available_supply": 5032416,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 7422416
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/XMCC"],
+  "social": ["https://twitter.com/@monoeci_monaco"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.monacocoin.net/"
 }

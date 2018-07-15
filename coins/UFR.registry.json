@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "UFR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Upfiring",
-    "network": {
-        "t_available_supply": 16793000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 16793000
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/UFR"
-    ],
-    "social": [
-        "https://twitter.com/@upfiringHQ"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.upfiring.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "UFR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Upfiring",
+  "network": {
+    "t_available_supply": 17793000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 24000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/UFR"],
+  "social": ["https://twitter.com/@upfiringHQ"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.upfiring.com/"
 }

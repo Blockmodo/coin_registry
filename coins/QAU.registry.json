@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "QAU",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Quantum",
-    "network": {
-        "t_available_supply": 74867103,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 74867103
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/QAU"
-    ],
-    "social": [
-        "https://twitter.com/QAUProject"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.quantumproject.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "QAU",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Quantum",
+  "network": {
+    "t_available_supply": 74867103,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 239775150
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/QAU"],
+  "social": ["https://twitter.com/QAUProject"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.quantumproject.org/"
 }

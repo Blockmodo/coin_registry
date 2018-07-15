@@ -1,34 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/reddCoin",
-        "https://www.reddit.com/r/reddCoin"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "RDD",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ReddCoin",
-    "network": {
-        "t_available_supply": 28808713174,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 28808713174
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/RDD"
-    ],
-    "social": [
-        "https://twitter.com/@reddcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.reddcoin.com/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/reddCoin", "https://www.reddit.com/r/reddCoin"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "RDD",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ReddCoin",
+  "network": {
+    "t_available_supply": 28808713174,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 28808713174
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/RDD"],
+  "social": ["https://twitter.com/@reddcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.reddcoin.com/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DIM",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "DIMCOIN",
-    "network": {
-        "t_available_supply": 2102485837,
-        "t_block_reward": 0,
-        "t_max_supply": 9000000000,
-        "t_total_supply": 2102485837
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/DIM"
-    ],
-    "social": [
-        "https://twitter.com/@DIMCOIN_"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.dimcoin.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DIM",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "DIMCOIN",
+  "network": {
+    "t_available_supply": 2102483276,
+    "t_block_reward": 0,
+    "t_max_supply": 9000000000,
+    "t_total_supply": 8986417068
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/DIM"],
+  "social": ["https://twitter.com/@DIMCOIN_"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.dimcoin.io/"
 }

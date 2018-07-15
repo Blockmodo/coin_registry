@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "AURA",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Aurora",
-    "network": {
-        "t_available_supply": 133408357,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 133408357
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/AURA"
-    ],
-    "social": [
-        "https://twitter.com/@Aurora_dao"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://auroradao.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "AURA",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Aurora",
+  "network": {
+    "t_available_supply": 133521643,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/AURA"],
+  "social": ["https://twitter.com/@Aurora_dao"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://auroradao.com/"
 }

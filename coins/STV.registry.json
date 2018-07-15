@@ -1,31 +1,27 @@
 {
-    "algorithm": "X13",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "STV",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Sativa Coin",
-    "network": {
-        "t_available_supply": 7094108,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 7094108
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/STV"
-    ],
-    "social": [
-        "https://twitter.com/@sativacoins"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://bitcointalk.org/index.php?topic=791266.0"
+  "algorithm": "X13",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "STV",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Sativa Coin",
+  "network": {
+    "t_available_supply": 7094811,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 7094811
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/STV"],
+  "social": ["https://twitter.com/@sativacoins"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://bitcointalk.org/index.php?topic=791266.0"
 }

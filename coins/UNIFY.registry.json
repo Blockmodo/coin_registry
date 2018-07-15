@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "UNIFY",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Unify",
-    "network": {
-        "t_available_supply": 17860831,
-        "t_block_reward": 0,
-        "t_max_supply": 19276800,
-        "t_total_supply": 17860831
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/UNIFY"
-    ],
-    "social": [
-        "https://twitter.com/@unifycrypto"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://unifycryptocurrency.com/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "UNIFY",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Unify",
+  "network": {
+    "t_available_supply": 17860831,
+    "t_block_reward": 0,
+    "t_max_supply": 19276800,
+    "t_total_supply": 17860831
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/UNIFY"],
+  "social": ["https://twitter.com/@unifycrypto"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://unifycryptocurrency.com/"
 }

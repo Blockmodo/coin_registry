@@ -1,36 +1,27 @@
 {
-    "algorithm": "Leased POS",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/Wavesplatform"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "WAVES",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Waves",
-    "network": {
-        "t_available_supply": 100000000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 100000000
-    },
-    "proof_type": "LPoS",
-    "quote": [
-        "https://blockmodo.com/quotes/WAVES"
-    ],
-    "social": [
-        "https://twitter.com/@wavesplatform"
-    ],
-    "source_code": [
-        "https://github.com/wavesplatform/Waves",
-        "https://github.com/wavesplatform/WavesGUI"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://wavesplatform.com/"
+  "algorithm": "Leased POS",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/Wavesplatform"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "WAVES",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Waves",
+  "network": {
+    "t_available_supply": 100000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000
+  },
+  "proof_type": "LPoS",
+  "quote": ["https://blockmodo.com/quotes/WAVES"],
+  "social": ["https://twitter.com/@wavesplatform"],
+  "source_code": ["https://github.com/wavesplatform/Waves", "https://github.com/wavesplatform/WavesGUI"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://wavesplatform.com/"
 }

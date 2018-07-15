@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "WAND",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "WandX",
-    "network": {
-        "t_available_supply": 12244135,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 12244135
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/WAND"
-    ],
-    "social": [
-        "https://twitter.com/@WandXDapp"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://wandx.co/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "WAND",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "WandX",
+  "network": {
+    "t_available_supply": 12244135,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 16013284
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/WAND"],
+  "social": ["https://twitter.com/@WandXDapp"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://wandx.co/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DIVX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Divi",
-    "network": {
-        "t_available_supply": 5493207,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 5493207
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/DIVX"
-    ],
-    "social": [
-        "https://twitter.com/@DiviProject"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.diviproject.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DIVX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Divi",
+  "network": {
+    "t_available_supply": 6171555,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 6171607
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/DIVX"],
+  "social": ["https://twitter.com/@DiviProject"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.diviproject.org/"
 }

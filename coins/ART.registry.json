@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ART",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Maecenas",
-    "network": {
-        "t_available_supply": 30150150,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 30150150
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ART"
-    ],
-    "social": [
-        "https://twitter.com/@maecenasart"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.maecenas.co/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ART",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Maecenas",
+  "network": {
+    "t_available_supply": 39286444,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ART"],
+  "social": ["https://twitter.com/@maecenasart"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.maecenas.co/"
 }

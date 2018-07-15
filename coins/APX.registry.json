@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "APX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Apx",
-    "network": {
-        "t_available_supply": 703179,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 703179
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/APX"
-    ],
-    "social": [
-        "https://twitter.com/@APX_Ventures"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://apxv.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "APX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Apx",
+  "network": {
+    "t_available_supply": 703179,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 803179
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/APX"],
+  "social": ["https://twitter.com/@APX_Ventures"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://apxv.org/"
 }

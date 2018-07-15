@@ -1,40 +1,27 @@
 {
-    "algorithm": null,
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/Aeternity"
-    ],
-    "description": {
-        "en": "Aeternity is a scalable blockchain platform that enables high bandwidth transacting, purely-functional smart contracts, and decentralized oracles. \nThe use of the blockchain is not free, and requires that the user spends a token called Aeon. Aeon's are used as payment for any resources one consumes on the platform, as well as the basis for financial applications implemented on the platform. All system fees get paid with aeon, all smart contracts settle in aeon."
-    },
-    "explorer": [
-        "https://ethplorer.io/address/0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
-        "https://etherscan.io/token/0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d"
-    ],
-    "fromSymbol": "AE",
-    "is_crypto": true,
-    "is_minable": true,
-    "name": "Aeternity",
-    "network": {
-        "t_available_supply": 233020472,
-        "t_block_reward": 0,
-        "t_max_supply": 273685831,
-        "t_total_supply": 273685830
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/AE"
-    ],
-    "social": [
-        "https://twitter.com/@aetrnty",
-        "https://www.facebook.com/aeternityproject"
-    ],
-    "source_code": [
-        "https://github.com/aeternity/epoch",
-        "https://github.com/aeternity/elixir-node"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.aeternity.com"
+  "algorithm": null,
+  "chat": [],
+  "community": ["https://www.reddit.com/r/Aeternity"],
+  "description": {
+    "en": "Aeternity is a scalable blockchain platform that enables high bandwidth transacting, purely-functional smart contracts, and decentralized oracles. \nThe use of the blockchain is not free, and requires that the user spends a token called Aeon. Aeon's are used as payment for any resources one consumes on the platform, as well as the basis for financial applications implemented on the platform. All system fees get paid with aeon, all smart contracts settle in aeon."
+  },
+  "explorer": ["https://ethplorer.io/address/0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d", "https://etherscan.io/token/0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d"],
+  "fromSymbol": "AE",
+  "is_crypto": true,
+  "is_minable": true,
+  "name": "Aeternity",
+  "network": {
+    "t_available_supply": 233020472,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 273685830
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/AE"],
+  "social": ["https://twitter.com/@aetrnty", "https://www.facebook.com/aeternityproject"],
+  "source_code": ["https://github.com/aeternity/epoch", "https://github.com/aeternity/elixir-node"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.aeternity.com"
 }

@@ -1,41 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [
-        "http://mibbit.com/?channel=%232givecoin&server=irc.mibbit.net"
-    ],
-    "community": [
-        "https://www.reddit.com/r/2GIVE/"
-    ],
-    "description": {
-        "en": "2GIVE is the next generation stakeholder based cryptocurrency designed to support socially responsible stewardship and is supported by the Strength in Numbers Foundation, a non-profit digital trust. 2GIVE makes it easy to support your favorite non-profit or pro-social cause and can be used for 'repaying it forward' through social tipping! The network is secured through a shared reward system that allows stakeholders the ability to generate 5% inflation adjusted return (POS) on their holdings per annum and a 1% transmission fee (TXFEE) that can be earned by the mining process (POW)."
-    },
-    "explorer": [
-        "http://xplor.2give.info/2Give/",
-        "https://chainz.cryptoid.info/2give/"
-    ],
-    "fromSymbol": "2GIVE",
-    "is_crypto": true,
-    "is_minable": true,
-    "name": "2GiveCoin",
-    "network": {
-        "t_available_supply": 519365621,
-        "t_block_reward": 0,
-        "t_max_supply": 519909393,
-        "t_total_supply": 519365621
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/2GIVE"
-    ],
-    "social": [
-        "https://twitter.com/@2GiveCoin",
-        "https://www.facebook.com/projectgivecoin"
-    ],
-    "source_code": [
-        "https://github.com/LittleDuke/2GIVE"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://2give.info/"
+  "algorithm": "Scrypt",
+  "chat": ["http://mibbit.com/?channel=%232givecoin&server=irc.mibbit.net"],
+  "community": ["https://www.reddit.com/r/2GIVE/"],
+  "description": {
+    "en": "2GIVE is the next generation stakeholder based cryptocurrency designed to support socially responsible stewardship and is supported by the Strength in Numbers Foundation, a non-profit digital trust. 2GIVE makes it easy to support your favorite non-profit or pro-social cause and can be used for 'repaying it forward' through social tipping! The network is secured through a shared reward system that allows stakeholders the ability to generate 5% inflation adjusted return (POS) on their holdings per annum and a 1% transmission fee (TXFEE) that can be earned by the mining process (POW)."
+  },
+  "explorer": ["http://xplor.2give.info/2Give/", "https://chainz.cryptoid.info/2give/"],
+  "fromSymbol": "2GIVE",
+  "is_crypto": true,
+  "is_minable": true,
+  "name": "2GiveCoin",
+  "network": {
+    "t_available_supply": 519365621,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 519365621
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/2GIVE"],
+  "social": ["https://twitter.com/@2GiveCoin", "https://www.facebook.com/projectgivecoin"],
+  "source_code": ["https://github.com/LittleDuke/2GIVE"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://2give.info/"
 }

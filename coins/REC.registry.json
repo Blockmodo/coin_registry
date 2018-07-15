@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "REC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Regalcoin",
-    "network": {
-        "t_available_supply": 12799009,
-        "t_block_reward": 0,
-        "t_max_supply": 27000000,
-        "t_total_supply": 12799009
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/REC"
-    ],
-    "social": [
-        "https://twitter.com/@regalcoinx"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://regalcoin.co/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "REC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Regalcoin",
+  "network": {
+    "t_available_supply": 12799009,
+    "t_block_reward": 0,
+    "t_max_supply": 27000000,
+    "t_total_supply": 16491413
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/REC"],
+  "social": ["https://twitter.com/@regalcoinx"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://regalcoin.co/"
 }

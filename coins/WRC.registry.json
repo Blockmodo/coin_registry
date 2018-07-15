@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "WRC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Worldcore",
-    "network": {
-        "t_available_supply": 175109299,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 175109299
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/WRC"
-    ],
-    "social": [
-        "https://twitter.com/@worldcoresocial"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://worldcore.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "WRC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Worldcore",
+  "network": {
+    "t_available_supply": 178103291,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 245209299
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/WRC"],
+  "social": ["https://twitter.com/@worldcoresocial"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://worldcore.com/"
 }

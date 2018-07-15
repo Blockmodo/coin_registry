@@ -1,31 +1,27 @@
 {
-    "algorithm": "DPoS",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "CryptoSpots",
-    "network": {
-        "t_available_supply": 137958656,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 137958656
-    },
-    "proof_type": "DPoS",
-    "quote": [
-        "https://blockmodo.com/quotes/CS"
-    ],
-    "social": [
-        "https://twitter.com/@CryptoSpot"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "DPoS",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "CryptoSpots",
+  "network": {
+    "t_available_supply": 138268126,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 249471071
+  },
+  "proof_type": "DPoS",
+  "quote": ["https://blockmodo.com/quotes/CS"],
+  "social": ["https://twitter.com/@CryptoSpot"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

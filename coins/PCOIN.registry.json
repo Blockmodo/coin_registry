@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PCOIN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Pioneer Coin",
-    "network": {
-        "t_available_supply": 2877385,
-        "t_block_reward": 0,
-        "t_max_supply": 23000000,
-        "t_total_supply": 2877385
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/PCOIN"
-    ],
-    "social": [
-        "https://twitter.com/@pioneer_coin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://pioneercoin.com/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PCOIN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Pioneer Coin",
+  "network": {
+    "t_available_supply": 2924619,
+    "t_block_reward": 0,
+    "t_max_supply": 23000000,
+    "t_total_supply": 3820052
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/PCOIN"],
+  "social": ["https://twitter.com/@pioneer_coin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://pioneercoin.com/"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "RUFF",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Ruff",
-    "network": {
-        "t_available_supply": 921800000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 921800000
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/RUFF"
-    ],
-    "social": [
-        "https://twitter.com/@Ruff_Chain"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://ruffchain.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "RUFF",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Ruff",
+  "network": {
+    "t_available_supply": 921800000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1840000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/RUFF"],
+  "social": ["https://twitter.com/@Ruff_Chain"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://ruffchain.com/"
 }

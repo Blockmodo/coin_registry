@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PND",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "PandaCoin",
-    "network": {
-        "t_available_supply": 32514916898,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 32514916898
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/PND"
-    ],
-    "social": [
-        "https://twitter.com/@PandaCoinPND"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://dev.digitalpandacoin.org/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PND",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "PandaCoin",
+  "network": {
+    "t_available_supply": 32514916898,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 32514916898
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/PND"],
+  "social": ["https://twitter.com/@PandaCoinPND"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://dev.digitalpandacoin.org/"
 }

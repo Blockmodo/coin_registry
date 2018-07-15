@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SCT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ScryptToken",
-    "network": {
-        "t_available_supply": 5713467,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 5713467
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/SCT"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SCT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ScryptToken",
+  "network": {
+    "t_available_supply": 5890454,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 14418075
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/SCT"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "OTN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Open Trading Network",
-    "network": {
-        "t_available_supply": 1925384,
-        "t_block_reward": 0,
-        "t_max_supply": 100000000,
-        "t_total_supply": 1925384
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/OTN"
-    ],
-    "social": [
-        "https://twitter.com/@OTNcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://otn.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "OTN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Open Trading Network",
+  "network": {
+    "t_available_supply": 1941407,
+    "t_block_reward": 0,
+    "t_max_supply": 100000000,
+    "t_total_supply": 82630002
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/OTN"],
+  "social": ["https://twitter.com/@OTNcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://otn.org/"
 }

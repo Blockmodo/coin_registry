@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CREDO",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Credo",
-    "network": {
-        "t_available_supply": 549891703,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 549891703
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/CREDO"
-    ],
-    "social": [
-        "https://twitter.com/@bitbounceio"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://bitbounce.com/credo"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CREDO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Credo",
+  "network": {
+    "t_available_supply": 549891703,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1374729257
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/CREDO"],
+  "social": ["https://twitter.com/@bitbounceio"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://bitbounce.com/credo"
 }

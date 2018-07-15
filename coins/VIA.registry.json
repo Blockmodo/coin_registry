@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "VIA",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ViaCoin",
-    "network": {
-        "t_available_supply": 23054073,
-        "t_block_reward": 0,
-        "t_max_supply": 23176392,
-        "t_total_supply": 23054073
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/VIA"
-    ],
-    "social": [
-        "https://twitter.com/@viacoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://viacoin.org/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "VIA",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ViaCoin",
+  "network": {
+    "t_available_supply": 23067218,
+    "t_block_reward": 0,
+    "t_max_supply": 23176392,
+    "t_total_supply": 23067218
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/VIA"],
+  "social": ["https://twitter.com/@viacoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://viacoin.org/"
 }

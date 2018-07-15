@@ -1,31 +1,27 @@
 {
-    "algorithm": "Ethash",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ELLA",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Ellaism",
-    "network": {
-        "t_available_supply": 8964501,
-        "t_block_reward": 0,
-        "t_max_supply": 280000000,
-        "t_total_supply": 8964501
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/ELLA"
-    ],
-    "social": [
-        "https://twitter.com/@ellaismproject"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://ellaism.org/"
+  "algorithm": "Ethash",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ELLA",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Ellaism",
+  "network": {
+    "t_available_supply": 9715485,
+    "t_block_reward": 0,
+    "t_max_supply": 280000000,
+    "t_total_supply": 9715485
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/ELLA"],
+  "social": ["https://twitter.com/@ellaismproject"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://ellaism.org/"
 }

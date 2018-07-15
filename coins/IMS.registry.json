@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "IMS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Independent Money System",
-    "network": {
-        "t_available_supply": 5368934,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 5368934
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/IMS"
-    ],
-    "social": [
-        "https://twitter.com/@IMScrypto"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "IMS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Independent Money System",
+  "network": {
+    "t_available_supply": 5368934,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 5368934
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/IMS"],
+  "social": ["https://twitter.com/@IMScrypto"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

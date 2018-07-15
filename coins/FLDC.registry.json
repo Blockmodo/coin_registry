@@ -1,31 +1,27 @@
 {
-    "algorithm": "Stanford Folding",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "FLDC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Folding Coin",
-    "network": {
-        "t_available_supply": 605470958,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 605470958
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/FLDC"
-    ],
-    "social": [
-        "https://twitter.com/@FoldingCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://foldingcoin.net/"
+  "algorithm": "Stanford Folding",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "FLDC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Folding Coin",
+  "network": {
+    "t_available_supply": 619675199,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/FLDC"],
+  "social": ["https://twitter.com/@FoldingCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://foldingcoin.net/"
 }

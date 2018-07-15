@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "START",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "StartCoin",
-    "network": {
-        "t_available_supply": 45079785,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 45079785
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/START"
-    ],
-    "social": [
-        "https://twitter.com/@start_coin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://startcoin.org/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "START",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "StartCoin",
+  "network": {
+    "t_available_supply": 45079785,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 70782220
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/START"],
+  "social": ["https://twitter.com/@start_coin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://startcoin.org/"
 }

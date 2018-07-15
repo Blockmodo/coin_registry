@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "VRS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Veros",
-    "network": {
-        "t_available_supply": 12787240,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 12787240
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/VRS"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://veros.org"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "VRS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Veros",
+  "network": {
+    "t_available_supply": 12857240,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/VRS"],
+  "social": ["https://twitter.com/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://veros.org"
 }

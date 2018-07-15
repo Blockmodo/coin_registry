@@ -1,35 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/user/Cryptonex-CNX"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CNX",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Cryptonex",
-    "network": {
-        "t_available_supply": 45332874,
-        "t_block_reward": 0,
-        "t_max_supply": 210000000,
-        "t_total_supply": 45332874
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/CNX"
-    ],
-    "social": [
-        "https://twitter.com/"
-    ],
-    "source_code": [
-        "https://github.com/Cryptonex/source"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://cryptonex.org/"
+  "algorithm": "",
+  "chat": [],
+  "community": ["https://www.reddit.com/user/Cryptonex-CNX"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CNX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Cryptonex",
+  "network": {
+    "t_available_supply": 45372567,
+    "t_block_reward": 0,
+    "t_max_supply": 210000000,
+    "t_total_supply": 106810193
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/CNX"],
+  "social": ["https://twitter.com/"],
+  "source_code": ["https://github.com/Cryptonex/source"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://cryptonex.org/"
 }

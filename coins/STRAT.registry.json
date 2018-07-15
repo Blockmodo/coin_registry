@@ -1,37 +1,27 @@
 {
-    "algorithm": "X13",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/stratisplatform"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "STRAT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Stratis",
-    "network": {
-        "t_available_supply": 98904512,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 98904512
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/STRAT"
-    ],
-    "social": [
-        "https://twitter.com/@stratisplatform"
-    ],
-    "source_code": [
-        "https://github.com/stratisproject/StratisBitcoinFullNode",
-        "https://github.com/stratisproject/FullNodeUI",
-        "https://github.com/stratisproject/BlockExplorer"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.stratisplatform.com/"
+  "algorithm": "X13",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/stratisplatform"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "STRAT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Stratis",
+  "network": {
+    "t_available_supply": 98934693,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 98934693
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/STRAT"],
+  "social": ["https://twitter.com/@stratisplatform"],
+  "source_code": ["https://github.com/stratisproject/StratisBitcoinFullNode", "https://github.com/stratisproject/FullNodeUI", "https://github.com/stratisproject/BlockExplorer"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.stratisplatform.com/"
 }

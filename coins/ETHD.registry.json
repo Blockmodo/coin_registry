@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ETHD",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Ethereum Dark",
-    "network": {
-        "t_available_supply": 1500000,
-        "t_block_reward": 0,
-        "t_max_supply": 4200000,
-        "t_total_supply": 1500000
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/ETHD"
-    ],
-    "social": [
-        "https://twitter.com/@ethereum_dark"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.ethereumdark.net/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ETHD",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Ethereum Dark",
+  "network": {
+    "t_available_supply": 1500000,
+    "t_block_reward": 0,
+    "t_max_supply": 4200000,
+    "t_total_supply": 3019862
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/ETHD"],
+  "social": ["https://twitter.com/@ethereum_dark"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.ethereumdark.net/"
 }

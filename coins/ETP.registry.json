@@ -1,31 +1,27 @@
 {
-    "algorithm": "Ethash",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ETP",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Metaverse",
-    "network": {
-        "t_available_supply": 35902014,
-        "t_block_reward": 0,
-        "t_max_supply": 100000000,
-        "t_total_supply": 35902014
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ETP"
-    ],
-    "social": [
-        "https://twitter.com/@mvs_org"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://mvs.org/"
+  "algorithm": "Ethash",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ETP",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Metaverse",
+  "network": {
+    "t_available_supply": 36438652,
+    "t_block_reward": 0,
+    "t_max_supply": 100000000,
+    "t_total_supply": 55838652
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ETP"],
+  "social": ["https://twitter.com/@mvs_org"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://mvs.org/"
 }

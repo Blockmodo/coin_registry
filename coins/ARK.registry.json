@@ -1,37 +1,27 @@
 {
-    "algorithm": "DPoS",
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/ArkEcosystem"
-    ],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ARK",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ARK",
-    "network": {
-        "t_available_supply": 103352014,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 103352014
-    },
-    "proof_type": "DPoS",
-    "quote": [
-        "https://blockmodo.com/quotes/ARK"
-    ],
-    "social": [
-        "https://twitter.com/@ArkEcosystem"
-    ],
-    "source_code": [
-        "https://github.com/ArkEcosystem/ark-desktop",
-        "https://github.com/ArkEcosystem/arky",
-        "https://github.com/ArkEcosystem/ark-client"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://ark.io/"
+  "algorithm": "DPoS",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/ArkEcosystem"],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ARK",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ARK",
+  "network": {
+    "t_available_supply": 103850746,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 135100746
+  },
+  "proof_type": "DPoS",
+  "quote": ["https://blockmodo.com/quotes/ARK"],
+  "social": ["https://twitter.com/@ArkEcosystem"],
+  "source_code": ["https://github.com/ArkEcosystem/ark-desktop", "https://github.com/ArkEcosystem/arky", "https://github.com/ArkEcosystem/ark-client"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://ark.io/"
 }

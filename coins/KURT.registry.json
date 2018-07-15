@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "KURT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Kurrent",
-    "network": {
-        "t_available_supply": 61364813,
-        "t_block_reward": 0,
-        "t_max_supply": 228000000,
-        "t_total_supply": 61364813
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/KURT"
-    ],
-    "social": [
-        "https://twitter.com/@Kurrent_Project"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://kurrentproject.com/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "KURT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Kurrent",
+  "network": {
+    "t_available_supply": 61364813,
+    "t_block_reward": 0,
+    "t_max_supply": 228000000,
+    "t_total_supply": 72764813
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/KURT"],
+  "social": ["https://twitter.com/@Kurrent_Project"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://kurrentproject.com/"
 }

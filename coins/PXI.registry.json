@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "PXI",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Prime-X1",
-    "network": {
-        "t_available_supply": 21095800,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 21095800
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/PXI"
-    ],
-    "social": [
-        "https://twitter.com/@OfficialPXI"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://prime-xi.com/"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "PXI",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Prime-X1",
+  "network": {
+    "t_available_supply": 21479510,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 21479510
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/PXI"],
+  "social": ["https://twitter.com/@OfficialPXI"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://prime-xi.com/"
 }

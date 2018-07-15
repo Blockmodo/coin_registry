@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "TFL",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "True Flip Lottery",
-    "network": {
-        "t_available_supply": 6247267,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 6247267
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/TFL"
-    ],
-    "social": [
-        "https://twitter.com/@TrueFlipLoto "
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://trueflip.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "TFL",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "True Flip Lottery",
+  "network": {
+    "t_available_supply": 6247267,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 8924667
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/TFL"],
+  "social": ["https://twitter.com/@TrueFlipLoto "],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://trueflip.io/"
 }

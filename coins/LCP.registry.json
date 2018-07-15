@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "LCP",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Litecoin Plus",
-    "network": {
-        "t_available_supply": 1541506,
-        "t_block_reward": 0,
-        "t_max_supply": 4000000,
-        "t_total_supply": 1541506
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/LCP"
-    ],
-    "social": [
-        "https://twitter.com/@Media_LCP"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://litecoinplus.co/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "LCP",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Litecoin Plus",
+  "network": {
+    "t_available_supply": 1638862,
+    "t_block_reward": 0,
+    "t_max_supply": 4000000,
+    "t_total_supply": 1638862
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/LCP"],
+  "social": ["https://twitter.com/@Media_LCP"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://litecoinplus.co/"
 }

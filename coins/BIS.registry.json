@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "BIS",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Bismuth",
-    "network": {
-        "t_available_supply": 10709530,
-        "t_block_reward": 0,
-        "t_max_supply": 109999978,
-        "t_total_supply": 10709530
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/BIS"
-    ],
-    "social": [
-        "https://twitter.com/@CryptoBismuth"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://bismuth.cz/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "BIS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Bismuth",
+  "network": {
+    "t_available_supply": 11205772,
+    "t_block_reward": 0,
+    "t_max_supply": 109999978,
+    "t_total_supply": 11794036
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/BIS"],
+  "social": ["https://twitter.com/@CryptoBismuth"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://bismuth.cz/"
 }

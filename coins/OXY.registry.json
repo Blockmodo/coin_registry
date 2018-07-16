@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Oxycoin",
   "network": {
-    "t_available_supply": 110371620,
+    "t_available_supply": 110372020,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 110371620
+    "t_total_supply": 110372020
   },
   "proof_type": "DPoS",
   "quote": ["https://blockmodo.com/quotes/OXY"],

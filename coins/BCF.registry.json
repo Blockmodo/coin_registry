@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "BitcoinFast",
   "network": {
-    "t_available_supply": 15266048,
+    "t_available_supply": 15266114,
     "t_block_reward": 0,
     "t_max_supply": 2500000000,
-    "t_total_supply": 15266048
+    "t_total_supply": 15266114
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/BCF"],

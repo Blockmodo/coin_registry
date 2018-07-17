@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "NoLimitCoin",
   "network": {
-    "t_available_supply": 208733667,
+    "t_available_supply": 208733819,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 208733667
+    "t_total_supply": 208733819
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/NLC2"],

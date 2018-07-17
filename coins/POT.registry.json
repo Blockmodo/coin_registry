@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "PotCoin",
   "network": {
-    "t_available_supply": 220311709,
+    "t_available_supply": 220311711,
     "t_block_reward": 0,
     "t_max_supply": 420000000,
-    "t_total_supply": 220311709
+    "t_total_supply": 220311711
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/POT"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Alqo",
   "network": {
-    "t_available_supply": 51073981,
+    "t_available_supply": 51075256,
     "t_block_reward": 0,
     "t_max_supply": 57879300,
-    "t_total_supply": 51173982
+    "t_total_supply": 51175257
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/ALQO"],

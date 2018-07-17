@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Theresa May Coin",
   "network": {
-    "t_available_supply": 54446000,
+    "t_available_supply": 54449200,
     "t_block_reward": 0,
     "t_max_supply": 100000000,
-    "t_total_supply": 54446000
+    "t_total_supply": 54449200
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/MAY"],

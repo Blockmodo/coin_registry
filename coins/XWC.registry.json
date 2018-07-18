@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "WhiteCoin",
   "network": {
-    "t_available_supply": 249292054,
+    "t_available_supply": 249292134,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 249292054
+    "t_total_supply": 249292134
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/XWC"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Trollcoin",
   "network": {
-    "t_available_supply": 576985962,
+    "t_available_supply": 576986672,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 576985962
+    "t_total_supply": 576986672
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/TROLL"],

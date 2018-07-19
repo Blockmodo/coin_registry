@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Steneum Coin",
   "network": {
-    "t_available_supply": 2922053,
+    "t_available_supply": 2922078,
     "t_block_reward": 0,
     "t_max_supply": 20000000,
-    "t_total_supply": 6076897
+    "t_total_supply": 6076922
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/STN"],

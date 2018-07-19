@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "PlatinumBAR",
   "network": {
-    "t_available_supply": 1132585,
+    "t_available_supply": 1132630,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 1132585
+    "t_total_supply": 1132630
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/XPTX"],

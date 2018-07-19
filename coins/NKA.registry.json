@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "IncaKoin",
   "network": {
-    "t_available_supply": 16005573141,
+    "t_available_supply": 16005575741,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 16007573141
+    "t_total_supply": 16007575741
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/NKA"],

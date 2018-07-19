@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Particl",
   "network": {
-    "t_available_supply": 10042036,
+    "t_available_supply": 10042060,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 9046036
+    "t_total_supply": 9046060
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/PART"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "BitMark",
   "network": {
-    "t_available_supply": 9158375,
+    "t_available_supply": 9158560,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 9158375
+    "t_total_supply": 9158560
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/BTM"],

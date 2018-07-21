@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "MonacoCoin",
   "network": {
-    "t_available_supply": 5767814,
+    "t_available_supply": 5767904,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 7457814
+    "t_total_supply": 7457904
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/XMCC"],

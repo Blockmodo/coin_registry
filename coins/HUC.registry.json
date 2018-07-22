@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "HunterCoin",
   "network": {
-    "t_available_supply": 23645010,
+    "t_available_supply": 23645080,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 23645010
+    "t_total_supply": 23645080
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/HUC"],

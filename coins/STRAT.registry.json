@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Stratis",
   "network": {
-    "t_available_supply": 98944300,
+    "t_available_supply": 98944336,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 98944300
+    "t_total_supply": 98944336
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/STRAT"],

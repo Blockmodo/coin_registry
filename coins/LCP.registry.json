@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Litecoin Plus",
   "network": {
-    "t_available_supply": 1672870,
+    "t_available_supply": 1672951,
     "t_block_reward": 0,
     "t_max_supply": 4000000,
-    "t_total_supply": 1672870
+    "t_total_supply": 1672951
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/LCP"],

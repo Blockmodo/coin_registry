@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Insane Coin",
   "network": {
-    "t_available_supply": 21589910,
+    "t_available_supply": 21590190,
     "t_block_reward": 0,
     "t_max_supply": 30000000,
-    "t_total_supply": 21839910
+    "t_total_supply": 21840190
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/INSN"],

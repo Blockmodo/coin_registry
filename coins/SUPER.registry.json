@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "SuperCoin",
   "network": {
-    "t_available_supply": 49200621,
+    "t_available_supply": 49201708,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 49200621
+    "t_total_supply": 49201708
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/SUPER"],

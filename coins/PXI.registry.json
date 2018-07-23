@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Prime-X1",
   "network": {
-    "t_available_supply": 21612000,
+    "t_available_supply": 21612240,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 21612000
+    "t_total_supply": 21612240
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/PXI"],

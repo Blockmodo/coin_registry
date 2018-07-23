@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "ProsperCoin",
   "network": {
-    "t_available_supply": 22778000,
+    "t_available_supply": 22779600,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 802778000
+    "t_total_supply": 802779600
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/PRC"],

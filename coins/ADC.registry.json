@@ -11,10 +11,10 @@
   "is_minable": true,
   "name": "AudioCoin",
   "network": {
-    "t_available_supply": 908502156,
+    "t_available_supply": 908506233,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 908502156
+    "t_total_supply": 908506233
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/ADC"],

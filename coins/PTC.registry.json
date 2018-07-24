@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "PesetaCoin",
   "network": {
-    "t_available_supply": 134922274,
+    "t_available_supply": 134922574,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 134922274
+    "t_total_supply": 134922574
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/PTC"],

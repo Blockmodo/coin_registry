@@ -11,9 +11,9 @@
   "is_minable": false,
   "name": "AC3",
   "network": {
-    "t_available_supply": 0,
+    "t_available_supply": 68799273,
     "t_block_reward": 1,
-    "t_max_supply": 0,
+    "t_max_supply": 100000000,
     "t_total_supply": 80123968
   },
   "proof_type": "PoW",

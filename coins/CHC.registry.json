@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "ChainCoin",
   "network": {
-    "t_available_supply": 15417347,
+    "t_available_supply": 15417551,
     "t_block_reward": 0,
     "t_max_supply": 23000000,
-    "t_total_supply": 17447045
+    "t_total_supply": 17447249
   },
   "proof_type": "",
   "quote": ["https://blockmodo.com/quotes/CHC"],

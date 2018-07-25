@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Solaris",
   "network": {
-    "t_available_supply": 1465097,
+    "t_available_supply": 1465133,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 1492129
+    "t_total_supply": 1492166
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/XLR"],

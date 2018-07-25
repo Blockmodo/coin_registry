@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "LiteDoge",
   "network": {
-    "t_available_supply": 15049401050,
+    "t_available_supply": 15049420050,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 15049401050
+    "t_total_supply": 15049420050
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/LDOGE"],

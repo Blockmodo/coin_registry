@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Vcash",
   "network": {
-    "t_available_supply": 15448725,
+    "t_available_supply": 15448739,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 15448725
+    "t_total_supply": 15448739
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/XVC"],

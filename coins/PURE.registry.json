@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Pure",
   "network": {
-    "t_available_supply": 18311241,
+    "t_available_supply": 18315801,
     "t_block_reward": 0,
     "t_max_supply": 20000000,
-    "t_total_supply": 19420520
+    "t_total_supply": 19425080
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/PURE"],

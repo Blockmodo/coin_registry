@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "JoinCoin",
   "network": {
-    "t_available_supply": 3147255,
+    "t_available_supply": 3147262,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 3147255
+    "t_total_supply": 3147262
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/J"],

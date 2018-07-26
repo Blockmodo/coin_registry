@@ -11,10 +11,10 @@
   "is_minable": true,
   "name": "Bitcoin Private",
   "network": {
-    "t_available_supply": 20498416,
+    "t_available_supply": 20498429,
     "t_block_reward": 1.5625,
     "t_max_supply": 21000000,
-    "t_total_supply": 20498416
+    "t_total_supply": 20498429
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/BTCP"],

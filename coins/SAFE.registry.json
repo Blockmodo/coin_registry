@@ -1,0 +1,27 @@
+{
+  "algorithm": "Zhash",
+  "chat": ["https://t.me/joinchat/HCqlLxEEFR_SQPd9VjSpBw", "https://discordapp.com/invite/vQgYGJz"],
+  "community": ["https://reddit.com/r/SafeCoins"],
+  "description": {
+    "en": "SafeCoin leverages the most advanced safety and privacy based cryptocurrency technology available today. The project is rapidly implementing new features to make the currency more practical and user-friendly; whilst working to continually discover improvements in cryptocurrency privacy, safety, and security."
+  },
+  "explorer": ["https://bchain.info/SAFE/", "https://explorer.deepsky.space/"],
+  "fromSymbol": "SAFE",
+  "is_crypto": true,
+  "is_minable": true,
+  "name": "SafeCoin",
+  "network": {
+    "t_available_supply": 23000000,
+    "t_block_reward": 0,
+    "t_max_supply": 36000000,
+    "t_total_supply": 23000000
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/SAFE"],
+  "social": ["https://twitter.com/safecoins", "https://www.facebook.com/safecoins/"],
+  "source_code": ["https://github.com/Fair-Exchange/safecoin"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://safecoin.org/"
+}

@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/eosdacio"],
+  "community": ["https://www.reddit.com/r/EOSDAC/"],
+  "description": {
+    "en": "The Community-Owned EOS Block Producer and DAC Enabler"
+  },
+  "explorer": ["https://ethplorer.io/address/0x7e9e431a0b8c4d532c745b1043c7fa29a48d4fba", "https://etherscan.io/token/0x7e9e431a0b8c4d532c745b1043c7fa29a48d4fba"],
+  "fromSymbol": "EOSDAC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "EosDAC",
+  "network": {
+    "t_available_supply": 660755177,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1200000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/EOSDAC"],
+  "social": ["https://twitter.com/blockscart", "https://www.youtube.com/channel/UCgnNl9MCMH4WlBZQkOEz9Qg", "https://instagram.com/blockscart"],
+  "source_code": ["https://github.com/eosdac/eosdactoken"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://eosdac.io/"
+}

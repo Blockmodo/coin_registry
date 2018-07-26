@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/CortexBlockchain"],
+  "community": ["https://www.reddit.com/r/Cortex_Official/"],
+  "description": {
+    "en": "Cortex's main mission is to provide the state-of-the-art machine-learning models on the blockchain in which users can infer using smart contracts on the Cortex blockchain."
+  },
+  "explorer": ["https://ethplorer.io/address/0xea11755ae41d889ceec39a63e6ff75a02bc1c00d", "https://etherscan.io/token/0xea11755ae41d889ceec39a63e6ff75a02bc1c00d"],
+  "fromSymbol": "CTXC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Cortex",
+  "network": {
+    "t_available_supply": 149792458,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 299792458
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/CTXC"],
+  "social": ["https://twitter.com/CTXCBlockchain", "https://www.facebook.com/CTXCBlockchain"],
+  "source_code": ["https://github.com/CortexFoundation/StyleTransferTrilogy", "https://github.com/CortexFoundation/Cortex_OpenData", "https://github.com/CortexFoundation/Cortex_Silencer"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.cortexlabs.ai/"
+}

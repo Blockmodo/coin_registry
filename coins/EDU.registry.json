@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/EduCoinGroup"],
+  "community": ["https://www.reddit.com/r/Educoin/"],
+  "description": {
+    "en": "The EduCoin Platform is designed to be a blockchain-based decentralized global education service platform which facilitates the distribution of education contents and completion of education service transactions through its native digital cryptocurrency named EDU. In this open ecosystem, the participants from different countries and languages all over the world can provide online education services and share related contents in peer-to-peer way. EduCoin brings a brand new online education pattern to link all world’s education resources more transparently."
+  },
+  "explorer": ["https://ethplorer.io/address/0xf263292e14d9d8ecd55b58dad1f1df825a874b7c", "https://etherscan.io/token/0xf263292e14d9d8ecd55b58dad1f1df825a874b7c"],
+  "fromSymbol": "EDU",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "EduCoin",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 15000000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/EDU"],
+  "social": ["https://www.instagram.com/educionofficial/", "https://www.facebook.com/edu.coin.5", "https://twitter.com/EduCoinOfficial"],
+  "source_code": ["https://github.com/Educoins/EduCoin"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.edu.one/"
+}

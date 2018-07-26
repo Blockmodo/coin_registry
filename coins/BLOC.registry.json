@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/blockscartcommunity"],
+  "community": ["https://reddit.com/r/SafeCoins"],
+  "description": {
+    "en": "Blockscart as a company is aimed at improving the functionalities of ecommerce and incorporating blockchain technology at the same time."
+  },
+  "explorer": ["https://etherscan.io/token/0x0d664faae776576c2e307e4e5fbf8dc65f08f136"],
+  "fromSymbol": "BLOC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Blockscart",
+  "network": {
+    "t_available_supply": 39000000,
+    "t_block_reward": 0,
+    "t_max_supply": 39000000,
+    "t_total_supply": 39000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/BLOC"],
+  "social": ["https://twitter.com/blockscart", "https://www.youtube.com/channel/UCgnNl9MCMH4WlBZQkOEz9Qg", "https://instagram.com/blockscart"],
+  "source_code": ["https://github.com/blockscart/ICO"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://blockscart.eu/"
+}

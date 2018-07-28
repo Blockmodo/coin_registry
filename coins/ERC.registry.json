@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "EuropeCoin",
   "network": {
-    "t_available_supply": 10098069,
+    "t_available_supply": 10098072,
     "t_block_reward": 0,
     "t_max_supply": 32000000,
-    "t_total_supply": 10098069
+    "t_total_supply": 10098072
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/ERC"],

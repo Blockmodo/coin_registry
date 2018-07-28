@@ -19,7 +19,7 @@
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/ETH"],
   "social": ["https://twitter.com/ethereum", "https://www.facebook.com/ethereumproject/"],
-  "source_code": ["https://github.com/ethereum/go-ethereum", "https://github.com/ethereum/cpp-ethereum", "https://github.com/paritytech/parity"],
+  "source_code": ["https://github.com/ethereum/go-ethereum", "https://github.com/ethereum/cpp-ethereum", "https://github.com/paritytech/parity", "https://github.com/ethereum/EIPs"],
   "toSymbol": "ALL",
   "type": "COINREGISTRY",
   "version": 1,

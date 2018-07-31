@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Galactrum",
   "network": {
-    "t_available_supply": 1833118,
+    "t_available_supply": 1833168,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 2553118
+    "t_total_supply": 2553168
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/ORE"],

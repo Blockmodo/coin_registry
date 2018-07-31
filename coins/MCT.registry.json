@@ -1,31 +1,27 @@
 {
-    "algorithm": "Ethash",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MCT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "1717 Masonic Commemorative Token",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 1618033,
-        "t_total_supply": 0
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/MCT"
-    ],
-    "social": [
-        "https://twitter.com/@1717token_300"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://1717tok.io"
+  "algorithm": "Ethash",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MCT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "1717 Masonic Commemorative Token",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 580000000
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/MCT"],
+  "social": ["https://twitter.com/@1717token_300"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://1717tok.io"
 }

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "EOS",
   "network": {
-    "t_available_supply": 896149492,
+    "t_available_supply": 906245118,
     "t_block_reward": 0,
     "t_max_supply": 1000000000,
-    "t_total_supply": 900000000
+    "t_total_supply": 1006245120
   },
   "proof_type": "DPoS",
   "quote": ["https://blockmodo.com/quotes/EOS"],

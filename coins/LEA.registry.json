@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "LeaCoin",
   "network": {
-    "t_available_supply": 376964916,
+    "t_available_supply": 376968516,
     "t_block_reward": 0,
     "t_max_supply": 2000000000,
-    "t_total_supply": 376964916
+    "t_total_supply": 376968516
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/LEA"],

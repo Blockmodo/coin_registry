@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "RubyCoin",
   "network": {
-    "t_available_supply": 25899798,
+    "t_available_supply": 25899850,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 25899798
+    "t_total_supply": 25899850
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/RBY"],

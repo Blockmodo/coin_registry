@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/republicprotocolannouncements", "https://t.me/republicprotocol"],
+  "community": ["https://www.reddit.com/r/republicprotocol"],
+  "description": {
+    "en": "Republic Protocol is an open-source protocol powering dark pool exchanges. REN is a utility token that provides fuel and security to the engine."
+  },
+  "explorer": ["https://ethplorer.io/address/0x408e41876cccdc0f92210600ef50372656052a38", "https://etherscan.io/token/0x408e41876cccdc0f92210600ef50372656052a38"],
+  "fromSymbol": "REN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Republic Protocol",
+  "network": {
+    "t_available_supply": 100971101,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/REN"],
+  "social": ["https://twitter.com/republicorg"],
+  "source_code": ["https://github.com/republicprotocol/darknode-cli", "https://github.com/republicprotocol/renex-ingress-go","https://github.com/republicprotocol/republic-go", "https://github.com/republicprotocol/republic-sol"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://republicprotocol.com/"
+}

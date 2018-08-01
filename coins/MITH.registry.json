@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/mithrilchat"],
+  "community": ["https://www.reddit.com/r/MithrilToken/"],
+  "description": {
+    "en": " A decentralized social media platform that rewards all content creators. "
+  },
+  "explorer": ["https://ethplorer.io/address/0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb", "https://etherscan.io/token/0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb"],
+  "fromSymbol": "MITH",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Mithril",
+  "network": {
+    "t_available_supply": 100971101,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100971101
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/MITH"],
+  "social": ["https://www.facebook.com/MithrilToken/", "https://twitter.com/MithrilToken"],
+  "source_code": ["https://github.com/mithio/mithril-smart-contract"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://mith.io/"
+}

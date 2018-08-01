@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/dcorp_vc"],
+  "community": ["https://www.reddit.com/r/dcorp/"],
+  "description": {
+    "en": "From idea to Funding - DCORP Ventures is a community governed blockchain company that funds and realizes innovating ideas."
+  },
+  "explorer": ["https://ethplorer.io/address/0xe30e02f049957e2a5907589e06ba646fb2c321ba", "https://etherscan.io/token/0xe30e02f049957e2a5907589e06ba646fb2c321ba"],
+  "fromSymbol": "DRPU",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "DCORP Utility",
+  "network": {
+    "t_available_supply": 100971101,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/DRPU"],
+  "social": ["https://twitter.com/DcorpVC", "https://www.facebook.com/DecentralizedCorporation/"],
+  "source_code": ["https://github.com/frankbonnet/DCORP"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.dcorp.it/
+}

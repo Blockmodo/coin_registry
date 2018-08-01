@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://open.kakao.com/o/gWZRtfD", "https://t.me/SmartMesh"],
+  "community": ["https://www.reddit.com/r/SmartMesh/"],
+  "description": {
+    "en": "SmartMesh is a blockchain based underlying protocol of the Internet of Things. SmartMesh has built-in blockchain light nodes, and extends the Raiden and Lightning Networks second layer architecture network protocols allowing internet-free digital payments and transactions. Utilizing blockchain-based token incentives, SmartMesh technology allows the formation of agile, decentralized Mesh Networks that can self-repair and have higher near-field speeds and bandwidth than standard Internet connections. SmartMesh allows blockchain to break through the Internet boundary into the IoT (Internet of things) and IoE (Internet of Everything) era where all things are connected."
+  },
+  "explorer": ["https://ethplorer.io/address/0x55f93985431fc9304077687a35a1ba103dc1e081", "https://etherscan.io/token/0x55f93985431fc9304077687a35a1ba103dc1e081"],
+  "fromSymbol": "SMT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SmartMesh",
+  "network": {
+    "t_available_supply": 100971101,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100971101
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/SMT"],
+  "social": ["https://www.youtube.com/channel/UCrrPpnGqu7PJeU13U0VRPBA?", "https://www.facebook.com/smartmesh/", "https://twitter.com/@Smart_Mesh/"],
+  "source_code": ["https://github.com/SmartMeshFoundation/SmartChatRoom", "https://github.com/SmartMeshFoundation/SmartMesh_iOS", "https://github.com/SmartMeshFoundation/SmartRaiden", "https://github.com/SmartMeshFoundation/Ozone", "https://github.com/SmartMeshFoundation/SmartMesh_Android", "https://github.com/SmartMeshFoundation/Spectrum"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://smartmesh.io/"
+}

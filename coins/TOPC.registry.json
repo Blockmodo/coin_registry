@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/topchaincoin", "http://shang.qq.com/wpa/qunwpa?idkey=1c18b45c71b34d6400fb39e438861f55d0ea6fb37f4edd38c878c83873085d82"],
+  "community": ["https://www.reddit.com/r/TopChain/"],
+  "description": {
+    "en": "Topchain is the world’s leading brand in the gaming blockchain, reshaping the game industry structure with decentralized concept to create a global de-centralized gaming ecosystem."
+  },
+  "explorer": ["https://ethplorer.io/address/0x1b6c5864375b34af3ff5bd2e5f40bc425b4a8d79", "https://etherscan.io/token/0x1b6c5864375b34af3ff5bd2e5f40bc425b4a8d79"],
+  "fromSymbol": "TOPC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "TopChain",
+  "network": {
+    "t_available_supply": 100971101,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100971101
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/TOPC"],
+  "social": ["https://twitter.com/TOPCHAIN1", "https://www.facebook.com/TopChain-415898358863297/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.topc.io/"
+}

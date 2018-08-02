@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Force Coin",
   "network": {
-    "t_available_supply": 137699948,
+    "t_available_supply": 137701249,
     "t_block_reward": 0,
     "t_max_supply": 200000000,
-    "t_total_supply": 140700621
+    "t_total_supply": 140702073
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/FOR"],

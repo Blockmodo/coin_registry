@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Radium",
   "network": {
-    "t_available_supply": 3512123,
+    "t_available_supply": 3512127,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 3512123
+    "t_total_supply": 3512127
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/RADS"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "ARK",
   "network": {
-    "t_available_supply": 104229242,
+    "t_available_supply": 104229544,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 135479242
+    "t_total_supply": 135479544
   },
   "proof_type": "DPoS",
   "quote": ["https://blockmodo.com/quotes/ARK"],

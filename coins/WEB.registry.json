@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "WEB",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Webcoin",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 100000000,
-        "t_total_supply": 0
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/WEB"
-    ],
-    "social": [
-        "https://twitter.com/@webcointoday"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://webcoin.today/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "WEB",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Webcoin",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 70000000
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/WEB"],
+  "social": ["https://twitter.com/@webcointoday"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://webcoin.today/"
 }

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "1337",
   "network": {
-    "t_available_supply": 26232496379,
+    "t_available_supply": 26232500033,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 29034849494
+    "t_total_supply": 29034853148
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/1337"],

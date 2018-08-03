@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "SibCoin",
   "network": {
-    "t_available_supply": 16921494,
+    "t_available_supply": 16921526,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 16921494
+    "t_total_supply": 16921526
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/SIB"],

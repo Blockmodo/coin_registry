@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "GoldCoin",
   "network": {
-    "t_available_supply": 41188644,
+    "t_available_supply": 41188688,
     "t_block_reward": 0,
     "t_max_supply": 72245700,
-    "t_total_supply": 41188644
+    "t_total_supply": 41188688
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/GLD"],

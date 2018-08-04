@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/noahproject", "https://t.me/noahproject_community", "https://line.me/R/ti/p/%40noah_coin"],
+  "community": ["https://www.reddit.com/user/NOAHCOINOfficial/"],
+  "description": {
+    "en": "NOAH PROJECT seeks to bring about social innovation through blockchain technology and work to solve the economic disparities around the world. A portion of the project’s proceeds will be donated to charity by our parent organization, NOAH FOUNDATION."
+  },
+  "explorer": ["https://etherscan.io/token/0x58a4884182d9e835597f405e5f258290e46ae7c2", "https://ethplorer.io/address/0x58a4884182d9e835597f405e5f258290e46ae7c2"],
+  "fromSymbol": "NOAH",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Noah",
+  "network": {
+    "t_available_supply": 32687957978,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 91584000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/NOAH"],
+  "social": ["https://twitter.com/NOAHCOIN_Proj"],
+  "source_code": ["https://github.com/NoahFoundation/NoahCoin"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://noahcoin.org/"
+}

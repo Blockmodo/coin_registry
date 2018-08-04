@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/HelloYOYOW"],
+  "community": ["https://www.reddit.com/r/YOYOW/"],
+  "description": {
+    "en": "YOYOW is a Blockchain-based social media platform, YOYOW intends to become the blockchain version of Facebook, Quora and Zhihu, it uses a new consensus algorithm – PoF (proof of flow) to reward content creators, curators and third party platforms. Unlike its competitors, yoyow provides full toolkit for content compliance. it is still a fully decentralized blockchain content platform."
+  },
+  "explorer": ["https://ethplorer.io/address/0xcbeaec699431857fdb4d37addbbdc20e132d4903", "https://etherscan.io/token/0xcbeaec699431857fdb4d37addbbdc20e132d4903"],
+  "fromSymbol": "YOYO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "YOYOW",
+  "network": {
+    "t_available_supply": 273173444,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 300000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/YOYO"],
+  "social": [],
+  "source_code": ["https://github.com/yoyow-org/yoyow-wecenter", "https://github.com/yoyow-org/yoyow-node-sdk", "https://github.com/yoyow-org/yoyow-desktop-wallet", "https://github.com/yoyow-org/yoyow-core-testnet", "https://github.com/yoyow-org/yoyow-core"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://yoyow.org"
+}

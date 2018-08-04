@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/Uplatform"],
+  "community": ["https://www.reddit.com/r/universa/"],
+  "description": {
+    "en": "Universa Blockchain - simple, fast and reliable blockchain protocol for business and apps."
+  },
+  "explorer": ["https://ethplorer.io/address/0x9e3319636e2126e3c0bc9e3134aec5e1508a46c7", "https://etherscan.io/token/0x9e3319636e2126e3c0bc9e3134AEC5e1508A46c7"],
+  "fromSymbol": "UTNP",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Universa",
+  "network": {
+    "t_available_supply": 1846396186,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 4997891952
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/UTNP"],
+  "social": ["https://twitter.com/Universa_News", "https://www.facebook.com/Universablockchain/"],
+  "source_code": ["https://github.com/UniversaBlockchain/universa"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://universa.io/"
+}

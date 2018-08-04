@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/joinchat/IEbn1knC_iMb2cX16Dut3A"],
+  "community": ["https://www.reddit.com/r/EngineEGCC/"],
+  "description": {
+    "en": "We are committed to being a leading global blockchain technology company. What we need to do is to use blockchain as a core technology to build a robust and dynamic automotive data ecosystem, and to exert the power of the entire society to maintain data, reduce the data cost effectively while solving data ownership and improving the efficiency, and enable global users to share and access data on an equal footing."
+  },
+  "explorer": ["https://ethplorer.io/address/0xaf8a215e81faea7c180ce22b72483525121813bd", "https://etherscan.io/token/0xaf8a215e81faea7c180ce22b72483525121813bd"],
+  "fromSymbol": "EGCC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Engine EGCC",
+  "network": {
+    "t_available_supply": 273173444,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 10000000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/EGCC"],
+  "social": ["https://www.facebook.com/EngineChain/?ref=br_rs", "https://twitter.com/enginechainegcc"],
+  "source_code": ["https://github.com/yoyow-org/yoyow-wecenter", "https://github.com/yoyow-org/yoyow-node-sdk", "https://github.com/yoyow-org/yoyow-desktop-wallet", "https://github.com/yoyow-org/yoyow-core-testnet", "https://github.com/yoyow-org/yoyow-core"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.egcchain.com/"
+}

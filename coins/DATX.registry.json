@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/datxofficial01"],
+  "community": ["https://www.reddit.com/user/DatxOfficial"],
+  "description": {
+    "en": "DATx- Revolutionary Digital Advertising Terminals Powered by Blockchain."
+  },
+  "explorer": ["https://ethplorer.io/address/0xabbbb6447b68ffd6141da77c18c7b5876ed6c5ab", "https://etherscan.io/token/0xabbbb6447b68ffd6141da77c18c7b5876ed6c5ab"],
+  "fromSymbol": "DATX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "DATX",
+  "network": {
+    "t_available_supply": 32687957978,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 10000000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/DATX"],
+  "social": ["https://www.facebook.com/DATxofficial/", "https://twitter.com/DATxOfficial"],
+  "source_code": ["https://github.com/DATx-Protocol/DATx"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.datx.co/"
+}

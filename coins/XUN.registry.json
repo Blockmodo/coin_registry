@@ -1,31 +1,27 @@
 {
-    "algorithm": "CryptoNight",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "XUN",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "UltraNote",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 85000000000,
-        "t_total_supply": 0
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/XUN"
-    ],
-    "social": [
-        "https://twitter.com/@Ultranotecoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://ultranote.org/"
+  "algorithm": "CryptoNight",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "XUN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "UltraNote",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 18521929866
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/XUN"],
+  "social": ["https://twitter.com/@Ultranotecoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://ultranote.org/"
 }

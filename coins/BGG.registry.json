@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/joinchat/AAAAAE3wo-p3tPPTHt-_HQ"],
+  "community": [],
+  "description": {
+    "en": "Goldgate functions as a traditional bullion reseller and provide custodial services for your gold assets. The main difference is that it uses blockchain technology to ensure all receipts and documentations pertaining to your gold assets are transparently and permanently uploaded onto Ethereum and be kept in your Ethereum Wallet."
+  },
+  "explorer": ["https://etherscan.io/token/0x33803edf44a71b9579f54cd429b53b06c0eeab83"],
+  "fromSymbol": "BGG",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "GoldenGate (BGG)",
+  "network": {
+    "t_available_supply": 26000000,
+    "t_block_reward": 1,
+    "t_max_supply": 26000000,
+    "t_total_supply": 26000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/BGG"],
+  "social": ["https://twitter.com/goldgateio"],
+  "source_code": ["https://github.com/goldgate/GoldGateToken/"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://goldgate.io/"
+}

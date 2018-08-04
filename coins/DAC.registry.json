@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/dacxiglobal"],
+  "community": ["https://www.reddit.com/r/DACXI/"],
+  "description": {
+    "en": "Dacxi (Digital Asset Community Exchange International) is pioneering a new category of exchange to solve this problem, we call it the community exchange. The Dacxi ecosystem is designed with a simple and easy to use exchange at its core, a user-driven community with lessons, content, and support for the mainstream market; and Crypto-VC, a vehicle designed to deliver high-quality, low-risk ICOs to attract, empower and more importantly, protect retail investors."
+  },
+  "explorer": ["https://etherscan.io/token/0xfbe1c2a693746ccfa2755bd408986da5281c689f?a=0xac811fd9995b96d4dc0721cf8340edb77549edb3"],
+  "fromSymbol": "DAC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Dacxi",
+  "network": {
+    "t_available_supply": 10000000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 10000000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/DAC"],
+  "social": ["https://www.instagram.com/dacxiglobal/", "https://twitter.com/dacxiglobal/", "https://www.facebook.com/DacxiGlobal/"],
+  "source_code": ["https://github.com/dacxi"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://dacxi.com/"
+}

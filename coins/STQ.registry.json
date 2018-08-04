@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/storiqa_en"],
+  "community": ["https://www.reddit.com/r/Storiqa/"],
+  "description": {
+    "en": "Sell and buy goods with cryptocurrencies. No financial borders, extra fees and fake reviews anymore."
+  },
+  "explorer": ["https://ethplorer.io/address/0x5c3a228510d246b78a3765c20221cbf3082b44a4", "https://etherscan.io/token/0x5c3a228510d246b78a3765c20221cbf3082b44a4"],
+  "fromSymbol": "STQ",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Storiqa",
+  "network": {
+    "t_available_supply": 100971101,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/STQ"],
+  "social": ["https://twitter.com/storiqa", "https://www.facebook.com/storiqa"],
+  "source_code": ["https://github.com/Storiqa/ico_smart_contract"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://storiqa.com"
+}

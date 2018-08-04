@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/ProChainTech"],
+  "community": ["https://www.reddit.com/r/ProChain/"],
+  "description": {
+    "en": "The aim of ProChain is to build a transparent digital advertising data ecosystem, which can connect advertisers, the media and developers, improve the efficiency of settlement of advertising services, reduce the loss of advertising data fraud and maximize the interests of all parties involved in digital advertising through de-intermediary."
+  },
+  "explorer": ["https://ethplorer.io/address/0x9041fe5b3fdea0f5e4afdc17e75180738d877a01", "https://etherscan.io/token/0x9041Fe5B3FDEA0f5e4afDC17e75180738D877A01"],
+  "fromSymbol": "PRA",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ProChain",
+  "network": {
+    "t_available_supply": 49562749,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/PRA"],
+  "social": ["https://weibo.com/prochain?is_hot", "https://twitter.com/prochaintech"],
+  "source_code": ["https://github.com/ProChain/TokenContract"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://chain.pro/"
+}

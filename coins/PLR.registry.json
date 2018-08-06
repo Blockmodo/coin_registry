@@ -1,11 +1,11 @@
 {
-  "algorithm": "",
-  "chat": [],
+  "algorithm": null,
+  "chat": ["https://t.me/pillarofficial"],
   "community": ["https://www.reddit.com/r/PillarProject"],
   "description": {
-    "en": ""
+    "en": "The goal of the Pillar Project is to return control over personal data back to its rightful owner - you. Starting with an open-source wallet to store, transact, and track cryptocurrencies and tokens, the Pillar Wallet will evolve into a decentralised, personal data-management platform."
   },
-  "explorer": [],
+  "explorer": ["https://etherscan.io/token/0xe3818504c1b32bf1557b16c238b2e01fd3149c17"],
   "fromSymbol": "PLR",
   "is_crypto": true,
   "is_minable": false,
@@ -16,10 +16,10 @@
     "t_max_supply": 0,
     "t_total_supply": 800000000
   },
-  "proof_type": "",
+  "proof_type": null,
   "quote": ["https://blockmodo.com/quotes/PLR"],
-  "social": ["https://twitter.com/@PillarWallet"],
-  "source_code": [],
+  "social": ["https://twitter.com/@PillarWallet", "https://www.facebook.com/pillarproject/", "https://www.youtube.com/c/PillarProject"],
+  "source_code": ["https://github.com/twentythirty/PillarToken"],
   "toSymbol": "ALL",
   "type": "COINREGISTRY",
   "version": 1,

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "GunCoin",
   "network": {
-    "t_available_supply": 223356628,
+    "t_available_supply": 223356778,
     "t_block_reward": 0,
     "t_max_supply": 500000000,
-    "t_total_supply": 223356628
+    "t_total_supply": 223356778
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/GUN"],

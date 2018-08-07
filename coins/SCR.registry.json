@@ -1,31 +1,27 @@
 {
-    "algorithm": "DPoS",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SCR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Scorum",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 20000000,
-        "t_total_supply": 0
-    },
-    "proof_type": "DPoS",
-    "quote": [
-        "https://blockmodo.com/quotes/SCR"
-    ],
-    "social": [
-        "https://twitter.com/@scorum_en"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://scorumcoins.com/en-us/affiliate/MbHvgxf"
+  "algorithm": "DPoS",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SCR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Scorum",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 6028553
+  },
+  "proof_type": "DPoS",
+  "quote": ["https://blockmodo.com/quotes/SCR"],
+  "social": ["https://twitter.com/@scorum_en"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://scorumcoins.com/en-us/affiliate/MbHvgxf"
 }

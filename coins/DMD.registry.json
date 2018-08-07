@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Diamond",
   "network": {
-    "t_available_supply": 2891734,
+    "t_available_supply": 2891750,
     "t_block_reward": 0,
     "t_max_supply": 4380000,
-    "t_total_supply": 2891734
+    "t_total_supply": 2891750
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/DMD"],

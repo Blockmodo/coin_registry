@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": "SHE Coin is a latest cryptocurrency emerging in the new era of digital financial world. It is introduced in the innovative hybrid platform which allows investors to invest and increase their wealth sustainably."
+  },
+  "explorer": ["https://etherscan.io/address/0x4ac84f878b331e0a60423d25665eba7f33f346fe"],
+  "fromSymbol": "SHE",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SHECoin",
+  "network": {
+    "t_available_supply": 20000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/SHE"],
+  "social": ["https://twitter.com/SheCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://sterniumhugeelligencecoin.com/"
+}

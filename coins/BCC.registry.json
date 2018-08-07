@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": "BitConnect is an open source all in one bitcoin and crypto community platform designed to provide multiple investment opportunities with cryptocurrency education where it is entirely possible to find the independence we all desire, in a community of like-minded, freedom loving individuals who, like you, are seeking the possibility of income stability in a very unstable world."
+  },
+  "explorer": ["https://etherscan.io/token/0x02c4c78c462e32cca4a90bc499bf411fb7bc6afb"],
+  "fromSymbol": "BCC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BitConnect",
+  "network": {
+    "t_available_supply": 20000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/BCC"],
+  "social": [],
+  "source_code": ["https://github.com/bitconnectcoin/bitconnectcoin", "https://www.blockexperts.com/bcc", "https://chainz.cryptoid.info/bcc/"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.bitconnect.co/"
+}

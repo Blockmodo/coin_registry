@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/acuteanglecloud"],
+  "community": [],
+  "description": {
+    "en": "Rent out your computer's unused storage."
+  },
+  "explorer": ["https://etherscan.io/token/0xe75ad3aab14e4b0df8c5da4286608dabb21bd864"],
+  "fromSymbol": "AAC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Acute Angle Cloud",
+  "network": {
+    "t_available_supply": 20000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/AAC"],
+  "social": [],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://acuteangle.com/"
+}

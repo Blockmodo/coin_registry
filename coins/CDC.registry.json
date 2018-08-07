@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": [],
+  "community": ["https://www.reddit.com/r/Donationcoin/"],
+  "description": {
+    "en": "CDC (Crescent Donation Coin) is a compatible payment system that works as a bridge between fiat currency and cryptocurrency. It cooperates with the institutional financial network to enable financial transactions both online and offline through C-Card which can be used in everyday life. Through cryptocurrency exchange or cryptocurrency management company, C-Card can be compatible with hundreds of cryptocurrencies around the world."
+  },
+  "explorer": ["https://etherscan.io/token/0x87026f792d09960232ca406e80c89bd35bafe566"],
+  "fromSymbol": "CDC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Crescent Donation Coin",
+  "network": {
+    "t_available_supply": 20000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/CDC"],
+  "social": ["https://twitter.com/crescent_coin", "https://www.facebook.com/pg/crescentdonationcoin"],
+  "source_code": ["https://github.com/atonomi/smart-contracts"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://crescentcoin.org/"
+}

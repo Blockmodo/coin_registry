@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/joinchat/E0VPwUrKJmq67R7tSP7f_g"],
+  "community": [],
+  "description": {
+    "en": "Blockchain Based Publishing & Reading Platform."
+  },
+  "explorer": ["https://ethplorer.io/address/0x13d0bf45e5f319fa0b58900807049f23cae7c40d", "https://etherscan.io/token/0x13d0bf45e5f319fa0b58900807049f23cae7c40d"],
+  "fromSymbol": "READ",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Read",
+  "network": {
+    "t_available_supply": 20000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/READ"],
+  "social": ["https://twitter.com/readernet_io"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.readernet.io/"
+}

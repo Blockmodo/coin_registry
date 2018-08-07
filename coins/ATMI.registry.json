@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/atonomi_io"],
+  "community": ["https://www.reddit.com/r/Atonomi/"],
+  "description": {
+    "en": "Atonomi provides a new security protocol and infrastructure to enable billions of IoT devices to have trusted interoperability for both data and commerce."
+  },
+  "explorer": ["https://ethplorer.io/address/0x97aeb5066e1a590e868b511457beb6fe99d329f5", "https://etherscan.io/token/0x97aeb5066e1a590e868b511457beb6fe99d329f5"],
+  "fromSymbol": "ATMI",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Atonomi",
+  "network": {
+    "t_available_supply": 20000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/ATMI"],
+  "social": ["https://twitter.com/atonomi", "https://www.facebook.com/atonomi/"],
+  "source_code": ["https://github.com/atonomi/smart-contracts"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.atonomi.io/"
+}

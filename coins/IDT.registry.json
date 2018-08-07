@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/joinchat/GOl_IhDqIrD1jYOg0FgTqA"],
+  "community": [],
+  "description": {
+    "en": "InvestDigital is the asset management protocol and toolset for crypto assets, and it is implemented on EOS block chain. Our vision is to build the completed ecosystem from content/tool production to investment strategy and then to financial products for crypto assets investment."
+  },
+  "explorer": ["https://etherscan.io/token/0x02c4c78c462e32cca4a90bc499bf411fb7bc6afb"],
+  "fromSymbol": "IDT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "InvestDigital",
+  "network": {
+    "t_available_supply": 20000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/IDT"],
+  "social": [],
+  "source_code": ["https://github.com/investdigital/investdigital-backend"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://investdigital.info/"
+}

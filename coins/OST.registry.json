@@ -1,5 +1,5 @@
 {
-  "algorithm": "",
+  "algorithm": null,
   "chat": [],
   "community": ["https://www.reddit.com/r/OSTdotcom"],
   "description": {
@@ -16,7 +16,7 @@
     "t_max_supply": 0,
     "t_total_supply": 800000000
   },
-  "proof_type": "",
+  "proof_type": null,
   "quote": ["https://blockmodo.com/quotes/OST"],
   "social": ["https://twitter.com/@TheSimpleToken"],
   "source_code": ["https://github.com/OpenSTFoundation/openst-payments", "https://github.com/OpenSTFoundation/ost-sdk-ruby", "https://github.com/OpenSTFoundation/openst-platform-apis", "https://github.com/OpenSTFoundation/openst-platform", "https://github.com/OpenSTFoundation/openst-notification"],

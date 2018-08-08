@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Pakcoin",
   "network": {
-    "t_available_supply": 59073850,
+    "t_available_supply": 59073900,
     "t_block_reward": 0,
     "t_max_supply": 182000000,
-    "t_total_supply": 59073850
+    "t_total_supply": 59073900
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/PAK"],

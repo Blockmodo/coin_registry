@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Neutron",
   "network": {
-    "t_available_supply": 37234259,
+    "t_available_supply": 37234474,
     "t_block_reward": 0,
     "t_max_supply": 68000000,
-    "t_total_supply": 37234259
+    "t_total_supply": 37234474
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/NTRN"],

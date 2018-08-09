@@ -1,11 +1,11 @@
 {
   "algorithm": "Scrypt",
-  "chat": [],
-  "community": [],
+  "chat": ["https://t.me/potcoin420"],
+  "community": ["https://www.reddit.com/r/potcoin/"],
   "description": {
-    "en": ""
+    "en": "PotCoin is a digital currency for the cannabis industry and community."
   },
-  "explorer": [],
+  "explorer": ["https://chain.potcoin.com/", "https://chainz.cryptoid.info/pot/"],
   "fromSymbol": "POT",
   "is_crypto": true,
   "is_minable": false,

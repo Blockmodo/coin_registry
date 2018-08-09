@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "MinCoin",
   "network": {
-    "t_available_supply": 4718213,
+    "t_available_supply": 4718247,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 4718213
+    "t_total_supply": 4718247
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/MNC"],

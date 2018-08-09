@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "LomoCoin",
   "network": {
-    "t_available_supply": 240215616,
+    "t_available_supply": 240215788,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 325215616
+    "t_total_supply": 325215788
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/LMC"],

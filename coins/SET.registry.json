@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SET",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Setcoin",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 1000000000,
-        "t_total_supply": 0
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/SET"
-    ],
-    "social": [
-        "https://twitter.com/@inservisetcoins"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://ico.setcoins.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SET",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Setcoin",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 286293627
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/SET"],
+  "social": ["https://twitter.com/@inservisetcoins"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://ico.setcoins.io/"
 }

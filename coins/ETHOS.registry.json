@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/ethos_io"],
+  "community": ["https://www.reddit.com/r/ethos_io/"],
+  "description": {
+    "en": "Ethos Universal Cryptocurrency Wallet brings it all together, and then some. We’re starting with digital assets, but we’re building a hybrid ecosystem that brings together digital and traditional assets in powerful new ways. A complete view of your financial future."
+  },
+  "explorer": ["https://ethplorer.io/address/0x5af2be193a6abca9c8817001f45744777db30756", "https://etherscan.io/token/0x5af2be193a6abca9c8817001f45744777db30756"],
+  "fromSymbol": "ETHOS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ETHOS",
+  "network": {
+    "t_available_supply": 372074898,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 800000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/ETHOS"],
+  "social": ["https://www.facebook.com/ethosplatform"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.ethos.io/"
+}

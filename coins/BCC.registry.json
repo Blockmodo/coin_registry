@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "BitConnect",
   "network": {
-    "t_available_supply": 9815841,
+    "t_available_supply": 9815859,
     "t_block_reward": 0,
     "t_max_supply": 28000000,
-    "t_total_supply": 10588426
+    "t_total_supply": 10588444
   },
   "proof_type": null,
   "quote": ["https://blockmodo.com/quotes/BCC"],

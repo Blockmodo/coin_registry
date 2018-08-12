@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Transfer",
   "network": {
-    "t_available_supply": 6588161,
+    "t_available_supply": 6588181,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 6588161
+    "t_total_supply": 6588181
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/TX"],

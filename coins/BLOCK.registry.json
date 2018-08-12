@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "BlockNet",
   "network": {
-    "t_available_supply": 5281209,
+    "t_available_supply": 5281224,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 5281209
+    "t_total_supply": 5281224
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/BLOCK"],

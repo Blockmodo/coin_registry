@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "MonaCoin",
   "network": {
-    "t_available_supply": 61507875,
+    "t_available_supply": 61508150,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 61507875
+    "t_total_supply": 61508150
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/MONA"],

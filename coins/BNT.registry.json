@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Bancor Network Token",
   "network": {
-    "t_available_supply": 51853201,
+    "t_available_supply": 51851655,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 76522399
+    "t_total_supply": 76520853
   },
   "proof_type": "",
   "quote": ["https://blockmodo.com/quotes/BNT"],

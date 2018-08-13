@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Doubloon",
   "network": {
-    "t_available_supply": 71489021,
+    "t_available_supply": 71489103,
     "t_block_reward": 0,
     "t_max_supply": 500000000,
-    "t_total_supply": 71489021
+    "t_total_supply": 71489103
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/BOAT"],

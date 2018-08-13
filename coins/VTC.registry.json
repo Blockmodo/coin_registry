@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "VertCoin",
   "network": {
-    "t_available_supply": 45514700,
+    "t_available_supply": 45514900,
     "t_block_reward": 0,
     "t_max_supply": 84000000,
-    "t_total_supply": 45514700
+    "t_total_supply": 45514900
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/VTC"],

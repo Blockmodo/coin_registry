@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "EnergyCoin",
   "network": {
-    "t_available_supply": 122117935,
+    "t_available_supply": 122117960,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 122117935
+    "t_total_supply": 122117960
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/ENRG"],

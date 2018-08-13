@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "SolarCoin",
   "network": {
-    "t_available_supply": 45217194,
+    "t_available_supply": 45217232,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 98034496079
+    "t_total_supply": 98034496107
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/SLR"],

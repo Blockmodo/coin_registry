@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Denarius",
   "network": {
-    "t_available_supply": 3440111,
+    "t_available_supply": 3440227,
     "t_block_reward": 0,
     "t_max_supply": 10000000,
-    "t_total_supply": 3440111
+    "t_total_supply": 3440227
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/DNR"],

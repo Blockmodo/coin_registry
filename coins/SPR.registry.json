@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Spreadcoin",
   "network": {
-    "t_available_supply": 10462125,
+    "t_available_supply": 10462209,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 10462125
+    "t_total_supply": 10462209
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/SPR"],

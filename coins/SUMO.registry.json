@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Sumokoin",
   "network": {
-    "t_available_supply": 6609167,
+    "t_available_supply": 6609419,
     "t_block_reward": 0,
     "t_max_supply": 88888888,
-    "t_total_supply": 15498056
+    "t_total_supply": 15498308
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/SUMO"],

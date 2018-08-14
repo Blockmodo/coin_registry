@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Bitradio",
   "network": {
-    "t_available_supply": 6666172,
+    "t_available_supply": 6666242,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 11666176
+    "t_total_supply": 11666246
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/BRO"],

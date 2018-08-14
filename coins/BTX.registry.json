@@ -11,10 +11,10 @@
   "is_minable": true,
   "name": "Bitcore",
   "network": {
-    "t_available_supply": 15670476,
+    "t_available_supply": 15670501,
     "t_block_reward": 3.125,
     "t_max_supply": 21000000,
-    "t_total_supply": 17124703
+    "t_total_supply": 17124728
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/BTX"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "MoinCoin",
   "network": {
-    "t_available_supply": 7780700,
+    "t_available_supply": 7780727,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 7780700
+    "t_total_supply": 7780727
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/MOIN"],

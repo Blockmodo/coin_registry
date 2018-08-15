@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "SwingCoin",
   "network": {
-    "t_available_supply": 3541000,
+    "t_available_supply": 3541036,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 3541000
+    "t_total_supply": 3541036
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/SWING"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "eMark",
   "network": {
-    "t_available_supply": 41120560,
+    "t_available_supply": 41121610,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 48102536
+    "t_total_supply": 48103586
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/DEM"],

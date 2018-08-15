@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Gapcoin",
   "network": {
-    "t_available_supply": 13712223,
+    "t_available_supply": 13712326,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 13712223
+    "t_total_supply": 13712326
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/GAP"],

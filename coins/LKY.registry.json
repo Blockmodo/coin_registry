@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "LKY",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "LuckyCoin",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 20000000,
-        "t_total_supply": 0
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/LKY"
-    ],
-    "social": [
-        "https://twitter.com/@LKYFoundation"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://www.luckycoin.cc/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "LKY",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "LuckyCoin",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 195000000
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/LKY"],
+  "social": ["https://twitter.com/@LKYFoundation"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.luckycoin.cc/"
 }

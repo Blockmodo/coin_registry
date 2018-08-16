@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/joinchat/GG4BlQwm19czcBGOewv40Q", "https://t.me/vechain_official_english"],
+  "community": ["https://www.reddit.com/r/Vechain"],
+  "description": {
+    "en": "VeChain is the world’s leading blockchain platform for products and information.VeChain strives to build a trust-free and distributed business ecosystem based on the blockchain technology self-circulated and expanding."
+  },
+  "explorer": ["https://ethplorer.io/address/0xd850942ef8811f2a866692a623011bde52a462c1", "https://etherscan.io/token/0xd850942ef8811f2a866692a623011bde52a462c1"],
+  "fromSymbol": "VET",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Vechain",
+  "network": {
+    "t_available_supply": 554545494,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 873378637
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/VET"],
+  "social": ["https://twitter.com/@vechainofficial", "https://www.facebook.com/vechain", "https://www.instagram.com/vechain1"],
+  "source_code": ["https://github.com/vechain/crowdsale-contracts", "https://github.com/vechain/thor", "https://github.com/vechain/thorify"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.vechain.com"
+}

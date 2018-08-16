@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/realjesuscoinico"],
+  "community": ["https://www.reddit.com/r/jesus_coin/"],
+  "description": {
+    "en": "Decentralizing Jesus on the Blockchain."
+  },
+  "explorer": ["https://ethplorer.io/address/0xe2d82dc7da0e6f882e96846451f4fabcc8f90528", "https://etherscan.io/token/0xe2d82dc7da0e6f882e96846451f4fabcc8f90528"],
+  "fromSymbol": "JC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "PotCoin",
+  "network": {
+    "t_available_supply": 220431512,
+    "t_block_reward": 0,
+    "t_max_supply": 420000000,
+    "t_total_supply": 220431512
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/JC"],
+  "social": ["https://twitter.com/Jesuscoinico", "https://www.facebook.com/jesuscoincrypto/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://jesuscoin.network/"
+}

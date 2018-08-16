@@ -1,36 +1,27 @@
 {
-    "algorithm": null,
-    "chat": [
-        "https://t.me/showhandofficial",
-        "https://showhandofficial.slack.com/"
-    ],
-    "community": [],
-    "description": {
-        "en": "ShowHand is an advanced blockchain platform created to bring a fast, secure and trustless structure for the global gaming ecosystem. Our goal is to make gaming more inclusive, fair and decentralized."
-    },
-    "explorer": [
-        "https://etherscan.io/token/0x48c1b2f3efa85fbafb2ab951bf4ba860a08cdbb7"
-    ],
-    "fromSymbol": "HAND",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ShowHand",
-    "network": {
-        "t_available_supply": 10000000000,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 10000000000
-    },
-    "proof_type": null,
-    "quote": [
-        "https://blockmodo.com/quotes/HAND"
-    ],
-    "social": [
-        "https://twitter.com/@showhandio"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://showhand.io/"
+  "algorithm": null,
+  "chat": ["https://t.me/showhandofficial", "https://showhandofficial.slack.com/"],
+  "community": [],
+  "description": {
+    "en": "ShowHand is an advanced blockchain platform created to bring a fast, secure and trustless structure for the global gaming ecosystem. Our goal is to make gaming more inclusive, fair and decentralized."
+  },
+  "explorer": ["https://etherscan.io/token/0x48c1b2f3efa85fbafb2ab951bf4ba860a08cdbb7"],
+  "fromSymbol": "HAND",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ShowHand",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 403000000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/HAND"],
+  "social": ["https://twitter.com/@showhandio"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://showhand.io/"
 }

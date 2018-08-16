@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "TKT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Crypto Tickets",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 52006540,
-        "t_total_supply": 0
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/TKT"
-    ],
-    "social": [
-        "https://twitter.com/@CryptoTickets"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://crypto.tickets"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "TKT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Crypto Tickets",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 2000000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/TKT"],
+  "social": ["https://twitter.com/@CryptoTickets"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://crypto.tickets"
 }

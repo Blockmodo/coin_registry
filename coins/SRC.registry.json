@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "SecureCoin",
   "network": {
-    "t_available_supply": 9035966,
+    "t_available_supply": 9036076,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 9035966
+    "t_total_supply": 9036076
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/SRC"],

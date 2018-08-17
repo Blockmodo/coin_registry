@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Gulden",
   "network": {
-    "t_available_supply": 412390760,
+    "t_available_supply": 412392560,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 474390760
+    "t_total_supply": 474392560
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/NLG"],

@@ -72,7 +72,7 @@ The Blockmodo API always assigns type names to Payloads for easy parsing. In thi
 
 > root → version
 
-The version of the payload. From time to time, Blockmodo, or its contributors, might change the schema of the JSON payload when adding or removing fields. In such a scneario, the version number will be incremented.
+The version of the payload. From time to time, Blockmodo, or its contributors, might change the schema of the JSON payload when adding or removing fields. In such a scenario, the version number will be incremented.
 
 > root → name
 
@@ -84,7 +84,7 @@ Each Blockmodo payload must have a fromSymbol and toSymbol unless otherwise spec
 
 > root → fromSymbol
 
-Like above, the toSymbol will describe the relation to some other currency. In this case, since we are descibing a currency with no relation to another, the toSymbol will always be 'ALL'.
+Like above, the toSymbol will describe the relation to some other currency. In this case, since we are describing a currency with no relation to another, the toSymbol will always be 'ALL'.
 
 > root → website
 
@@ -129,7 +129,7 @@ Is the coin minable using a proof_type.
 
 > root → proof_type
 
-The type of work requied to verify blocks of transactions. 
+The type of workrequiredd to verify blocks of transactions. 
 
 > root → algorithm
 

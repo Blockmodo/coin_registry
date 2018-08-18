@@ -129,7 +129,7 @@ Is the coin minable using a proof_type.
 
 > root → proof_type
 
-The type of workrequiredd to verify blocks of transactions. 
+The type of work required to verify blocks of transactions. 
 
 > root → algorithm
 

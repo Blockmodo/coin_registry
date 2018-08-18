@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "IXcoin",
   "network": {
-    "t_available_supply": 21012904,
+    "t_available_supply": 21012907,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 21012904
+    "t_total_supply": 21012907
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/IXC"],

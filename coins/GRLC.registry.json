@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Garlicoin",
   "network": {
-    "t_available_supply": 12296377,
+    "t_available_supply": 12298227,
     "t_block_reward": 0,
     "t_max_supply": 69000000,
-    "t_total_supply": 22296377
+    "t_total_supply": 22298227
   },
   "proof_type": "Scrypt-adaptive-N (ASIC resistant)",
   "quote": ["https://blockmodo.com/quotes/GRLC"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "VIVO Coin",
   "network": {
-    "t_available_supply": 2523290,
+    "t_available_supply": 2523320,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 3343290
+    "t_total_supply": 3343320
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/VIVO"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "ProCurrency",
   "network": {
-    "t_available_supply": 99285890,
+    "t_available_supply": 99286070,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 15006470685
+    "t_total_supply": 15006470865
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/PROC"],

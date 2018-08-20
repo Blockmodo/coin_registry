@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "CloakCoin",
   "network": {
-    "t_available_supply": 5176499,
+    "t_available_supply": 5176502,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 5176499
+    "t_total_supply": 5176502
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/CLOAK"],

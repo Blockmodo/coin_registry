@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Ubiq",
   "network": {
-    "t_available_supply": 42153341,
+    "t_available_supply": 42153530,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 42153341
+    "t_total_supply": 42153530
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/UBQ"],

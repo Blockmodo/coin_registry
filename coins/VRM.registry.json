@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Verium",
   "network": {
-    "t_available_supply": 1755593,
+    "t_available_supply": 1755605,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 1755593
+    "t_total_supply": 1755605
   },
   "proof_type": "PoWT",
   "quote": ["https://blockmodo.com/quotes/VRM"],

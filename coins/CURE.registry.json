@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Curecoin",
   "network": {
-    "t_available_supply": 23890671,
+    "t_available_supply": 23890672,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 23890671
+    "t_total_supply": 23890672
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/CURE"],

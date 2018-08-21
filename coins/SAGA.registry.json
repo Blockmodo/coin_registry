@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "SagaCoin",
   "network": {
-    "t_available_supply": 4850717,
+    "t_available_supply": 4850973,
     "t_block_reward": 0,
     "t_max_supply": 42000000,
-    "t_total_supply": 6950717
+    "t_total_supply": 6950973
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/SAGA"],

@@ -11,10 +11,10 @@
   "is_minable": true,
   "name": "Bitcoin",
   "network": {
-    "t_available_supply": 17225162,
+    "t_available_supply": 17225187,
     "t_block_reward": 0,
     "t_max_supply": 21000000,
-    "t_total_supply": 17225162
+    "t_total_supply": 17225187
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/BTC"],

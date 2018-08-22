@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "MartexCoin",
   "network": {
-    "t_available_supply": 3067127,
+    "t_available_supply": 3067137,
     "t_block_reward": 0,
     "t_max_supply": 5000000,
-    "t_total_supply": 3067127
+    "t_total_supply": 3067137
   },
   "proof_type": " PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/MXT"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "E-Gulden",
   "network": {
-    "t_available_supply": 16936127,
+    "t_available_supply": 16936148,
     "t_block_reward": 0,
     "t_max_supply": 21000000,
-    "t_total_supply": 20778799
+    "t_total_supply": 20778820
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/EFL"],

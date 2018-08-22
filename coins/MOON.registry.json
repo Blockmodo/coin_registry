@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "MoonCoin",
   "network": {
-    "t_available_supply": 224617778975,
+    "t_available_supply": 224617855033,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 224617778975
+    "t_total_supply": 224617855033
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/MOON"],

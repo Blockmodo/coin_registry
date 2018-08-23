@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Cryptonex",
   "network": {
-    "t_available_supply": 45428003,
+    "t_available_supply": 45428023,
     "t_block_reward": 0,
     "t_max_supply": 210000000,
-    "t_total_supply": 106865629
+    "t_total_supply": 106865649
   },
   "proof_type": "",
   "quote": ["https://blockmodo.com/quotes/CNX"],

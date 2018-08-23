@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Rupee",
   "network": {
-    "t_available_supply": 24287847,
+    "t_available_supply": 24287947,
     "t_block_reward": 0,
     "t_max_supply": 84000000,
-    "t_total_supply": 31244500
+    "t_total_supply": 31244600
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/RUP"],

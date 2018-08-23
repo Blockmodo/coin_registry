@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "TurtleCoin",
   "network": {
-    "t_available_supply": 21623884886,
+    "t_available_supply": 21625020387,
     "t_block_reward": 0,
     "t_max_supply": 1000000000000,
-    "t_total_supply": 21623884886
+    "t_total_supply": 21625020387
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/TRTL"],

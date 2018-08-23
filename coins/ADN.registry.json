@@ -11,10 +11,10 @@
   "is_minable": true,
   "name": "Aiden",
   "network": {
-    "t_available_supply": 11205440,
+    "t_available_supply": 11205910,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 12684606
+    "t_total_supply": 12685146
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/ADN"],

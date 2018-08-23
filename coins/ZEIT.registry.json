@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "ZeitCoin",
   "network": {
-    "t_available_supply": 36971211400,
+    "t_available_supply": 36971211401,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 36971211400
+    "t_total_supply": 36971211401
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/ZEIT"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Linx",
   "network": {
-    "t_available_supply": 28215130,
+    "t_available_supply": 28215550,
     "t_block_reward": 0,
     "t_max_supply": 100000000,
-    "t_total_supply": 29215130
+    "t_total_supply": 29215550
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/LINX"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "PayCoin",
   "network": {
-    "t_available_supply": 11937832,
+    "t_available_supply": 11937834,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 11937832
+    "t_total_supply": 11937834
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/XPY"],

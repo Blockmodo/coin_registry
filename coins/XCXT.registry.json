@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "CoinonatX",
   "network": {
-    "t_available_supply": 19370049,
+    "t_available_supply": 19370077,
     "t_block_reward": 0,
     "t_max_supply": 48252000,
-    "t_total_supply": 19370049
+    "t_total_supply": 19370077
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/XCXT"],

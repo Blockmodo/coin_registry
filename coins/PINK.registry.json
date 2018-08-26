@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "PinkCoin",
   "network": {
-    "t_available_supply": 384897663,
+    "t_available_supply": 384900413,
     "t_block_reward": 0,
     "t_max_supply": 500000000,
-    "t_total_supply": 410158099
+    "t_total_supply": 410160849
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/PINK"],

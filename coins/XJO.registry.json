@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "JouleCoin",
   "network": {
-    "t_available_supply": 36551879,
+    "t_available_supply": 36551959,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 36551879
+    "t_total_supply": 36551959
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/XJO"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "BitstarCoin",
   "network": {
-    "t_available_supply": 19622463,
+    "t_available_supply": 19622504,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 19622463
+    "t_total_supply": 19622504
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/BITS"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "QuarkCoin",
   "network": {
-    "t_available_supply": 256190899,
+    "t_available_supply": 256190969,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 256190899
+    "t_total_supply": 256190969
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/QRK"],

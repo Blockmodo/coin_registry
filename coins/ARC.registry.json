@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "ArcticCoin",
   "network": {
-    "t_available_supply": 25022125,
+    "t_available_supply": 25022127,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 25022125
+    "t_total_supply": 25022127
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/ARC"],

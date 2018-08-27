@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "PutinCoin",
   "network": {
-    "t_available_supply": 532885714,
+    "t_available_supply": 532887867,
     "t_block_reward": 0,
     "t_max_supply": 2000000000,
-    "t_total_supply": 532885714
+    "t_total_supply": 532887867
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/PUT"],

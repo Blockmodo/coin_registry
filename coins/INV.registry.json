@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Invictus",
   "network": {
-    "t_available_supply": 43259936,
+    "t_available_supply": 32814600,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 50584936
+    "t_total_supply": 44833000
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/INV"],

@@ -11,10 +11,10 @@
   "is_minable": true,
   "name": "SixEleven",
   "network": {
-    "t_available_supply": 455001,
+    "t_available_supply": 455002,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 455001
+    "t_total_supply": 455002
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/611"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "RevolverCoin",
   "network": {
-    "t_available_supply": 23078406,
+    "t_available_supply": 23078454,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 23078406
+    "t_total_supply": 23078454
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/XRE"],

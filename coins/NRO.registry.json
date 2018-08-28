@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Neuro",
   "network": {
-    "t_available_supply": 56837834,
+    "t_available_supply": 56837840,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 58837834
+    "t_total_supply": 58837840
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/NRO"],

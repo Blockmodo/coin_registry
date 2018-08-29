@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "ChanCoin",
   "network": {
-    "t_available_supply": 10088512,
+    "t_available_supply": 10089213,
     "t_block_reward": 0,
     "t_max_supply": 27000000,
-    "t_total_supply": 10088512
+    "t_total_supply": 10089213
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/CHAN"],

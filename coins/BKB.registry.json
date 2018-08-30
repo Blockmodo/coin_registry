@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": "Bitcoin Wonder is a fork of Bitcoin designed to be wonderous."
+  },
+  "explorer": ["https://etherscan.io/token/0xb2bfeb70b903f1baac7f2ba2c62934c7e5b974c4"],
+  "fromSymbol": "BCW",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Bitcoin Wonder",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 21000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/BCW"],
+  "social": ["https://twitter.com/bitcoinwonder_"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://github.com/Bitcoinwonder"
+}

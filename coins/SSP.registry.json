@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/SmartshareOfficial"],
+  "community": ["https://www.reddit.com/r/Smartshare/"],
+  "description": {
+    "en": "Smartshare is an intelligent and credible decentralized blockchain technology platform designed to reshape the value ecosystem and data value of the Internet of things. "
+  },
+  "explorer": ["https://ethplorer.io/address/0x624d520bab2e4ad83935fa503fb130614374e850", "https://etherscan.io/token/0x624d520bab2e4ad83935fa503fb130614374e850"],
+  "fromSymbol": "SSP",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Smartshare",
+  "network": {
+    "t_available_supply": 3049934937,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 10000000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/SSP"],
+  "social": ["https://twitter.com/smartshare_vip?lang=en", "https://www.facebook.com/pg/smartshare.vip"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://smartshare.vip"
+}

@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/Hyperpayofficialenglish"],
+  "community": [],
+  "description": {
+    "en": "A Multiple Currency Payment Solution for Tomorrow’s Commerce. HyperPay wallet currently supports 43 crypto currencies."
+  },
+  "explorer": ["https://explorer.qtum.org/token/f2703e93f87b846a7aacec1247beaec1c583daa4"],
+  "fromSymbol": "HPY",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "HyperPay",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 2650000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/HPY"],
+  "social": ["https://twitter.com/HyperPay_tech", "https://www.facebook.com/hyperpayofficial/"],
+  "source_code": ["https://github.com/TariqAtari/HyperpayMagentoo"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.hyperpay.tech/"
+}

@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/essentia_one"],
+  "community": [],
+  "description": {
+    "en": "Essentia is the decentralized framework to create, store and access your decentralised digital life."
+  },
+  "explorer": ["https://etherscan.io/token/0xfc05987bd2be489ACCF0f509E44B0145d68240f7", "https://ethplorer.io/address/0xfc05987bd2be489accf0f509e44b0145d68240f7"],
+  "fromSymbol": "ESS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Essentia",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1755313373
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/ESS"],
+  "social": ["https://www.facebook.com/essentiaone/", "https://twitter.com/Essentia_one"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://essentia.one/"
+}

@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://www.t.me/truechain", "https://t.me/truechainglobal"],
+  "community": ["https://www.reddit.com/r/truechain/"],
+  "description": {
+    "en": "TrueChain is a truly fast, permissionless, secure and scalable permissionless blockchain platform which is supported by hybrid consensus technology called Minerva and a global developer community."
+  },
+  "explorer": ["https://ethplorer.io/address/0xa4d17ab1ee0efdd23edc2869e7ba96b89eecf9ab", "https://etherscan.io/token/0xA4d17AB1eE0efDD23edc2869E7BA96B89eEcf9AB"],
+  "fromSymbol": "TRUE",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "TrueChain",
+  "network": {
+    "t_available_supply": 46448735,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/TRUE"],
+  "social": ["https://twitter.com/truechaingroup/", "https://www.facebook.com/TrueChaingroup/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.truechain.pro/"
+}

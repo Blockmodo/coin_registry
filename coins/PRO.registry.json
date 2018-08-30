@@ -1,11 +1,11 @@
 {
-  "algorithm": "",
-  "chat": [],
-  "community": [],
+  "algorithm": null,
+  "chat": ["https://t.me/joinchat/AAAAAENZVo1O6X7rusdRWg"],
+  "community": ["https://www.reddit.com/r/PropyInc/"],
   "description": {
-    "en": ""
+    "en": "PROPY(PRO) is the first global property store with a decentralized registry. The registry is a hybrid solution based on Ethereum blockchain and at the same time keeping the sensitive date off-chain through our proprietary privacy solution."
   },
-  "explorer": [],
+  "explorer": ["https://etherscan.io/token/0x226bb599a12c826476e3a771454697ea52e9e220", "https://ethplorer.io/address/0x226bb599a12c826476e3a771454697ea52e9e220"],
   "fromSymbol": "PRO",
   "is_crypto": true,
   "is_minable": false,
@@ -16,10 +16,10 @@
     "t_max_supply": 0,
     "t_total_supply": 100000000
   },
-  "proof_type": "",
+  "proof_type": null,
   "quote": ["https://blockmodo.com/quotes/PRO"],
   "social": ["https://twitter.com/@PropyInc"],
-  "source_code": [],
+  "source_code": ["https://github.com/Propy/ethereum"],
   "toSymbol": "ALL",
   "type": "COINREGISTRY",
   "version": 1,

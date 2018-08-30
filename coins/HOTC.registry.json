@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": "Global fundamental public Chain for culture, sports and pan-entertainment industry."
+  },
+  "explorer": ["https://etherscan.io/token/0x4d09c5e758ca68be27240f29fb681e5a5341ca98"],
+  "fromSymbol": "HOTC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "HotChain",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/HOTC"],
+  "social": ["https://twitter.com/hot_chain"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.hotchain.vip/"
+}

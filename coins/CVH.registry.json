@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/curriculumvitaechain"],
+  "community": ["https://www.reddit.com/r/CVH_Coin/"],
+  "description": {
+    "en": "The Most Advanced Career Verification System."
+  },
+  "explorer": ["https://ethplorer.io/address/0x52db8ebf894036ec997da693c5fa237a4fb69d10", "https://etherscan.io/token/0x52DB8ebF894036ec997Da693C5fa237A4fb69d10"],
+  "fromSymbol": "CVH",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Curriculum Vitae",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1900000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/CVH"],
+  "social": ["https://www.weibo.com/6391442976/profile?topnav=1&wvr=6&is_all=1", "https://twitter.com/CVChainOfficial"],
+  "source_code": ["https://github.com/CVHCoin/CVH-Curriculum-Vitae"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.cvh.io/"
+}

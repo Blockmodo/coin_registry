@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": "Borderless unbounded blockchain-based decentralized exchange."
+  },
+  "explorer": ["https://etherscan.io/token/0x226bb599a12c826476e3a771454697ea52e9e220", "https://ethplorer.io/address/0x226bb599a12c826476e3a771454697ea52e9e220"],
+  "fromSymbol": "BDS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Borderless",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/BDS"],
+  "social": [],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.borderless.vip/"
+}

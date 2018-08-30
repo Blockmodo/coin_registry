@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": "Copyright and tipping system for performers."
+  },
+  "explorer": ["https://ethplorer.io/address/0xa4d17ab1ee0efdd23edc2869e7ba96b89eecf9ab", "https://etherscan.io/token/0xA4d17AB1eE0efDD23edc2869E7BA96B89eEcf9AB"],
+  "fromSymbol": "MIPS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "MIPS",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 50000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/MIPS"],
+  "social": [],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://m-ticket.jp/mips_platform"
+}

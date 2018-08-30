@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "TajCoin",
   "network": {
-    "t_available_supply": 10068924,
+    "t_available_supply": 10069122,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 10068924
+    "t_total_supply": 10069122
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/TAJ"],

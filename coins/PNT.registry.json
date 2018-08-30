@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://penta-global.slack.com/", "https://t.me/pentaglobal", "https://open.kakao.com/o/gysDL5K"],
+  "community": ["https://www.reddit.com/user/Penta_Global"],
+  "description": {
+    "en": "Penta Network is a next generation platform for both public and private blockchain projects, designed to be a premier platform for transferring value and operating high-performance decentralized applications. Penta will remove roadblocks and reshape the blockchain landscape with an emphasis on impacting the real economy and improving productivity. With its unique consensus algorithm (DSC) and a distributed network architecture, Penta is building the world’s most inclusive, equitable, and distributed blockchain community."
+  },
+  "explorer": ["https://ethplorer.io/address/0x53066cddbc0099eb6c96785d9b3df2aaeede5da3", "https://etherscan.io/token/0x53066cddbc0099eb6c96785d9b3df2aaeede5da3"],
+  "fromSymbol": "PNT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Penta",
+  "network": {
+    "t_available_supply": 100000000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 50000000000 
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/PNT"],
+  "social": ["https://twitter.com/Penta_GF"],
+  "source_code": ["https://github.com/pentaglobal/penta"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.penta.global/"
+}

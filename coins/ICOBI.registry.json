@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": "ICOcoin (icobi.com) is a trading platform focusing on digital currency and blockchain, which was established by a team with rich experience on digital currency and blockchain industry. Its founders are committed to provide a safe, honest, fair and also transparent trading platform for the majority of digital currency and blockchain investors."
+  },
+  "explorer": [],
+  "fromSymbol": "ICO",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ICOcoin",
+  "network": {
+    "t_available_supply": 200000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 200000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/ICO"],
+  "social": [],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://icobi.com"
+}

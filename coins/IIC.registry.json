@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/iichain01"],
+  "community": ["https://www.reddit.com/r/ibiscoin"],
+  "description": {
+    "en": "IIC is a Blockchain based Financial Investment Strategy Management Platform."
+  },
+  "explorer": ["https://ethplorer.io/address/0xb6f43025b29196af2dddd69b0a58afba079cd600", "https://etherscan.io/token/0xb6f43025b29196af2dddd69b0a58afba079cd600"],
+  "fromSymbol": "IIC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "IIC",
+  "network": {
+    "t_available_supply": 21000000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 21000000000 
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/IIC"],
+  "social": ["https://twitter.com/iichain"],
+  "source_code": ["https://github.com/iichain/iichain-core"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.iichain.io/"
+}

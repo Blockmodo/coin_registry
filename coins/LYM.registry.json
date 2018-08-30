@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/lympo"],
+  "community": ["https://www.reddit.com/r/LYMPO/"],
+  "description": {
+    "en": "Lympo aspires to revolutionise the healthy lifestyle #ecosystem by monetising sports and wellness data via #blockchain to reward users by offering incentives."
+  },
+  "explorer": ["https://ethplorer.io/address/0x57ad67acf9bf015e4820fbd66ea1a21bed8852ec"],
+  "fromSymbol": "LYM",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Lympo",
+  "network": {
+    "t_available_supply": 753347989,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 999999999 
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/LYM"],
+  "social": ["https://twitter.com/Lympo_io", "https://www.facebook.com/Lympo.io/"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://lympo.io/"
+} 

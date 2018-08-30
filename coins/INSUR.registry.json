@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/InsurChain"],
+  "community": [],
+  "description": {
+    "en": "InsurChain is started by XLAB Foundation LTD.，a non-profit foundation organization founded in 2018 in Singapore. InsurChain will become the provider of the global blockchain infrastructure for all insurance markets around the world and a blockchain-based insurance ecosystem."
+  },
+  "explorer": ["https://ethplorer.io/address/0x6ea6531b603f270d23d9edd2d8279135dc5d6773", "https://etherscan.io/token/0x6ea6531b603f270d23d9edd2d8279135dc5d6773"],
+  "fromSymbol": "INSUR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "InsurChain",
+  "network": {
+    "t_available_supply": 20000000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 20000000000 
+  },
+  "proof_type": "DPos",
+  "quote": ["https://blockmodo.com/quotes/INSUR"],
+  "social": ["https://twitter.com/InsurChain", "https://www.weibo.com/insurchain"],
+  "source_code": ["https://github.com/InsurChain/whitepaper"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.insurchain.org/"
+}

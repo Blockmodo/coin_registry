@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/AVHcommunity"],
+  "community": [],
+  "description": {
+    "en": "The AVH trading platform is a network that allows content producers/copyright owner to sell digital content/digital copyright to peers in a trustless environment."
+  },
+  "explorer": ["https://ethplorer.io/address/0xd7cddd45629934c2f6ed3b63217bd8085d7c14a8", "https://etherscan.io/token/0xd7cddd45629934c2f6ed3b63217bd8085d7c14a8"],
+  "fromSymbol": "AVH",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Animation Vision Cash",
+  "network": {
+    "t_available_supply": 566545413,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/AVH"],
+  "social": ["https://twitter.com/AvHcommunity", "https://www.facebook.com/avhcommunuty.guo.3"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.av.cash"
+}

@@ -1,0 +1,27 @@
+{
+  "algorithm": "SHA256",
+  "chat": ["https://t.me/Segwit2_X"],
+  "community": ["https://www.reddit.com/r/SegWit2xReload/"],
+  "description": {
+    "en": "Bitcoin Segwit2X is the revival of Bitcoin [BTC], which was due in mid-November. Our team has done a great job of improving the network and is now ready to present it to the entire cryptocurrency community!"
+  },
+  "explorer": ["https://explorer.b2x-segwit.io/"],
+  "fromSymbol": "B2X",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "SEGWIT2X",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 16879800
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/B2X"],
+  "social": ["https://www.instagram.com/segwit_2x", "https://www.facebook.com/Segwit2xReload/", "https://twitter.com/Segwit_2X"],
+  "source_code": ["https://github.com/SegwitB2X/bitcoin2x"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://b2x-segwit.io/"
+} 

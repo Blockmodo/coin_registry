@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/ZJLTFoundation"],
+  "community": [],
+  "description": {
+    "en": "Supply Chain Finance Based on Decentralized Credit System."
+  },
+  "explorer": ["https://etherscan.io/token/0xb2af8d4d286e2087590f085ee7e8ccb05d3c7f29"],
+  "fromSymbol": "ZJLT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ZJLT Distributed Factoring Network",
+  "network": {
+    "t_available_supply": 700000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 2500000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/ZJLT"],
+  "social": ["https://twitter.com/ZJLTFoundation"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.zjleth.com/"
+}

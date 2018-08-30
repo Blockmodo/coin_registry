@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/BitNewchain"],
+  "community": [],
+  "description": {
+    "en": "Supporting SW/HW extension,high-performance decentralized applications development platform."
+  },
+  "explorer": ["http://explorer.btn.org/"],
+  "fromSymbol": "BTN",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BitNew Chain",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 561053790
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/BTN"],
+  "social": ["https://www.facebook.com/BitNewChain", "https://twitter.com/BTN_top"],
+  "source_code": ["https://github.com/bitnew-chain/btn_core"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.btn.org"
+}

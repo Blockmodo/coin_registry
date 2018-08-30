@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/seeletech", "https://open.kakao.com/o/gzCv6HT"],
+  "community": ["https://www.reddit.com/r/SeeleOfficial"],
+  "description": {
+    "en": "Seele is powered by an up-scalable Neural Consensus protocol for high throughput concurrency among large scale heterogeneous nodes and is able to form a unique heterogeneous forest multi-chain ecosystem."
+  },
+  "explorer": ["https://ethplorer.io/address/0xb1eef147028e9f480dbc5ccaa3277d417d1b85f0", "https://etherscan.io/token/0xb1eef147028e9f480dbc5ccaa3277d417d1b85f0"],
+  "fromSymbol": "SEELE",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Seele,
+  "network": {
+    "t_available_supply": 566545413,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/SEELE"],
+  "social": ["https://twitter.com/SeeleTech", "https://www.facebook.com/seeletech", "https://www.instagram.com/seeletech/"],
+  "source_code": ["https://github.com/seeleteam/go-seele"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://seele.pro"
+}

@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": "CariNet Project is a digital finance and free trade system for the Caribbean Area, initiated by the Caribbean Free Trade Zone. The project will establish a blockchain payment and digital finance infrastructures, construct a blockchain intelligent international trading platform and attract blockchain industry companies’ registration. It will enable the Caribbean Area to become a global digital financial center and free trade zone in the new era, and create new power for economic growth within the area."
+  },
+  "explorer": ["https://etherscan.io/token/0xc54083e77f913a4f99e1232ae80c318ff03c9d17"],
+  "fromSymbol": "CIT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "CariNet",
+  "network": {
+    "t_available_supply": 35000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000 
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/CIT"],
+  "social": [],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.carinet.io/"
+} 

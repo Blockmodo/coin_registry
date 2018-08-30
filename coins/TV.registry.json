@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": "The Ti Blockchain will create a trustworthy business ecosystem for investors, companies and regulators. Investors can access financial documents such as balance sheets, profit and loss statements, and cash flow analysis on titanium chains; companies can use titanium chains to publish corporate documents, such as white papers, budgets, code development, management structures, financial statements, etc. Posted on the titanium chain, for investors interested. In future versions of titanium chains, documents can be reviewed by smart contract inspections."
+  },
+  "explorer": ["http://t.top/en/explorer"],
+  "fromSymbol": "TV",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Ti Value",
+  "network": {
+    "t_available_supply": 210000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 210000000 
+  },
+  "proof_type": "DPos",
+  "quote": ["https://blockmodo.com/quotes/TV"],
+  "social": ["https://twitter.com/ti_value"],
+  "source_code": ["https://github.com/tivalueproject/TiValue"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://t.top/cn"
+}

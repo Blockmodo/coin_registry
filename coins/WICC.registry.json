@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/waykichain", "https://t.me/wiccofficial"],
+  "community": ["https://www.reddit.com/user/waykichain"],
+  "description": {
+    "en": "WaykiChain is a Turing-complete smart contract platform. It adopts DPOS consensus mechanism to set up 11 voting nodes and generate a new block every 10 seconds. The confirmed transaction speed can reach 1000+TPS verified by the WaykiChain mainnet operation."
+  },
+  "explorer": ["https://etherscan.io/token/0x6ea6531b603f270d23d9edd2d8279135dc5d6773", "https://ethplorer.io/address/0x4f878c0852722b0976a955d68b376e4cd4ae99e5"],
+  "fromSymbol": "WICC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "WaykiChain,
+  "network": {
+    "t_available_supply": 175387223,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 210000000
+  },
+  "proof_type": "DPos",
+  "quote": ["https://blockmodo.com/quotes/WICC"],
+  "social": ["https://www.facebook.com/waykichainofficial", "https://www.instagram.com/waykichain/", "https://twitter.com/wayki_chain"],
+  "source_code": ["https://github.com/WaykiChain/WaykiChain"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://waykichain.com"
+}

@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/joinchat/F6WYchK6kffSxKq9HsNkBg"],
+  "community": [],
+  "description": {
+    "en": "Globalvillage Foundation (GVE foundation) is a organ to be incorporated in Singapore and governed in a not-for-profit manner. With the aim of research and development of blockchain technologies which could provide natural solutions to common problems in global rural social ecosystem.Support from the foundation will financed the development,echnical support, system maintenance and operation support etc."
+  },
+  "explorer": ["https://etherscan.io/token/0x81705082ef9f0d660f07be80093d46d826d48b25", "https://ethplorer.io/address/0x81705082ef9f0d660f07be80093d46d826d48b25"],
+  "fromSymbol": "GVE",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Global Village Ecosystem (GVE)",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/GVE"],
+  "social": ["https://www.facebook.com/andy.hu.16547008", "https://twitter.com/gv_eco"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://gve.io/"
+}

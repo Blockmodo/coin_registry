@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/EnergyEcoChain", "https://weibo.com/EnergyEcoChain"],
+  "community": ["https://www.reddit.com/user/EnergyEcoChain"],
+  "description": {
+    "en": "The Energy Eco Chain (EEC) is a distributed accounting and application development system for comprehensive energy system and green financial ecology."
+  },
+  "explorer": ["https://etherscan.io/token/0x7568b9ece8966ae20e7f5edf90bcd6b77c2a47ca"],
+  "fromSymbol": "EET",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Energy Eco",
+  "network": {
+    "t_available_supply": 600000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 600000000 
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/EET"],
+  "social": ["https://twitter.com/EnergyEcoChain", "https://www.facebook.com/EnergyEcoChain"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.energyecochain.com/en/"
+}

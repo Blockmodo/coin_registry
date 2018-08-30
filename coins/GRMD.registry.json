@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/greenmedapp", "https://greenmed-ico.slack.com/"],
+  "community": ["https://www.reddit.com/r/GreenMed/"],
+  "description": {
+    "en": "Greenmed provides customers with the fastest connection to dispensaries around their local area."
+  },
+  "explorer": ["https://ethplorer.io/address/0xb444208cb0516c150178fcf9a52604bc04a1acea", "https://etherscan.io/token/0xb444208cb0516c150178fcf9a52604bc04a1acea"],
+  "fromSymbol": "GRMD",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "GreenMed",
+  "network": {
+    "t_available_supply": 11467373,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 14899993 
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/GRMD"],
+  "social": ["https://twitter.com/GreenMed_Team", "https://www.facebook.com/GreenmedApp/"],
+  "source_code": ["https://github.com/GreenMed/Token"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.greenmed.io/"
+} 

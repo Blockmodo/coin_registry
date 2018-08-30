@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/joinchat/F9j7MhF-eb-t5SVPYptdyQ"],
+  "community": [],
+  "description": {
+    "en": "Singapore licensed and fully operational business lending platform Crowd Genie aims to build the first Business Loans Asset Exchange on Blockchain."
+  },
+  "explorer": ["https://etherscan.io/token/0x2d9765a94FF22e0CA3AfC3E3F4B116dE2b67582a"],
+  "fromSymbol": "CGC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Crowd Genie",
+  "network": {
+    "t_available_supply": 92314325,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 120000000 
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/CGC"],
+  "social": ["https://www.facebook.com/genieico/"],
+  "source_code": ["https://github.com/crowdgenie/smart-contract"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.genieico.net/"
+}

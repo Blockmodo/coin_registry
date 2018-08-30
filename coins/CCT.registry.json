@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/CrystalClearICO"],
+  "community": ["https://www.reddit.com/user/CrystalClearServ/", "https://crystalclears.slack.com/"],
+  "description": {
+    "en": "Crystal Clear Services brings a revolutionary future and the latest technologies from the online industry to offline local services all over the world!"
+  },
+  "explorer": ["https://ethplorer.io/address/0x336f646f87d9f6bc6ed42dd46e8b3fd9dbd15c22", "https://etherscan.io/token/0x336f646f87d9f6bc6ed42dd46e8b3fd9dbd15c22"],
+  "fromSymbol": "CCT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Crystal Clear",
+  "network": {
+    "t_available_supply": 5223973,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 6924060 
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/CCT"],
+  "social": ["https://twitter.com/CCS_Crystal", "https://www.facebook.com/CCSer/", "https://www.instagram.com/crystalclearico/"],
+  "source_code": ["https://github.com/CrystalClearS/ICO-documents"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://crystal-clear.io/"
+}

@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/bitupofficial"],
+  "community": [],
+  "description": {
+    "en": "The BitUP Digital Wealth Management Project is a foundation project designed to help crypto currency investors lower the threshold for investment in digital assets and increase investment returns."
+  },
+  "explorer": ["https://etherscan.io/address/0xb2e260f12406c401874ecc960893c0f74cd6afcd"],
+  "fromSymbol": "BUT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BUTUp",
+  "network": {
+    "t_available_supply": 450000000,
+    "t_block_reward": 0,
+    "t_max_supply": 1000000000,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/BUT"],
+  "social": ["https://twitter.com/bitupofficial", "https://www.facebook.com/bitupofficial"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://bitup.com"
+}

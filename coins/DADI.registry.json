@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/dadichat", "https://discordapp.com/invite/3sEvuYJ"],
+  "community": ["https://www.reddit.com/r/DADI/"],
+  "description": {
+    "en": "Fast, scalable, secure and inexpensive web services. This is the cloud, decentralized."
+  },
+  "explorer": ["https://ethplorer.io/address/0xfb2f26f266fb2805a387230f2aa0a331b4d96fba", "https://etherscan.io/token/0xfb2f26f266fb2805a387230f2aa0a331b4d96fba"],
+  "fromSymbol": "DADI",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "DADI",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 16879800
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/DADI"],
+  "social": ["https://twitter.com/dadi", "https://www.facebook.com/daditechnology"],
+  "source_code": ["https://github.com/dadi/docs", "https://github.com/dadi/api-wrapper", "https://github.com/dadi/cloud", "https://github.com/dadi/publish", "https://github.com/dadi/web"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://dadi.cloud/en/"
+} 

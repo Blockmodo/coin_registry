@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": "Promotion chain has come to counter difficulties facing traditional promotion industry. It is developed with the support of block chain technology."
+  },
+  "explorer": ["https://etherscan.io/token/0xa6714a2e5f0b1bdb97b895b0913b4fcd3a775e4d", "https://ethplorer.io/address/0xa6714a2e5f0b1bdb97b895b0913b4fcd3a775e4d"],
+  "fromSymbol": "PC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Promotion Coin",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 8750000000 
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/PC"],
+  "social": ["https://twitter.com/PromotionChain", "https://www.facebook.com/PromotionChain-938583542982567"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.pchain.io/"
+} 

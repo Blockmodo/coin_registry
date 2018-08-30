@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/beekan_org"],
+  "community": [],
+  "description": {
+    "en": "BeeNews is based on the Meta-graph Chain blockchain and digital currency value discovery platform (Token is BKBT). BeeNews provide users with intelligent information flow of digital currency, knowledge map of digital currency, CV-Rank (Coin Volatility Rank) index and Growth Track Index. BeeNews help users find value, avoid investment blind spots, popularize blockchain knowledge, and promote the healthy development of blockchain ecology."
+  },
+  "explorer": ["https://etherscan.io/token/0x6a27348483d59150ae76ef4c0f3622a78b0ca698", "https://ethplorer.io/address/0x6a27348483d59150ae76ef4c0f3622a78b0ca698"],
+  "fromSymbol": "BKBT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "BeeKan",
+  "network": {
+    "t_available_supply": 4000000000 ,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 10000000000 
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/BKBT"],
+  "social": [],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.beekan.org/"
+}

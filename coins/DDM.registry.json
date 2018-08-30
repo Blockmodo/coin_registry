@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": "Decentralized Pan-Entertainment digital content distribution platform."
+  },
+  "explorer": ["https://etherscan.io/token/0x524c131b86eedfb15ccc81104b1222ae2e16db7e"],
+  "fromSymbol": "DDM",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "DDMToken",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000 
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/DDM"],
+  "social": [],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.17ddm.io/en"
+} 

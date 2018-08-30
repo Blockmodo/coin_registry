@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/mainframehq"],
+  "community": ["https://www.reddit.com/r/MainframeMFT/"],
+  "description": {
+    "en": "The web3 platform for unstoppable applications: resistant to trackers, hackers, gatekeepers and censors."
+  },
+  "explorer": ["https://ethplorer.io/address/0xdf2c7238198ad8b389666574f2d8bc411a4b7428", "https://etherscan.io/token/0xdf2c7238198ad8b389666574f2d8bc411a4b7428"],
+  "fromSymbol": "MFT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Mainframe",
+  "network": {
+    "t_available_supply": 2542862213,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 10000000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/MFT"],
+  "social": ["https://www.instagram.com/mainframehq/", "https://www.facebook.com/MainframeHQ", "https://twitter.com/Mainframe_HQ"],
+  "source_code": ["https://github.com/MainframeHQ/eslint-config-mainframe", "https://github.com/MainframeHQ/contracts-cli", "https://github.com/MainframeHQ/erebos", "https://github.com/MainframeHQ/chattr", "https://github.com/MainframeHQ/js-mainframe", "https://github.com/MainframeHQ/swarmchat", "https://github.com/MainframeHQ/js-tools", "https://github.com/MainframeHQ/rx-socket"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://mainframe.com/"
+} 

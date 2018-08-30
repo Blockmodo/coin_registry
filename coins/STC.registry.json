@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/starstc"],
+  "community": ["https://www.reddit.com/r/starchain/"],
+  "description": {
+    "en": "StarChain is the world's first high-performance public chain in Culture & Entertainment industry, adopts the advanced dBFT(delegated BFT)consensus mechanism module, use multi-chain parallel cross-chain technology to achieve million +TPS, it can also support large-scale commercial applications and confirm transaction in seconds."
+  },
+  "explorer": ["http://block.starchain.one/browser#/browser"],
+  "fromSymbol": "STC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "StarChain",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000 
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/STC"],
+  "social": ["https://m.facebook.com/starchaincommunity/", "https://twitter.com/STARCHAIN_STC"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://www.starchain.one/home"
+}

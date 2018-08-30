@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/MEX_chinese"],
+  "community": [],
+  "description": {
+    "en": "The world's first precious metal digital exchange, providing complete gold, silver and other commodities Token trading market, to build blockchain solutions and financial derivatives programs to stabilize the demand for currency and commodity trading."
+  },
+  "explorer": ["https://etherscan.io/token/0x2ba6b1e4424e19816382d15937739959f7da5fd8"],
+  "fromSymbol": "MEX",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "MEX Exchange",
+  "network": {
+    "t_available_supply": 1000000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 2000000000 
+  },
+  "proof_type": "DPos",
+  "quote": ["https://blockmodo.com/quotes/MEX"],
+  "social": ["https://twitter.com/Global_MEX"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.mex.link/index.html"
+}

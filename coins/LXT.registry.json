@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/litex_official"],
+  "community": [],
+  "description": {
+    "en": "LITEX is a completely decentralized payment ecosystem for cryptocurrency. Built on LTXN（LITEX Network), Litex supports instant micropayments with extreme low service charge."
+  },
+  "explorer": ["https://etherscan.io/address/0xbc46d9961a3932f7d6b64abfdec80c1816c4b835"],
+  "fromSymbol": "LXT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "LITEX",
+  "network": {
+    "t_available_supply": 700000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 2000000000
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/LXT"],
+  "social": ["https://twitter.com/litex_io"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://litex.io/"
+} 

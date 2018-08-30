@@ -11,10 +11,10 @@
   "is_minable": true,
   "name": "2GiveCoin",
   "network": {
-    "t_available_supply": 520194036,
+    "t_available_supply": 520194037,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 520194036
+    "t_total_supply": 520194037
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/2GIVE"],

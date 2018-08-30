@@ -1,0 +1,27 @@
+{
+  "algorithm": null,
+  "chat": ["https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg"],
+  "community": [],
+  "description": {
+    "en": "TrueUSD is the first stablecoin built on the TrustToken platform."
+  },
+  "explorer": ["https://ethplorer.io/address/0x8dd5fbce2f6a956c3022ba3663759011dd51e73e", "https://etherscan.io/token/0x8dd5fbce2f6a956c3022ba3663759011dd51e73e"],
+  "fromSymbol": "TUSD",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Trust Token",
+  "network": {
+    "t_available_supply": 72785859,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 72785859
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/TUSD"],
+  "social": ["https://www.facebook.com/TrustToken", "https://twitter.com/TrustToken"],
+  "source_code": ["https://github.com/trusttoken/trueUSD"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.trusttoken.com/trueusd/"
+}

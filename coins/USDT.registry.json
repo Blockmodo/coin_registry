@@ -1,11 +1,11 @@
 {
-  "algorithm": "",
+  "algorithm": null,
   "chat": [],
   "community": ["https://www.reddit.com/r/Tether"],
   "description": {
-    "en": ""
+    "en": "Tether is a blockchain-based cryptocurrency whose cryptocoins in circulation are backed by an equivalent amount of traditional fiat currencies, like the dollar, the euro or the Japanese yen, which are held in a designated bank account."
   },
-  "explorer": [],
+  "explorer": ["https://www.omniexplorer.info/asset/31"],
   "fromSymbol": "USDT",
   "is_crypto": true,
   "is_minable": false,
@@ -16,7 +16,7 @@
     "t_max_supply": 0,
     "t_total_supply": 3080109502
   },
-  "proof_type": "",
+  "proof_type": null,
   "quote": ["https://blockmodo.com/quotes/USDT"],
   "social": ["https://twitter.com/@Tether_to"],
   "source_code": [],

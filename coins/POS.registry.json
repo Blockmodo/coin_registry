@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "PoSToken",
   "network": {
-    "t_available_supply": 1030760,
+    "t_available_supply": 1030797,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 1227710
+    "t_total_supply": 1227747
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/POS"],

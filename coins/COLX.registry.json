@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "ColossusCoinXT",
   "network": {
-    "t_available_supply": 11102159469,
+    "t_available_supply": 11102185119,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 11143201296
+    "t_total_supply": 11143226946
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/COLX"],

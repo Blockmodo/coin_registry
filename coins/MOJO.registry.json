@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Mojocoin",
   "network": {
-    "t_available_supply": 12250090,
+    "t_available_supply": 12250098,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 12250090
+    "t_total_supply": 12250098
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/MOJO"],

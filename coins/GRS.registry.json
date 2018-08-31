@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Groestlcoin ",
   "network": {
-    "t_available_supply": 70784604,
+    "t_available_supply": 70784679,
     "t_block_reward": 0,
     "t_max_supply": 105000000,
-    "t_total_supply": 70784604
+    "t_total_supply": 70784679
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/GRS"],

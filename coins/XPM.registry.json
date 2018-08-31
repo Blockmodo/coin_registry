@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "PrimeCoin",
   "network": {
-    "t_available_supply": 24761039,
+    "t_available_supply": 24761214,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 24761039
+    "t_total_supply": 24761214
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/XPM"],

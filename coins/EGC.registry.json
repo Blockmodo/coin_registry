@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "EverGreenCoin",
   "network": {
-    "t_available_supply": 13673155,
+    "t_available_supply": 13673160,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 13673155
+    "t_total_supply": 13673160
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/EGC"],

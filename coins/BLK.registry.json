@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "BlackCoin",
   "network": {
-    "t_available_supply": 77050996,
+    "t_available_supply": 77051026,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 77050996
+    "t_total_supply": 77051026
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/BLK"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Halcyon",
   "network": {
-    "t_available_supply": 6263213,
+    "t_available_supply": 6263258,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 6263213
+    "t_total_supply": 6263258
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/HAL"],

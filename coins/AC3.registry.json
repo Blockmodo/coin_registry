@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "AC3",
   "network": {
-    "t_available_supply": 68827082,
+    "t_available_supply": 68827092,
     "t_block_reward": 1,
     "t_max_supply": 100000000,
-    "t_total_supply": 80203390
+    "t_total_supply": 80203400
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/AC3"],

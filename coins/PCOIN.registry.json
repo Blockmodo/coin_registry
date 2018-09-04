@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Pioneer Coin",
   "network": {
-    "t_available_supply": 2963735,
+    "t_available_supply": 2963757,
     "t_block_reward": 0,
     "t_max_supply": 23000000,
-    "t_total_supply": 3859168
+    "t_total_supply": 3859190
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/PCOIN"],

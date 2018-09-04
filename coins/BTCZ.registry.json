@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "BitcoinZ",
   "network": {
-    "t_available_supply": 2567825234,
+    "t_available_supply": 2567937734,
     "t_block_reward": 0,
     "t_max_supply": 21000000000,
-    "t_total_supply": 2567825234
+    "t_total_supply": 2567937734
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/BTCZ"],

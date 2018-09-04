@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "TrollPlay",
   "network": {
-    "t_available_supply": 15542152,
+    "t_available_supply": 15542166,
     "t_block_reward": 0,
     "t_max_supply": 25000000,
-    "t_total_supply": 19429916
+    "t_total_supply": 19429944
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/TPAY"],

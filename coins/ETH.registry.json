@@ -11,10 +11,10 @@
   "is_minable": true,
   "name": "Ethereum",
   "network": {
-    "t_available_supply": 101769017,
+    "t_available_supply": 101769313,
     "t_block_reward": 3,
     "t_max_supply": 0,
-    "t_total_supply": 101769017
+    "t_total_supply": 101769313
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/ETH"],

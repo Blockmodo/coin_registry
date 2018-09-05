@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "BlakeCoin",
   "network": {
-    "t_available_supply": 19333324,
+    "t_available_supply": 19333374,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 19333324
+    "t_total_supply": 19333374
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/BLC"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Coino",
   "network": {
-    "t_available_supply": 105363378,
+    "t_available_supply": 105363380,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 105363378
+    "t_total_supply": 105363380
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/CNO"],

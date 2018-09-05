@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Espers",
   "network": {
-    "t_available_supply": 22192621201,
+    "t_available_supply": 22192858864,
     "t_block_reward": 0,
     "t_max_supply": 50000000000,
-    "t_total_supply": 22192621201
+    "t_total_supply": 22192858864
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/ESP"],

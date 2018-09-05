@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "DeepOnion",
   "network": {
-    "t_available_supply": 15833941,
+    "t_available_supply": 15833966,
     "t_block_reward": 0,
     "t_max_supply": 25000000,
-    "t_total_supply": 20800731
+    "t_total_supply": 20800757
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/ONION"],

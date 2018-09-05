@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "FLOT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "FireLotto",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 100000000,
-        "t_total_supply": 0
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/FLOT"
-    ],
-    "social": [
-        "https://twitter.com/@FireLottery"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://firelotto.io"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "FLOT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "FireLotto",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 100000000
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/FLOT"],
+  "social": ["https://twitter.com/@FireLottery"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://firelotto.io"
 }

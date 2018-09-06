@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Bitcloud 2.0",
   "network": {
-    "t_available_supply": 25097059,
+    "t_available_supply": 25097359,
     "t_block_reward": 0,
     "t_max_supply": 43800000,
-    "t_total_supply": 25097059
+    "t_total_supply": 25097359
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/BTDX"],

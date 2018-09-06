@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "SexCoin",
   "network": {
-    "t_available_supply": 128037676,
+    "t_available_supply": 128037776,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 128037676
+    "t_total_supply": 128037776
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/SXC"],

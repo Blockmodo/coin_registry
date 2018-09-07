@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "FujiCoin",
   "network": {
-    "t_available_supply": 1623663727,
+    "t_available_supply": 1623676047,
     "t_block_reward": 0,
     "t_max_supply": 10000000000,
-    "t_total_supply": 1623663727
+    "t_total_supply": 1623676047
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/FJC"],

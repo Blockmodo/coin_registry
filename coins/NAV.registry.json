@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "NavCoin",
   "network": {
-    "t_available_supply": 63289585,
+    "t_available_supply": 63289680,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 63289585
+    "t_total_supply": 63289680
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/NAV"],

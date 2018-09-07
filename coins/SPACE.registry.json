@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "SpaceCoin",
   "network": {
-    "t_available_supply": 24098452,
+    "t_available_supply": 24098601,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 24098452
+    "t_total_supply": 24098601
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/SPACE"],

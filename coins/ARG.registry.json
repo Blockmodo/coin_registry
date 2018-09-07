@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Argentum",
   "network": {
-    "t_available_supply": 10145242,
+    "t_available_supply": 10145320,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 10145242
+    "t_total_supply": 10145320
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/ARG"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "LeviarCoin",
   "network": {
-    "t_available_supply": 12926093,
+    "t_available_supply": 12926258,
     "t_block_reward": 0,
     "t_max_supply": 54000000,
-    "t_total_supply": 12926093
+    "t_total_supply": 12926258
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/XLC"],

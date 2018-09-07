@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "BurstCoin",
   "network": {
-    "t_available_supply": 1980346944,
+    "t_available_supply": 1980634139,
     "t_block_reward": 0,
     "t_max_supply": 2158812800,
-    "t_total_supply": 1980346944
+    "t_total_supply": 1980634139
   },
   "proof_type": "PoC",
   "quote": ["https://blockmodo.com/quotes/BURST"],

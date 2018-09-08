@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "LITEX",
   "network": {
-    "t_available_supply": 700000000,
+    "t_available_supply": 0,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 2000000000
+    "t_total_supply": 0
   },
   "proof_type": null,
   "quote": ["https://blockmodo.com/quotes/LXT"],
@@ -24,4 +24,4 @@
   "type": "COINREGISTRY",
   "version": 1,
   "website": "http://litex.io/"
-} 
+}

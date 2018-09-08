@@ -13,7 +13,7 @@
   "network": {
     "t_available_supply": 0,
     "t_block_reward": 0,
-    "t_max_supply": 0,
+    "t_max_supply": 21000000,
     "t_total_supply": 16879800
   },
   "proof_type": "PoW",
@@ -24,4 +24,4 @@
   "type": "COINREGISTRY",
   "version": 1,
   "website": "https://b2x-segwit.io/"
-} 
+}

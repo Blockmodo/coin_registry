@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "DADI",
   "network": {
-    "t_available_supply": 0,
+    "t_available_supply": 74508469,
     "t_block_reward": 0,
-    "t_max_supply": 0,
-    "t_total_supply": 16879800
+    "t_max_supply": 100000000,
+    "t_total_supply": 100000000
   },
   "proof_type": null,
   "quote": ["https://blockmodo.com/quotes/DADI"],
@@ -24,4 +24,4 @@
   "type": "COINREGISTRY",
   "version": 1,
   "website": "https://dadi.cloud/en/"
-} 
+}

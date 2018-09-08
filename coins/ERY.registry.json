@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Eryllium",
   "network": {
-    "t_available_supply": 13102975,
+    "t_available_supply": 13103275,
     "t_block_reward": 0,
     "t_max_supply": 100000000,
-    "t_total_supply": 17829137
+    "t_total_supply": 17829437
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/ERY"],

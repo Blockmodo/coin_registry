@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "ByteCoin",
   "network": {
-    "t_available_supply": 184046243328,
+    "t_available_supply": 184046259395,
     "t_block_reward": 0,
     "t_max_supply": 184470000000,
-    "t_total_supply": 184046243328
+    "t_total_supply": 184046259395
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/BCN"],

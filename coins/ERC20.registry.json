@@ -23,5 +23,6 @@
   "toSymbol": "ALL",
   "type": "COINREGISTRY",
   "version": 1,
-  "website": "https://index-erc20.io/"
+  "website": "https://index-erc20.io/",
+  "adoptedFromSymbol": "ERC20"
 }

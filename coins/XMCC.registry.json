@@ -23,5 +23,6 @@
   "toSymbol": "ALL",
   "type": "COINREGISTRY",
   "version": 1,
-  "website": "http://www.monacocoin.net/"
+  "website": "http://www.monacocoin.net/",
+  "adoptedFromSymbol": "XMCC"
 }

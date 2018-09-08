@@ -23,5 +23,6 @@
   "toSymbol": "ALL",
   "type": "COINREGISTRY",
   "version": 1,
-  "website": "http://peercoin.net/"
+  "website": "http://peercoin.net/",
+  "adoptedFromSymbol": "PPC"
 }

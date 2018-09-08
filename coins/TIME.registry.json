@@ -23,5 +23,6 @@
   "toSymbol": "ALL",
   "type": "COINREGISTRY",
   "version": 1,
-  "website": "http://chronobank.io/"
+  "website": "http://chronobank.io/",
+  "adoptedFromSymbol": "TIME"
 }

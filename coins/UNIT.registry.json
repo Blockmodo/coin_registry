@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Universal Currency",
   "network": {
-    "t_available_supply": 14996111,
+    "t_available_supply": 14996182,
     "t_block_reward": 0,
     "t_max_supply": 210000000,
-    "t_total_supply": 19096111
+    "t_total_supply": 19096182
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/UNIT"],

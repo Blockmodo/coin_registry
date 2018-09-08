@@ -1,27 +1,28 @@
 {
   "algorithm": null,
-  "chat": ["https://t.me/channelHolo"],
-  "community": ["https://www.reddit.com/r/holochain/"],
+  "chat": ["https://t.me/hydroprotocol"],
+  "community": ["https://www.reddit.com/r/hydroprotocol"],
   "description": {
-    "en": "Holochain enables a distributed web with user autonomy built directly into its architecture and protocols. Data is about remembering our lived and shared experiences. Distributing the storage and processing of that data can change how we coordinate and interact. With digital integration under user control, Holochain liberates our online lives from corporate control over our choices and information."
+    "en": "Hydro is a network layer protocol for high performance decentralized exchanges and marketplaces with built-in incentives for coordination."
   },
-  "explorer": ["https://ethplorer.io/address/0x6c6ee5e31d828de241282b9606c8e98ea48526e2", "https://etherscan.io/token/0x6c6ee5e31d828de241282b9606c8e98ea48526e2"],
+  "explorer": ["https://ethplorer.io/address/0x9af839687f6c94542ac5ece2e317daae355493a1", "https://etherscan.io/token/0x9af839687f6c94542ac5ece2e317daae355493a1"],
   "fromSymbol": "HOT",
+  "adoptedFromSymbol": "HOT",
   "is_crypto": true,
   "is_minable": false,
-  "name": "Holochain",
+  "name": "Hydro Project",
   "network": {
-    "t_available_supply": 133214575156,
+    "t_available_supply": 702000000,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 177619433541
+    "t_total_supply": 1560000000
   },
   "proof_type": null,
   "quote": ["https://blockmodo.com/quotes/HOT"],
-  "social": ["https://twitter.com/holochain", "https://www.facebook.com/holochain.design/"],
-  "source_code": ["https://github.com/holochain/website", "https://github.com/holochain/holochat", "https://github.com/holochain/hdk-rust", "https://github.com/holochain/hdk-assemblyscript", "https://github.com/holochain/holochain-ui", "https://github.com/holochain/holosqape", "https://github.com/holochain/app-spec-rust", "https://github.com/holochain/holochain-nodejs", "https://github.com/holochain/holochain-cmd", "https://github.com/holochain/holochain-rust"],
+  "social": ["https://twitter.com/protocol_hydro"],
+  "source_code": ["https://github.com/HydroProtocol/example-maker", "https://github.com/HydroProtocol/example-orderbook", "https://github.com/HydroProtocol/sdk", "https://github.com/HydroProtocol/swap-contract", "https://github.com/HydroProtocol/swap-sdk"],
   "toSymbol": "ALL",
   "type": "COINREGISTRY",
   "version": 1,
-  "website": "https://holochain.org/"
+  "website": "https://thehydrofoundation.com/"
 }

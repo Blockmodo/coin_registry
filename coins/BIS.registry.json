@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Bismuth",
   "network": {
-    "t_available_supply": 12381055,
+    "t_available_supply": 12381269,
     "t_block_reward": 0,
     "t_max_supply": 109999978,
-    "t_total_supply": 13026832
+    "t_total_supply": 13027071
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/BIS"],

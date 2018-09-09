@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "OKCash",
   "network": {
-    "t_available_supply": 74172611,
+    "t_available_supply": 74172624,
     "t_block_reward": 0,
     "t_max_supply": 105000000,
-    "t_total_supply": 74172611
+    "t_total_supply": 74172624
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/OK"],

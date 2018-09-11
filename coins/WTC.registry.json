@@ -1,11 +1,11 @@
 {
-  "algorithm": "Ethash",
-  "chat": [],
+  "algorithm": null,
+  "chat": ["https://t.me/koreacoinwtc", "https://waltonchain.slack.com/join/shared_invite/enQtMzcwMDU5MDg5MTI1LTA0NzBiZmE4MDIzMTJlZGIxOTA1NjQwZjliZThkNzBkOGUxNGY3MmVkY2JmNDBjNzg3NzRlMjUyNTNiODc3M2Y"],
   "community": ["https://www.reddit.com/r/waltonchain"],
   "description": {
-    "en": ""
+    "en": "Waltonchain addresses the bottleneck problem of the business application of the blockchain-how to incorporate physical assets into the blockchain automatically. Please refer to the Waltonchain White Paper at https://www.waltonchain.org for more details."
   },
-  "explorer": [],
+  "explorer": ["https://ethplorer.io/address/0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74", "https://etherscan.io/token/0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74"],
   "fromSymbol": "WTC",
   "is_crypto": true,
   "is_minable": false,
@@ -16,10 +16,10 @@
     "t_max_supply": 100000000,
     "t_total_supply": 70000000
   },
-  "proof_type": "",
+  "proof_type": null,
   "quote": ["https://blockmodo.com/quotes/WTC"],
-  "social": ["https://twitter.com/@waltonchain"],
-  "source_code": [],
+  "social": ["https://twitter.com/@waltonchain", "https://www.facebook.com/waltonchain"],
+  "source_code": ["https://github.com/WaltonChain/WaltonWallet_beta", "https://github.com/WaltonChain/contracts", "https://github.com/WaltonChain/WaltonWallet_apk", "https://github.com/WaltonChain/WaltonWallet_Win", "https://github.com/WaltonChain/WhitePaper"],
   "toSymbol": "ALL",
   "type": "COINREGISTRY",
   "version": 1,

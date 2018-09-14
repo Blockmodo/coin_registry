@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Coin Magi",
   "network": {
-    "t_available_supply": 8134436,
+    "t_available_supply": 8134444,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 8134436
+    "t_total_supply": 8134444
   },
   "proof_type": "PoW/PoM/PoSII",
   "quote": ["https://blockmodo.com/quotes/XMG"],

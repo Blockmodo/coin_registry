@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "BlockLancer",
   "network": {
-    "t_available_supply": 120140384,
+    "t_available_supply": 112776150,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 152177339
+    "t_total_supply": 500000000
   },
   "proof_type": "",
   "quote": ["https://blockmodo.com/quotes/LNC"],

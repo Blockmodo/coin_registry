@@ -1,5 +1,5 @@
 {
-  "algorithm": null,
+  "algorithm": "SHA256",
   "chat": ["https://t.me/elastosgroup", "https://elastos.slack.com/"],
   "community": ["https://www.reddit.com/r/Elastos/"],
   "description": {
@@ -16,7 +16,7 @@
     "t_max_supply": 0,
     "t_total_supply": 33560995
   },
-  "proof_type": null,
+  "proof_type": "AuxPOW/DPoS,
   "quote": ["https://blockmodo.com/quotes/ELA"],
   "social": ["https://twitter.com/@Elastos_org", "https://www.instagram.com/elastosofficial/", "https://www.facebook.com/elastosorg/"],
   "source_code": ["https://github.com/elastos/Elastos.NET", "https://github.com/elastos/Elastos.NET.Carrier.Android.SDK", "https://github.com/elastos/Elastos.RT", "https://github.com/elastos/Elastos.APP.Android.ShiJiuTV", "https://github.com/elastos/Elastos.ELA.Client", "https://github.com/elastos/Elastos.NET.Hive.Android.SDK", "https://github.com/elastos/Elastos.NET.Hive.iOS.SDK", "https://github.com/elastos/Elastos.ELA", "https://github.com/elastos/Elastos.ELA.Utilities.Java", "https://github.com/elastos/Elastos.NET.Carrier.iOS.SDK", "https://github.com/elastos/Elastos.ELA.SideChain", "https://github.com/elastos/Elastos.ORG.Wallet.Mobile", "https://github.com/elastos/Elastos.Community", "https://github.com/elastos/Elastos.NET.Carrier.Native.SDK", "https://github.com/elastos/Elastos.ELA.SPV.Cpp", "https://github.com/elastos/Elastos.ELA.Utility"],

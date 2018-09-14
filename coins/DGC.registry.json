@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "DigiCoin",
   "network": {
-    "t_available_supply": 30169143,
+    "t_available_supply": 30169388,
     "t_block_reward": 0,
     "t_max_supply": 48166000,
-    "t_total_supply": 30169143
+    "t_total_supply": 30169388
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/DGC"],

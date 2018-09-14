@@ -1,11 +1,11 @@
 {
-  "algorithm": "",
-  "chat": [],
-  "community": [],
+  "algorithm": null,
+  "chat": ["https://t.me/elastosgroup", "https://elastos.slack.com/"],
+  "community": ["https://www.reddit.com/r/Elastos/"],
   "description": {
-    "en": ""
+    "en": "Elastos is the safe and reliable internet of the future. Built utilizing the blockchain, this technological breakthrough provides the first completely safe environment on the web where decentralized applications are detached from the internet while also permitting full scalability to millions of users. Elastos enables the generation of wealth through ownership and exchange of your data and digital assets. Welcome to the new Smart Web, where safety and economic distribution can flourish on the internet."
   },
-  "explorer": [],
+  "explorer": ["https://blockchain.elastos.org/"],
   "fromSymbol": "ELA",
   "is_crypto": true,
   "is_minable": false,
@@ -16,10 +16,10 @@
     "t_max_supply": 0,
     "t_total_supply": 33997017
   },
-  "proof_type": "",
+  "proof_type": null,
   "quote": ["https://blockmodo.com/quotes/ELA"],
-  "social": ["https://twitter.com/@Elastos_org"],
-  "source_code": [],
+  "social": ["https://twitter.com/@Elastos_org", "https://www.instagram.com/elastosofficial/", "https://www.facebook.com/elastosorg/"],
+  "source_code": ["https://github.com/elastos/Elastos.NET", "https://github.com/elastos/Elastos.NET.Carrier.Android.SDK", "https://github.com/elastos/Elastos.RT", "https://github.com/elastos/Elastos.APP.Android.ShiJiuTV", "https://github.com/elastos/Elastos.ELA.Client", "https://github.com/elastos/Elastos.NET.Hive.Android.SDK", "https://github.com/elastos/Elastos.NET.Hive.iOS.SDK", "https://github.com/elastos/Elastos.ELA", "https://github.com/elastos/Elastos.ELA.Utilities.Java", "https://github.com/elastos/Elastos.NET.Carrier.iOS.SDK", "https://github.com/elastos/Elastos.ELA.SideChain", "https://github.com/elastos/Elastos.ORG.Wallet.Mobile", "https://github.com/elastos/Elastos.Community", "https://github.com/elastos/Elastos.NET.Carrier.Native.SDK", "https://github.com/elastos/Elastos.ELA.SPV.Cpp", "https://github.com/elastos/Elastos.ELA.Utility"],
   "toSymbol": "ALL",
   "type": "COINREGISTRY",
   "version": 1,

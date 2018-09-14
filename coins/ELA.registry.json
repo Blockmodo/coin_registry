@@ -8,7 +8,7 @@
   "explorer": ["https://blockchain.elastos.org/"],
   "fromSymbol": "ELA",
   "is_crypto": true,
-  "is_minable": false,
+  "is_minable": true,
   "name": "Elastos",
   "network": {
     "t_available_supply": 7639689,

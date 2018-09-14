@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "CARE",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Care Token",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 10000000,
-        "t_total_supply": 0
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/CARE"
-    ],
-    "social": [
-        "https://twitter.com/@carexblockchain"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://carex.tech"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "CARE",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Care Token",
+  "network": {
+    "t_available_supply": 96510020,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 101353241
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/CARE"],
+  "social": ["https://twitter.com/@carexblockchain"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://carex.tech"
 }

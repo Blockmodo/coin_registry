@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "KickCoin",
   "network": {
-    "t_available_supply": 523645593,
+    "t_available_supply": 523645592,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 562253889
+    "t_total_supply": 562253888
   },
   "proof_type": "",
   "quote": ["https://blockmodo.com/quotes/KICK"],

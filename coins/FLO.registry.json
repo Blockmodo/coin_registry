@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "FlorinCoin",
   "network": {
-    "t_available_supply": 146503923,
+    "t_available_supply": 146504160,
     "t_block_reward": 0,
     "t_max_supply": 160000000,
-    "t_total_supply": 146503923
+    "t_total_supply": 146504160
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/FLO"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Pepe",
   "network": {
-    "t_available_supply": 23292039,
+    "t_available_supply": 23292111,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 23659292
+    "t_total_supply": 23659364
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/MEME"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "SmartCoin",
   "network": {
-    "t_available_supply": 25088396,
+    "t_available_supply": 25088420,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 25088396
+    "t_total_supply": 25088420
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/SMC"],

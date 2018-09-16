@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Musicoin",
   "network": {
-    "t_available_supply": 1051554914,
+    "t_available_supply": 1051583802,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 1051554914
+    "t_total_supply": 1051583802
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/MUSIC"],

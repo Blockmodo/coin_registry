@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "CLAMS",
   "network": {
-    "t_available_supply": 3220601,
+    "t_available_supply": 3220626,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 16880795
+    "t_total_supply": 16880820
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/CLAM"],

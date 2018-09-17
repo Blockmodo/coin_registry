@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "NobleCoin",
   "network": {
-    "t_available_supply": 2339240190,
+    "t_available_supply": 2339242421,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 2339240190
+    "t_total_supply": 2339242421
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/NOBL"],

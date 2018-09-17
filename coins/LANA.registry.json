@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "LanaCoin",
   "network": {
-    "t_available_supply": 950057792,
+    "t_available_supply": 950065544,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 950057792
+    "t_total_supply": 950065544
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/LANA"],

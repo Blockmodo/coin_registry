@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Straks",
   "network": {
-    "t_available_supply": 8059286,
+    "t_available_supply": 8059636,
     "t_block_reward": 0,
     "t_max_supply": 150000000,
-    "t_total_supply": 45139670
+    "t_total_supply": 45139820
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/STAK"],

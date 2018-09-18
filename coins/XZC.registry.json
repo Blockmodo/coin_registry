@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "ZCoin",
   "network": {
-    "t_available_supply": 5667783,
+    "t_available_supply": 5667933,
     "t_block_reward": 0,
     "t_max_supply": 21400000,
-    "t_total_supply": 5667783
+    "t_total_supply": 5667933
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/XZC"],

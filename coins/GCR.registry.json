@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Global Currency Reserve",
   "network": {
-    "t_available_supply": 104636293,
+    "t_available_supply": 104636342,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 104636293
+    "t_total_supply": 104636342
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/GCR"],

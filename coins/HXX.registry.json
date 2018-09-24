@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "HexxCoin",
   "network": {
-    "t_available_supply": 1768605,
+    "t_available_supply": 1768621,
     "t_block_reward": 0,
     "t_max_supply": 9999999,
-    "t_total_supply": 1768605
+    "t_total_supply": 1768621
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/HXX"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "ZetaCoin",
   "network": {
-    "t_available_supply": 168679336,
+    "t_available_supply": 168679382,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 168679336
+    "t_total_supply": 168679382
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/ZET"],

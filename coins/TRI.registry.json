@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Triangles Coin",
   "network": {
-    "t_available_supply": 120514,
+    "t_available_supply": 120515,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 120514
+    "t_total_supply": 120515
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/TRI"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Universe",
   "network": {
-    "t_available_supply": 37323472,
+    "t_available_supply": 37325013,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 48523472
+    "t_total_supply": 48525013
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/UNI"],

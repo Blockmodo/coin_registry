@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "HTML Coin",
   "network": {
-    "t_available_supply": 52809060677,
+    "t_available_supply": 52809090677,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 80351306250
+    "t_total_supply": 80351336250
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/HTML"],

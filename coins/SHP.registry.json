@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Sharpe Capital",
   "network": {
-    "t_available_supply": 17180224,
+    "t_available_supply": 17180144,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 32000080
+    "t_total_supply": 32000000
   },
   "proof_type": "",
   "quote": ["https://blockmodo.com/quotes/SHP"],

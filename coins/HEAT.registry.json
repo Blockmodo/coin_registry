@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Heat Ledger",
   "network": {
-    "t_available_supply": 36571923,
+    "t_available_supply": 36572145,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 36571923
+    "t_total_supply": 36572145
   },
   "proof_type": "PoS/PoP",
   "quote": ["https://blockmodo.com/quotes/HEAT"],

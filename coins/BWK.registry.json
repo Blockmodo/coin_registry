@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Bulwark",
   "network": {
-    "t_available_supply": 12103030,
+    "t_available_supply": 12103530,
     "t_block_reward": 0,
     "t_max_supply": 27000000,
-    "t_total_supply": 12422084
+    "t_total_supply": 12422584
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/BWK"],

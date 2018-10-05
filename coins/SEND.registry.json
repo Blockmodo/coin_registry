@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Social Send",
   "network": {
-    "t_available_supply": 32074754,
+    "t_available_supply": 38677760,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 34264697
+    "t_total_supply": 38677760
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/SEND"],

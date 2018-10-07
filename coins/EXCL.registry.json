@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Exclusive Coin",
   "network": {
-    "t_available_supply": 4930511,
+    "t_available_supply": 4930538,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 4930511
+    "t_total_supply": 4930538
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/EXCL"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Bitcoin Gold",
   "network": {
-    "t_available_supply": 17277886,
+    "t_available_supply": 17277911,
     "t_block_reward": 0,
     "t_max_supply": 21000000,
-    "t_total_supply": 17377886
+    "t_total_supply": 17377911
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/BTG"],

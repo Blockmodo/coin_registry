@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "CampusCoin",
   "network": {
-    "t_available_supply": 507992558,
+    "t_available_supply": 508000558,
     "t_block_reward": 0,
     "t_max_supply": 1010000000,
-    "t_total_supply": 707992558
+    "t_total_supply": 708000558
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/CMPCO"],

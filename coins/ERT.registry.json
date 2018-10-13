@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ERT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Esports.com",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 60000000,
-        "t_total_supply": 0
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ERT"
-    ],
-    "social": [
-        "https://twitter.com/@EsportsDotCom"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://esports.com/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ERT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Esports.com",
+  "network": {
+    "t_available_supply": 167487832,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 230502120
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ERT"],
+  "social": ["https://twitter.com/@EsportsDotCom"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://esports.com/"
 }

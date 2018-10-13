@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "SHADE",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ShadeCoin",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 2000000,
-        "t_total_supply": 0
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/SHADE"
-    ],
-    "social": [
-        "https://twitter.com/@ShadeCoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "SHADE",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ShadeCoin",
+  "network": {
+    "t_available_supply": 50001445,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 800000000
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/SHADE"],
+  "social": ["https://twitter.com/@ShadeCoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

@@ -1,31 +1,27 @@
 {
-    "algorithm": "XG Hash",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "XG",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "XG Sports",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 0
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/XG"
-    ],
-    "social": [
-        "https://twitter.com/@XGcurrency"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "XG Hash",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "XG",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "XG Sports",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 1000000000,
+    "t_total_supply": 148834091
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/XG"],
+  "social": ["https://twitter.com/@XGcurrency"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

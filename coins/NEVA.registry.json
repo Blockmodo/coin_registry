@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "NevaCoin",
   "network": {
-    "t_available_supply": 3443005,
+    "t_available_supply": 3443040,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 3443005
+    "t_total_supply": 3443040
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/NEVA"],

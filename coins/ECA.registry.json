@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Electra",
   "network": {
-    "t_available_supply": 28312463938,
+    "t_available_supply": 28312489738,
     "t_block_reward": 0,
     "t_max_supply": 30000000000,
-    "t_total_supply": 29179620491
+    "t_total_supply": 29179646291
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/ECA"],

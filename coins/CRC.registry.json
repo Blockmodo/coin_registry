@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "CrowdCoin",
   "network": {
-    "t_available_supply": 4382080,
+    "t_available_supply": 4382120,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 4732080
+    "t_total_supply": 4732120
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/CRC"],

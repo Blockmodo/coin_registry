@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "IrishCoin",
   "network": {
-    "t_available_supply": 36253899,
+    "t_available_supply": 36253949,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 40753899
+    "t_total_supply": 40753949
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/IRL"],

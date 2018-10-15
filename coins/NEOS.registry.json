@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "NeosCoin",
   "network": {
-    "t_available_supply": 4078430,
+    "t_available_supply": 4078441,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 4078430
+    "t_total_supply": 4078441
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/NEOS"],

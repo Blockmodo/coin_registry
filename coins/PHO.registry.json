@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Photon",
   "network": {
-    "t_available_supply": 25199054448,
+    "t_available_supply": 25199283825,
     "t_block_reward": 0,
     "t_max_supply": 90000000000,
-    "t_total_supply": 25199054448
+    "t_total_supply": 25199283825
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/PHO"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "MinexCoin",
   "network": {
-    "t_available_supply": 4379300,
+    "t_available_supply": 4379333,
     "t_block_reward": 0,
     "t_max_supply": 19000000,
-    "t_total_supply": 6031933
+    "t_total_supply": 6031960
   },
   "proof_type": "",
   "quote": ["https://blockmodo.com/quotes/MNX"],

@@ -1,28 +1,24 @@
 {
-  "algorithm": null,
-  "chat": ["https://t.me/mainframehq"],
-  "community": ["https://www.reddit.com/r/MainframeMFT/"],
-  "description": {
-    "en": "The web3 platform for unstoppable applications: resistant to trackers, hackers, gatekeepers and censors."
-  },
-  "explorer": ["https://ethplorer.io/address/0xdf2c7238198ad8b389666574f2d8bc411a4b7428", "https://etherscan.io/token/0xdf2c7238198ad8b389666574f2d8bc411a4b7428"],
   "fromSymbol": "MFT",
-  "is_crypto": true,
-  "is_minable": false,
-  "name": "Mainframe",
-  "network": {
-    "t_available_supply": 3445885912,
-    "t_block_reward": 0,
-    "t_max_supply": 0,
-    "t_total_supply": 10000000000
-  },
-  "proof_type": null,
-  "quote": ["https://blockmodo.com/quotes/MFT"],
-  "social": ["https://www.instagram.com/mainframehq/", "https://www.facebook.com/MainframeHQ", "https://twitter.com/Mainframe_HQ"],
-  "source_code": ["https://github.com/MainframeHQ/eslint-config-mainframe", "https://github.com/MainframeHQ/contracts-cli", "https://github.com/MainframeHQ/erebos", "https://github.com/MainframeHQ/chattr", "https://github.com/MainframeHQ/js-mainframe", "https://github.com/MainframeHQ/swarmchat", "https://github.com/MainframeHQ/js-tools", "https://github.com/MainframeHQ/rx-socket"],
-  "toSymbol": "ALL",
   "type": "COINREGISTRY",
   "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/mainframe"],
+  "chat": ["https://t.me/joinchat/Fg15zkUxeHmhSLNEulTSGw", "https://t.me/mainframehq"],
+  "social": ["https://www.facebook.com/MainframeHQ", "https://twitter.com/Mainframe_HQ"],
+  "network": {
+    "t_available_supply": 3445885912,
+    "t_total_supply": 10000000000,
+    "t_max_supply": 0
+  },
   "website": "https://mainframe.com/",
-  "adoptedFromSymbol": "MFT"
+  "description": {
+    "en": "Mainframe is the platform for decentralized applications. Resistant to censorship, surveillance, and disruption, the Mainframe network enables any application to send data, store files, manage payments, run tasks, and more. With the exception of a catastrophic asteroid event or an aggressive alien invasion, the Mainframe network is simply unstoppable. We build with five fundamental principles as our guide."
+  },
+  "name": "Mainframe",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xdf2c7238198ad8b389666574f2d8bc411a4b7428", "https://ethplorer.io/address/0xdf2c7238198ad8b389666574f2d8bc411a4b7428"],
+  "source_code": ["https://github.com/MainframeHQ/js-mainframe"]
 }

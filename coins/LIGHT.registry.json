@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "LIGHT",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["http://t.me/lightchain"],
+  "social": ["https://www.facebook.com/lian.guang.12", "https://twitter.com/LightChainOne"],
+  "network": {
+    "t_available_supply": 0,
+    "t_total_supply": 210000000000,
+    "t_max_supply": 0
+  },
+  "website": "http://www.lightchain.one/",
+  "description": {
+    "en": "Light Chain (LIGHT) is designed to be the world’s first double-layer chain. LIGHT network is composed by one prime-chain and numerous sub-chains."
+  },
+  "name": "LightChain",
+  "algorithm": "Unknown",
+  "proof_type": "PoM (Proof of Machine)",
+  "explorer": ["https://etherscan.io/token/0xd97579Cea3fE2473682a4C42648134BB982433B9", "https://ethplorer.io/address/0xd97579Cea3fE2473682a4C42648134BB982433B9"],
+  "source_code": ["https://github.com/lightchainone/lightchain"]
+}

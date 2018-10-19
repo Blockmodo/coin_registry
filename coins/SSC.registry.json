@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "SSC",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/SelfSell_EN"],
+  "social": ["https://www.facebook.com/SelfSell-1871066159886776/", "https://twitter.com/self_sell"],
+  "network": {
+    "t_available_supply": 390000000,
+    "t_total_supply": 1000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://www.selfsell.com/",
+  "description": {
+    "en": "SelfSell Platform is born with reference to Theory of Human Capital Investment. Through low-cost individual fundraising on SelfSell Platform, such funds will be applied to people’s education, training, physical and mental health and other fields."
+  },
+  "name": "SelfSell",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://browser.selfsell.com/"],
+  "source_code": ["https://github.com/SelfSellTeam/SelfSell-master"]
+}

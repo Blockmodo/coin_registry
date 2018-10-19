@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "SHOW",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": [],
+  "chat": ["https://showfoundation.slack.com/join/shared_invite/enQtMzAyNjI5NDcyNzcwLTJmNjY0ZGQxYzc4MTA2ZDI3NWQ1NGY4YjJlZDExZjExNGM1MTgxMzEwMzU4YzllZGE2NDI3N2EwN2JkNDIzZTI", "https://t.me/ShowCoinEnglish"],
+  "social": ["https://www.facebook.com/ShowCoin-144390446177396/", "https://twitter.com/Show_coin"],
+  "network": {
+    "t_available_supply": 0,
+    "t_total_supply": 10000000000,
+    "t_max_supply": 0
+  },
+  "website": "http://www.show.one/",
+  "description": {
+    "en": "Show.One is an interactive live distribution SAAS platform based on the ETH blockchain infrastructure, where people can set up their own decentralized live broadcasts, such as:"
+  },
+  "name": "Show",
+  "algorithm": "Unknown",
+  "proof_type": "PoW",
+  "explorer": [],
+  "source_code": []
+}

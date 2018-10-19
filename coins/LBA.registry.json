@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "LBA",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/Libra_Credit"],
+  "chat": ["https://discordapp.com/invite/UmJUTDJ", "https://penta-global.slack.com/", "https://t.me/libraofficial", "https://t.me/pentaglobal"],
+  "social": ["https://twitter.com/LibraCredit"],
+  "network": {
+    "t_available_supply": 313665746,
+    "t_total_supply": 1000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://www.libracredit.io/",
+  "description": {
+    "en": "Libra Credit will be a decentralized lending ecosystem that facilitates open access to credit anywhere and anytime based on the Ethereum blockchain. Libra Credit is a global initiative with a mission to provide financial inclusion and lower the cost of financial services. Powered by its proprietary big data, AI-based credit assessment technology and existing global partnership networks, Libra Credit has the expertise and capabilities to realize its mission."
+  },
+  "name": "Cred",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xfe5f141bf94fe84bc28ded0ab966c16b17490657", "https://ethplorer.io/address/0xfe5f141bf94fe84bc28ded0ab966c16b17490657"],
+  "source_code": ["https://github.com/libracredit"]
+}

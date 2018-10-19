@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "FTI",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["http://t.me/topchaincoin"],
+  "social": ["https://www.facebook.com/TopChain-415898358863297/", "https://twitter.com/FansTime_FTI"],
+  "network": {
+    "t_available_supply": 2850000000,
+    "t_total_supply": 10000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://fanstime.org/",
+  "description": {
+    "en": "FansTime is a project that connects fans globally and links assets of the real world to the crypto world. FTI is an official currency in the FansTime ecosystem."
+  },
+  "name": "FansTime",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x943ed852dadb5c3938ecdc6883718df8142de4c8", "https://ethplorer.io/address/0x943ed852dadb5c3938ecdc6883718df8142de4c8"],
+  "source_code": []
+}

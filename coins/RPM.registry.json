@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "RPM",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/repmecrew"],
+  "social": ["https://twitter.com/repmeio"],
+  "network": {
+    "t_available_supply": 36220523483,
+    "t_total_supply": 100000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://repme.io/",
+  "description": {
+    "en": "We are (repme) a team of socially awkward misfits who wanted to create a better, more efficient and more effective way of engaging and communicating with each other.\nIn the theme of eliminating social constructs like narcissism, instead of talking about ourselves, wed like to invite you to come and meet us properly.\nRPM token is a digital currency used as a medium of exchange and an appreciating store of value. The token is also used as a means to network, recruit, pay for services and upgrades in the platform, purchase real-world products, lend between peers and incentivise endorsements or help you network in a seamless fashion that helps to enhance your quality of life."
+  },
+  "name": "Repme",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x490c95bE16384E1f28B9e864e98fFEcFCBfF386d", "https://ethplorer.io/address/0x490c95bE16384E1f28B9e864e98fFEcFCBfF386d"],
+  "source_code": ["https://github.com/LadoAlejandro/RepMe"]
+}

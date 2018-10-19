@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "HT",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/HuobiGlobal"],
+  "chat": ["https://t.me/huobiglobalofficial"],
+  "social": ["https://www.facebook.com/huobiglobalofficial", "https://twitter.com/HuobiGlobal"],
+  "network": {
+    "t_available_supply": 50000200,
+    "t_total_supply": 500000000,
+    "t_max_supply": 0
+  },
+  "website": "https://www.huobi.pro/",
+  "description": {
+    "en": "Huobi.pro is a world famous Bitcoin exchange. On Huobi.pro, you can trade Litecoin (LTC), Ethereum (ETH), Bitcoin Cash (BCH), Ethereum Classic (ETC), DASH, etc, using Bitcoin (BTC) and USDT."
+  },
+  "name": "Huobi Token",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x6f259637dcd74c767781e37bc6133cd6a68aa161"],
+  "source_code": []
+}

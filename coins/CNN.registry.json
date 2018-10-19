@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "CNN",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/cnn_blockchain_official"],
+  "social": ["https://twitter.com/CNN_Blockchain"],
+  "network": {
+    "t_available_supply": 39035223816,
+    "t_total_supply": 100000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://cnntoken.io/",
+  "description": {
+    "en": "CNN (Content Neutrality Network) is an innovative content ecosystem based on blockchain technology. It breaks the barrier between content communities, revolutionizes revenue share, and decentralizes user acquisition and incentive program, creating a more open, efficient and trustworthy content era."
+  },
+  "name": "Content Neutrality Network",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x8713d26637cf49e1b6b4a7ce57106aabc9325343", "https://ethplorer.io/address/0x8713d26637cf49e1b6b4a7ce57106aabc9325343"],
+  "source_code": ["https://github.com/cnntoken/NewsDog-CNN"]
+}

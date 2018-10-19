@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "UUU",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/UNetwork"],
+  "chat": ["https://t.me/UNetwork", "https://t.me/UNetworkEN"],
+  "social": ["https://facebook.com/UNetworkHQ", "https://twitter.com/UNetworkHQ"],
+  "network": {
+    "t_available_supply": 5899797145,
+    "t_total_supply": 10000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://u.network/",
+  "description": {
+    "en": "U Network - will be a Decentralized Protocol for Publishing and Valuing Online Content"
+  },
+  "name": "U Network",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x3543638ed4a9006e4840b105944271bcea15605d", "https://ethplorer.io/address/0x3543638ed4a9006e4840b105944271bcea15605d"],
+  "source_code": ["https://github.com/U-Network/unetwork"]
+}

@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "DOCK",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/dockio"],
+  "chat": ["https://t.me/dockio"],
+  "social": ["https://twitter.com/dock_io", "https://www.facebook.com/dragoncoin.online"],
+  "network": {
+    "t_available_supply": 428040576,
+    "t_total_supply": 1000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://dock.io/",
+  "description": {
+    "en": "The dock.io protocol is a special purpose decentralized data exchange protocol. This protocol is\nintended to incentivize the exchange of work experience, reviews and professional connections. \nTokens serve as the proposal and voting utility to guide the evolution of development and changes to the dock.io protocol."
+  },
+  "name": "Dock",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://ethplorer.io/address/0xe5dada80aa6477e85d09747f2842f7993d0df71c", "https://etherscan.io/token/0xe5dada80aa6477e85d09747f2842f7993d0df71c"],
+  "source_code": ["https://github.com/dockio/voting"]
+}

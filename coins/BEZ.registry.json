@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "BEZ",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/bezop"],
+  "chat": ["https://t.me/bezop"],
+  "social": ["https://twitter.com/BezopNetwork"],
+  "network": {
+    "t_available_supply": 50468854,
+    "t_total_supply": 89267250,
+    "t_max_supply": 0
+  },
+  "website": "https://bezop.io/",
+  "description": {
+    "en": "Decentralized Blockchain powered commerce is the future of global trade, Bezop will build decentralized ecommerce."
+  },
+  "name": "Bezop",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x3839d8ba312751aa0248fed6a8bacb84308e20ed", "https://ethplorer.io/address/0x3839d8ba312751aa0248fed6a8bacb84308e20ed"],
+  "source_code": []
+}

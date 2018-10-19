@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "KCASH",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://kcashofficial.slack.com/", "https://t.me/KcashOfficial"],
+  "social": ["https://www.facebook.com/KcashOfficial/", "https://twitter.com/Kcashofficial"],
+  "network": {
+    "t_available_supply": 0,
+    "t_total_supply": 1000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://www.kcash.com/",
+  "description": {
+    "en": "Kcash, the crypto currency wallet, facilitating the transaction and consumption\nof digital currency in real world, aimed at resolving the inconvenience of\nmanaging a variety of crypto currency, multifarious trading process and the\nproblem of insufficient application scenario. Kcash provides a powerful\ninfrastructure for cryptocurrency development which also promotes the\napplication and evolution of the cryptocurrency industry."
+  },
+  "name": "Kcash",
+  "algorithm": "Unknown",
+  "proof_type": "Achain Consensus",
+  "explorer": ["https://ethplorer.io/address/0x32d74896f05204d1b6ae7b0a3cebd7fc0cd8f9c7", "https://browser.achain.com/contract.html#/contractInfo/COND41iays8576giHf6M6Yox1DiBrDmgVyzJ?cl=1"],
+  "source_code": []
+}

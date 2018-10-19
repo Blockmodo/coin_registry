@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "PHX",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/RedPulseToken"],
+  "chat": ["https://t.me/rpxOfficialAnnouncements", "https://t.me/redpulse"],
+  "social": ["https://www.facebook.com/redpulsechina/", "https://twitter.com/red_pulse_china"],
+  "network": {
+    "t_available_supply": 829588687,
+    "t_total_supply": 1362278592,
+    "t_max_supply": 0
+  },
+  "website": "https://www.redpulse.com/",
+  "description": {
+    "en": "Red Pulse is a market intelligence platform covering China's financial and capital markets. Our Open Research Platform will connect industry experts, practitioners, and professionals together to share their views and analysis to a global audience. Red Pulse is building the next generation ecosystem for knowledge and research sharing."
+  },
+  "name": "Red Pulse Phoenix",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://neotracker.io/asset/ecc6b20d3ccac1ee9ef109af5a7cdb85706b1df9"],
+  "source_code": ["https://github.com/RedPulse/neo-gui-rpx"]
+}

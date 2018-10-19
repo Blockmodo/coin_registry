@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "BIFI",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": [],
+  "chat": ["https://t.me/bitcoinfile"],
+  "social": ["https://twitter.com/BitcoinFile"],
+  "network": {
+    "t_available_supply": 0,
+    "t_total_supply": 21050000000,
+    "t_max_supply": 0
+  },
+  "website": "https://www.bitcoinfile.org/",
+  "description": {
+    "en": "BitcoinFile(BIFI) is a point-to-point distributed file system based on blockchain technology and it aims to create a global decentralized file system combined with IPFS file system and bitcoin settlement network. The combined technology makes it more environmentally friend for the world, more fair and more rewarding for miners, more reliable and easier-to-use for users. It perfectly solves the problem of low stability in IPFS networks due to the inability of contributors to earn sufficient returns and the uselessness of power consumption in the process of bitcoin mining.\nBitcoinFile Foundation premine: 1.05 billion coins."
+  },
+  "name": "Bitcoin File",
+  "algorithm": "SHA3",
+  "proof_type": "PoW",
+  "explorer": ["https://explorer.bitcoinfile.org/"],
+  "source_code": ["https://github.com/bitcoinfile/bitcoinfile"]
+}

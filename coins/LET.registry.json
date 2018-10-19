@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "LET",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/linkeye_en"],
+  "social": ["https://web.facebook.com/linkeye.linkeye.1", "https://twitter.com/LinkEyeProject"],
+  "network": {
+    "t_available_supply": 600000000,
+    "t_total_supply": 1000000000,
+    "t_max_supply": 0
+  },
+  "website": "http://www.linkeye.com/",
+  "description": {
+    "en": "LinkEye is an independent solution of credit sharing alliance based on the blockchain technology."
+  },
+  "name": "LinkEye",
+  "algorithm": "Unknown",
+  "proof_type": "Achain Consensus",
+  "explorer": [],
+  "source_code": ["https://github.com/LinkEyeOfficial"]
+}

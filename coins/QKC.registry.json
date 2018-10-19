@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "QKC",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/quarkchainio"],
+  "chat": ["https://t.me/QuarkChainio"],
+  "social": ["https://twitter.com/Quark_Chain"],
+  "network": {
+    "t_available_supply": 801649919,
+    "t_total_supply": 10000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://www.quarkchain.io/",
+  "description": {
+    "en": "Quarkchain wants to build a high throughput P2P network for everyday use.\nQuarkchain team have more than 96% of token supply."
+  },
+  "name": "QuarkChain",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664", "https://ethplorer.io/address/0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664"],
+  "source_code": ["https://github.com/QuarkChain/pyquarkchain"]
+}

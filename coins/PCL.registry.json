@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "PCL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/Peculium"],
+  "chat": ["https://peculium.slack.com/", "https://t.me/ico_peculium"],
+  "social": ["https://web.facebook.com/PeculiumICO/", "https://twitter.com/_Peculium"],
+  "network": {
+    "t_available_supply": 1053912548,
+    "t_total_supply": 2207856526,
+    "t_max_supply": 0
+  },
+  "website": "http://peculium.io/",
+  "description": {
+    "en": "Peculium wants to be the revolutionary savings platform that seamlessly merges traditional savings economy with the cryptocurrency markets via the power of Automated Machine Learning, Artificial Intelligence (AML-AI), Big data analytics, and the Smart-contracts over the Ethereum Blockchain.\nIn development."
+  },
+  "name": "Peculium",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x3618516f45cd3c913f81f9987af41077932bc40d", "https://ethplorer.io/address/0x3618516f45cd3c913f81f9987af41077932bc40d"],
+  "source_code": ["https://github.com/PeculiumPCL/Peculium"]
+}

@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "XMX",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": ["https://www.reddit.com/r/XMax_Blockchain"],
+  "chat": ["https://t.me/XMXblock_org"],
+  "social": ["https://www.facebook.com/InfinityEconomicsOfficial/", "https://twitter.com/XMax_io"],
+  "network": {
+    "t_available_supply": 7095897679,
+    "t_total_supply": 30000000000,
+    "t_max_supply": 0
+  },
+  "website": "",
+  "description": {
+    "en": "XMax is a blockchain and developer ecosystem for building decentralized games and entertainment DAPPs. Our blockchain supports game developers with a high TPS mainchain and integrated sidechains for transaction-intensive DAPPs."
+  },
+  "name": "XMax",
+  "algorithm": "SHA256",
+  "proof_type": "PoS",
+  "explorer": ["https://etherscan.io/token/0x0f8c45b896784a1e408526b9300519ef8660209c", "https://ethplorer.io/address/0x0f8c45b896784a1e408526b9300519ef8660209c"],
+  "source_code": ["https://github.com/XMaxPlatform"]
+}

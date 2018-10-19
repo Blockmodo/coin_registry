@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "RVN",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": ["https://www.reddit.com/r/Ravencoin"],
+  "chat": ["https://t.me/RavencoinDev", "https://discordapp.com/invite/jn6uhur"],
+  "social": ["https://twitter.com/ravencoin"],
+  "network": {
+    "t_available_supply": 2047035000,
+    "t_total_supply": 2047035000,
+    "t_max_supply": 0
+  },
+  "website": "https://getravencoin.org/",
+  "description": {
+    "en": "Ravencoin is a digital peer to peer network that aims to implement a use case specific blockchain, designed to efficiently handle one specific function: the transfer of assets from one party to another. Built on a fork of the Bitcoin code, Ravencoin was launched January 3rd, 2018, and is a truly open source project (no ICO or masternodes). It focuses on building a useful technology, with a strong and growing community."
+  },
+  "name": "Ravencoin",
+  "algorithm": "X16R",
+  "proof_type": "PoW",
+  "explorer": ["http://threeeyed.info/", "https://ravencoin.network/"],
+  "source_code": ["https://github.com/RavenProject/Ravencoin"]
+}

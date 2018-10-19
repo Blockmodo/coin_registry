@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "PAX",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": [],
+  "social": ["https://twitter.com/PaxosStandard"],
+  "network": {
+    "t_available_supply": 41531643,
+    "t_total_supply": 63474357,
+    "t_max_supply": 0
+  },
+  "website": "https://paxos.com/standard",
+  "description": {
+    "en": "Paxos Standard is regulated crypto asset. It is fully collateralized 1:1 by the U.S. dollar, approved and regulated by the NYDFS, and enables instantaneous transactions.\nPaxos Standard (PAX) was created by Paxos, a financial technology company on a mission to modernize finance by mobilizing assets at the speed of the internet.\nPaxos was the first virtual currency company to receive a charter from the New York State Department of Financial Services. As a chartered limited purpose trust company with fiduciary powers under the Banking Law, Paxos is able to offer regulated services in the crypto-asset and virtual commodities space.\nThe Paxos team comes from a wide variety of backgrounds with a diverse array of experiences ranging from Wall Street to Silicon Valley. It’s led by CEO and co-founder Charles Cascarilla, who has spent his career as a customer, analyst, investor and now creator of financial technology."
+  },
+  "name": "Paxos Standard Token",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x8e870d67f660d95d5be530380d0ec0bd388289e1"],
+  "source_code": ["https://github.com/paxosglobal/pax-contracts"]
+}

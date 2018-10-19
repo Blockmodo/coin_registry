@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "BCV",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/bitcvglobal"],
+  "social": ["https://twitter.com/BCVofficial"],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 1200000000,
+    "t_max_supply": 0
+  },
+  "website": "https://www.bitcv.com/",
+  "description": {
+    "en": "BitCapitalVendor (BCV) works on the improvement as well as the research and development of the underlying technology, and based on the Ethereum platform, develops the high efficient cross-chain storage and exchange technology, forms the underlying asset management chain, then further hatchs the upper application tools and platforms, so that the technology tools and services that are needed by investment and financing and asset management process can be acquired."
+  },
+  "name": "BitCapitalVendor",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x1014613e2b3cbc4d575054d4982e580d9b99d7b1", "https://ethplorer.io/address/0x1014613e2b3cbc4d575054d4982e580d9b99d7b1"],
+  "source_code": ["https://github.com/bitcv/bitcv_dot_one"]
+}

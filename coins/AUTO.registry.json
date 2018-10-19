@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "AUTO",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://cubeint.slack.com/", "https://t.me/joinchat/HEId7g9EFqAGkWqAtD67Hg", "https://t.me/CubeOfficial"],
+  "social": ["https://www.facebook.com/cubeintelligenceltd", "https://twitter.com/cubeintel"],
+  "network": {
+    "t_available_supply": 6774940000,
+    "t_total_supply": 7200000000,
+    "t_max_supply": 0
+  },
+  "website": "https://cubeint.io/",
+  "description": {
+    "en": "CUBE is a network security company based on blockchain.\nAt present, the automobile market of 1.7 trillion USD, has reached an important turning point. The rapid expansion of car connectivity has brought attention to the significance of network security. Given that new cars from 2020 will be manufactured with built-in CDMA, connected cars are expected to be under constant threat of cyber-attacks, similar to attacks our network connected PCs coping with today. CUBE is preparing to embrace a pivotal role in the rapidly changing vehicle market."
+  },
+  "name": "Cube",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x622dFfCc4e83C64ba959530A5a5580687a57581b", "https://ethplorer.io/address/0x622dffcc4e83c64ba959530a5a5580687a57581b"],
+  "source_code": []
+}

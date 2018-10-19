@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "RNTB",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/BitRent"],
+  "chat": ["https://t.me/bitrentio"],
+  "social": ["https://www.facebook.com/bitrentplatform/", "https://twitter.com/bit_rent"],
+  "network": {
+    "t_available_supply": 841738500,
+    "t_total_supply": 941988500,
+    "t_max_supply": 0
+  },
+  "website": "https://bitrent.io/",
+  "description": {
+    "en": "BitRent want to be the first blockchain platform meant to attract commercial and residential property investments at an early stage of construction in order to gain maximum profit by selling and renting out the acquired property.\nWe connect developers with investors.\nIn development."
+  },
+  "name": "BitRent",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x1fe70be734e473e5721ea57c8b5b01e6caa52686", "https://ethplorer.io/token/0x1fe70be734e473e5721ea57c8b5b01e6caa52686"],
+  "source_code": ["https://github.com/bitrent/Bitrent-Platform"]
+}

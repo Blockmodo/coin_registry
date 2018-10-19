@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "HC",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": ["https://www.reddit.com/r/harvestcoin"],
+  "chat": ["https://t.me/harvestcoin"],
+  "social": ["https://twitter.com/HarvestMnCoin"],
+  "network": {
+    "t_available_supply": 3688694,
+    "t_total_supply": 4173763,
+    "t_max_supply": 10000000
+  },
+  "website": "https://www.harvestcoin.org/",
+  "description": {
+    "en": "Harvest Coin is a well decentralized network of Masternodes without superfluous control and intermediaries/gatekeepers with more than 80% pure PoS Block reward phase and 150% APR which ensures lightning fast and secured transaction,multi-wallets, encrypted messaging, stealth address for complete anonymity, low number of confirmations , low fees and very low number of total coin supply for faster increase of value"
+  },
+  "name": "Harvest Masternode Coin",
+  "algorithm": "Unknown",
+  "proof_type": "PoS",
+  "explorer": ["http://hmcexplorer.com/", "https://masternodes.online/currencies/HC/"],
+  "source_code": ["https://github.com/HarvestMasternodecoin/Harvestcoin"]
+}

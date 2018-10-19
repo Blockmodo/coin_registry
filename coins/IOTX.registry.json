@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "IOTX",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/IoTex"],
+  "chat": ["https://t.me/iotexchannel", "https://t.me/IoTeXGroup"],
+  "social": ["https://facebook.com/iotex.io", "https://twitter.com/iotex_io"],
+  "network": {
+    "t_available_supply": 1331040005,
+    "t_total_supply": 10000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://iotex.io/",
+  "description": {
+    "en": "IOTX will be a Decentralized Network for Internet of Things\nPowered by a Privacy-Centric Blockchain"
+  },
+  "name": "IoTeX",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x6fb3e0a217407efff7ca062d46c26e5d60a14d69", "https://ethplorer.io/address/0x6fb3e0a217407efff7ca062d46c26e5d60a14d69"],
+  "source_code": ["https://github.com/iotexproject/iotex-core"]
+}

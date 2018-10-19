@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "GO",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/OfficialGoChain"],
+  "chat": ["https://t.me/go_chain"],
+  "social": ["https://twitter.com/go_chain"],
+  "network": {
+    "t_available_supply": 624704101,
+    "t_total_supply": 1018791710,
+    "t_max_supply": 0
+  },
+  "website": "https://gochain.io/",
+  "description": {
+    "en": "GoChain is a scalable, Ethereum based smart contract blockchain that is fast, secure and green. It enables DApp and smart contract developers to lift and shift from Ethereum to GoChain for 100x increased performance."
+  },
+  "name": "GoChain",
+  "algorithm": "Ethash",
+  "proof_type": "Proof of Reputation",
+  "explorer": ["https://explorer.gochain.io/home"],
+  "source_code": ["https://github.com/gochain-io/go-ethereum"]
+}

@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "CHP",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/coinpoker"],
+  "chat": ["https://t.me/officialcoinpoker"],
+  "social": ["https://www.facebook.com/CoinPokerOfficial/", "https://twitter.com/CoinPoker_OFF"],
+  "network": {
+    "t_available_supply": 315414462,
+    "t_total_supply": 354786435,
+    "t_max_supply": 0
+  },
+  "website": "https://coinpoker.com/",
+  "description": {
+    "en": "CoinPoker is a poker room built on blockchain technology that will offer fantastic value for both poker players and cryptocurrency community members alike. We are also introducing CHP (‚chips’) – a brand new cryptocurrency that will be used to play poker safely and comfortably."
+  },
+  "name": "CoinPoker",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xf3db7560e820834658b590c96234c333cd3d5e5e", "https://ethplorer.io/address/0xf3db7560e820834658b590c96234c333cd3d5e5e"],
+  "source_code": ["https://github.com/CoinPokerOfficial/ico-smartcontracts"]
+}

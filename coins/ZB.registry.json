@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "ZB",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/ZB_support"],
+  "social": ["https://www.facebook.com/zb.hk.9", "https://twitter.com/ZbTalk"],
+  "network": {
+    "t_available_supply": 0,
+    "t_total_supply": 2100000000,
+    "t_max_supply": 0
+  },
+  "website": "https://www.zb.com/",
+  "description": {
+    "en": "ZB is a ZB.com exchange token."
+  },
+  "name": "ZB",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/address/0xbd0793332e9fb844a52a205a233ef27a5b34b927", "https://etherscan.io/token/0xbd0793332e9fb844a52a205a233ef27a5b34b927"],
+  "source_code": []
+}

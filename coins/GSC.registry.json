@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "GSC",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/gsc_official"],
+  "social": ["https://www.facebook.com/GSCCoin", "https://twitter.com/gsc_socialchain"],
+  "network": {
+    "t_available_supply": 444078459,
+    "t_total_supply": 1000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://www.gsc.social/",
+  "description": {
+    "en": "GSC (Global Social Chain) wants to be the world's first new generation of social networking chain that owns hundreds of millions of social users. This social chain is determined to use block chain technology to subvert centralized social networks such as Facebook, WeChat, etc., which plays a dual role as \"manager\" and \"arbiter\" simultaneously for the former social networking platforms."
+  },
+  "name": "Global Social Chain",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x228ba514309ffdf03a81a205a6d040e429d6e80c", "https://ethplorer.io/address/0x228ba514309ffdf03a81a205a6d040e429d6e80c"],
+  "source_code": ["https://github.com/gscsocial/gsc-core"]
+}

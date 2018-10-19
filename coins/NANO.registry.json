@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "NANO",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": ["https://www.reddit.com/r/nanocurrency"],
+  "chat": ["https://discordapp.com/invite/JphbBas"],
+  "social": ["https://twitter.com/nano"],
+  "network": {
+    "t_available_supply": 133248289,
+    "t_total_supply": 133248289,
+    "t_max_supply": 133248290
+  },
+  "website": "http://nano.org/en",
+  "description": {
+    "en": "Digital currency for the real world – the fast and free way to pay for everything in life.\nWIth instant transactions, zero fees*, and scalable network\n*There is required POW work to do, when you want to send transaction through network (there is 0 fee in terms of absolute value, but you need to \"pay\" in your computational power)"
+  },
+  "name": "Nano",
+  "algorithm": "DPoS",
+  "proof_type": "PoS",
+  "explorer": ["https://www.nanode.co/", "https://nanoexplorer.io/"],
+  "source_code": ["https://github.com/nanocurrency/raiblocks"]
+}

@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "NPXS",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/Pundix"],
+  "social": ["https://www.facebook.com/pundixlabs/", "https://twitter.com/PundiXLabs"],
+  "network": {
+    "t_available_supply": 125606987271,
+    "t_total_supply": 280255193861,
+    "t_max_supply": 0
+  },
+  "website": "https://pundix.com/",
+  "description": {
+    "en": "Pundi X team want to make using cryptocurrency as easy as getting bottled water. At Pundi X, we seek to bring cryptocurrency to the next billion users and will help increase the value of cryptocurrency for all."
+  },
+  "name": "Pundi X",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3", "https://ethplorer.io/address/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3"],
+  "source_code": ["https://github.com/pundix/ico"]
+}

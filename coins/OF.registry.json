@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "OF",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": [],
+  "chat": [],
+  "social": ["https://twitter.com/OFIDPlatform"],
+  "network": {
+    "t_available_supply": 0,
+    "t_total_supply": 51200000000,
+    "t_max_supply": 0
+  },
+  "website": "http://www.ofbank.com/",
+  "description": {
+    "en": "The OF Community Chain is a public chain that serves the community economy."
+  },
+  "name": "OFCOIN",
+  "algorithm": "Scrypt",
+  "proof_type": "PoW",
+  "explorer": ["http://browser.ofbank.com/"],
+  "source_code": ["https://github.com/ofproject/ofwallet"]
+}

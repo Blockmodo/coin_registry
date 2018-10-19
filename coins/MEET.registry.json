@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "MEET",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": [],
+  "chat": ["https://coinmeet.slack.com/", "https://t.me/coinmeet"],
+  "social": ["https://www.facebook.com/CoinMeetOfficial", "https://twitter.com/CoinMeetCoin"],
+  "network": {
+    "t_available_supply": 0,
+    "t_total_supply": 400000000,
+    "t_max_supply": 0
+  },
+  "website": "https://coinmeet.io/",
+  "description": {
+    "en": "CoinMeet is building an inclusive blockchain ecosystem.\nIntegrating wallet and identity, it is a \nsocial tool and transaction medium,\nand the value router in the era of \ndigital economy."
+  },
+  "name": "CoinMeet",
+  "algorithm": "Unknown",
+  "proof_type": "PoW",
+  "explorer": ["https://etherscan.io/token/0x7f121d4ec6c2c07eb6bc7989d91d2d4ff654c068", "https://ethplorer.io/address/0x7f121d4ec6c2c07eb6bc7989d91d2d4ff654c068"],
+  "source_code": []
+}

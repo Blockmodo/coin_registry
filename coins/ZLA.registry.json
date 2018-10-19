@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "ZLA",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/ZILLAtoken"],
+  "chat": ["https://t.me/zilla_app", "https://t.me/ZILLA_Chinese"],
+  "social": ["https://twitter.com/zillatoken"],
+  "network": {
+    "t_available_supply": 40466654,
+    "t_total_supply": 60000000,
+    "t_max_supply": 0
+  },
+  "website": "https://zla.io/",
+  "description": {
+    "en": "ZILLA will act as a gateway for crypto enthusiasts to easily and safely participate in vetted ICOs, while also allowing companies to publicise an ICO more effectively.\nIn development."
+  },
+  "name": "Zilla",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xfd8971d5e8e1740ce2d0a84095fca4de729d0c16", "https://ethplorer.io/address/0xfd8971d5e8e1740ce2d0a84095fca4de729d0c16"],
+  "source_code": []
+}

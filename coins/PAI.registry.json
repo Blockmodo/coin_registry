@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "PAI",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": ["https://www.reddit.com/r/ProjectPai"],
+  "chat": ["https://t.me/projectpai"],
+  "social": ["https://twitter.com/ProjectPai"],
+  "network": {
+    "t_available_supply": 0,
+    "t_total_supply": 1660363531,
+    "t_max_supply": 2100000000
+  },
+  "website": "https://projectpai.com/",
+  "description": {
+    "en": "A person’s Personal Artificial Intelligence (PAI), is a verified intelligent 3D avatar that looks like you, sounds like you, and can perform activities on your behalf."
+  },
+  "name": "Project Pai",
+  "algorithm": "SHA256",
+  "proof_type": "PoW",
+  "explorer": ["https://paichain.info/"],
+  "source_code": ["https://github.com/projectpai/paicoin"]
+}

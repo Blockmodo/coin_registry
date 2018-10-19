@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "UIP",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": [],
+  "chat": ["https://t.me/UIPworld"],
+  "social": [],
+  "network": {
+    "t_available_supply": 0,
+    "t_total_supply": 3000000000,
+    "t_max_supply": 0
+  },
+  "website": "http://www.unlimitedip.io/",
+  "description": {
+    "en": "UIP (short for UnlimitedIP ) is a recreational copyright intelligent trading platform created by Link Entertainments Technology based on EOS."
+  },
+  "name": "UnlimitedIP",
+  "algorithm": "Unknown",
+  "proof_type": "PoW",
+  "explorer": ["https://etherscan.io/token/0x4290563c2d7c255b5eec87f2d3bd10389f991d68", "https://ethplorer.io/address/0x4290563c2d7c255b5eec87f2d3bd10389f991d68"],
+  "source_code": []
+}

@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "SMS",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/smscoin"],
+  "social": ["https://twitter.com/Speed_Mining"],
+  "network": {
+    "t_available_supply": 104680,
+    "t_total_supply": 300000,
+    "t_max_supply": 0
+  },
+  "website": "https://smscoin.jp/en",
+  "description": {
+    "en": "SMS project is the most advanced diversified virtual currency mining operation with the offering of profit distribution up to 34% from the global revenue."
+  },
+  "name": "Speed Mining Service",
+  "algorithm": "Unknown",
+  "proof_type": "Unknown",
+  "explorer": [],
+  "source_code": ["https://github.com/Speed-Mining/SMSCoin"]
+}

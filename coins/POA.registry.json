@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "POA",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/POA"],
+  "chat": ["https://t.me/oraclesnetwork"],
+  "social": ["https://twitter.com/poanetwork"],
+  "network": {
+    "t_available_supply": 219869894,
+    "t_total_supply": 257739014,
+    "t_max_supply": 0
+  },
+  "website": "https://poa.network/",
+  "description": {
+    "en": "An open network based on Ethereum protocol with Proof of Authority consensus by independent actors. Public notaries with known identity serve as private validators to secure the network."
+  },
+  "name": "POA Network",
+  "algorithm": "Proof-of-Authority",
+  "proof_type": "Proof of Authority",
+  "explorer": ["https://etherscan.io/token/0x6758b7d441a9739b98552b373703d8d3d14f9e62", "https://poaexplorer.com/"],
+  "source_code": ["https://github.com/poanetwork"]
+}

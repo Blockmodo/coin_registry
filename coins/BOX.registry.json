@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "BOX",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/ContentBoxOfficial"],
+  "chat": ["https://t.me/BoxCommunity"],
+  "social": ["https://www.facebook.com/contentboxone/", "https://twitter.com/Contentbox_one"],
+  "network": {
+    "t_available_supply": 615476313,
+    "t_total_supply": 3000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://contentbox.one/",
+  "description": {
+    "en": "ContentBox is a public blockchain project for the content industry with a focus on the audio/visual realm."
+  },
+  "name": "ContentBox",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x63f584fa56e60e4d0fe8802b27c7e6e3b33e007f"],
+  "source_code": ["https://github.com/BOXFoundation"]
+}

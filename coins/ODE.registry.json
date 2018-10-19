@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "ODE",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/ODEM"],
+  "chat": ["https://t.me/odem_io"],
+  "social": ["https://www.facebook.com/odemio/", "https://twitter.com/ODEM_IO"],
+  "network": {
+    "t_available_supply": 218002386,
+    "t_total_supply": 268946131,
+    "t_max_supply": 0
+  },
+  "website": "https://odem.io/",
+  "description": {
+    "en": "ODEM.IO is developing a first-of-its-kind global, decentralized education marketplace to deliver complete, end-to-end, custom, in-person education programs and experiences. On-Demand Education Marketplace will be powered by programs deployed on the Ethereum blockchain. The intersection of blockchain and artificial intelligence enables an interactive education market that can aggregate student demand for specific course subjects, market educators’ offerings, safely make conditional precommitments, as well as handle payments and disbursements when service criteria are met."
+  },
+  "name": "ODEM",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xbf52f2ab39e26e0951d2a02b49b7702abe30406a", "https://ethplorer.io/address/0xbf52f2ab39e26e0951d2a02b49b7702abe30406a"],
+  "source_code": ["https://github.com/odemio/ico"]
+}

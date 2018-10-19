@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "BCI",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": [],
+  "chat": ["https://t.me/bitcoininterest"],
+  "social": ["https://www.facebook.com/BitcoinInterestBCI/", "https://twitter.com/btcinterest"],
+  "network": {
+    "t_available_supply": 18326892,
+    "t_total_supply": 18326892,
+    "t_max_supply": 0
+  },
+  "website": "http://bitcoininterest.io/",
+  "description": {
+    "en": "Bitcoin Interest (\"BCI\") is a competitive staking cryptocurrency focusing on three key areas Technology, Community, and Savings. Our blockchain has new integrated savings technology that allows our users to safely park their coins and earn interest payments without ever moving coins from their wallets."
+  },
+  "name": "Bitcoin Interest",
+  "algorithm": "Equihash",
+  "proof_type": "PoW",
+  "explorer": ["https://explorer.bitcoininterest.io/"],
+  "source_code": ["https://github.com/BitcoinInterestOfficial/BitcoinInterest"]
+}

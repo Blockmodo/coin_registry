@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "IQ",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": [],
+  "chat": ["https://t.me/IQ_cash"],
+  "social": ["https://twitter.com/IQ_Crypto"],
+  "network": {
+    "t_available_supply": 2961455,
+    "t_total_supply": 10361455,
+    "t_max_supply": 56900000
+  },
+  "website": "https://iq.cash/",
+  "description": {
+    "en": "IQ.сash is universal large-scale blockchain platform for Traders, Investors & Miners. Its main goal is to provide instant anonymous online payments and investing. Cryptocurrency has millions of active users around the world and the number of people constantly grows very fast. \nPremine: 7.400.000 coins"
+  },
+  "name": "IQ.cash",
+  "algorithm": "NeoScrypt",
+  "proof_type": "PoW",
+  "explorer": ["https://explorer.iq.cash/"],
+  "source_code": ["https://github.com/IQ-Cash/iqcash"]
+}

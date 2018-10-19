@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "SEER",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/CANteam"],
+  "social": ["https://twitter.com/info_seer"],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 4100000000,
+    "t_max_supply": 0
+  },
+  "website": "http://seer.best/",
+  "description": {
+    "en": "SEER is a next-generation blockchain-based decentralized prediction market built on the Graphene toolkit. It allows users to express their judgments about future events by means of the market mechanism and makes effective predictions by gathering intelligence and ideas."
+  },
+  "name": "SEER",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x0f1ed66c251bcb52ecf7e67ac64bb72482048adb", "https://ethplorer.io/address/0x0f1ed66c251bcb52ecf7e67ac64bb72482048adb"],
+  "source_code": ["https://github.com/seer-project/Seer-UI"]
+}

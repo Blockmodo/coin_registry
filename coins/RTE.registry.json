@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "RTE",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/Rate3"],
+  "chat": ["https://t.me/OfficialRate3"],
+  "social": ["https://twitter.com/OfficialRate3"],
+  "network": {
+    "t_available_supply": 428994997,
+    "t_total_supply": 1000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://www.rate3.network/",
+  "description": {
+    "en": "Rate3 will be a decentralised dual protocol for cross-border payment and credit scoring powered by Stellar and Ethereum"
+  },
+  "name": "Rate3",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x436f0f3a982074c4a05084485d421466a994fe53", "https://ethplorer.io/address/0x436f0f3a982074c4a05084485d421466a994fe53"],
+  "source_code": ["https://github.com/rate-engineering/"]
+}

@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "AUC",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/AuctusProject"],
+  "chat": ["https://t.me/AuctusProject", "https://join.slack.com/t/auctus-project/shared_invite/MjM5NTU3NTI5OTA5LTE1MDUxNTkxMjgtZWI2MDY3MGMxNQ"],
+  "social": ["https://twitter.com/Auctus", "https://www.facebook.com/AuctusProject/"],
+  "network": {
+    "t_available_supply": 17039032,
+    "t_total_supply": 65829658,
+    "t_max_supply": 0
+  },
+  "website": "https://auctus.org/",
+  "description": {
+    "en": "Auctus wants to be a leading smart contract-powered retirement planning platform, which allows users to create diversified portfolios, consisting of traditional asset classes and cryptocurrencies."
+  },
+  "name": "Auctus",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://ethplorer.io/address/0xc12d099be31567add4e4e4d0d45691c3f58f5663", "https://etherscan.io/token/0xc12d099be31567add4e4e4d0d45691c3f58f5663"],
+  "source_code": ["https://github.com/AuctusProject/Alpha"]
+}

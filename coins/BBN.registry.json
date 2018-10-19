@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "BBN",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/BanyanNetwork"],
+  "chat": ["http://t.me/bbnglobalfans", "https://t.me/BBNGlobalFans"],
+  "social": ["https://twitter.com/banyan_network"],
+  "network": {
+    "t_available_supply": 471932830,
+    "t_total_supply": 1000000000,
+    "t_max_supply": 0
+  },
+  "website": "http://www.banyanbbt.org/",
+  "description": {
+    "en": "Banyan Network will be a fusion of big data network based on blockchain technology called Data Fusion Value Chain Network (DVN). It will be also the world’s first distributed ecosystem of data economies raised and built by team experts in the field of data analytics. \nIn development."
+  },
+  "name": "Banyan Network",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x35a69642857083ba2f30bfab735dacc7f0bac969", "https://ethplorer.io/address/0x35a69642857083ba2f30bfab735dacc7f0bac969"],
+  "source_code": []
+}

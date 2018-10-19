@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "DGX",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/digix"],
+  "chat": [],
+  "social": ["https://www.facebook.com/digixdao/", "https://twitter.com/digixglobal"],
+  "network": {
+    "t_available_supply": 63152,
+    "t_total_supply": 66200,
+    "t_max_supply": 0
+  },
+  "website": "https://digix.global/",
+  "description": {
+    "en": "Every DGX = 1 Gram of gold.\nYou can own, save and transact Gold in tokenised form - keeping secure private ownership of your digital assets."
+  },
+  "name": "Digix Gold Token",
+  "algorithm": null,
+  "proof_type": "Proof of Assets (PoA)",
+  "explorer": ["https://etherscan.io/token/0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf", "https://ethplorer.io/address/0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf"],
+  "source_code": []
+}

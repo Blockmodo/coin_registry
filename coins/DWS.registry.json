@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "DWS",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/dwswifiofficial"],
+  "social": ["https://twitter.com/dwswifi"],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 500000000,
+    "t_max_supply": 0
+  },
+  "website": "https://dwswifi.com/",
+  "description": {
+    "en": "The DWS Protocol will utilize the NEO platform as a top-level partner on a level 1 Blockchain partnership. The DWS Protocol will utilize NEO’s Digital Asset functionality, Digital Identity module, dBFS Consensus Algorithm, and Delegated Byzantine Fault Tolerance mechanism. Furthermore, DWS will also utilize NEO’s cross-chain protocol, quantum-resistant cryptography, distributed storage protocol, and secure communication protocol."
+  },
+  "name": "DWS",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xf4b54874cd8a6c863e3a904c18fda964661ec363", "https://ethplorer.io/address/0xf4b54874cd8a6c863e3a904c18fda964661ec363"],
+  "source_code": []
+}

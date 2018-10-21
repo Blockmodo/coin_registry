@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "KIND",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/KindAds"],
+  "chat": ["https://t.me/kindads"],
+  "social": ["https://twitter.com/KindAdsNetwork"],
+  "network": {
+    "t_available_supply": 34468096,
+    "t_total_supply": 61000000,
+    "t_max_supply": 0
+  },
+  "website": "https://kindads.io/",
+  "description": {
+    "en": "Kind Ads is an advertising platform that serves user-friendly ads through more effective channels like email and push notifications."
+  },
+  "name": "Kind Ads Token",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x4618519de4c304f3444ffa7f812dddc2971cc688", "https://ethplorer.io/address/0x4618519de4c304f3444ffa7f812dddc2971cc688"],
+  "source_code": ["https://github.com/kindads/platform"]
+}

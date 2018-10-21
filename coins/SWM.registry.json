@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "SWM",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/swarm"],
+  "chat": [],
+  "social": ["https://www.facebook.com/swarmalliance/", "https://twitter.com/TheSwarmFund"],
+  "network": {
+    "t_available_supply": 61313355,
+    "t_total_supply": 100000000,
+    "t_max_supply": 0
+  },
+  "website": "https://www.swarm.fund/",
+  "description": {
+    "en": "The world's first platform to bridge digital currency and real assets."
+  },
+  "name": "Swarm",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x9e88613418cf03dca54d6a2cf6ad934a78c7a17a", "https://ethplorer.io/address/0x9e88613418cf03dca54d6a2cf6ad934a78c7a17a"],
+  "source_code": ["https://github.com/swarmfund/swarm-core"]
+}

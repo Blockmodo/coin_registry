@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "EURS",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/STASIS"],
+  "social": ["https://twitter.com/stasisnet"],
+  "network": {
+    "t_available_supply": 12291000,
+    "t_total_supply": 12291000,
+    "t_max_supply": 0
+  },
+  "website": "https://stasis.net/",
+  "description": {
+    "en": "EURS a collateralized stable coin designed to become the backbone of the crypto-economy.\nEURS token is a virtual financial asset that is designed to digitally mirror the EURO on the condition that its value is tied to the value of its collateral."
+  },
+  "name": "STASIS EURS",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://stasis.net/transparency/", "https://etherscan.io/token/0xdb25f211ab05b1c97d595516f45794528a807ad8", "https://ethplorer.io/address/0xdb25f211ab05b1c97d595516f45794528a807ad8"],
+  "source_code": ["https://github.com/STASISNET/STASIS-EURS-token-smart-contract"]
+}

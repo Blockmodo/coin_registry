@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "BERRY",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/Rentberry"],
+  "chat": ["https://t.me/joinchat/E6YjkQ2yQwBk9WaP0q-zMQ", "https://t.me/RentberryNews", "https://t.me/joinchat/HuLgZg4lZFHW8uOxwhAqlQ"],
+  "social": ["https://twitter.com/rentberry_", "https://www.facebook.com/BitStationTeam/?view_public_for=355069064957750"],
+  "network": {
+    "t_available_supply": 301431305,
+    "t_total_supply": 301473028,
+    "t_max_supply": 0
+  },
+  "website": "https://rentberry.com/",
+  "description": {
+    "en": "Rentberry streamlines the entire long-term rental process using blockchain and smart contracts technology and eliminates the need for a middleman making it possible for tenants and landlords to complete all rental tasks in one place.\nIn development."
+  },
+  "name": "Rentberry",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://ethplorer.io/address/0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c", "https://etherscan.io/token/0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c"],
+  "source_code": ["https://github.com/Rentberry/BerryToken"]
+}

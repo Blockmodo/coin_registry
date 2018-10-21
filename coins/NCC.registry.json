@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "NCC",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/Neurochain"],
+  "chat": ["https://t.me/joinchat/HxPwABGGdXS3CiICGI0-kQ", "https://t.me/neurochain_official"],
+  "social": ["https://www.facebook.com/NeurochainICO/", "https://twitter.com/NeuroChainTech"],
+  "network": {
+    "t_available_supply": 156059901,
+    "t_total_supply": 657440000,
+    "t_max_supply": 0
+  },
+  "website": "https://www.neurochaintech.io/",
+  "description": {
+    "en": "Currently blockchain has many limitations. It has an imbalance of approvers concentration. It is slow, unsustainable and not scalable. The NeuroChain technology is a new augmented blockchain based on intelligent decision making mechanisms. It is composed of Bots and a set of rules represented by flexible and scalable protocols (Proof of Involvement and Integrity & Proof of Workflow). It runs on a network or media with an adaptive communication layer."
+  },
+  "name": "NeuroChain",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x5d48f293baed247a2d0189058ba37aa238bd4725", "https://ethplorer.io/address/0x5d48f293baed247a2d0189058ba37aa238bd4725"],
+  "source_code": ["https://gitlab.com/neurochaintech"]
+}

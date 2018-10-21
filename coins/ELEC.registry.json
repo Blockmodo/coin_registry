@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "ELEC",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/electrify"],
+  "chat": ["https://t.me/electrifyasia"],
+  "social": ["https://facebook.com/electrify.asia", "https://twitter.com/electrifyasia"],
+  "network": {
+    "t_available_supply": 459536516,
+    "t_total_supply": 750000000,
+    "t_max_supply": 0
+  },
+  "website": "https://electrify.asia/",
+  "description": {
+    "en": "Electrify.Asia is building an intelligent energy ecosystem. Electrify is the first retail electricity marketplace in Southeast-Asia addressing the need for transparency and security in the consumption of energy."
+  },
+  "name": "Electrify.Asia",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xd49ff13661451313ca1553fd6954bd1d9b6e02b9", "https://ethplorer.io/address/0xd49ff13661451313ca1553fd6954bd1d9b6e02b9"],
+  "source_code": ["https://github.com/electrifyasia/Smart-Contracts"]
+}

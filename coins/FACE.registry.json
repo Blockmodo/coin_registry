@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "FACE",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/faceter"],
+  "social": ["https://www.facebook.com/FaceterOfficial", "https://twitter.com/FaceterOfficial"],
+  "network": {
+    "t_available_supply": 470217546,
+    "t_total_supply": 938641610,
+    "t_max_supply": 0
+  },
+  "website": "https://tokensale.faceter.io/",
+  "description": {
+    "en": "The token is the core of the decentralized network, both as a Proof of Recognition and a flexible, transparent, closed-loop cross-border settlement mechanism for all participants."
+  },
+  "name": "Faceter",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x1ccaa0f2a7210d76e1fdec740d5f323e2e1b1672", "https://ethplorer.io/address/0x1ccaa0f2a7210d76e1fdec740d5f323e2e1b1672"],
+  "source_code": ["https://github.com/faceterteam/smart_contracts"]
+}

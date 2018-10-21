@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "KBC",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/joinchat/HwdcMEWPPAX1NNBwtEC56Q"],
+  "social": ["https://www.facebook.com/karatbarsinternationalofficial/", "https://twitter.com/karatbarsgmbh"],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 12000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://karatgold.io/",
+  "description": {
+    "en": "Karatgold Coin is supposedly token designed to be used as an accepted payment means, for people who consider gold as a secure, and stable medium."
+  },
+  "name": "Karatgold Coin",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xf3586684107ce0859c44aa2b2e0fb8cd8731a15a", "https://ethplorer.io/address/0xf3586684107ce0859c44aa2b2e0fb8cd8731a15a"],
+  "source_code": []
+}

@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "BIT",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": [],
+  "social": ["https://twitter.com/BitMoney6"],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 5670411,
+    "t_max_supply": 70000000000
+  },
+  "website": "https://bitmoney.ws/",
+  "description": {
+    "en": ""
+  },
+  "name": "BitMoney",
+  "algorithm": "",
+  "proof_type": "",
+  "explorer": ["https://bit.ccore.online/"],
+  "source_code": ["https://github.com/CryptVenture/BitMoneyV2"]
+}

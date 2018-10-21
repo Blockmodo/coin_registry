@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "AXPR",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": ["https://www.reddit.com/r/aXpire"],
+  "chat": ["https://t.me/AxpireOfficial"],
+  "social": ["https://www.facebook.com/Axpire-537274833301303", "https://twitter.com/aXpire_official"],
+  "network": {
+    "t_available_supply": 275000000,
+    "t_total_supply": 350000000,
+    "t_max_supply": 0
+  },
+  "website": "http://axpire.io/",
+  "description": {
+    "en": "aXpire will be a cloud-based and AI-enabled blockchain payment processing company, building the World's first blockchain based spend management system\nIn development."
+  },
+  "name": "aXpire",
+  "algorithm": "Unknown",
+  "proof_type": "PoW",
+  "explorer": ["https://etherscan.io/token/0xc39e626a04c5971d770e319760d7926502975e47", "https://ethplorer.io/address/0xc39e626a04c5971d770e319760d7926502975e47"],
+  "source_code": []
+}

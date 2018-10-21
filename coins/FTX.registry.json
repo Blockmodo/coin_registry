@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "FTX",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/FintruX"],
+  "chat": ["https://t.me/FintruX", "https://www.gitter.im/FintruX"],
+  "social": ["https://twitter.com/fintrux", "https://www.facebook.com/sphreco"],
+  "network": {
+    "t_available_supply": 85000000,
+    "t_total_supply": 100000000,
+    "t_max_supply": 0
+  },
+  "website": "https://www.fintrux.com/",
+  "description": {
+    "en": "FintruX Network will be a blockchain based online ecosystem connecting borrowers, lenders, and rated service agencies. FintruX facilitates marketplace lending in a true peer-to-peer network to ease the cash-flow issues of small businesses and startups.\nIn development."
+  },
+  "name": "FintruX Network",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://ethplorer.io/address/0xd559f20296ff4895da39b5bd9add54b442596a61", "https://etherscan.io/token/0xd559f20296FF4895da39b5bd9ADd54b442596a61"],
+  "source_code": ["https://github.com/FintruX/contracts"]
+}

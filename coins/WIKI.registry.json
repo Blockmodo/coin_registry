@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "WIKI",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/WikiToken"],
+  "chat": [],
+  "social": ["https://twitter.com/wiki_token"],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 21000000,
+    "t_max_supply": 0
+  },
+  "website": "https://wikitoken.bitcoinwiki.org/",
+  "description": {
+    "en": "Crypto University - crypto oriented online education."
+  },
+  "name": "Wiki Token",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/address/0x66bad545596fb17a0b4ebdc003a85def10e8f6ae", "https://etherscan.io/token/0x66bad545596fb17a0b4ebdc003a85def10e8f6ae"],
+  "source_code": []
+}

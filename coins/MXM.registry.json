@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "MXM",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/maximine"],
+  "chat": ["https://t.me/maximine"],
+  "social": ["https://facebook.com/maximinecoin", "https://twitter.com/maximinecoin"],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 16000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://maximine.io/",
+  "description": {
+    "en": "MaxiMine is a highly efficient and transparent cloud-based pool mining platform. Users receive a portion of the MaxiMine pool rewards by staking the tokens that they own for hashing power."
+  },
+  "name": "Maximine Coin",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x6a750d255416483bec1a31ca7050c6dac4263b57", "https://ethplorer.io/address/0x6a750d255416483bec1a31ca7050c6dac4263b57"],
+  "source_code": ["https://github.com/maximine"]
+}

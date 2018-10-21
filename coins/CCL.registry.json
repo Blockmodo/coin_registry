@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "CCL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/Cyclean"],
+  "chat": ["http://t.me/cycleangroup"],
+  "social": ["https://www.facebook.com/cyclean.official/", "https://twitter.com/cycleancoin"],
+  "network": {
+    "t_available_supply": 614178164,
+    "t_total_supply": 4000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://cyclean.io/",
+  "description": {
+    "en": "CyClean coin is integrated with JPAY platform which is already implemented and being used as cryptocurrency payment system across all of South Korea. Within this platform, CyClean coin is used to pay mobile service fee, rental fee for electric bicycle, electric motorbike, ESS sunlight panel unit, JPAY machine, JPAY Kiosk, and indoor health bike based on its smart contract feature."
+  },
+  "name": "CYCLEAN",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x749f35ff65932e68267dd82f6cd85eea735d700e", "https://ethplorer.io/address/0x749f35ff65932e68267dd82f6cd85eea735d700e"],
+  "source_code": ["https://github.com/cycleanio/CyCleanTokenSale"]
+}

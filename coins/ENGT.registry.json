@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "ENGT",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/EngagementToken"],
+  "chat": ["https://t.me/EngagementTokenOfficial", "https://t.me/ENGTAnnouncements"],
+  "social": [],
+  "network": {
+    "t_available_supply": 415255172,
+    "t_total_supply": 1000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://engagementtoken.com/",
+  "description": {
+    "en": "Engagement Tokens are the fuel for sustainable transformation in online publishing. Publishers and top citizen-participants earn the tokens by creating interesting content. Advertisers buy tokens to place their ads where the action is."
+  },
+  "name": "Engagement Token",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x5dbac24e98e2a4f43adc0dc82af403fca063ce2c", "https://ethplorer.io/address/0x5dbac24e98e2a4f43adc0dc82af403fca063ce2c"],
+  "source_code": []
+}

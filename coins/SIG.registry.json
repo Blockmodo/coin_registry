@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "SIG",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/Spectiv"],
+  "chat": ["http://t.me/spectivtelegram"],
+  "social": ["https://twitter.com/spectivvr", "https://www.facebook.com/spectivvr/"],
+  "network": {
+    "t_available_supply": 276672508,
+    "t_total_supply": 378851756,
+    "t_max_supply": 0
+  },
+  "website": "https://www.spectiv.io/",
+  "description": {
+    "en": "The Signal Marketplace will be the advertising platform built for the decentralized web. Using the Signal Marketplace, advertisers can list their offerings to a network of attention influencers."
+  },
+  "name": "Spectiv",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://ethplorer.io/address/0x6888a16ea9792c15a4dcf2f6c623d055c8ede792", "https://etherscan.io/token/0x6888a16ea9792c15a4dcf2f6c623d055c8ede792"],
+  "source_code": ["https://github.com/SpectivOfficial/wallet"]
+}

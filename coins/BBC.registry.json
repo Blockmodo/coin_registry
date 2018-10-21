@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "BBC",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/tradove"],
+  "chat": ["https://t.me/joinchat/G2lo8BILDmQCNID90B0SGg", "https://t.me/joinchat/GCeNfxAVLy6bo6VNR3a9hg"],
+  "social": ["https://www.facebook.com/tradove/", "https://twitter.com/B2B_SocialNetwk"],
+  "network": {
+    "t_available_supply": 500000000,
+    "t_total_supply": 1000000000,
+    "t_max_supply": 0
+  },
+  "website": "http://bbcoin.tradove.com/",
+  "description": {
+    "en": "TraDove platform will connects business partners with its business social network. The next generation platform will utilize blockchain and AI driven social networking technologies to further shorten the corporate buyer & seller discovery cycle, enhance B2B transparency, expand user trust, and allow for company-to-company precision advertising. Additionally, BBCoin will provide a better payment instrument for international trade. They have been in business for 5 years and now have 250K corporate users worldwide. \nIn development."
+  },
+  "name": "TraDove B2BCoin",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xe7D3e4413E29ae35B0893140F4500965c74365e5", "https://ethplorer.io/address/0xe7d3e4413e29ae35b0893140f4500965c74365e5"],
+  "source_code": []
+}

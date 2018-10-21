@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "DAXT",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["http://t.me/BlockExDiscussion", "https://t.me/joinchat/Gd9vyg-VVGdY6uP--TIk0w"],
+  "social": ["https://www.facebook.com/BlockExDAxP", "https://twitter.com/BlockEx"],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 112516628,
+    "t_max_supply": 0
+  },
+  "website": "https://daxt.io/",
+  "description": {
+    "en": "The Digital Asset Exchange Token (symbol: DAXT) is BlockEx’s ICO. It is a utility token in which allows holders access to buy ICO tokens on BlockEx Markets ICO Market on a pre-sale basis before the public at large.\nDAXT, the token to disrupt the ICO market by guaranteeing fair and transparent access to ICO distribution."
+  },
+  "name": "Digital Asset Exchange Token",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x61725f3db4004afe014745b21dab1e1677cc328b", "https://ethplorer.io/address/0x61725f3db4004afe014745b21dab1e1677cc328b"],
+  "source_code": []
+}

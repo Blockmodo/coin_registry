@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "USE",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/UseChain"],
+  "chat": ["https://t.me/usechaingroup"],
+  "social": ["https://www.facebook.com/UsechainFoundation/", "https://twitter.com/usechain"],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 20000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://www.usechain.net/",
+  "description": {
+    "en": "Introduce a brand-new consensus mechanism, Randomized Proof of Work to perfectly balance high performance and strong security, and apply multi-level authentication and encryption mechanism, Zero Proof, Identity Virtual Machine (IVM), Identity Network Sharding (INS), Identity Transaction Sharding (ITS), Enhanced Smart Contract, and other innovative technologies to create a new generation of Blockchain, leading Blockchain 3.0."
+  },
+  "name": "Usechain Token",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xd9485499499d66b175cf5ed54c0a19f1a6bcb61a", "https://ethplorer.io/address/0xd9485499499d66b175cf5ed54c0a19f1a6bcb61a"],
+  "source_code": ["https://github.com/usechain/go-usechain"]
+}

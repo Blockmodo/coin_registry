@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "COSM",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/cosmochain_english"],
+  "social": ["https://facebook.com/cosmochain", "https://twitter.com/cosmochain"],
+  "network": {
+    "t_available_supply": 570655336,
+    "t_total_supply": 973000000,
+    "t_max_supply": 0
+  },
+  "website": "https://cosmochain.io/",
+  "description": {
+    "en": "Connecting customers and companies through a mutually beneficial beauty ecosystem."
+  },
+  "name": "Cosmo Coin",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xc4bcd64cb216d49fd3c643a32762f34626b45a1a", "https://ethplorer.io/address/0xc4bcd64cb216d49fd3c643a32762f34626b45a1a"],
+  "source_code": ["https://github.com/cosmochain/CosmoCoin"]
+}

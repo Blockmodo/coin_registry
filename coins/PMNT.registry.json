@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "PMNT",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/paymoneng"],
+  "social": ["https://www.facebook.com/ico.paymon.org", "https://twitter.com/Paymon_official"],
+  "network": {
+    "t_available_supply": 611226584,
+    "t_total_supply": 1000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://paymon.org/",
+  "description": {
+    "en": "Paymon suggests its own view of standard Blockchain, introducing ways of dealing with most issues of existing cryptocurrencies: the scaling problem, archaic architecture, low speed, and high transaction fees. Our new blockchain Hive improves all cryptocurrency instruments: from technology and infrastructure to regulatory compliance with current regulations."
+  },
+  "name": "Paymon",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x81b4d08645da11374a03749ab170836e4e539767", "https://ethplorer.io/address/0x81b4d08645da11374a03749ab170836e4e539767"],
+  "source_code": ["https://github.com/PaymonTeam/paymoncoin"]
+}

@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "TOLL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/iambridgeprotocol"],
+  "chat": ["https://t.me/BRIDGEprotocol"],
+  "social": ["https://www.facebook.com/BRIDGEprotocol/", "https://twitter.com/BridgeProtocol"],
+  "network": {
+    "t_available_supply": 228097040,
+    "t_total_supply": 708097040,
+    "t_max_supply": 0
+  },
+  "website": "https://www.bridgeprotocol.io/",
+  "description": {
+    "en": "Bridge Protocol is building new tools and standards for businesses, KYC and ICOs."
+  },
+  "name": "Bridge Protocol",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://neotracker.io/asset/78fd589f7894bf9642b4a573ec0e6957dfd84c48"],
+  "source_code": ["https://github.com/bridge-protocol"]
+}

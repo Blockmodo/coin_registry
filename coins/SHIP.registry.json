@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "SHIP",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/shipchain"],
+  "chat": ["https://t.me/shipchain"],
+  "social": ["https://www.facebook.com/shipchain", "https://twitter.com/shipchain"],
+  "network": {
+    "t_available_supply": 211943624,
+    "t_total_supply": 500000000,
+    "t_max_supply": 0
+  },
+  "website": "https://www.shipchain.io/",
+  "description": {
+    "en": "ShipChain want to develop a fully integrated system across the entire supply chain, from the moment a shipment leaves the factory, to the final delivery on the customer's doorstep; federated in trustless, transparent blockchain contracts.\nIn development - for now just an ERC-20 token."
+  },
+  "name": "ShipChain",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xe25b0bba01dc5630312b6a21927e578061a13f55", "https://ethplorer.io/address/0xe25b0bba01dc5630312b6a21927e578061a13f55"],
+  "source_code": ["https://github.com/ShipChain/SHIPToken"]
+}

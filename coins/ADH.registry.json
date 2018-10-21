@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "ADH",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/KcashOfficial", "https://t.me/adhivetv", "https://t.me/AdHiveNews", "https://kcashofficial.slack.com/"],
+  "social": ["https://twitter.com/AdhiveTv", "https://www.facebook.com/KcashOfficial/"],
+  "network": {
+    "t_available_supply": 111921314,
+    "t_total_supply": 392000000,
+    "t_max_supply": 0
+  },
+  "website": "https://adhive.tv/",
+  "description": {
+    "en": "Adhive is building world’s first AI-controlled Influencer Marketing platform. Our service offers a fully automated, blockchain based solution for mass placement of native video ads on influencers’ channels."
+  },
+  "name": "AdHive",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://ethplorer.io/address/0xe69a353b3152dd7b706ff7dd40fe1d18b7802d31", "https://etherscan.io/token/0xe69a353b3152dd7b706ff7dd40fe1d18b7802d31"],
+  "source_code": []
+}

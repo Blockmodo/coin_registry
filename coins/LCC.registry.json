@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "LCC",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": ["https://www.reddit.com/r/LCCofficial"],
+  "chat": ["https://t.me/litecoincashofficial", "https://discordapp.com/invite/F2nZXnW"],
+  "social": ["https://twitter.com/LitecoinFork"],
+  "network": {
+    "t_available_supply": 591548957,
+    "t_total_supply": 591548957,
+    "t_max_supply": 0
+  },
+  "website": "https://litecoinca.sh/",
+  "description": {
+    "en": "At Litecoin block 1371111, a new currency was born. 10:1 claim ratio rewards all LTC holders with 10 times as much LCC.\nLitecoin Cash premine - about 0.65% of total money supply was premined for the developers ~ 5,46 mln coins."
+  },
+  "name": "Litecoin Cash",
+  "algorithm": "SHA256",
+  "proof_type": "PoW",
+  "explorer": ["https://explorer.litecoinca.sh/"],
+  "source_code": ["https://github.com/litecoincash-project/"]
+}

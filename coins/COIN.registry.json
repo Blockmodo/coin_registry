@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "COIN",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/Coinvest"],
+  "chat": ["https://t.me/coinvestHQ", "https://t.me/CoinvestHQ/", "https://discordapp.com/invite/ZAyB8VV"],
+  "social": ["https://twitter.com/CoinvestHQ", "https://www.facebook.com/CoinvestHQ/"],
+  "network": {
+    "t_available_supply": 10168177,
+    "t_total_supply": 107142857,
+    "t_max_supply": 0
+  },
+  "website": "https://coinve.st/",
+  "description": {
+    "en": "The world’s first decentralized investment trading market for cryptocurrencies"
+  },
+  "name": "Coinvest",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://ethplorer.io/address/0x5e8f855966d638135a968861e80dda722291b06d", "https://etherscan.io/token/0x5e8f855966d638135a968861e80dda722291b06d"],
+  "source_code": ["https://github.com/CoinvestHQ/COIN", "https://github.com/CoinvestHQ"]
+}

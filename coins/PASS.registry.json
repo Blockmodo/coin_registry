@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "PASS",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/WisePassICO"],
+  "chat": ["https://t.me/wisepass"],
+  "social": ["http://facebook.com/wisepass", "https://twitter.com/wisepass_co"],
+  "network": {
+    "t_available_supply": 7676892,
+    "t_total_supply": 1000000000,
+    "t_max_supply": 0
+  },
+  "website": "http://wisepass.co/",
+  "description": {
+    "en": "WisePass is a lifestyle membership subscription available on Android and iOS. With WisePass you can Eat or Drink for free everyday or enjoy any of our other daily perks such as VIP event tickets, any drinks at Starbucks and much more. It’s available in nearly 100 locations in Vietnam and Thailand (Bangkok just launched!)."
+  },
+  "name": "Wisepass",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x77761e63c05aee6648fdaeaa9b94248351af9bcd", "https://ethplorer.io/address/0x77761e63c05aee6648fdaeaa9b94248351af9bcd"],
+  "source_code": []
+}

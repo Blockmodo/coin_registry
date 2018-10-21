@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "LDC",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/leadcoin"],
+  "chat": ["https://t.me/LeadCoinNetwork"],
+  "social": ["https://twitter.com/LeadCoinNetwork"],
+  "network": {
+    "t_available_supply": 784399592,
+    "t_total_supply": 2627412706,
+    "t_max_supply": 0
+  },
+  "website": "https://www.leadcoin.network/",
+  "description": {
+    "en": "LeadCoin empowers businesses to sell their unused leads and buy hot leads from other businesses. Sellers automatically share their unused leads in real-time. LeadCoin’s matching algorithm then analyzes and matches leads to buyers. Leads who didn’t match one business, are now the perfect match for another.​​"
+  },
+  "name": "Leadcoin",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["http://ethplorer.io/address/0x5102791ca02fc3595398400bfe0e33d7b6c82267", "https://etherscan.io/token/0x5102791ca02fc3595398400bfe0e33d7b6c82267"],
+  "source_code": ["https://github.com/LeadcoinNetwork/Web-App-Project"]
+}

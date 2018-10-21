@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "HERO",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/HeroToken"],
+  "chat": ["https://t.me/herotokensale"],
+  "social": ["https://www.facebook.com/HeroTokenIO/", "https://twitter.com/herotokenio"],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 14765425,
+    "t_max_supply": 0
+  },
+  "website": "",
+  "description": {
+    "en": "Hero wants to be the future of banking that provides collateralized loans to the unbanked and underbanked consumer across Southeast Asia."
+  },
+  "name": "Hero",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x02585e4a14da274d02df09b222d4606b10a4e940", "https://ethplorer.io/address/0x02585e4a14da274d02df09b222d4606b10a4e940"],
+  "source_code": []
+}

@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "QNTU",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/quanta"],
+  "chat": ["https://t.me/quantaofficial"],
+  "social": ["https://twitter.com/quantaplc"],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 120000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://www.quantaplc.im/",
+  "description": {
+    "en": "Quanta is the world’s first legally operating blockchain lottery, designed to operate on a global scale. More than just a game, Quanta is built to be fair for everyone involved."
+  },
+  "name": "Quanta Utility Token",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x4234f63b1d202f6c016ca3b6a0d41d7d85f17716", "https://ethplorer.io/address/0x4234f63b1d202f6c016ca3b6a0d41d7d85f17716"],
+  "source_code": []
+}

@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "VIT",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": ["https://www.reddit.com/r/ViceIndustryToken"],
+  "chat": ["https://t.me/viceindustrytoken"],
+  "social": ["https://www.facebook.com/vicetoken/", "https://twitter.com/vicetoken"],
+  "network": {
+    "t_available_supply": 295281313,
+    "t_total_supply": 4000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://vicetoken.com/",
+  "description": {
+    "en": "The Vice Industry Token represents a profound change in the broadcast and on-demand video entertainment industry. It functions as two things; a video entertainment platform where viewers can watch videos, and as a cryptocurrency where anybody who participates (in viewing, adding, or curating content) will get paid with VIT's proprietary cryptocurrency."
+  },
+  "name": "Vice Industry Token",
+  "algorithm": "DPoS",
+  "proof_type": "PoS",
+  "explorer": ["https://etherscan.io/token/0x23b75bc7aaf28e2d6628c3f424b3882f8f072a3c", "https://ethplorer.io/address/0x23b75bc7aaf28e2d6628c3f424b3882f8f072a3c"],
+  "source_code": ["https://github.com/ViceIndustryToken/"]
+}

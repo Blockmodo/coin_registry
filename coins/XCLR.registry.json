@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "XCLR",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/clearcoin"],
+  "chat": ["https://t.me/gemsorg", "https://t.me/clearcoin", "https://gemstoken.slack.com/"],
+  "social": ["https://twitter.com/clearcoinhq", "https://facebook.com/clearcoin"],
+  "network": {
+    "t_available_supply": 527873733,
+    "t_total_supply": 1000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://clearcoin.co/",
+  "description": {
+    "en": "ClearCoin team wants build a platform  on ERC20 blockchain standard. According to their team it will be a global advertising exchange technology that connects advertisers and publishers and tracks all transactions in a proof-of-history ledger. The proof-of-history ledger will be built on blockchain and helps combat ad fraud and inaccuracies."
+  },
+  "name": "ClearCoin",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://ethplorer.io/address/0x1e26b3d07e57f453cae30f7ddd2f945f5bf3ef33", "https://etherscan.io/token/0x1e26b3d07e57f453cae30f7ddd2f945f5bf3ef33"],
+  "source_code": ["https://github.com/clearcoin/go-ethereum"]
+}

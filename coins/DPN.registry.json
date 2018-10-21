@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "DPN",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/dipnetEnglish"],
+  "social": ["https://twitter.com/DipNetOfficial"],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 10000000000,
+    "t_max_supply": 0
+  },
+  "website": "http://www.dip.network/",
+  "description": {
+    "en": "DIPNET is the first distributed smart production network based on blockchain, dedicated to connecting the entertainment industry and manufacturing industry."
+  },
+  "name": "DIPNET",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xfb8bf095ebcdad57d2e37573a505e7d3bafdd3cc", "https://ethplorer.io/address/0xfb8bf095ebcdad57d2e37573a505e7d3bafdd3cc"],
+  "source_code": []
+}

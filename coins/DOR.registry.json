@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "DOR",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/DoradoICO"],
+  "chat": ["https://t.me/doradoico"],
+  "social": ["https://www.facebook.com/dorado.official/", "https://twitter.com/Dorado_ICO"],
+  "network": {
+    "t_available_supply": 305583782,
+    "t_total_supply": 695583782,
+    "t_max_supply": 0
+  },
+  "website": "https://www.dorado.tech/",
+  "description": {
+    "en": "The next \"Uber\" On blockchain for all on-demand deliveries."
+  },
+  "name": "Dorado",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x906b3f8b7845840188eab53c3f5ad348a787752f", "https://ethplorer.io/address/0x906b3f8b7845840188eab53c3f5ad348a787752f"],
+  "source_code": []
+}

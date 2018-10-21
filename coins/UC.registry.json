@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "UC",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/OfficialYouLive"],
+  "social": ["https://twitter.com/OfficialYouLive"],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 10000000000,
+    "t_max_supply": 0
+  },
+  "website": "http://www.youlive.io/",
+  "description": {
+    "en": "YouLive's vision is to build the truly decentralized live social platform through blockchain technology to enable real-time content sharing, social networking and circle building through community-based autonomy through subversive value recognition and value Allocation mechanism, so that all participants in the ecology can be obtained directly from the other side of the value of affirmation. Focusing on the anchor and the audience, it is fair, reasonable and not exploitative for community participants to pay and return in decentralized and trustworthy ways."
+  },
+  "name": "YouLive Coin",
+  "algorithm": "Equihash",
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xF84df2db2C87dd650641f8904aF71EbFC3ddE0Ea", "https://ethplorer.io/address/0xF84df2db2C87dd650641f8904aF71EbFC3ddE0Ea"],
+  "source_code": []
+}

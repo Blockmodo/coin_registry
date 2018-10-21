@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "CHX",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/chainium"],
+  "chat": ["https://t.me/joinchat/FJlmV0Fl1gk6KqLYrz21Xg", "https://chextoken.slack.com/"],
+  "social": ["https://www.facebook.com/thechexapp/"],
+  "network": {
+    "t_available_supply": 71830921,
+    "t_total_supply": 168956522,
+    "t_max_supply": 0
+  },
+  "website": "https://chainium.io/",
+  "description": {
+    "en": "Chainium will be a blockchain based decentralized network that helps businesses and investors to come into contact with each other without involving third parties."
+  },
+  "name": "Own",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://ethplorer.io/address/0x1460a58096d80a50a2f1f956dda497611fa4f165", "https://etherscan.io/token/0x1460a58096d80a50a2F1f956DDA497611Fa4f165"],
+  "source_code": ["https://github.com/Chainium/Chainium"]
+}

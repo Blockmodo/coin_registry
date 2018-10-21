@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "TCN",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": [],
+  "social": ["https://www.facebook.com/TCOIN-1518767678214060/", "https://twitter.com/TCN_TCoin"],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 74488866,
+    "t_max_supply": 0
+  },
+  "website": "https://tcoin.eu/",
+  "description": {
+    "en": "TCN Tcoin is a new cryptocurrency token based on blockchain technology and is a token of Trade by Trade (TBT), a cryptocurrency exchange platform that has unique tools that help traders exchange better!"
+  },
+  "name": "TCOIN",
+  "algorithm": "Unknown",
+  "proof_type": "Unknown",
+  "explorer": ["https://insight.tcoin.eu/"],
+  "source_code": ["https://github.com/Tcoin-dev/tcoin"]
+}

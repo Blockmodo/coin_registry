@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "FREC",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/Freyrchain"],
+  "chat": ["https://freyrchain.slack.com/", "https://t.me/Freyrchain_Official"],
+  "social": ["https://twitter.com/freyrchain"],
+  "network": {
+    "t_available_supply": 500000000,
+    "t_total_supply": 10000000000,
+    "t_max_supply": 0
+  },
+  "website": "http://www.freyrchain.org/",
+  "description": {
+    "en": "Freyrchain wants to build the world's first collectibles data authentication platform using the technology of blockchain to connect collectors worldwide."
+  },
+  "name": "Freyrchain",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x17e67d1cb4e349b9ca4bc3e17c7df2a397a7bb64", "https://ethplorer.io/address/0x17e67d1cb4e349b9ca4bc3e17c7df2a397a7bb64"],
+  "source_code": ["https://github.com/Freyrchain/FREC"]
+}

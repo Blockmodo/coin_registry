@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "FDZ",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/FriendzICO"],
+  "chat": ["https://t.me/superbitcoinofficial", "https://t.me/friendzICO"],
+  "social": ["https://twitter.com/Friendz_ICO", "https://business.facebook.com/SBTC-1494328043999669"],
+  "network": {
+    "t_available_supply": 507074250,
+    "t_total_supply": 1142645649,
+    "t_max_supply": 0
+  },
+  "website": "",
+  "description": {
+    "en": "Friendz will be a fast-growing company whose main goal is to connect brands with their target audience, taking advantage of the most powerful marketing tool ever: the word of mouth on social media. Friendz is proud to have introduced in the digital marketing scenario a new way of doing advertising, based on peer-to-peer communication."
+  },
+  "name": "Friendz",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x23352036e911a22cfc692b5e2e196692658aded9", "http://ethplorer.io/address/0x23352036e911a22cfc692b5e2e196692658aded9"],
+  "source_code": []
+}

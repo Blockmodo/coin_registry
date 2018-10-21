@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "XMC",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": [],
+  "chat": ["https://aidos-kuneen.slack.com/", "https://t.me/aidos_kuneen", "https://t.me/xmccurrency"],
+  "social": ["https://twitter.com/xmccurrency"],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 16016864,
+    "t_max_supply": 0
+  },
+  "website": "http://monero-classic.org/",
+  "description": {
+    "en": "Monero-Classic is Monero original chain retained after Monero team initiated hard fork at block height 1546000 to be anti-ASIC. Monero-Classic is based on CryptoNote protocol and retains all parameters and features of the original Monero chain. Monero-Classic team will continue to build the ecosystem based on original Monero features, making original chain of Monero and its surrounding ecosystem thrive."
+  },
+  "name": "Monero Classic",
+  "algorithm": "CryptoNight",
+  "proof_type": "PoW",
+  "explorer": ["http://explorer.monero-classic.org/"],
+  "source_code": ["https://github.com/monero-classic/monero"]
+}

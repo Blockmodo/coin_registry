@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "BMH",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/BlockMesh_io"],
+  "chat": ["https://blockmesh.slack.com/join/shared_invite/enQtMjc2Nzg1MTc3MTU2LTYzNzQ4NGUwYjExNmNmODgzYzFjNzQxMWUzMGIxYWNkY2QxNWZhOTk2OWVhYzhkNGE5MDRkZmFjOTU3NjhlZjQ", "https://t.me/BrahmaOS", "https://t.me/joinchat/Ep1AWRGoq-J1slfgmvQ32g"],
+  "social": ["https://www.facebook.com/Blockmesh/", "https://twitter.com/blockmesh_io"],
+  "network": {
+    "t_available_supply": 89598476,
+    "t_total_supply": 2000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://www.blockmesh.io/",
+  "description": {
+    "en": "BlockMesh, a software company based in Mauritius - utilizes the latest innovations in mesh networking technology to create cost-free communication networks and aim to disrupt the global communications industry in 2018. Mesh technology is a telecommunications system that can work outside of regular cellular tower range due to the peer-to-peer mesh network it enables. By creating a network powered by Bluetooth - or WIFI, if available - the mesh network sidesteps typical cellular and data costs imposed by the incumbents."
+  },
+  "name": "BlockMesh",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xf03045a4c8077e38f3b8e2ed33b8aee69edf869f", "https://ethplorer.io/address/0xf03045a4c8077e38f3b8e2ed33b8aee69edf869f"],
+  "source_code": []
+}

@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "FXT",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/FuzeX", "https://fuze-slack-inviter.herokuapp.com/", "https://t.me/rublixdev"],
+  "social": ["https://twitter.com/fuzex_co", "https://www.facebook.com/Rublixdev/"],
+  "network": {
+    "t_available_supply": 758011956,
+    "t_total_supply": 1087156610,
+    "t_max_supply": 0
+  },
+  "website": "https://fuzex.co/",
+  "description": {
+    "en": "The FuzeX Card & FuzeX Wallet will offer an all in one payment solution that provides a smarter\nway to pay. Our project aim is to make paying with cryptocurrency, debit, credit and reward\ncards easier, faster and more convenient."
+  },
+  "name": "FuzeX",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://ethplorer.io/address/0x1829aa045e21e0d59580024a951db48096e01782", "https://etherscan.io/token/0x1829aa045e21e0d59580024a951db48096e01782"],
+  "source_code": ["https://github.com/fuzex/smart-contracts"]
+}

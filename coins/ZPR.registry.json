@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "ZPR",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/zper_kr_official"],
+  "social": ["https://twitter.com/zper_team"],
+  "network": {
+    "t_available_supply": 1177852006,
+    "t_total_supply": 2050000000,
+    "t_max_supply": 0
+  },
+  "website": "https://zper.io/",
+  "description": {
+    "en": "ZPER will be an ecosystem for decentralized P2P finance, built upon blockchain technology. Aiming to create new, efficient financial environment that transcends borders and currencies. Through active cooperation of top established pioneering corporations in the field of P2P finance, team offer innovative flows of funds in global scale.\nZPR token is a means of value exchanges that all participants of the ecosystem will be using. It is used as a currency in all transactions, including investments for P2P loans, reimbursement of mature loans, rewards for data providers, commissions for NPL purchasers. Transactions will be kept transparent and independent from currencies and boundaries by the use of ZPR."
+  },
+  "name": "ZPER",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xb5b8f5616fe42d5ceca3e87f3fddbdd8f496d760", "https://ethplorer.io/address/0xb5b8f5616fe42d5ceca3e87f3fddbdd8f496d760"],
+  "source_code": ["https://github.com/zperteam/zperlight"]
+}

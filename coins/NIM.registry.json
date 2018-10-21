@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "NIM",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": ["https://www.reddit.com/r/Nimiq"],
+  "chat": ["https://nimiq-slackin.herokuapp.com/", "https://t.me/joinchat/AAAAAEJW-ozFwo7Er9jpHw"],
+  "social": ["https://web.facebook.com/nimiq/", "https://twitter.com/nimiq"],
+  "network": {
+    "t_available_supply": 2161590555,
+    "t_total_supply": 3477266991,
+    "t_max_supply": 0
+  },
+  "website": "https://nimiq.com/",
+  "description": {
+    "en": "Nimiq is the blockchain designed for simplicity.\nNimiq aims to be the best performing and easiest-to-use decentralized payment protocol & ecosystem.\nThe project combines state-of-the-art blockchain research and web technology.\nNano clients synchronize in seconds. Nimiq is browser-based and installation-free."
+  },
+  "name": "Nimiq",
+  "algorithm": "Argon2",
+  "proof_type": "PoW",
+  "explorer": ["https://nimiq.mopsus.com/", "https://nimiq.watch/"],
+  "source_code": []
+}

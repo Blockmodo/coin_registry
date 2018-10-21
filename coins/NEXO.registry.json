@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "NEXO",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/nexo"],
+  "chat": ["https://t.me/nexofinance", "https://t.me/xmccurrency"],
+  "social": ["https://twitter.com/NexoFinance", "https://www.facebook.com/NexoFinance"],
+  "network": {
+    "t_available_supply": 560000011,
+    "t_total_supply": 1000000000,
+    "t_max_supply": 0
+  },
+  "website": "http://nexo.io/",
+  "description": {
+    "en": "Nexo wants to build The World’s First Instant Crypto Overdrafts. Powered by Credissimo - A Leading FinTech Group serving millions of people across Europe for over 10 years.\nIn development."
+  },
+  "name": "Nexo",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://ethplorer.io/address/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206", "https://etherscan.io/token/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206"],
+  "source_code": ["https://github.com/nexofinance/NEXO-Token/"]
+}

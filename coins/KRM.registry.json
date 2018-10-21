@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "KRM",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": [],
+  "chat": ["https://t.me/karmaprojecten", "https://t.me/karmawithgeorge"],
+  "social": ["https://twitter.com/KarmaBlockchain"],
+  "network": {
+    "t_available_supply": 1782809241,
+    "t_total_supply": 3000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://karma.red/",
+  "description": {
+    "en": "Blockchain p2p-interchange protocol. Crossborder p2p-lending and resource interchange"
+  },
+  "name": "Karma",
+  "algorithm": "Scrypt",
+  "proof_type": "PoS",
+  "explorer": ["https://krm-db.com/"],
+  "source_code": ["https://github.com/Karma-blockchain/karma-core"]
+}

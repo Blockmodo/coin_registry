@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "DIT",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/inmediate"],
+  "chat": ["https://t.me/inmediate"],
+  "social": ["https://www.facebook.com/inmediatesg/", "https://twitter.com/Inmediatesg"],
+  "network": {
+    "t_available_supply": 209729950,
+    "t_total_supply": 1000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://inmediate.io/",
+  "description": {
+    "en": "We make policies transparent and trustworthy by using Smart Contracts, \npowered by the Zilliqa blockchain solution."
+  },
+  "name": "Digital Insurance Token",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xf14922001a2fb8541a433905437ae954419c2439", "https://ethplorer.io/address/0xf14922001a2fb8541a433905437ae954419c2439"],
+  "source_code": ["https://github.com/Inmediate/BackendSystem"]
+}

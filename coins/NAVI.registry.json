@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "NAVI",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/Naviaddress"],
+  "chat": ["https://t.me/naviaddressnews"],
+  "social": ["https://www.facebook.com/naviaddressplatform/", "https://twitter.com/naviaddress"],
+  "network": {
+    "t_available_supply": 242550845,
+    "t_total_supply": 1000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://naviaddress.com/",
+  "description": {
+    "en": "Naviaddress is a unified digital ID for any place and object. Naviaddress can assign a fully functional address to any place or object (even a remote 100 year-old tree in a city park or a hard to find desk in your office complex)."
+  },
+  "name": "Naviaddress",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x588047365df5ba589f923604aac23d673555c623", "https://ethplorer.io/address/0x588047365df5ba589f923604aac23d673555c623"],
+  "source_code": ["https://github.com/naviworld/navi-token/"]
+}

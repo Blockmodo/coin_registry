@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "TRIO",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/tripioglobal"],
+  "social": ["https://twitter.com/thetripio"],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 5000000000,
+    "t_max_supply": 0
+  },
+  "website": "",
+  "description": {
+    "en": "Tripio is the first travel marketplace based on the blockchain. It leverages the decentralized network provided by blockchain technologies to directly connect global customers and service providers. Moreover, it builds a service ecosystem based on transparent, tamper-resistant trust and incentives."
+  },
+  "name": "Tripio",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x8b40761142b9aa6dc8964e61d0585995425c3d94", "https://ethplorer.io/address/0x8b40761142b9aa6dc8964e61d0585995425c3d94"],
+  "source_code": ["https://github.com/thetripio/wallet-js"]
+}

@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "PAT",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://patron-ico1.slack.com/", "https://t.me/patronicoen"],
+  "social": ["https://www.facebook.com/groups/609789325896287/", "https://twitter.com/patron_io"],
+  "network": {
+    "t_available_supply": 253596416,
+    "t_total_supply": 400000000,
+    "t_max_supply": 0
+  },
+  "website": "https://patron-ico.io/",
+  "description": {
+    "en": "PATRON is an open-source cryptocurrency, PATRON COIN(PAT). \nPAT is the standard and common currency, used within PATRON’s ecosystem.\nPAT is implemented on the public Ethereum Blockchain, as an ERC-20 token."
+  },
+  "name": "Patron",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xF3b3Cad094B89392fcE5faFD40bC03b80F2Bc624", "https://ethplorer.io/address/0xF3b3Cad094B89392fcE5faFD40bC03b80F2Bc624"],
+  "source_code": []
+}

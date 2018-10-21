@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "XMO",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": ["https://www.reddit.com/r/MoneroOriginalXMO"],
+  "chat": ["https://t.me/moneroorg", "https://t.me/monerooriginal"],
+  "social": ["https://www.facebook.com/Monero.org/"],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 16508351,
+    "t_max_supply": 0
+  },
+  "website": "https://monero.org/forks/monerov-xmo-hard-fork/",
+  "description": {
+    "en": "Monero Original XMO brings diversity to the crypto world, keeping the initial promise of Monero as the most confidential and untraceable coin. Miners, partners, and users benefit from freedom of choice, diversity and strong community behind the Monero Original.\nMonero Original is an original chain with old Cryptonight algorithm, which is possible to mine with ASICs. Monero has forked into new algorithm ASIC-resistant and it resulted, in chain being picked up by Monero Original Team."
+  },
+  "name": "Monero Original",
+  "algorithm": "CryptoNight",
+  "proof_type": "PoW",
+  "explorer": ["https://minergate.com/blockchain/xmo/blocks"],
+  "source_code": ["https://github.com/XmanXU/monero"]
+}

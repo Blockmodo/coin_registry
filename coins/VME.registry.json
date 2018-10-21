@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "VME",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/joinchat/Gizz-A7awH81i3pEGgB1dw", "https://t.me/joinchat/GbiT9kLyrTuWeccOqm2s5w", "https://verimemobi.slack.com/"],
+  "social": ["https://twitter.com/VeriME_mobi", "https://www.facebook.com/Tokendesk-295767304231539/"],
+  "network": {
+    "t_available_supply": 174611821,
+    "t_total_supply": 400000000,
+    "t_max_supply": 0
+  },
+  "website": "https://www.verime.mobi/home",
+  "description": {
+    "en": "VeriME will be a blockchain based Verification-as-a-Service that facilitates easy and fast user authentication for merchants\nIn development."
+  },
+  "name": "VeriME",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xc343f099d3e41aa5c1b59470450e21e92e2d840b", "http://ethplorer.io/address/0xc343f099d3e41aa5c1b59470450e21e92e2d840b"],
+  "source_code": []
+}

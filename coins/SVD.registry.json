@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "SVD",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/savedroid_ico"],
+  "chat": ["https://t.me/savedroid"],
+  "social": ["https://www.facebook.com/savedroid", "https://twitter.com/savedroidAG"],
+  "network": {
+    "t_available_supply": 2688339238,
+    "t_total_supply": 6997578543,
+    "t_max_supply": 0
+  },
+  "website": "https://www.savedroid.com/",
+  "description": {
+    "en": "savedroid is the smartest, most convenient, and safest way for your crypto savings to fulfil your smaller and bigger wishes. We provide easy access to cryptocurrencies for everyone – absolutely no crypto exchange signup, wallet setup, and private key handling required."
+  },
+  "name": "savedroid",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xbdeb4b83251fb146687fa19d1c660f99411eefe3", "https://ethplorer.io/address/0xbdeb4b83251fb146687fa19d1c660f99411eefe3"],
+  "source_code": []
+}

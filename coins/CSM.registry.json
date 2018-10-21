@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "CSM",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/consentiumofficial", "https://www.google.com.ph/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwixieulw_DYAhVGS7wKHWS4CkEQFggqMAA&url=https%3A%2F%2Ft.me%2FOfficialATMCoin&usg=AOvVaw1iG08GObbMNkH-FsMcZb3o"],
+  "social": ["https://facebook.com/atmcoin.oficial", "https://twitter.com/ConsentiumCoin"],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 240000000,
+    "t_max_supply": 0
+  },
+  "website": "https://www.consentium.net/",
+  "description": {
+    "en": "Consentium empowers content creators and tech-savvy individuals to connect with other users by building groups and monetizing their group followers.\nThe chat feature allows users to regularly communicate with each other, create groups, join channels, send photos, files, audio messages, and even crypto transfers. Texts and recorded audios can be sent as normal messages or be set to self-destruct within seconds, allowing for enhanced privacy settings. \nThe crypto wallet offers digital transfers (CSM, BTC, and ETH) in a few simple steps. In addition to a secure and easy-to-use app, our innovative Community Monetization Model (CCM) algorithm rewards everyone for transacting and cultivating strong in-app groups."
+  },
+  "name": "Consentium",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xd8698a985b89650d0a70f99ad2909bd0c0b4b51c", "https://ethplorer.io/address/0xd8698a985b89650d0a70f99ad2909bd0c0b4b51c"],
+  "source_code": []
+}

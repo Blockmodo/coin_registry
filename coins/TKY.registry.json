@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "TKY",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/THEKEYOFFICIAL"],
+  "chat": ["https://t.me/joinchat/FkZtERGQ1qUEU7iAzC6xVQ"],
+  "social": ["https://www.facebook.com/TheKey-1439094662870680/", "https://twitter.com/thekeyvip"],
+  "network": {
+    "t_available_supply": 5060038287,
+    "t_total_supply": 9795844687,
+    "t_max_supply": 0
+  },
+  "website": "https://www.thekey.vip/",
+  "description": {
+    "en": "THEKEY Project, a world leading solution provider in IDV industry, is here in place to leverage innovations in blockchain and smart contract technologies to develop its second-generation IDV solution. The second-generation IDV solution will be realized by BDMI technology. BDMI stands for Blockchain based Dynamic Multi-Dimension Identification technology, which aims to set up a powerful and cost-efficient identity verification tool for internet. The ultimate objective of BDMI is to generate undeniable and unalterable IDV results.\nIn development"
+  },
+  "name": "THEKEY",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://neotracker.io/asset/132947096727c84c7f9e076c90f08fec3bc17f18"],
+  "source_code": ["https://github.com/thekeygithub/DMI"]
+}

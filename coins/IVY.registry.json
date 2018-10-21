@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "IVY",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/ivyKoinchat"],
+  "social": ["https://www.facebook.com/ivykoin", "https://twitter.com/ivykoin"],
+  "network": {
+    "t_available_supply": 301420830,
+    "t_total_supply": 1610924200,
+    "t_max_supply": 0
+  },
+  "website": "https://www.ivykoin.com/",
+  "description": {
+    "en": "Ivy is a blockchain-based technology for FIAT & cryptocurrency business transactions which require extensive verification in the international monetary system. The Ivy network utilizes Ivy (IVY) tokens which carry KYC & KYT data points critical for Financial Institution validation."
+  },
+  "name": "Ivy",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/address/0xa4ea687a2a7f29cf2dc66b39c68e4411c0d00c49", "https://ethplorer.io/token/0xa4ea687a2a7f29cf2dc66b39c68e4411c0d00c49"],
+  "source_code": ["https://github.com/ivy-project/quorum"]
+}

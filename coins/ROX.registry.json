@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "ROX",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/RobotinaTokenROX"],
+  "chat": ["https://t.me/Robotinaico"],
+  "social": ["http://www.facebook.com/robotinaico", "https://twitter.com/robotinaICO"],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 331614077,
+    "t_max_supply": 0
+  },
+  "website": "https://robotinarox.io/",
+  "description": {
+    "en": "Using smart technology the Robotina Platform solution will help you optimize the consumption of electricity by automatically turning off a device when in use (but not needed) or switching it on when the tariff is cheapest. Additionally, you will earn money by allowing power consumption flexibility to the grid and by collaborating in group buying, power trade, aggregated data sales, crowd financing and by activities in the platform’s marketplace. Last but not least, you will significantly contribute to a greener environment and sustainable development of mankind.\nROX will be the fuel for Robotina’s IoT platform, used by members worldwide. It is an application-specific token, built on top of the existing Ethereum blockchain, that allows us to give the value of the cooperative network back to the community."
+  },
+  "name": "Robotina",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x574f84108a98c575794f75483d801d1d5dc861a5", "https://ethplorer.io/address/0x574f84108a98c575794f75483d801d1d5dc861a5"],
+  "source_code": ["https://github.com/Robotinaico/token"]
+}

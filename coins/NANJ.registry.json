@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "NANJ",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/nanjcoin", "https://discordapp.com/invite/xa94m8F"],
+  "social": ["https://www.facebook.com/nanjcoin/", "https://twitter.com/nanjcoin"],
+  "network": {
+    "t_available_supply": 19361889557,
+    "t_total_supply": 30000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://nanjcoin.com/",
+  "description": {
+    "en": "NANJCOIN is a volunteer community developed and operated token based on the Ethereum token that originated in 2ch.sc, a Japanese internet community.\nNANJCOIN is a sports lovers token, for baseball in particular, that is rarely seen internationally. In February 2018, we had a free distribution event (airdrop), after which we listed on overseas exchanges and planned for the opening game (pre-sale). In the future, we aim to expand into various sports fields and to donate to players and teams. ※ NANJCOIN is the born from the fan community, and has no relationship at all with 2ch.sc management, 5ch operation, etc."
+  },
+  "name": "NANJCOIN",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xffe02ee4c69edf1b340fcad64fbd6b37a7b9e265", "https://ethplorer.io/address/0xffe02ee4c69edf1b340fcad64fbd6b37a7b9e265"],
+  "source_code": ["https://github.com/NANJ-COIN/token"]
+}

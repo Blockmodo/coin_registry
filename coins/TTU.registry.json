@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "TTU",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/tatatuofficial", "https://t.me/joinchat/GgHdfUhVY-w9zlfwD-jf1Q"],
+  "social": ["https://twitter.com/TaTaTu_Official"],
+  "network": {
+    "t_available_supply": 96727971,
+    "t_total_supply": 10000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://tatatutoken.io/",
+  "description": {
+    "en": "Social Entertainment on the Blockchain."
+  },
+  "name": "TaTaTu",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x9cda8a60dd5afa156c95bd974428d91a0812e054"],
+  "source_code": []
+}

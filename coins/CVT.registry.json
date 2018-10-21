@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "CVT",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://cybervein.slack.com/", "https://t.me/Cyberveinofficial"],
+  "social": ["https://www.facebook.com/Cybervein-280314169173689/", "https://twitter.com/cyberveingroup"],
+  "network": {
+    "t_available_supply": 1060404496,
+    "t_total_supply": 2147483648,
+    "t_max_supply": 0
+  },
+  "website": "http://www.cybervein.org/",
+  "description": {
+    "en": "The CyberVein network will be the first Distributed Ledger System allowing for the decentralized management of complex datasets on the blockchain itself, without requiring centralized storage providers. \nJust as the Internet is a public network of networks, CyberVein is a public network of immutable databases, on which information can easily be traded, interconnected, and transformed into structured knowledge."
+  },
+  "name": "CyberVein",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xbe428c3867f05dea2a89fc76a102b544eac7f772", "https://ethplorer.io/address/0xbe428c3867f05dea2a89fc76a102b544eac7f772"],
+  "source_code": ["https://github.com/Cyberveinofficial/CyberVeinChain"]
+}

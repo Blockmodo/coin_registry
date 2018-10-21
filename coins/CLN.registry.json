@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "CLN",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/ColuLocalNetwork"],
+  "chat": [],
+  "social": ["https://www.facebook.com/arbitracoin/", "https://twitter.com/ColuNetwork"],
+  "network": {
+    "t_available_supply": 118446327,
+    "t_total_supply": 1540701334,
+    "t_max_supply": 0
+  },
+  "website": "https://cln.network/",
+  "description": {
+    "en": "Colu Local Network enables growing communities from the bottom-up using a public, decentralized financial ecosystem powered by community currencies."
+  },
+  "name": "Colu Local Network",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x4162178b78d6985480a308b2190ee5517460406d", "https://ethplorer.io/address/0x4162178b78d6985480a308b2190ee5517460406d"],
+  "source_code": ["https://github.com/colucom/CLN-solidity"]
+}

@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "ACAT",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/alphacat_io"],
+  "chat": ["https://t.me/alphacatglobal"],
+  "social": ["https://twitter.com/Alphacat_io"],
+  "network": {
+    "t_available_supply": 2790428084,
+    "t_total_supply": 6250000000,
+    "t_max_supply": 0
+  },
+  "website": "https://www.alphacat.io/",
+  "description": {
+    "en": "A Robot-Advisor Marketplace based on AI and Big Data"
+  },
+  "name": "Alphacat",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://neotracker.io/asset/7f86d61ff377f1b12e589a5907152b57e2ad9a7a"],
+  "source_code": []
+}

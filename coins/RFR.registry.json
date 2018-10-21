@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "RFR",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/refereum"],
+  "chat": ["https://t.me/refereumtalk"],
+  "social": ["https://facebook.com/refereum", "https://twitter.com/refereum"],
+  "network": {
+    "t_available_supply": 2385318473,
+    "t_total_supply": 5000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://refereum.com/",
+  "description": {
+    "en": "A cryptocurrency that transforms video game marketing and engagement to help streamers and game devs."
+  },
+  "name": "Refereum",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xd0929d411954c47438dc1d871dd6081f5c5e149c"],
+  "source_code": []
+}

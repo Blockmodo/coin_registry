@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "HYDRO",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/ProjectHydro"],
+  "chat": ["https://t.me/joinchat/H3uDdQ9JBFyV1UL35xX4VQ"],
+  "social": ["https://www.facebook.com/hydrogenplatform", "https://twitter.com/HydrogenAPI"],
+  "network": {
+    "t_available_supply": 2924034340,
+    "t_total_supply": 11111111111,
+    "t_max_supply": 0
+  },
+  "website": "https://www.hydrogenplatform.com/hydro",
+  "description": {
+    "en": "Hydro enables private financial systems to seamlessly leverage the public blockchain. Cloud applications throughout the financial services ecosystem can now benefit from the power of smart contracts, creating more secure, transparent, and low cost financial products globally.\nIn development."
+  },
+  "name": "Hydro",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xebbdf302c940c6bfd49c6b165f457fdb324649bc", "https://ethplorer.io/address/0xebbdf302c940c6bfd49c6b165f457fdb324649bc"],
+  "source_code": []
+}

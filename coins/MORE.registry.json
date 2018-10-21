@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "MORE",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/MithrilOre"],
+  "chat": [],
+  "social": ["https://www.facebook.com/mithrilore/", "https://twitter.com/MithrilOre"],
+  "network": {
+    "t_available_supply": 11275,
+    "t_total_supply": 500000,
+    "t_max_supply": 0
+  },
+  "website": "http://www.mithrilore.io/",
+  "description": {
+    "en": "Mithril Ore Token serves as a decentralized, novel utility for advanced mining/staking. It is first in the market to be backed by Ethereum. As a result, it will serve as the first ‘Casper’ mining/staking pool to the digital token Market. ‘Casper’ is known as the ‘Proof of Stake’ or POS upgrade of the Ethereum blockchain."
+  },
+  "name": "Mithril Ore",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x501262281b2ba043e2fbf14904980689cddb0c78", "https://ethplorer.io/address/0x501262281b2ba043e2fbf14904980689cddb0c78"],
+  "source_code": ["https://github.com/mithrilore/browser-solidity"]
+}

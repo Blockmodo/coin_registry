@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "TUBE",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": ["https://www.reddit.com/r/ipbcoin"],
+  "chat": ["https://t.me/ipbcenglish", "https://t.me/atbcoinchat", "https://join.slack.com/t/atbcoin/shared_invite/MjE1ODU5NTEzODI4LTE1MDA2MjA2MDgtZGRhNmMyZTU0Ng", "https://discordapp.com/invite/x85AWxG"],
+  "social": ["https://twitter.com/BitTubeApp", "https://facebook.com/atbcoincom"],
+  "network": {
+    "t_available_supply": 97512984,
+    "t_total_supply": 99292984,
+    "t_max_supply": 0
+  },
+  "website": "https://coin.bit.tube/",
+  "description": {
+    "en": "BitTube is a revolutionary video platform in which publishers can make money with their content, without ads."
+  },
+  "name": "BitTube",
+  "algorithm": "CryptoNight",
+  "proof_type": "PoW",
+  "explorer": ["https://explorer.ipbc.io/"],
+  "source_code": []
+}

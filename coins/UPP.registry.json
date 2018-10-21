@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "UPP",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/Sentinel_Protocol"],
+  "chat": ["https://t.me/cnn_blockchain_official", "https://t.me/sentinelprotocol", "https://t.me/uppsalafoundation"],
+  "social": ["https://www.facebook.com/sentinelprotocol/", "https://twitter.com/UPPSentinel"],
+  "network": {
+    "t_available_supply": 220249252,
+    "t_total_supply": 500000000,
+    "t_max_supply": 0
+  },
+  "website": "https://sentinelprotocol.io/",
+  "description": {
+    "en": "Sentinel Protocol is a crowdsourced threat intelligence platform to protect you against hacks, scams, or frauds."
+  },
+  "name": "Sentinel Protocol",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xc86d054809623432210c107af2e3f619dcfbf652", "https://ethplorer.io/address/0xc86d054809623432210c107af2e3f619dcfbf652"],
+  "source_code": []
+}

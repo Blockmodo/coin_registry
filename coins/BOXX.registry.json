@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "BOXX",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/GoBlockParty"],
+  "chat": ["https://t.me/BlockpartyCommunity"],
+  "social": ["http://www.facebook.com/goblockparty", "https://twitter.com/goblockparty"],
+  "network": {
+    "t_available_supply": 22918824,
+    "t_total_supply": 90000000,
+    "t_max_supply": 0
+  },
+  "website": "https://www.goblockparty.com/",
+  "description": {
+    "en": "Blockparty is designed to solve major pain points in ticketing: ensuring attendee identity, solving ticket fraud, and enabling revenue share in secondary ticket markets.\nOur fully operational, highly scalable protocol employs transferable digital identity and multivariate smart contracts as the building blocks of a ticketing revolution."
+  },
+  "name": "BOXX Token [Blockparty]",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x780116d91e5592e58a3b3c76a351571b39abcec6", "https://ethplorer.io/address/0x780116d91e5592e58a3b3c76a351571b39abcec6"],
+  "source_code": ["https://github.com/Blockpartyticketing/ERC20Token/"]
+}

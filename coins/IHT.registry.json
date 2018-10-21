@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "IHT",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["http://t.me/IHTcoin", "https://t.me/IHTChinese"],
+  "social": ["https://twitter.com/ihtcoin"],
+  "network": {
+    "t_available_supply": 543063823,
+    "t_total_supply": 996491162,
+    "t_max_supply": 0
+  },
+  "website": "https://ihtcoin.com/",
+  "description": {
+    "en": "i-house.com is a global real estate blockchain cloud platform.Through IHT’s smart contract, large real estate can be split and distributed to multiple financial institutions. In this way, users can get the opportunity to invest in real estate with small amounts of money and enjoy high security and low risk investment."
+  },
+  "name": "IHT Real Estate Protocol",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0xEda8B016efA8b1161208Cf041cD86972eeE0F31E", "https://ethplorer.io/address/0xeda8b016efa8b1161208cf041cd86972eee0f31e"],
+  "source_code": []
+}

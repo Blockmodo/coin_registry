@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "CMCT",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/CybermovieChainOfficial"],
+  "social": [],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 20000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://cybermoviechain.io/",
+  "description": {
+    "en": "Cyber Movie Chain (CMCT) a new era of movie chain in the Digital technology. Back to 2017, Blockchain had taken center. And blockchain declares the solution to problems, thus we create the idea of Cyber Movie Chain (CMCT) Using CMCT in blockchain, movie can move throughout the supply chain with each step in their journey recorded. in every transaction, from the initial order, to the loading of a trailer, to driver pickup, to tracking and delivery can be recorded and automated on the blockchain. When final delivery is made, payment can be reconciled quickly and easily with no paper, but a documented, indisputable ledger in its place."
+  },
+  "name": "Cyber Movie Chain",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/address/0x7abc60b3290f68c85f495fd2e0c3bd278837a313", "https://etherscan.io/token/0x7abc60b3290f68c85f495fd2e0c3bd278837a313"],
+  "source_code": ["https://github.com/cybermoviechain/ico"]
+}

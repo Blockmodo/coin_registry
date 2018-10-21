@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "RVR",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": ["https://www.reddit.com/r/Voxelus_Official"],
+  "chat": ["https://t.me/revolutionvr", "https://discordapp.com/invite/JJWTHsT"],
+  "social": ["https://www.facebook.com/Voxelus/", "https://twitter.com/Voxelus"],
+  "network": {
+    "t_available_supply": 210000000,
+    "t_total_supply": 210000000,
+    "t_max_supply": 210000000
+  },
+  "website": "http://revolutionvr.live/",
+  "description": {
+    "en": "RevolutionVR’s mission is to bring VR gaming to players all over the world without requiring each to have a high-end computer in the home – necessary today to deliver great immersive experiences over headsets and related gear – but expensive and used infrequently."
+  },
+  "name": "RevolutionVR",
+  "algorithm": "Scrypt",
+  "proof_type": "PoW",
+  "explorer": ["https://www.blockexperts.com/vox"],
+  "source_code": []
+}

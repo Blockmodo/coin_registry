@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "GBG",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": [],
+  "chat": ["https://t.me/golos_support"],
+  "social": ["https://www.facebook.com/www.golos.io", "https://twitter.com/Golos_Gold"],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 0,
+    "t_max_supply": 0
+  },
+  "website": "https://golos.io/",
+  "description": {
+    "en": "Голос - социальная сеть, построенная на публичном блокчейне. Вознаграждение пользователей осуществляется за счет дополнительной эмиссии токенов. При этом распределением токенов управляют текущие пользователи сети через голосование за лучший контент."
+  },
+  "name": "Golos Gold",
+  "algorithm": "DPoS",
+  "proof_type": "PoS",
+  "explorer": [],
+  "source_code": []
+}

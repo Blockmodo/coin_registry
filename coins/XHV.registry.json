@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "XHV",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": ["https://www.reddit.com/r/havenprotocol"],
+  "chat": ["https://discordapp.com/invite/vWQ2GZX", "https://t.me/joinchat/HiBY_0WaUTuXMYjQEPUkTA"],
+  "social": ["https://twitter.com/HavenProtocol"],
+  "network": {
+    "t_available_supply": 5412016,
+    "t_total_supply": 5412016,
+    "t_max_supply": 0
+  },
+  "website": "https://havenprotocol.com/",
+  "description": {
+    "en": "Haven is an untraceable cryptocurrency with a mix of standard market pricing and stable fiat value storage without an unsustainable peg or asset backing. It achieves this with a built in on-chain smart contract that controls the minting and burning of coins in a network of cryptographically unknown supply to facilitate value for users that choose to send their coins to offshore storage contracts while allowing everyone else to be exposed to the natural price movements of the currency."
+  },
+  "name": "Haven Protocol",
+  "algorithm": "Cryptonight Heavy",
+  "proof_type": "PoW",
+  "explorer": ["https://explorer.havenprotocol.com/"],
+  "source_code": ["https://github.com/havenprotocol/haven"]
+}

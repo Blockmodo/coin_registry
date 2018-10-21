@@ -1,31 +1,27 @@
 {
-    "algorithm": "NIST5",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "DT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "DarkToken",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 0
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/DT"
-    ],
-    "social": [
-        "https://twitter.com/@DarkTokenDT"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "NIST5",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "DT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "DarkToken",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 17950200
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/DT"],
+  "social": ["https://twitter.com/@DarkTokenDT"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

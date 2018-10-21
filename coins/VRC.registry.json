@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "VeriCoin",
   "network": {
-    "t_available_supply": 31312897,
+    "t_available_supply": 31312908,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 31312897
+    "t_total_supply": 31312908
   },
   "proof_type": "PoST",
   "quote": ["https://blockmodo.com/quotes/VRC"],

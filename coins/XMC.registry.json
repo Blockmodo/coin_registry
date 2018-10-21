@@ -8,9 +8,9 @@
   "chat": ["https://aidos-kuneen.slack.com/", "https://t.me/aidos_kuneen", "https://t.me/xmccurrency"],
   "social": ["https://twitter.com/xmccurrency"],
   "network": {
-    "t_available_supply": null,
+    "t_available_supply": 0,
     "t_total_supply": 16016864,
-    "t_max_supply": 0
+    "t_max_supply": 18400000
   },
   "website": "http://monero-classic.org/",
   "description": {

@@ -8,7 +8,7 @@
   "chat": ["https://t.me/dipnetEnglish"],
   "social": ["https://twitter.com/DipNetOfficial"],
   "network": {
-    "t_available_supply": null,
+    "t_available_supply": 0,
     "t_total_supply": 10000000000,
     "t_max_supply": 0
   },

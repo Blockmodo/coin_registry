@@ -8,7 +8,7 @@
   "chat": ["https://t.me/etherjoy", "https://t.me/play2live"],
   "social": ["https://www.facebook.com/play2live.io/", "https://twitter.com/Etherjoy1"],
   "network": {
-    "t_available_supply": null,
+    "t_available_supply": 0,
     "t_total_supply": 21000000000,
     "t_max_supply": 0
   },

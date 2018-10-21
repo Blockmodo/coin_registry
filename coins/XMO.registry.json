@@ -8,8 +8,8 @@
   "chat": ["https://t.me/moneroorg", "https://t.me/monerooriginal"],
   "social": ["https://www.facebook.com/Monero.org/"],
   "network": {
-    "t_available_supply": null,
-    "t_total_supply": 16508351,
+    "t_available_supply": 0,
+    "t_total_supply": 16508540,
     "t_max_supply": 0
   },
   "website": "https://monero.org/forks/monerov-xmo-hard-fork/",

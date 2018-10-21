@@ -8,7 +8,7 @@
   "chat": ["https://t.me/dwswifiofficial"],
   "social": ["https://twitter.com/dwswifi"],
   "network": {
-    "t_available_supply": null,
+    "t_available_supply": 0,
     "t_total_supply": 500000000,
     "t_max_supply": 0
   },

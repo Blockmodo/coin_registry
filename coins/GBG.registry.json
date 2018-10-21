@@ -8,7 +8,7 @@
   "chat": ["https://t.me/golos_support"],
   "social": ["https://www.facebook.com/www.golos.io", "https://twitter.com/Golos_Gold"],
   "network": {
-    "t_available_supply": null,
+    "t_available_supply": 0,
     "t_total_supply": 0,
     "t_max_supply": 0
   },

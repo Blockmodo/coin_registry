@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "SLT",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/SocialLending"],
+  "social": ["https://twitter.com/renmaibao"],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 1000000000,
+    "t_max_supply": 0
+  },
+  "website": "https://sociallending.io/",
+  "description": {
+    "en": "Social Lending Network (SLN) is a decentralized social finance ecosystem based on block chain technology. Its mission is to establish a next generation crypto-currency/token financial loan ecosystem. The SLN based on Ethereum block chain technology delivers agile, secure, modularized service. In addition, SLN’s BaaS open platform offers a feature-rich offering that facilitates such a digital asset financial ecosystem. The partners within the open ecosystem includes but not limited with Debtor-Credit, Traffic Owners, Credit Data Service Partners, Risk Management Partners, Credit Rating Institutes, Guarantee Institutes, Post-lending Management Partners."
+  },
+  "name": "Social Lending Token",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x851017523ae205adc9195e7f97d029f4cfe7794c", "https://ethplorer.io/address/0x851017523ae205adc9195e7f97d029f4cfe7794c"],
+  "source_code": []
+}

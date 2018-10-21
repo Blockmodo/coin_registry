@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "AAA",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": ["https://t.me/Abulaba_coin"],
+  "social": ["https://www.facebook.com/AbulabaCapital-1821052917915676", "https://twitter.com/AbulabaCapital"],
+  "network": {
+    "t_available_supply": 10097808,
+    "t_total_supply": 397000000,
+    "t_max_supply": 0
+  },
+  "website": "https://abulaba.co/",
+  "description": {
+    "en": "Abulaba brings sound money to the world, fulfilling Ethereum's original promise of \"Cash Electronics Peer-to-Peer.\" Affiliates and users are empowered with low fees and reliable credentials."
+  },
+  "name": "Abulaba",
+  "algorithm": "Unknown",
+  "proof_type": "Unknown",
+  "explorer": ["https://etherscan.io/token/0xd938137e6d96c72e4a6085412ada2dad78ff89c4", "https://ethplorer.io/address/0xd938137e6d96c72e4a6085412ada2dad78ff89c4"],
+  "source_code": ["https://github.com/abulaba/aaa"]
+}

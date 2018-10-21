@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "PDX",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": [],
+  "chat": ["https://t.me/PayDayCoin"],
+  "social": ["https://www.facebook.com/Pay-Day-Coin-1770138749746393", "https://twitter.com/PayDayCoin"],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 41969898,
+    "t_max_supply": 294336000
+  },
+  "website": "https://paydaycoin.io/",
+  "description": {
+    "en": "Decentralised P2P solution that erases the geographical boundaries between borrowers and lenders from all over the world. Decreasing the interest burden yet enhancing the lender’s revenue.\nPremine: 11.773.440 coins"
+  },
+  "name": "PayDay Coin",
+  "algorithm": "PoS",
+  "proof_type": "PoS",
+  "explorer": ["https://explorer.paydaycoin.io/"],
+  "source_code": ["https://github.com/PayDayCoinIo/PayDayCoin"]
+}

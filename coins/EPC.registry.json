@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "EPC",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": [],
+  "chat": [],
+  "social": [],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 500000000,
+    "t_max_supply": 0
+  },
+  "website": "http://epc.im/",
+  "description": {
+    "en": "Electronic PK Chain team wants to create an e-sports chain, its purpose is to use blockchain technology and blockchain technology features, building a fair, open and comprehensive e-sports network."
+  },
+  "name": "Electronic PK Chain",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": [],
+  "source_code": []
+}

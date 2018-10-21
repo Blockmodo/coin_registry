@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "DTH",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/Dether"],
+  "chat": ["https://t.me/joinchat/GkdUjUQ4jx_Apxmz2km4ww"],
+  "social": ["https://www.facebook.com/Dether-1372579922848946", "https://twitter.com/dether_io"],
+  "network": {
+    "t_available_supply": 83600000,
+    "t_total_supply": 100000000,
+    "t_max_supply": 0
+  },
+  "website": "https://dether.io/",
+  "description": {
+    "en": "Dether is the first mobile decentralized application that lets anyone buy and sell ether using cash and spend it at physical stores listed on the Dether map.\nDether creates a worldwide ecosystem of ether buyers, sellers and physical stores willing to trade ether for fiat cash and accept it as a means of payment. Dether provides the infrastructure for people to embrace the Ethereum technology in their everyday lives. Dether is available on any smartphone. No bank account is needed to buy and sell ether. No credit/debit card is needed to spend ether at physical stores."
+  },
+  "name": "Dether",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190"],
+  "source_code": ["https://github.com/dethertech/detherContracts"]
+}

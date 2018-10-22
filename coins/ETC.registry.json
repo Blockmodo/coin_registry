@@ -11,10 +11,10 @@
   "is_minable": true,
   "name": "Ethereum Classic",
   "network": {
-    "t_available_supply": 105457075,
+    "t_available_supply": 105457432,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 105457075
+    "t_total_supply": 105457432
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/ETC"],

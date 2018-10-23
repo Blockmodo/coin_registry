@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Votecoin",
   "network": {
-    "t_available_supply": 40274500,
+    "t_available_supply": 40275250,
     "t_block_reward": 0,
     "t_max_supply": 220000000,
-    "t_total_supply": 40274500
+    "t_total_supply": 40275250
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/VOT"],

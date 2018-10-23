@@ -8,7 +8,7 @@
   "chat": ["https://t.me/usechaingroup"],
   "social": ["https://www.facebook.com/UsechainFoundation/", "https://twitter.com/usechain"],
   "network": {
-    "t_available_supply": null,
+    "t_available_supply": 0,
     "t_total_supply": 20000000000,
     "t_max_supply": 0
   },

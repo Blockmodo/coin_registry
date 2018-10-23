@@ -8,7 +8,7 @@
   "chat": ["https://t.me/consentiumofficial", "https://www.google.com.ph/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwixieulw_DYAhVGS7wKHWS4CkEQFggqMAA&url=https%3A%2F%2Ft.me%2FOfficialATMCoin&usg=AOvVaw1iG08GObbMNkH-FsMcZb3o"],
   "social": ["https://facebook.com/atmcoin.oficial", "https://twitter.com/ConsentiumCoin"],
   "network": {
-    "t_available_supply": null,
+    "t_available_supply": 0,
     "t_total_supply": 240000000,
     "t_max_supply": 0
   },

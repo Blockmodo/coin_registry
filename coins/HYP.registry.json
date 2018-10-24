@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Hyperstake",
   "network": {
-    "t_available_supply": 1375224529,
+    "t_available_supply": 1375240529,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 1375224529
+    "t_total_supply": 1375240529
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/HYP"],

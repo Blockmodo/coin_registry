@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MTRC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "ModulTrade",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 100000000,
-        "t_total_supply": 0
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/MTRC"
-    ],
-    "social": [
-        "https://twitter.com/@ModulTrade"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://en.modultrade.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MTRC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "ModulTrade",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 78125411
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/MTRC"],
+  "social": ["https://twitter.com/@ModulTrade"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://en.modultrade.io/"
 }

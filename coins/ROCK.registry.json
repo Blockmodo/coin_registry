@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "ROCK",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Ice Rock Mining",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 16500000,
-        "t_total_supply": 0
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/ROCK"
-    ],
-    "social": [
-        "https://twitter.com/@icerockmining"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://icerockmining.io/"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "ROCK",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Ice Rock Mining",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 500000000,
+    "t_total_supply": 17994313
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/ROCK"],
+  "social": ["https://twitter.com/@icerockmining"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://icerockmining.io/"
 }

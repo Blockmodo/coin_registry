@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Tether",
   "network": {
-    "t_available_supply": 2526421736,
+    "t_available_supply": 2026421736,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 3080109502
+    "t_total_supply": 2580109502
   },
   "proof_type": null,
   "quote": ["https://blockmodo.com/quotes/USDT"],

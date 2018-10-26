@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "XXXCoin",
   "network": {
-    "t_available_supply": 40613607,
+    "t_available_supply": 40615367,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 45613642
+    "t_total_supply": 45615402
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/XXX"],

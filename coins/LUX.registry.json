@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "LUXCoin",
   "network": {
-    "t_available_supply": 2784373,
+    "t_available_supply": 2784474,
     "t_block_reward": 0,
     "t_max_supply": 60000000,
-    "t_total_supply": 5784373
+    "t_total_supply": 5784474
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/LUX"],

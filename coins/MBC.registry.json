@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "MBC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "My Big Coin",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 30000000,
-        "t_total_supply": 0
-    },
-    "proof_type": "PoW and PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/MBC"
-    ],
-    "social": [
-        "https://twitter.com/@MYBIGCOIN"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://www.mybigcoin.com/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "MBC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "My Big Coin",
+  "network": {
+    "t_available_supply": 0,
+    "t_block_reward": 0,
+    "t_max_supply": 210000000000,
+    "t_total_supply": 182587075000
+  },
+  "proof_type": "PoW and PoS",
+  "quote": ["https://blockmodo.com/quotes/MBC"],
+  "social": ["https://twitter.com/@MYBIGCOIN"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://www.mybigcoin.com/"
 }

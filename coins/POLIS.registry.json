@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "PolisPay",
   "network": {
-    "t_available_supply": 4151771,
+    "t_available_supply": 4151897,
     "t_block_reward": 0,
     "t_max_supply": 25000000,
-    "t_total_supply": 4212983
+    "t_total_supply": 4213109
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/POLIS"],

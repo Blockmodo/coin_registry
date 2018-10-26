@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Gainer",
   "network": {
-    "t_available_supply": 9806187,
+    "t_available_supply": 9806561,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 11681056
+    "t_total_supply": 11681452
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/GNR"],

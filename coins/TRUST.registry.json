@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "TrustPlus",
   "network": {
-    "t_available_supply": 34857628,
+    "t_available_supply": 34857650,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 34857628
+    "t_total_supply": 34857650
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/TRUST"],

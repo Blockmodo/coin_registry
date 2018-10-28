@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Syndicate",
   "network": {
-    "t_available_supply": 29517511,
+    "t_available_supply": 29517681,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 33231793
+    "t_total_supply": 33231963
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/SYNX"],

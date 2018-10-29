@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Webcoin",
   "network": {
-    "t_available_supply": 51828945,
+    "t_available_supply": 51833190,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 401828945
+    "t_total_supply": 401833190
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/WEB"],

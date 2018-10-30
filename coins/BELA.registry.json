@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "BelaCoin",
   "network": {
-    "t_available_supply": 38466688,
+    "t_available_supply": 38467538,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 45269874
+    "t_total_supply": 45270723
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/BELA"],

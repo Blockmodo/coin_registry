@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "ViaCoin",
   "network": {
-    "t_available_supply": 23100488,
+    "t_available_supply": 23100491,
     "t_block_reward": 0,
     "t_max_supply": 23176392,
-    "t_total_supply": 23100488
+    "t_total_supply": 23100491
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/VIA"],

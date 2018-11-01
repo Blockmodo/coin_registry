@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "MonetaryUnit",
   "network": {
-    "t_available_supply": 141721796,
+    "t_available_supply": 141722876,
     "t_block_reward": 0,
     "t_max_supply": 4000000000,
-    "t_total_supply": 141721796
+    "t_total_supply": 141722876
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/MUE"],

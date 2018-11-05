@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "GoldenGate (BGG)",
   "network": {
-    "t_available_supply": 26000000,
+    "t_available_supply": 0,
     "t_block_reward": 1,
-    "t_max_supply": 26000000,
-    "t_total_supply": 26000000
+    "t_max_supply": 0,
+    "t_total_supply": 10000000000
   },
   "proof_type": null,
   "quote": ["https://blockmodo.com/quotes/BGG"],

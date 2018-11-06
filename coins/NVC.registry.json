@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "NovaCoin",
   "network": {
-    "t_available_supply": 2228744,
+    "t_available_supply": 2228748,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 2228744
+    "t_total_supply": 2228748
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/NVC"],

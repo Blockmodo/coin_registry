@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "SoulCoin",
   "network": {
-    "t_available_supply": 58332939,
+    "t_available_supply": 90007070,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 91136374
+    "t_total_supply": 500000000
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/SOUL"],

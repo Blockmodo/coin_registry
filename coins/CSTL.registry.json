@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Castle",
   "network": {
-    "t_available_supply": 10752377,
+    "t_available_supply": 10752650,
     "t_block_reward": 0,
     "t_max_supply": 200000000,
-    "t_total_supply": 11280037
+    "t_total_supply": 11280310
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/CSTL"],

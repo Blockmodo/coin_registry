@@ -1,31 +1,27 @@
 {
-    "algorithm": "X11",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "KZC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "KZCash",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 18000000,
-        "t_total_supply": 0
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/KZC"
-    ],
-    "social": [
-        "https://twitter.com/@cash_kz"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "X11",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "KZC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "KZCash",
+  "network": {
+    "t_available_supply": 2156961,
+    "t_block_reward": 0,
+    "t_max_supply": 18900000,
+    "t_total_supply": 2838720
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/KZC"],
+  "social": ["https://twitter.com/@cash_kz"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

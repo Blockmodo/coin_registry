@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "TOA Coin",
   "network": {
-    "t_available_supply": 2862671830,
+    "t_available_supply": 2862676671,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 9087643629
+    "t_total_supply": 9087650199
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/TOA"],

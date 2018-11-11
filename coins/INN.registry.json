@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Innova",
   "network": {
-    "t_available_supply": 4850204,
+    "t_available_supply": 4850252,
     "t_block_reward": 0,
     "t_max_supply": 23000000,
-    "t_total_supply": 5600204
+    "t_total_supply": 5600252
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/INN"],

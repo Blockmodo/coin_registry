@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Dynamic",
   "network": {
-    "t_available_supply": 3519553,
+    "t_available_supply": 3519582,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 13724888
+    "t_total_supply": 13724917
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/DYN"],

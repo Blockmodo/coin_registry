@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "KZCash",
   "network": {
-    "t_available_supply": 2142450,
+    "t_available_supply": 2142484,
     "t_block_reward": 0,
     "t_max_supply": 18900000,
-    "t_total_supply": 2843884
+    "t_total_supply": 2843918
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/KZC"],

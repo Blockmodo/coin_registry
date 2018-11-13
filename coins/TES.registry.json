@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "TeslaCoin",
   "network": {
-    "t_available_supply": 77264987,
+    "t_available_supply": 77265110,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 77264987
+    "t_total_supply": 77265110
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/TES"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "TrumpCoin",
   "network": {
-    "t_available_supply": 6604019,
+    "t_available_supply": 6604020,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 6604019
+    "t_total_supply": 6604020
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/TRUMP"],

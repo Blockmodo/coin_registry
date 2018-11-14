@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Litecoin",
   "network": {
-    "t_available_supply": 59157413,
+    "t_available_supply": 59157513,
     "t_block_reward": 0,
     "t_max_supply": 84000000,
-    "t_total_supply": 59157413
+    "t_total_supply": 59157513
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/LTC"],

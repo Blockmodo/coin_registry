@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "StealthCoin",
   "network": {
-    "t_available_supply": 30283920,
+    "t_available_supply": 30284002,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 30283920
+    "t_total_supply": 30284002
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/XST"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "GoByte",
   "network": {
-    "t_available_supply": 2934544,
+    "t_available_supply": 2934652,
     "t_block_reward": 0,
     "t_max_supply": 31800000,
-    "t_total_supply": 3759531
+    "t_total_supply": 3759639
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/GBX"],

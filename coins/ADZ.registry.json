@@ -11,10 +11,10 @@
   "is_minable": true,
   "name": "Adzcoin",
   "network": {
-    "t_available_supply": 44804996,
+    "t_available_supply": 44805436,
     "t_block_reward": 0,
     "t_max_supply": 84000000,
-    "t_total_supply": 44804996
+    "t_total_supply": 44805436
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/ADZ"],

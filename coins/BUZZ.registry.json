@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "BuzzCoin",
   "network": {
-    "t_available_supply": 19977867818,
+    "t_available_supply": 19977888071,
     "t_block_reward": 0,
     "t_max_supply": 20000000000,
-    "t_total_supply": 19977867818
+    "t_total_supply": 19977888071
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/BUZZ"],

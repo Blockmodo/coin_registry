@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "PopularCoin",
   "network": {
-    "t_available_supply": 3843758559,
+    "t_available_supply": 3843758856,
     "t_block_reward": 0,
     "t_max_supply": 4999999999,
-    "t_total_supply": 3843758559
+    "t_total_supply": 3843758856
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/POP"],

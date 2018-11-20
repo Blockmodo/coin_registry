@@ -1,0 +1,24 @@
+{
+  "fromSymbol": "BCHSV",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": true,
+  "community": [],
+  "chat": [],
+  "social": ["https://twitter.com/BitcoinSVNode"],
+  "network": {
+    "t_available_supply": null,
+    "t_total_supply": 21000000,
+    "t_max_supply": 0
+  },
+  "website": "https://bitcoinsv.io/",
+  "description": {
+    "en": "Bitcoin SV - is a new coin splitted of Bitcoin Cash blockchain on 15 November 2018.\nThe Bitcoin SV project was created at the request of and sponsored by Antiguan-based CoinGeek Mining, with development work initiated by nChain. The project is also owned by the Antiguan-based bComm Association on behalf of the global BCH (SV) community, and the Bitcoin SV code is made available under the open source MIT license."
+  },
+  "name": "Bitcoin Cash SV [IOU]",
+  "algorithm": "On-going development",
+  "proof_type": "PoW",
+  "explorer": ["https://bsvexplorer.info/", "http://whatsonchain.com/", "https://www.svblox.com/"],
+  "source_code": ["https://github.com/bitcoin-sv/bitcoin-sv"]
+}

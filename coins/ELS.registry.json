@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Elysium",
   "network": {
-    "t_available_supply": 13715884,
+    "t_available_supply": 13715944,
     "t_block_reward": 0,
     "t_max_supply": 18000000,
-    "t_total_supply": 13715884
+    "t_total_supply": 13715944
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/ELS"],

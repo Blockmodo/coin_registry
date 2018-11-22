@@ -31,6 +31,7 @@ A COINREGISTRY JSON information file:
 		"image64": "https://image_path/img.jpg",
 		"image128": "https://image_path/img.jpg",
 		"image256": "https://image_path/img.jpg",
+		"image512": "https://image_path/img.jpg",
 		"image1024": "https://image_path/img.jpg"
 	},
 	"network": {

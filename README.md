@@ -27,6 +27,12 @@ A COINREGISTRY JSON information file:
 	"fromSymbol": "ETH",
 	"toSymbol":"ALL",
 	"website": "https://www.ethereum.org/",
+	"images": {
+		"image64": "https://image_path/img.jpg",
+		"image128": "https://image_path/img.jpg",
+		"image256": "https://image_path/img.jpg",
+		"image1024": "https://image_path/img.jpg"
+	},
 	"network": {
 		"t_total_supply": 17104062,
 		"t_available_supply": 17104062,
@@ -93,6 +99,10 @@ The website for the currency.
 > root → network
 
 This block holds network related statistics. 
+
+> root → images
+
+A hash that holds images of the currency with different sizes. Hosting provided by Blockmodo. 
 
 > root → network → t_total_supply
 

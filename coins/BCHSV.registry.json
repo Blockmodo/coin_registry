@@ -8,9 +8,9 @@
   "chat": [],
   "social": ["https://twitter.com/BitcoinSVNode"],
   "network": {
-    "t_available_supply": null,
+    "t_available_supply": 0,
     "t_total_supply": 21000000,
-    "t_max_supply": 0
+    "t_max_supply": 21000000
   },
   "website": "https://bitcoinsv.io/",
   "description": {

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Aurora Coin",
   "network": {
-    "t_available_supply": 17028811,
+    "t_available_supply": 17028821,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 17028806
+    "t_total_supply": 17028821
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/AUR"],

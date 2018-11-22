@@ -1,22 +1,29 @@
 {
-  "algorithm": "",
-  "chat": [],
+  "algorithm": null,
+  "chat": ["https://t.me/batproject"],
   "community": ["https://www.reddit.com/r/BATProject"],
   "description": {
-    "en": ""
+    "en": "Basic Attention Token radically improves the efficiency of digital advertising by creating a new token that can be exchanged between publishers, advertisers, and users. It all happens on the Ethereum blockchain. The token can be used to obtain a variety of advertising and attention-based services on the Brave platform. The utility of the token is based on user attention, which simply means a person’s focused mental engagement."
   },
-  "explorer": [],
+  "explorer": ["https://etherscan.io/token/0x0d8775f648430679a709e98d2b0cb6250d2887ef"],
   "fromSymbol": "BAT",
   "is_crypto": true,
   "is_minable": false,
   "name": "Basic Attention Token",
+  "images": {
+    "image64": "https://storage.googleapis.com/blockmodo/coins/images/BAT_64_64.png",
+    "image128": "https://storage.googleapis.com/blockmodo/coins/images/BAT_128_128.png",
+    "image256": "https://storage.googleapis.com/blockmodo/coins/images/BAT_256_256.png",
+    "image512": "https://storage.googleapis.com/blockmodo/coins/images/BAT_512_512.png",
+    "image1024": "https://storage.googleapis.com/blockmodo/coins/images/BAT_1204_1024.png",
+  },
   "network": {
     "t_available_supply": 1180808540,
     "t_block_reward": 0,
     "t_max_supply": 0,
     "t_total_supply": 1500000000
   },
-  "proof_type": "",
+  "proof_type": null,
   "quote": ["https://blockmodo.com/quotes/BAT"],
   "social": ["https://twitter.com/@attentiontoken"],
   "source_code": ["https://github.com/brave-intl/brave-payments-tools", "https://github.com/brave-intl/bat-usermodel", "https://github.com/brave-intl/bat-balance", "https://github.com/brave-intl/bat-go", "https://github.com/brave-intl/bat-client", "https://github.com/brave-intl/publishers", "https://github.com/brave-intl/bat-publisher", "https://github.com/brave-intl/bat-ledger"],

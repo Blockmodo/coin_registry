@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "GridCoin",
   "network": {
-    "t_available_supply": 411529402,
+    "t_available_supply": 411529539,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 411529402
+    "t_total_supply": 411529539
   },
   "proof_type": "DPoR",
   "quote": ["https://blockmodo.com/quotes/GRC"],

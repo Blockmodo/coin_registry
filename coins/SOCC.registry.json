@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "SocialCoin",
   "network": {
-    "t_available_supply": 4660100,
+    "t_available_supply": 4660475,
     "t_block_reward": 0,
     "t_max_supply": 75000000,
-    "t_total_supply": 4820100
+    "t_total_supply": 4820475
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/SOCC"],

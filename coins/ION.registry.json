@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Ionomy",
   "network": {
-    "t_available_supply": 21351252,
+    "t_available_supply": 21351470,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 27251252
+    "t_total_supply": 27251470
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/ION"],

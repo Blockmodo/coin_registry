@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Xcash",
   "network": {
-    "t_available_supply": 19485759425,
+    "t_available_supply": 19490821942,
     "t_block_reward": 0,
     "t_max_supply": 100000000000,
-    "t_total_supply": 56485759425
+    "t_total_supply": 56490821942
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/XCASH"],

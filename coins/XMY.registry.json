@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "MyriadCoin",
   "network": {
-    "t_available_supply": 1623400750,
+    "t_available_supply": 1623403000,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 1623400750
+    "t_total_supply": 1623403000
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/XMY"],

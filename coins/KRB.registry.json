@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Karbo",
   "network": {
-    "t_available_supply": 6825548,
+    "t_available_supply": 6825560,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 6825548
+    "t_total_supply": 6825560
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/KRB"],

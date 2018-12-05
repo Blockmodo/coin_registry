@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "HappyCoin",
   "network": {
-    "t_available_supply": 17347319,
+    "t_available_supply": 17347820,
     "t_block_reward": 0,
     "t_max_supply": 100000000,
-    "t_total_supply": 17347319
+    "t_total_supply": 17347820
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/HPC"],

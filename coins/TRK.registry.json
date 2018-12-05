@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "TruckCoin",
   "network": {
-    "t_available_supply": 224583774,
+    "t_available_supply": 224585653,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 224583774
+    "t_total_supply": 224585653
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/TRK"],

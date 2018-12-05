@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Internet of People",
   "network": {
-    "t_available_supply": 5550330,
+    "t_available_supply": 5550480,
     "t_block_reward": 0,
     "t_max_supply": 21000000,
-    "t_total_supply": 6055955
+    "t_total_supply": 6056105
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/IOP"],

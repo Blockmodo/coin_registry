@@ -16,6 +16,13 @@
     "t_max_supply": 0,
     "t_total_supply": 99214055053
   },
+  "images": {
+    "image64": "https://storage.googleapis.com/blockmodo/coins/images/TRX_64_64.png",
+    "image128": "https://storage.googleapis.com/blockmodo/coins/images/TRX_128_128.png",
+    "image256": "https://storage.googleapis.com/blockmodo/coins/images/TRX_256_256.png",
+    "image512": "https://storage.googleapis.com/blockmodo/coins/images/TRX_512_512.png",
+    "image1024": "https://storage.googleapis.com/blockmodo/coins/images/TRX_1204_1024.png"
+  },
   "proof_type": null,
   "quote": ["https://blockmodo.com/quotes/TRX"],
   "social": ["https://twitter.com/@tronfoundation", "https://www.facebook.com/tronfoundation", "https://www.instagram.com/tronfoundation"],

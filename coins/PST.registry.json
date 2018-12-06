@@ -1,28 +1,25 @@
 {
-  "algorithm": "",
-  "chat": [],
-  "community": [],
-  "description": {
-    "en": ""
-  },
-  "explorer": [],
   "fromSymbol": "PST",
-  "is_crypto": true,
-  "is_minable": false,
-  "name": "Primas",
-  "network": {
-    "t_available_supply": 52692565,
-    "t_block_reward": 0,
-    "t_max_supply": 0,
-    "t_total_supply": 101342466
-  },
-  "proof_type": "",
-  "quote": ["https://blockmodo.com/quotes/PST"],
-  "social": ["https://twitter.com/https://twitter.com/PrimasOfficial"],
-  "source_code": [],
-  "toSymbol": "ALL",
+  "adoptedFromSymbol": "PST",
   "type": "COINREGISTRY",
   "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "community": ["https://www.reddit.com/r/Primas"],
+  "chat": ["https://t.me/primas_official", "https://slack.primas.io/"],
+  "social": ["https://www.facebook.com/summer.primas", "https://twitter.com/PrimasOfficial"],
+  "network": {
+    "t_available_supply": 52692565,
+    "t_total_supply": 101342466,
+    "t_max_supply": 0
+  },
   "website": "https://primas.io/",
-  "adoptedFromSymbol": "PST"
+  "description": {
+    "en": "Primas is an open ecosystem for the publishing, recommendation and transaction of content. The Primas team is committed to using blockchain and other technologies to restructure the content market, so as to solve the problem in which quality content are hardly recognized, disseminated and paid for. Decentralized content sourcing and recommendation mechanism brings quality content to users. A brand-new content evaluation system ensures direct benefits to the producers of quality content. Tamper-proof property of the blockchain provides copyright protection for original writers. And decentralized data management offers better protection for user’s privacy."
+  },
+  "name": "Primas",
+  "algorithm": null,
+  "proof_type": null,
+  "explorer": ["https://etherscan.io/token/0x5d4abc77b8405ad177d8ac6682d584ecbfd46cec", "https://ethplorer.io/address/0x5d4abc77b8405ad177d8ac6682d584ecbfd46cec"],
+  "source_code": ["https://github.com/primasio/primas-api-sdk-php", "https://github.com/primasio/primas-api-sdk-js", "https://github.com/primasio/primas-api-sdk-go", "https://github.com/primasio/primas-api-doc"]
 }

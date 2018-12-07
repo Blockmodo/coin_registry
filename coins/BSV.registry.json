@@ -6,7 +6,7 @@
   "is_crypto": true,
   "is_minable": true,
   "community": [],
-  "chat": [],
+  "chat": ["https://www.reddit.com/r/bitcoinsv", "https://www.reddit.com/r/bitcoincashSV"],
   "social": ["https://twitter.com/BitcoinSVNode"],
   "network": {
     "t_available_supply": 17477861,

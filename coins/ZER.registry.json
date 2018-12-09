@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Zero",
   "network": {
-    "t_available_supply": 4744691,
+    "t_available_supply": 4744801,
     "t_block_reward": 0,
     "t_max_supply": 17000000,
-    "t_total_supply": 4778696
+    "t_total_supply": 4778814
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/ZER"],

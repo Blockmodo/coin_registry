@@ -1,11 +1,11 @@
 {
-  "algorithm": "",
-  "chat": [],
-  "community": [],
+  "algorithm": null,
+  "chat": ["https://t.me/district0x"],
+  "community": ["https://www.reddit.com/r/0xProject"],
   "description": {
-    "en": ""
+    "en": "A network of decentralized markets and communities. Create, operate, and govern. Powered by Ethereum, Aragon, and IPFS."
   },
-  "explorer": [],
+  "explorer": ["https://etherscan.io/token/0x0abdace70d3790235af448c88547603b945604ea"],
   "fromSymbol": "DNT",
   "is_crypto": true,
   "is_minable": false,
@@ -16,10 +16,10 @@
     "t_max_supply": 0,
     "t_total_supply": 1000000000
   },
-  "proof_type": "",
+  "proof_type": null,
   "quote": ["https://blockmodo.com/quotes/DNT"],
   "social": ["https://twitter.com/@district0x"],
-  "source_code": [],
+  "source_code": ["https://github.com/district0x/d0xperiments", "https://github.com/district0x/name-bazaar", "https://github.com/district0x/district-proposals", "https://github.com/district0x/district0x-network-token", "https://github.com/district0x/district-ui-component-add-to-calendar", "https://github.com/district0x/memefactory-contracts", "https://github.com/district0x/cljs-ipfs-native", "https://github.com/district0x/lein-solc", "https://github.com/district0x/district0x-landing-page", "https://github.com/district0x/district0x-tasks", "https://github.com/district0x/deployments", "https://github.com/district0x/memefactory", "https://github.com/district0x/d0x-INFRA"],
   "toSymbol": "ALL",
   "type": "COINREGISTRY",
   "version": 1,

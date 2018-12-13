@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "TrezarCoin",
   "network": {
-    "t_available_supply": 133814200,
+    "t_available_supply": 133815300,
     "t_block_reward": 0,
     "t_max_supply": 400000000,
-    "t_total_supply": 145814200
+    "t_total_supply": 145815300
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/TZC"],

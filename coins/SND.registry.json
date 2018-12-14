@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Sandcoin",
   "network": {
-    "t_available_supply": 9041660,
+    "t_available_supply": 9043360,
     "t_block_reward": 0,
     "t_max_supply": 60000000,
-    "t_total_supply": 9841660
+    "t_total_supply": 9843360
   },
   "proof_type": "",
   "quote": ["https://blockmodo.com/quotes/SND"],

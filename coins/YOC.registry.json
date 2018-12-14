@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "YoCoin",
   "network": {
-    "t_available_supply": 327240856,
+    "t_available_supply": 327279807,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 540995190
+    "t_total_supply": 541034142
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/YOC"],

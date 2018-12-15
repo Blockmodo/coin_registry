@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "CarterCoin",
   "network": {
-    "t_available_supply": 42054804,
+    "t_available_supply": 42055764,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 915659992
+    "t_total_supply": 915660952
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/CTC"],

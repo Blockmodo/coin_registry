@@ -1,11 +1,11 @@
 {
   "algorithm": "Equihash",
-  "chat": [],
-  "community": ["https://www.reddit.com/r/zen"],
+  "chat": ["https://discordapp.com/invite/Hu5mQxR", "https://t.me/horizencommunity"],
+  "community": ["https://www.reddit.com/r/Horizen"],
   "description": {
-    "en": ""
+    "en": "Horizen is a privacy-oriented cryptocurrency and a leading-edge technology platform."
   },
-  "explorer": [],
+  "explorer": ["https://explorer.zensystem.io/"],
   "fromSymbol": "ZEN",
   "is_crypto": true,
   "is_minable": false,
@@ -18,8 +18,8 @@
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/ZEN"],
-  "social": ["https://twitter.com/@ZenCashOfficial"],
-  "source_code": [],
+  "social": ["https://twitter.com/horizenglobal"],
+  "source_code": ["https://github.com/ZencashOfficial/zencash-swing-wallet-ui", "https://github.com/ZencashOfficial/arizen", "https://github.com/ZencashOfficial/nodetracker", "https://github.com/ZencashOfficial/zencash-mobile", "https://github.com/ZencashOfficial/zen"],
   "toSymbol": "ALL",
   "type": "COINREGISTRY",
   "version": 1,

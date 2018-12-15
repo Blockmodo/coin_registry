@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "EDRCoin",
   "network": {
-    "t_available_supply": 2850728,
+    "t_available_supply": 2851261,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 3633722
+    "t_total_supply": 3634656
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/EDRC"],

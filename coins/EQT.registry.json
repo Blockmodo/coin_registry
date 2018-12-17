@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "EquiTrader",
   "network": {
-    "t_available_supply": 11433535,
+    "t_available_supply": 11433565,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 12533535
+    "t_total_supply": 12533565
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/EQT"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "GlobalBoost",
   "network": {
-    "t_available_supply": 15802032,
+    "t_available_supply": 15802232,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 15802032
+    "t_total_supply": 15802232
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/BSTY"],

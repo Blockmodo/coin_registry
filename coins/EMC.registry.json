@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Emercoin",
   "network": {
-    "t_available_supply": 43090938,
+    "t_available_supply": 43090986,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 43090938
+    "t_total_supply": 43090986
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/EMC"],

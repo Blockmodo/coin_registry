@@ -11,10 +11,10 @@
   "is_minable": true,
   "name": "BitSend",
   "network": {
-    "t_available_supply": 21595575,
+    "t_available_supply": 21595800,
     "t_block_reward": 25,
     "t_max_supply": 0,
-    "t_total_supply": 21595575
+    "t_total_supply": 21595800
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/BSD"],

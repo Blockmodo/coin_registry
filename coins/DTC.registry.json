@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Datacoin",
   "network": {
-    "t_available_supply": 34620875,
+    "t_available_supply": 34621054,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 34620875
+    "t_total_supply": 34621054
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/DTC"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "ECOcoin",
   "network": {
-    "t_available_supply": 1174209,
+    "t_available_supply": 1174210,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 1175812
+    "t_total_supply": 1175813
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/ECO"],

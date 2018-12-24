@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "PeepCoin",
   "network": {
-    "t_available_supply": 33476315901,
+    "t_available_supply": 33477911586,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 72676315901
+    "t_total_supply": 72677911586
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/PCN"],

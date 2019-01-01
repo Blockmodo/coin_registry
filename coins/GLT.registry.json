@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "GlobalToken",
   "network": {
-    "t_available_supply": 38262100,
+    "t_available_supply": 47919200,
     "t_block_reward": 0,
     "t_max_supply": 168000000,
-    "t_total_supply": 38262100
+    "t_total_supply": 47919200
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/GLT"],

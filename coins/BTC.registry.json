@@ -26,7 +26,7 @@
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/BTC"],
   "social": ["https://www.facebook.com/bitcoins", "https://twitter.com/bitcoincoreorg"],
-  "source_code": ["https://github.com/bitcoin/bitcoin"],
+  "source_code": ["https://github.com/bitcoin/bitcoin", "https://github.com/nayutaco/ptarmigan", "https://github.com/lightningnetwork/lightning-onion", "https://github.com/ElementsProject/lightning", "https://github.com/mit-dci/lit", "https://github.com/ACINQ/eclair", "https://github.com/lightningnetwork/lnd"],
   "toSymbol": "ALL",
   "type": "COINREGISTRY",
   "version": 1,

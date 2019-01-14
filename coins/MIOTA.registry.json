@@ -10,6 +10,13 @@
   "is_crypto": true,
   "is_minable": false,
   "name": "IOTA",
+    "images": {
+    "image64": "https://storage.googleapis.com/blockmodo/coins/images/MIOTA_64_64.png",
+    "image128": "https://storage.googleapis.com/blockmodo/coins/images/MIOTA_128_128.png",
+    "image256": "https://storage.googleapis.com/blockmodo/coins/images/MIOTA_256_256.png",
+    "image512": "https://storage.googleapis.com/blockmodo/coins/images/MIOTA_512_512.png",
+    "image1024": "https://storage.googleapis.com/blockmodo/coins/images/MIOTA_1204_1024.png"
+  },
   "network": {
     "t_available_supply": 2779530283,
     "t_block_reward": 0,

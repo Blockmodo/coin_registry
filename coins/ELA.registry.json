@@ -11,10 +11,10 @@
   "is_minable": true,
   "name": "Elastos",
   "network": {
-    "t_available_supply": 14510337,
+    "t_available_supply": 14510356,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 34049134
+    "t_total_supply": 34049179
   },
   "proof_type": "AuxPOW/DPoS",
   "quote": ["https://blockmodo.com/quotes/ELA"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Lisk",
   "network": {
-    "t_available_supply": 114252593,
+    "t_available_supply": 114252950,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 129367723
+    "t_total_supply": 129368080
   },
   "proof_type": "DPoS",
   "quote": ["https://blockmodo.com/quotes/LSK"],

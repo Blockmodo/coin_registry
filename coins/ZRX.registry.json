@@ -1,25 +1,32 @@
 {
-  "algorithm": "",
+  "algorithm": null,
   "chat": [],
   "community": ["https://www.reddit.com/r/0xProject", "https://www.reddit.com/r/zrxtrader"],
   "description": {
-    "en": ""
+    "en": "The Ethereum blockchain has become host to a variety of variety of digital assets, with more being created every month. Soon, thousands of assets will be tokenized and moved onto this open financial network. As the token space continues to develop, the need to exchange these assets will be compounded. 0x protocol will act as a critical piece of infrastructure for the token economy, allowing Ethereum smart contracts to programmatically and seamlessly exchange Ethereum-based assets."
   },
-  "explorer": [],
+  "explorer": ["https://ethplorer.io/address/0xe41d2489571d322189246dafa5ebde1f4699f498", "https://etherscan.io/token/0xe41d2489571d322189246dafa5ebde1f4699f498"],
   "fromSymbol": "ZRX",
   "is_crypto": true,
   "is_minable": false,
   "name": "0x",
+    "images": {
+    "image64": "https://storage.googleapis.com/blockmodo/coins/images/ZRX_64_64.png",
+    "image128": "https://storage.googleapis.com/blockmodo/coins/images/ZRX_128_128.png",
+    "image256": "https://storage.googleapis.com/blockmodo/coins/images/ZRX_256_256.png",
+    "image512": "https://storage.googleapis.com/blockmodo/coins/images/ZRX_512_512.png",
+    "image1024": "https://storage.googleapis.com/blockmodo/coins/images/ZRX_1204_1024.png"
+  },
   "network": {
     "t_available_supply": 553072858,
     "t_block_reward": 0,
     "t_max_supply": 0,
     "t_total_supply": 1000000000
   },
-  "proof_type": "",
+  "proof_type": null,
   "quote": ["https://blockmodo.com/quotes/ZRX"],
   "social": ["https://twitter.com/@0xproject"],
-  "source_code": ["https://github.com/0xProject/0x-monorepo"],
+  "source_code": ["https://github.com/0xProject/0x-monorepo", "https://github.com/0xProject/wiki", "https://github.com/0xProject/0x-protocol-specification", "https://github.com/0xProject/ZEIPs", "https://github.com/0xProject/standard-relayer-api", "https://github.com/0xProject/0x-launch-kit"],
   "toSymbol": "ALL",
   "type": "COINREGISTRY",
   "version": 1,

@@ -1,7 +1,7 @@
 {
   "algorithm": "",
   "chat": [],
-  "community": ["https://www.reddit.com/r/MonacoCard"],
+  "community": ["https://www.reddit.com/r/Crypto_com/"],
   "description": {
     "en": ""
   },
@@ -9,7 +9,7 @@
   "fromSymbol": "MCO",
   "is_crypto": true,
   "is_minable": false,
-  "name": "Monaco",
+  "name": "Crypto.com",
   "network": {
     "t_available_supply": 15793831,
     "t_block_reward": 0,
@@ -18,11 +18,11 @@
   },
   "proof_type": "",
   "quote": ["https://blockmodo.com/quotes/MCO"],
-  "social": ["https://twitter.com/@monaco_card"],
+  "social": ["https://twitter.com/cryptocom"],
   "source_code": [],
   "toSymbol": "ALL",
   "type": "COINREGISTRY",
   "version": 1,
-  "website": "https://mona.co/",
+  "website": "https://crypto.com/",
   "adoptedFromSymbol": "MCO"
 }

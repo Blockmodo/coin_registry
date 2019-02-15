@@ -10,7 +10,7 @@
   "is_crypto": true,
   "is_minable": false,
   "name": "0x",
-    "images": {
+  "images": {
     "image64": "https://storage.googleapis.com/blockmodo/coins/images/ZRX_64_64.png",
     "image128": "https://storage.googleapis.com/blockmodo/coins/images/ZRX_128_128.png",
     "image256": "https://storage.googleapis.com/blockmodo/coins/images/ZRX_256_256.png",
@@ -18,7 +18,7 @@
     "image1024": "https://storage.googleapis.com/blockmodo/coins/images/ZRX_1204_1024.png"
   },
   "network": {
-    "t_available_supply": 583934416,
+    "t_available_supply": 584053225,
     "t_block_reward": 0,
     "t_max_supply": 0,
     "t_total_supply": 1000000000

@@ -1,11 +1,11 @@
 {
-  "algorithm": "",
-  "chat": [],
-  "community": [],
+  "algorithm": null,
+  "chat": ["https://t.me/joinchat/DByWw0Pnq9BAy4FqPv_Lyg"],
+  "community": ["https://www.reddit.com/r/STOX/"],
   "description": {
-    "en": ""
+    "en": "Stox is an open source, Ethereum based prediction market platform where people can trade the outcome of events in almost any imaginable category."
   },
-  "explorer": [],
+  "explorer": ["https://ethplorer.io/address/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45", "https://etherscan.io/token/0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45"],
   "fromSymbol": "STX",
   "is_crypto": true,
   "is_minable": false,
@@ -16,10 +16,10 @@
     "t_max_supply": 0,
     "t_total_supply": 56034212
   },
-  "proof_type": "",
+  "proof_type": null,
   "quote": ["https://blockmodo.com/quotes/STX"],
   "social": ["https://twitter.com/@stx_coin"],
-  "source_code": [],
+  "source_code": ["https://github.com/stx-technologies/stox-token"],
   "toSymbol": "ALL",
   "type": "COINREGISTRY",
   "version": 1,

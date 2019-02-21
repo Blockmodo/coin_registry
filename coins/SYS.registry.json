@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "SysCoin",
   "network": {
-    "t_available_supply": 548652530,
+    "t_available_supply": 548653105,
     "t_block_reward": 0,
     "t_max_supply": 888000000,
-    "t_total_supply": 548652530
+    "t_total_supply": 548653105
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/SYS"],

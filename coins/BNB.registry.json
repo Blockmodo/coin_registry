@@ -28,7 +28,7 @@
   "social": ["https://twitter.com/@binance", "https://www.instagram.com/binanceexchange", "https://www.facebook.com/binanceexchange"],
   "source_code": ["https://github.com/binance-exchange/binance-api-node", "https://github.com/binance-exchange/binance-official-api-docs", "https://github.com/binance-exchange/binance-java-api"],
   "toSymbol": "ALL",
-  "type": "COINREGISTRY", 
+  "type": "COINREGISTRY",
   "version": 1,
   "website": "https://www.binance.com/",
   "adoptedFromSymbol": "BNB"

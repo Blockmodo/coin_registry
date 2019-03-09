@@ -1,7 +1,7 @@
 {
-  "algorithm": "",
+  "algorithm": null,
   "chat": ["https://t.me/binanceexchange"],
-  "community": ["https://www.reddit.com/r/BNBTrader", "https://www.reddit.com/r/binanceexchange"],
+  "community": ["https://www.reddit.com/r/BNBTrader", "https://www.reddit.com/r/binanceexchange", "https://www.reddit.com/r/binance/"],
   "description": {
     "en": "From the ICO, Binance issued its own token called the Binance Coin, with BNB as the symbol. BNB runs natively on the Ethereum blockchain and follows the ERC20 token standard.The token was established with a total supply of 200 million. As per our whitepaper, Binance plans to use 20% of our profits each Quarter to buyback and burn BNB, until 50% of the total BNB supply (100 million) is burned."
   },
@@ -16,12 +16,12 @@
     "t_max_supply": 0,
     "t_total_supply": 189175490
   },
-  "proof_type": "",
+  "proof_type": null,
   "quote": ["https://blockmodo.com/quotes/BNB"],
   "social": ["https://twitter.com/@binance", "https://www.instagram.com/binanceexchange", "https://www.facebook.com/binanceexchange"],
-  "source_code": [],
+  "source_code": ["https://github.com/binance-exchange/binance-api-node", "https://github.com/binance-exchange/binance-official-api-docs", "https://github.com/binance-exchange/binance-java-api"],
   "toSymbol": "ALL",
-  "type": "COINREGISTRY",
+  "type": "COINREGISTRY", 
   "version": 1,
   "website": "https://www.binance.com/",
   "adoptedFromSymbol": "BNB"

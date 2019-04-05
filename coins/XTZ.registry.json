@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Tezos",
   "network": {
-    "t_available_supply": 662459476,
+    "t_available_supply": 662475028,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 789820003
+    "t_total_supply": 789820002
   },
   "proof_type": "DPoS",
   "quote": ["https://blockmodo.com/quotes/XTZ"],

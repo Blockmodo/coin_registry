@@ -1,0 +1,28 @@
+{
+  "algorithm": "X11",
+  "chat": ["https://discord.gg/VQ3gVaD"],
+"community": ["https://bitcointalk.org/index.php?topic=5072252.0"],
+  "description": {
+    "en": "Hatch is an open source peer-to-peer cryptocurrency and decentralized autonomous organization. It features instant transactions, private transactions and a self-funded, self-governed organizational structure."
+  },
+  "explorer": ["https://explorer.hatch.ga", "https://explorer2.hatch.ga"],
+  "fromSymbol": "HATCH",
+  "is_crypto": true,
+  "is_minable": true,
+  "name": "Hatch",
+  "network": {
+    "t_available_supply": 5728091,
+    "t_block_reward": 0,
+    "t_max_supply": 18900000,
+    "t_total_supply": 5728091
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/HATCH"],
+  "social": ["https://twitter.com/Hatchpay"],
+  "source_code": ["https://github.com/hatchpay/Hatch"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://hatch.ga",
+  "adoptedFromSymbol": "HATCH"
+}

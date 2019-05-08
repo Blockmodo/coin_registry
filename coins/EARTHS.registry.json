@@ -1,0 +1,28 @@
+{
+  "algorithm": "Leased POS",
+  "chat": ["https://discord.gg/uuwmtbm"],
+  "community": ["https://bitcointalk.org/index.php?topic=5126724.0"],
+  "description": {
+    "en": "EARTHS - Complete Blockchain Ecosystem for a Token Economy with Unconditional Basic Income for everybody."
+  },
+  "explorer": ["https://explorer.earths.ga"],
+  "fromSymbol": "EARTHS",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Earths",
+  "network": {
+    "t_available_supply": 92233000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 92233000000
+  },
+  "proof_type": "LPoS",
+  "quote": ["https://blockmodo.com/quotes/EARTHS"],
+  "social": ["https://twitter.com/Earthspay"],
+  "source_code": ["https://github.com/earthspay/Earths"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://earths.ga",
+  "adoptedFromSymbol": "EARTHS"
+}

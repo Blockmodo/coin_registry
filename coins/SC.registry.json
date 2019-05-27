@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Siacoin",
   "network": {
-    "t_available_supply": 40854780069,
+    "t_available_supply": 40854871122,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 40854780069
+    "t_total_supply": 40854871122
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/SC"],

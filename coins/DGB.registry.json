@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "DigiByte",
   "network": {
-    "t_available_supply": 11914954472,
+    "t_available_supply": 11915006305,
     "t_block_reward": 0,
     "t_max_supply": 21000000000,
-    "t_total_supply": 11914954472
+    "t_total_supply": 11915006305
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/DGB"],

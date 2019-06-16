@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "eBoost",
   "network": {
-    "t_available_supply": 20000000,
+    "t_available_supply": 99990001,
     "t_block_reward": 0,
-    "t_max_supply": 99990000,
-    "t_total_supply": 80828160
+    "t_max_supply": 99990001,
+    "t_total_supply": 99990001
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/EBST"],

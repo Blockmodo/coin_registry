@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Steem",
   "network": {
-    "t_available_supply": 335180725,
+    "t_available_supply": 335193390,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 352154819
+    "t_total_supply": 352167484
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/STEEM"],

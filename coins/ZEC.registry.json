@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "ZCash",
   "network": {
-    "t_available_supply": 7110819,
+    "t_available_supply": 7110844,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 7110819
+    "t_total_supply": 7110844
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/ZEC"],

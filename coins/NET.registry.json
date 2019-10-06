@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "NetCoin",
   "network": {
-    "t_available_supply": 50269268,
+    "t_available_supply": 40491818,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 973628555
+    "t_total_supply": 116503818
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/NET"],

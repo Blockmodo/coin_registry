@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "ILCoin",
   "network": {
-    "t_available_supply": 339677487,
+    "t_available_supply": 339689987,
     "t_block_reward": 0,
     "t_max_supply": 2500000000,
-    "t_total_supply": 1293373907
+    "t_total_supply": 1293386407
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/ILC"],

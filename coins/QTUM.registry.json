@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "QTUM",
   "network": {
-    "t_available_supply": 96279872,
+    "t_available_supply": 96279904,
     "t_block_reward": 0,
     "t_max_supply": 107822406,
-    "t_total_supply": 102029892
+    "t_total_supply": 102029924
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/QTUM"],

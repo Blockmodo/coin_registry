@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "CasinoCoin",
   "network": {
-    "t_available_supply": 39638654756,
+    "t_available_supply": 39638654748,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 39999984701
+    "t_total_supply": 39999984694
   },
   "proof_type": "PoC",
   "quote": ["https://blockmodo.com/quotes/CSC"],

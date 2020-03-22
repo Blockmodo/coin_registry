@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "aelf",
   "network": {
-    "t_available_supply": 544480200,
+    "t_available_supply": 544480199.986466,
     "t_block_reward": 0,
     "t_max_supply": 1000000000,
-    "t_total_supply": 880000000
+    "t_total_supply": 879999999.986466
   },
   "proof_type": "",
   "quote": ["https://blockmodo.com/quotes/ELF"],

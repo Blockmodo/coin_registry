@@ -11,10 +11,10 @@
   "is_minable": true,
   "name": "Aeternity",
   "network": {
-    "t_available_supply": 305104989.5,
+    "t_available_supply": 305106438.5,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 350925933.49932
+    "t_total_supply": 350927382.49932
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/AE"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Decred",
   "network": {
-    "t_available_supply": 11470309.4460292,
+    "t_available_supply": 11470370.4021847,
     "t_block_reward": 0,
     "t_max_supply": 21000000,
-    "t_total_supply": 11470309.4460292
+    "t_total_supply": 11470370.4021847
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/DCR"],

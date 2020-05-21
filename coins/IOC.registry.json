@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "IOCoin",
   "network": {
-    "t_available_supply": 17161647,
+    "t_available_supply": 18169372.4743456,
     "t_block_reward": 0,
-    "t_max_supply": 0,
-    "t_total_supply": 17161647
+    "t_max_supply": 22000000,
+    "t_total_supply": 18169372.4743456
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/IOC"],

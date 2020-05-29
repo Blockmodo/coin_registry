@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Electroneum",
   "network": {
-    "t_available_supply": 10115329469.3,
+    "t_available_supply": 10115352965.61,
     "t_block_reward": 0,
     "t_max_supply": 21000000000,
-    "t_total_supply": 10115329469.3
+    "t_total_supply": 10115352965.61
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/ETN"],

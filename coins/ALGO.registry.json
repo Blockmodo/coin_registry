@@ -1,10 +1,14 @@
 {
     "fromSymbol": "ALGO",
+    "toSymbol": "ALL",
     "adoptedFromSymbol": "ALGO",
     "type": "COINREGISTRY",
     "version": 1,
     "is_crypto": true,
     "is_minable": false,
+    "quote": [
+        "https://blockmodo.com/quotes/ALGO"
+    ],
     "community": [
         "https://www.reddit.com/r/AlgorandOfficial"
     ],

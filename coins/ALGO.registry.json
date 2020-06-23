@@ -1,34 +1,27 @@
 {
-    "fromSymbol": "ALGO",
-    "toSymbol": "ALL",
-    "adoptedFromSymbol": "ALGO",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "is_crypto": true,
-    "is_minable": false,
-    "quote": [
-        "https://blockmodo.com/quotes/ALGO"
-    ],
-    "community": [
-        "https://www.reddit.com/r/AlgorandOfficial"
-    ],
-    "chat": ["https://t.me/algorand", "https://discord.com/invite/QBYp7Y2"],
-    "social": [
-        "https://twitter.com/AlgoFoundation",
-        "https://www.facebook.com/algorand"
-    ],
-    "network": {
-        "t_available_supply": 803088849,
-        "t_total_supply": 10000000000,
-        "t_max_supply": 10000000000 
-    },
-    "website": "https://www.algorand.com/",
-    "description": {
-        "en": "Algorand removes the technical barriers that for years undermined mainstream blockchain adoption: decentralization, scale, and security. Now you can build on a stable platform you trust.\nOur consensus mechanism is permissionless and PURE PROOF OF STAKE™. It ensures full participation, protection, and speed within a truly decentralized network. With blocks finalized in seconds, Algorand’s transaction throughput is on par with large payment and financial networks. And Algorand is the first blockchain to provide immediate transaction finality. No forking. No uncertainty."
-    },
-    "name": "Algorand",
-    "algorithm": "-",
-    "proof_type": "PoS",
-    "explorer": ["https://algoexplorer.io/"],
-    "source_code": ["https://github.com/algorand/go-algorand", "https://github.com/algorand/ledger-app-algorand", "https://github.com/algorand/js-algorand-sdk", "https://github.com/algorand/algorand-sdk-testing", "https://github.com/algorand/indexer", "https://github.com/algorand/java-algorand-sdk"]
+  "fromSymbol": "ALGO",
+  "toSymbol": "ALL",
+  "adoptedFromSymbol": "ALGO",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "is_crypto": true,
+  "is_minable": false,
+  "quote": ["https://blockmodo.com/quotes/ALGO"],
+  "community": ["https://www.reddit.com/r/AlgorandOfficial"],
+  "chat": ["https://t.me/algorand", "https://discord.com/invite/QBYp7Y2"],
+  "social": ["https://twitter.com/AlgoFoundation", "https://www.facebook.com/algorand"],
+  "network": {
+    "t_available_supply": 771817006.928144,
+    "t_total_supply": 3303088849.92814,
+    "t_max_supply": 0
+  },
+  "website": "https://www.algorand.com/",
+  "description": {
+    "en": "Algorand removes the technical barriers that for years undermined mainstream blockchain adoption: decentralization, scale, and security. Now you can build on a stable platform you trust.\nOur consensus mechanism is permissionless and PURE PROOF OF STAKE™. It ensures full participation, protection, and speed within a truly decentralized network. With blocks finalized in seconds, Algorand’s transaction throughput is on par with large payment and financial networks. And Algorand is the first blockchain to provide immediate transaction finality. No forking. No uncertainty."
+  },
+  "name": "Algorand",
+  "algorithm": "-",
+  "proof_type": "PoS",
+  "explorer": ["https://algoexplorer.io/"],
+  "source_code": ["https://github.com/algorand/go-algorand", "https://github.com/algorand/ledger-app-algorand", "https://github.com/algorand/js-algorand-sdk", "https://github.com/algorand/algorand-sdk-testing", "https://github.com/algorand/indexer", "https://github.com/algorand/java-algorand-sdk"]
 }

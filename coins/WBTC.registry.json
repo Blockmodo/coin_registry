@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "WBTC",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "WorldBTC",
-    "network": {
-        "t_available_supply": 66819606,
-        "t_block_reward": 0,
-        "t_max_supply": 210000000,
-        "t_total_supply": 66819606
-    },
-    "proof_type": "PoW/PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/WBTC"
-    ],
-    "social": [
-        "https://twitter.com/@WBTC_WorldBTC"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "http://worldbtc.io/"
+  "algorithm": "Scrypt",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "WBTC",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "WorldBTC",
+  "network": {
+    "t_available_supply": 49970.31366746,
+    "t_block_reward": 0,
+    "t_max_supply": 21000000,
+    "t_total_supply": 49970.31366746
+  },
+  "proof_type": "PoW/PoS",
+  "quote": ["https://blockmodo.com/quotes/WBTC"],
+  "social": ["https://twitter.com/@WBTC_WorldBTC"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "http://worldbtc.io/"
 }

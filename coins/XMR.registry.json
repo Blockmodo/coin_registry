@@ -11,10 +11,10 @@
   "is_minable": true,
   "name": "Monero",
   "network": {
-    "t_available_supply": 17695073.8805031,
+    "t_available_supply": 17695082.4826447,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 17695073.8805031
+    "t_total_supply": 17695082.4826447
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/XMR"],

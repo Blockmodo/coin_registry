@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "WorldBTC",
   "network": {
-    "t_available_supply": 92583.30290003,
+    "t_available_supply": 93283.02290003,
     "t_block_reward": 0,
     "t_max_supply": 21000000,
-    "t_total_supply": 92583.30290003
+    "t_total_supply": 93283.02290003
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/WBTC"],

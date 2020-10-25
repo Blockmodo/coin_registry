@@ -36,7 +36,7 @@
         "https://github.com/hashgraph/hedera-sdk-go",
         "https://github.com/hashgraph/hedera-sdk-js",
         "https://github.com/hashgraph/hedera-mirror-node",
-        "https://github.com/hashgraph/hedera-services",
+        "https://github.com/hashgraph/hedera-services"
     ],
     "toSymbol": "ALL",
     "type": "COINREGISTRY",

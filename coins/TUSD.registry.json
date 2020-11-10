@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "TrueUSD",
   "network": {
-    "t_available_supply": 272952031.15000004,
+    "t_available_supply": 272951030.15,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 272952031.15000004
+    "t_total_supply": 272951030.15
   },
   "proof_type": null,
   "quote": ["https://blockmodo.com/quotes/TUSD"],

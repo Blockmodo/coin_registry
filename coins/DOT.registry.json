@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Dotcoin",
   "network": {
-    "t_available_supply": 879352597.9890842,
+    "t_available_supply": 879352596.3649281,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 1014158010.8805822
+    "t_total_supply": 1014158009.2564261
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/DOT"],

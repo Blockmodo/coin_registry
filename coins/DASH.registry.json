@@ -11,10 +11,10 @@
   "is_minable": true,
   "name": "DigitalCash",
   "network": {
-    "t_available_supply": 9878038.35992321,
+    "t_available_supply": 9878191.25034819,
     "t_block_reward": 0,
     "t_max_supply": 18900000,
-    "t_total_supply": 9878038.35992321
+    "t_total_supply": 9878191.25034819
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/DASH"],

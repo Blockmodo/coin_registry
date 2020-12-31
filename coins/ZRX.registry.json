@@ -20,7 +20,7 @@
   "network": {
     "t_available_supply": 749772093.9255235,
     "t_block_reward": 0,
-    "t_max_supply": 0,
+    "t_max_supply": 1000000000,
     "t_total_supply": 1000000000
   },
   "proof_type": null,

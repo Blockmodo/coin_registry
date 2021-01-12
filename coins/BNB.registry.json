@@ -18,10 +18,10 @@
     "image1024": "https://storage.googleapis.com/blockmodo/coins/images/BNB_1204_1024.png"
   },
   "network": {
-    "t_available_supply": 144406560.9,
+    "t_available_supply": 142406561,
     "t_block_reward": 0,
     "t_max_supply": 174152673,
-    "t_total_supply": 176406560.9
+    "t_total_supply": 174152673
   },
   "proof_type": null,
   "quote": ["https://blockmodo.com/quotes/BNB"],

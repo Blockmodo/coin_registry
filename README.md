@@ -40,6 +40,9 @@ A COINREGISTRY JSON information file:
 		"t_max_supply": 21000000,
 		"t_block_reward": 12.5
 	},
+	"wallets": [
+    	"https://neptune.so"
+  	],
 	"is_crypto": true,
 	"is_minable": true,
 	"proof_type": "PoW",
@@ -75,7 +78,7 @@ A COINREGISTRY JSON information file:
 
 > root → type
 
-The Blockmodo API always assigns type names to Payloads for easy parsing. In this paticular case, the type will always be "COINREGISTRY" for this payload.
+The Blockmodo API always assigns type names to Payloads for easy parsing. In this particular case, the type will always be "COINREGISTRY" for this payload.
 
 > root → version
 
@@ -87,7 +90,7 @@ The name of the currency.
 
 > root → fromSymbol
 
-Each Blockmodo payload must have a fromSymbol and toSymbol unless otherwise specififed. In this case, the fromSymbol will be the symbol of the currency being described. 
+Each Blockmodo payload must have a fromSymbol and toSymbol unless otherwise specified. In this case, the fromSymbol will be the symbol of the currency being described. 
 
 > root → fromSymbol
 
@@ -109,26 +112,29 @@ A hash that holds images of the currency with different sizes. Hosting provided 
 
 The number of coins that are currently available in some form.
 
-NOTE: This is a termporal value and might change frequently. If you wish to update this field, please make sure to update it no more than once a day via a pull request. 
+NOTE: This is a temporal value and might change frequently. If you wish to update this field, please make sure to update it no more than once a day via a pull request. 
 
 > root → network → t_available_supply
 
 The number of coins that are available to trade. For example, if a currency has coins locked up in escrow the available supply will be a subset of the total supply. 
 
-NOTE: This is a termporal value and might change frequently. If you wish to update this field, please make sure to update it no more than 3 times a day via a pull request. 
-
+NOTE: This is a temporal value and might change frequently. If you wish to update this field, please make sure to update it no more than 3 times a day via a pull request. 
 
 > root → network → t_max_supply
 
 The max number of coins that can be mined or generated.
 
-NOTE: This is a termporal value and might change frequently. If you wish to update this field, please make sure to update it no more than 3 times a day via a pull request. 
+NOTE: This is a temporal value and might change frequently. If you wish to update this field, please make sure to update it no more than 3 times a day via a pull request. 
 
 > root → network → t_block_reward
 
 The number of coins that are rewarded per mined block.
 
-NOTE: This is a termporal value and might change frequently. If you wish to update this field, please make sure to update it no more than 3 times a day via a pull request. 
+NOTE: This is a temporal value and might change frequently. If you wish to update this field, please make sure to update it no more than 3 times a day via a pull request. 
+
+> root → wallets
+
+The list of supported wallets for the given token/coin.
 
 > root → is_crypto
 
@@ -156,7 +162,7 @@ An array of URLs of where users can get quotes for the given fromSymbol.
 
 > root → explorer
 
-An array of URLs of where users can get blockchain realted inforation.
+An array of URLs of where users can get blockchain related information.
 
 > root → chat
 
@@ -168,7 +174,7 @@ An array of social media URLs. For example, Facebook pages or groups would be li
 
 > root → social
 
-An array of community URLs. For example, Sub-Reddi's would be listed here or forums.
+An array of community URLs. For example, Sub-Reddit's would be listed here or forums.
 
 > root → source_code
 

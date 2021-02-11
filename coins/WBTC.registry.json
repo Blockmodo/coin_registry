@@ -16,9 +16,7 @@
     "t_max_supply": 0,
     "t_total_supply": 127245.16741737
   },
-  "wallets": [
-    "https://neptune.so"
-  ],
+  "wallets": ["https://neptune.so"],
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/WBTC"],
   "social": ["https://twitter.com/WrappedBTC"],

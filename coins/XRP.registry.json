@@ -10,9 +10,7 @@
   "is_crypto": true,
   "is_minable": false,
   "name": "XRP",
-  "wallets": [
-    "https://neptune.so"
-  ],
+  "wallets": ["https://neptune.so"],
   "network": {
     "t_available_supply": 45404028640,
     "t_block_reward": 0,

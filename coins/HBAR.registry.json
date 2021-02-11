@@ -1,46 +1,28 @@
 {
-    "algorithm": "-",
-    "chat": [
-        "https://t.me/hashgraph",
-        "https://hedera.com/discord"
-    ],
-    "community": [
-        "https://www.reddit.com/r/hashgraph"
-    ],
-    "description": {
-        "en": "The Hedera proof-of-stake public network, powered by hashgraph consensus, achieves the highest-grade of security possible (ABFT), with blazing-fast transaction speeds and incredibly low bandwidth consumption."
-    },
-    "explorer": [
-        "https://hash-hash.info/"
-    ],
-    "fromSymbol": "HBAR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Hedera Hashgraph",
-    "network": {
-        "t_available_supply": 18412518,
-        "t_block_reward": 0,
-        "t_max_supply": 21000000,
-        "t_total_supply": 18412518
-    },
-    "proof_type": "PoS",
-    "quote": [
-        "https://blockmodo.com/quotes/HBAR"
-    ],
-    "social": [
-        "https://twitter.com/hashgraph",
-        "https://www.facebook.com/hashgraph"
-    ],
-    "source_code": [
-        "https://github.com/hashgraph/MyHbarWallet",
-        "https://github.com/hashgraph/hedera-sdk-go",
-        "https://github.com/hashgraph/hedera-sdk-js",
-        "https://github.com/hashgraph/hedera-mirror-node",
-        "https://github.com/hashgraph/hedera-services"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://hedera.com/",
-    "adoptedFromSymbol": "HBAR"
+  "algorithm": "-",
+  "chat": ["https://t.me/hashgraph", "https://hedera.com/discord"],
+  "community": ["https://www.reddit.com/r/hashgraph"],
+  "description": {
+    "en": "The Hedera proof-of-stake public network, powered by hashgraph consensus, achieves the highest-grade of security possible (ABFT), with blazing-fast transaction speeds and incredibly low bandwidth consumption."
+  },
+  "explorer": ["https://hash-hash.info/"],
+  "fromSymbol": "HBAR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Hedera Hashgraph",
+  "network": {
+    "t_available_supply": 7139813623,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 50000000000
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/HBAR"],
+  "social": ["https://twitter.com/hashgraph", "https://www.facebook.com/hashgraph"],
+  "source_code": ["https://github.com/hashgraph/MyHbarWallet", "https://github.com/hashgraph/hedera-sdk-go", "https://github.com/hashgraph/hedera-sdk-js", "https://github.com/hashgraph/hedera-mirror-node", "https://github.com/hashgraph/hedera-services"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://hedera.com/",
+  "adoptedFromSymbol": "HBAR"
 }

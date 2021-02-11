@@ -16,9 +16,7 @@
     "t_max_supply": 1000000000,
     "t_total_supply": 1000000000
   },
-  "wallets": [
-    "https://neptune.so"
-  ],
+  "wallets": ["https://neptune.so"],
   "proof_type": "",
   "quote": ["https://blockmodo.com/quotes/LINK"],
   "social": ["https://twitter.com/"],

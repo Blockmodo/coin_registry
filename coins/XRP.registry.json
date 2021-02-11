@@ -9,7 +9,10 @@
   "fromSymbol": "XRP",
   "is_crypto": true,
   "is_minable": false,
-  "name": "Ripple",
+  "name": "XRP",
+  "wallets": [
+    "https://neptune.so"
+  ],
   "network": {
     "t_available_supply": 45248061374,
     "t_block_reward": 0,

@@ -16,6 +16,9 @@
   "description": {
     "en": "True financial interoperability requires a price stable means of value exchange. CENTRE’s technology for fiat-backed stablecoins brings stability to crypto. The initial implementation is USD//Coin (USDC), an ERC-20 token creating possibilities in payments, lending, investing, trading and trade finance — and the ecosystem will grow as other fiat currency tokens are added.\nAs more goods and services are tokenized, smart contract platforms will become fundamental building blocks of value exchange. CENTRE’s open-source and transparent stablecoin framework allows fiat to interact with smart contracts, giving developers a viable way to use real world currencies in blockchain applications.\nCENTRE stablecoins are issued by regulated and licensed financial institutions that maintain full reserves of the equivalent fiat currency. Issuers are required to regularly report USD reserve holdings, and that information will be made available upon request."
   },
+  "wallets": [
+    "https://neptune.so"
+  ],
   "name": "USD Coin",
   "algorithm": null,
   "proof_type": null,

@@ -1,5 +1,5 @@
 {
-    "algorithm": "SHA256",
+    "algorithm": "-",
     "chat": [
         "https://t.me/hashgraph",
         "https://hedera.com/discord"
@@ -15,7 +15,7 @@
     ],
     "fromSymbol": "HBAR",
     "is_crypto": true,
-    "is_minable": true,
+    "is_minable": false,
     "name": "Hedera Hashgraph",
     "network": {
         "t_available_supply": 18412518,

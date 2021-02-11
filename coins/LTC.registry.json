@@ -10,6 +10,9 @@
   "is_crypto": true,
   "is_minable": false,
   "name": "Litecoin",
+  "wallets": [
+    "https://neptune.so"
+  ],
   "images": {
     "image64": "https://storage.googleapis.com/blockmodo/coins/images/LTC_64_64.png",
     "image128": "https://storage.googleapis.com/blockmodo/coins/images/LTC_128_128.png",

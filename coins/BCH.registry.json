@@ -16,6 +16,9 @@
     "t_max_supply": 21000000,
     "t_total_supply": 18554456.25
   },
+  "wallets": [
+    "https://neptune.so"
+  ],
   "images": {
     "image64": "https://storage.googleapis.com/blockmodo/coins/images/BCH_64_64.png",
     "image128": "https://storage.googleapis.com/blockmodo/coins/images/BCH_128_128.png",

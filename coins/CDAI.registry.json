@@ -1,0 +1,41 @@
+{
+    "algorithm": null,
+    "chat": [],
+    "community": [
+        "https://www.reddit.com/r/Compound/"
+    ],
+    "description": {
+        "en": "Compound is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications."
+    },
+    "explorer": [
+        "https://etherscan.io/token/0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643"
+    ],
+    "fromSymbol": "CDAI",
+    "is_crypto": true,
+    "is_minable": true,
+    "name": "Compound DAI",
+    "wallets": [
+        "https://neptune.so"
+    ],
+    "network": {
+        "t_available_supply": 18526643,
+        "t_block_reward": 0,
+        "t_max_supply": 21000000,
+        "t_total_supply": 18526643
+    },
+    "proof_type": null,
+    "quote": [
+        "https://blockmodo.com/quotes/CDAI"
+    ],
+    "social": [
+        "https://twitter.com/compoundfinance"
+    ],
+    "source_code": [
+        "https://github.com/compound-finance/compound-protocol"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://compound.finance",
+    "adoptedFromSymbol": "CDAI"
+}

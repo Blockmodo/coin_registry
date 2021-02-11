@@ -11,9 +11,9 @@
   "is_minable": false,
   "name": "ChainLink",
   "network": {
-    "t_available_supply": 388509556,
+    "t_available_supply": 405509556.4344445,
     "t_block_reward": 0,
-    "t_max_supply": 0,
+    "t_max_supply": 1000000000,
     "t_total_supply": 1000000000
   },
   "wallets": [

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Shacoin",
   "network": {
-    "t_available_supply": 0,
+    "t_available_supply": 3005855396,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 0
+    "t_total_supply": 8500000000
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/SHA"],

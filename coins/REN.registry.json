@@ -11,9 +11,9 @@
   "is_minable": false,
   "name": "Republic Protocol",
   "network": {
-    "t_available_supply": 884532524.8008337,
+    "t_available_supply": 995363051.0169293,
     "t_block_reward": 0,
-    "t_max_supply": 0,
+    "t_max_supply": 1000000000,
     "t_total_supply": 999999632.80375
   },
   "proof_type": null,

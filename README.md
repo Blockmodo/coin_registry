@@ -40,9 +40,7 @@ A COINREGISTRY JSON information file:
 		"t_max_supply": 21000000,
 		"t_block_reward": 12.5
 	},
-	"wallets": [
-    	"https://neptune.so"
-  	],
+	"wallets": ["https://neptune.so"],
 	"is_crypto": true,
 	"is_minable": true,
 	"proof_type": "PoW",

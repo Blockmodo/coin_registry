@@ -11,10 +11,10 @@
   "is_minable": true,
   "name": "Bitcoin Cash",
   "network": {
-    "t_available_supply": 18667625,
+    "t_available_supply": 18667756.25,
     "t_block_reward": 0,
     "t_max_supply": 21000000,
-    "t_total_supply": 18667625
+    "t_total_supply": 18667756.25
   },
   "wallets": ["https://neptune.so"],
   "images": {

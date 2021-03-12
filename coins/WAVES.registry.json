@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Waves",
   "network": {
-    "t_available_supply": 104551114,
+    "t_available_supply": 104551858,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 104551114
+    "t_total_supply": 104551858
   },
   "proof_type": "LPoS",
   "quote": ["https://blockmodo.com/quotes/WAVES"],

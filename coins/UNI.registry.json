@@ -1,42 +1,27 @@
 {
   "algorithm": null,
-  "chat": [
-    "https://uniswap.org/"
-  ],
-  "community": [
-    "https://www.reddit.com/r/Uniswap"
-  ],
+  "chat": ["https://uniswap.org/"],
+  "community": ["https://www.reddit.com/r/Uniswap"],
   "description": {
     "en": "Decentralized Trading Protocol."
   },
-  "explorer": [
-    "https://www.dextools.io/app/uniswap/pool-explorer"
-  ],
+  "explorer": ["https://www.dextools.io/app/uniswap/pool-explorer"],
   "fromSymbol": "UNI-A",
   "is_crypto": true,
   "is_minable": false,
-  "wallets": [
-    "https://neptune.so"
-  ],
+  "wallets": ["https://neptune.so"],
   "name": "Uniswap",
   "images": {},
   "network": {
     "t_available_supply": 522110656.70656717,
     "t_block_reward": 0,
-    "t_max_supply": 170532785,
-    "t_total_supply": 170532785
+    "t_max_supply": 1000000000,
+    "t_total_supply": 1000000000
   },
   "proof_type": null,
-  "quote": [
-    "https://blockmodo.com/quotes/UNI-A"
-  ],
-  "social": [
-    "https://twitter.com/Uniswap"
-  ],
-  "source_code": [
-    "https://github.com/Uniswap/uniswap-v3-core",
-    "https://github.com/Uniswap/uniswap-v2-core"
-  ],
+  "quote": ["https://blockmodo.com/quotes/UNI-A"],
+  "social": ["https://twitter.com/Uniswap"],
+  "source_code": ["https://github.com/Uniswap/uniswap-v3-core", "https://github.com/Uniswap/uniswap-v2-core"],
   "toSymbol": "ALL",
   "type": "COINREGISTRY",
   "version": 1,

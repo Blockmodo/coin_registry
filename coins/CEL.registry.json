@@ -1,42 +1,30 @@
 {
-    "algorithm": null,
-    "chat": [],
-    "community": [
-        "https://www.reddit.com/r/CelsiusNetwork/"
-    ],
-    "description": {
-        "en": "Celsius (CEL) is an all-in-one banking and financial services platform for cryptocurrency users."
-    },
-    "explorer": [
-        "https://etherscan.io/address/0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d"
-    ],
-    "fromSymbol": "CEL",
-    "is_crypto": true,
-    "is_minable": false,
-    "wallets": [
-        "https://neptune.so"
-    ],
-    "name": "Celcius",
-    "images": {},
-    "network": {
-        "t_available_supply": 154532785,
-        "t_block_reward": 0,
-        "t_max_supply": 170532785,
-        "t_total_supply": 170532785
-    },
-    "proof_type": null,
-    "quote": [
-        "https://blockmodo.com/quotes/CEL"
-    ],
-    "social": [
-        "https://twitter.com/celsiusnetwork"
-    ],
-    "source_code": [
-        "https://github.com/CelsiusNetwork/celsius-js-sdk"
-    ],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://celsius.network/",
-    "adoptedFromSymbol": "CEL"
+  "algorithm": null,
+  "chat": [],
+  "community": ["https://www.reddit.com/r/CelsiusNetwork/"],
+  "description": {
+    "en": "Celsius (CEL) is an all-in-one banking and financial services platform for cryptocurrency users."
+  },
+  "explorer": ["https://etherscan.io/address/0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d"],
+  "fromSymbol": "CEL",
+  "is_crypto": true,
+  "is_minable": false,
+  "wallets": ["https://neptune.so"],
+  "name": "Celcius",
+  "images": {},
+  "network": {
+    "t_available_supply": 238863519.826,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 695658160.967
+  },
+  "proof_type": null,
+  "quote": ["https://blockmodo.com/quotes/CEL"],
+  "social": ["https://twitter.com/celsiusnetwork"],
+  "source_code": ["https://github.com/CelsiusNetwork/celsius-js-sdk"],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://celsius.network/",
+  "adoptedFromSymbol": "CEL"
 }

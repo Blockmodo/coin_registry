@@ -1,28 +1,45 @@
 {
-  "algorithm": "Scrypt",
-  "chat": [],
-  "community": [],
+  "algorithm": null,
+  "chat": [
+    "https://uniswap.org/"
+  ],
+  "community": [
+    "https://www.reddit.com/r/Uniswap"
+  ],
   "description": {
-    "en": ""
+    "en": "Decentralized Trading Protocol."
   },
-  "explorer": [],
-  "fromSymbol": "UNI",
+  "explorer": [
+    "https://www.dextools.io/app/uniswap/pool-explorer"
+  ],
+  "fromSymbol": "UNI-A",
   "is_crypto": true,
   "is_minable": false,
-  "name": "Universe",
+  "wallets": [
+    "https://neptune.so"
+  ],
+  "name": "Uniswap",
+  "images": {},
   "network": {
-    "t_available_supply": 301116931.3290354,
+    "t_available_supply": 154532785,
     "t_block_reward": 0,
-    "t_max_supply": 1000000000,
-    "t_total_supply": 1000000000
+    "t_max_supply": 170532785,
+    "t_total_supply": 170532785
   },
-  "proof_type": "PoS",
-  "quote": ["https://blockmodo.com/quotes/UNI"],
-  "social": ["https://twitter.com/@Unicoin_UNI"],
-  "source_code": [],
+  "proof_type": null,
+  "quote": [
+    "https://blockmodo.com/quotes/UNI-A"
+  ],
+  "social": [
+    "https://twitter.com/Uniswap"
+  ],
+  "source_code": [
+    "https://github.com/Uniswap/uniswap-v3-core",
+    "https://github.com/Uniswap/uniswap-v2-core"
+  ],
   "toSymbol": "ALL",
   "type": "COINREGISTRY",
   "version": 1,
-  "website": "http://unicoin.pw",
+  "website": "https://www.uniswap.org/",
   "adoptedFromSymbol": "UNI"
 }

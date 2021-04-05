@@ -10,9 +10,7 @@
   "is_crypto": true,
   "is_minable": true,
   "name": "Bitcoin",
-  "wallets": [
-    "https://neptune.so"
-  ],
+  "wallets": ["https://neptune.so"],
   "images": {
     "image64": "https://storage.googleapis.com/blockmodo/coins/images/BTC_64_64.png",
     "image128": "https://storage.googleapis.com/blockmodo/coins/images/BTC_128_128.png",
@@ -21,10 +19,10 @@
     "image1024": "https://storage.googleapis.com/blockmodo/coins/images/BTC_1204_1024.png"
   },
   "network": {
-    "t_available_supply": 18626000,
+    "t_available_supply": 18673668,
     "t_block_reward": 0,
     "t_max_supply": 21000000,
-    "t_total_supply": 18626000
+    "t_total_supply": 18673668
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/BTC"],

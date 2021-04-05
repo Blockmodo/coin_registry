@@ -3,7 +3,7 @@
   "chat": [],
   "community": ["https://www.reddit.com/r/LINKTrader"],
   "description": {
-    "en": ""
+    "en": "Chainlink's decentralized oracle network provides reliable, tamper-proof inputs and outputs for complex smart contracts on any blockchain."
   },
   "explorer": [],
   "fromSymbol": "LINK",
@@ -11,14 +11,12 @@
   "is_minable": false,
   "name": "ChainLink",
   "network": {
-    "t_available_supply": 405509556.4344445,
+    "t_available_supply": 417509556.43444455,
     "t_block_reward": 0,
     "t_max_supply": 1000000000,
     "t_total_supply": 1000000000
   },
-  "wallets": [
-    "https://neptune.so"
-  ],
+  "wallets": ["https://neptune.so"],
   "proof_type": "",
   "quote": ["https://blockmodo.com/quotes/LINK"],
   "social": ["https://twitter.com/"],

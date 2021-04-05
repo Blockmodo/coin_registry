@@ -10,9 +10,7 @@
   "is_crypto": true,
   "is_minable": false,
   "name": "Litecoin",
-  "wallets": [
-    "https://neptune.so"
-  ],
+  "wallets": ["https://neptune.so"],
   "images": {
     "image64": "https://storage.googleapis.com/blockmodo/coins/images/LTC_64_64.png",
     "image128": "https://storage.googleapis.com/blockmodo/coins/images/LTC_128_128.png",
@@ -21,10 +19,10 @@
     "image1024": "https://storage.googleapis.com/blockmodo/coins/images/LTC_1204_1024.png"
   },
   "network": {
-    "t_available_supply": 66463991.89559093,
+    "t_available_supply": 66752414.51538747,
     "t_block_reward": 0,
     "t_max_supply": 84000000,
-    "t_total_supply": 66463991.89559093
+    "t_total_supply": 66752414.51538747
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/LTC"],

@@ -1,17 +1,11 @@
 {
   "algorithm": "Scrypt",
-  "chat": [
-    "https://discord.com/invite/wGUDt2p"
-  ],
-  "community": [
-    "https://www.reddit.com/r/dot/"
-  ],
+  "chat": ["https://discord.com/invite/wGUDt2p"],
+  "community": ["https://www.reddit.com/r/dot/"],
   "description": {
     "en": "Polkadot is built to connect private and consortium chains, public and permissionless networks, oracles, and future technologies that are yet to be created. Polkadot facilitates an internet where independent blockchains can exchange information and transactions in a trustless way via the Polkadot relay chain."
   },
-  "explorer": [
-    "https://polkadot.subscan.io/"
-  ],
+  "explorer": ["https://polkadot.subscan.io/"],
   "fromSymbol": "DOT",
   "is_crypto": true,
   "is_minable": false,
@@ -23,18 +17,9 @@
     "t_total_supply": 1061830723.8871143
   },
   "proof_type": "PoS",
-  "quote": [
-    "https://blockmodo.com/quotes/DOT"
-  ],
-  "social": [
-    "https://twitter.com/Polkadot"
-  ],
-  "source_code": [
-    "https://github.com/paritytech/substrate",
-    "https://github.com/paritytech/cumulus",
-    "https://github.com/paritytech/wasmi",
-    "https://github.com/paritytech/substrate-light-ui"
-  ],
+  "quote": ["https://blockmodo.com/quotes/DOT"],
+  "social": ["https://twitter.com/Polkadot"],
+  "source_code": ["https://github.com/paritytech/substrate", "https://github.com/paritytech/cumulus", "https://github.com/paritytech/wasmi", "https://github.com/paritytech/substrate-light-ui"],
   "toSymbol": "ALL",
   "type": "COINREGISTRY",
   "version": 1,

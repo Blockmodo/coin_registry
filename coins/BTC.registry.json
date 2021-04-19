@@ -19,10 +19,10 @@
     "image1024": "https://storage.googleapis.com/blockmodo/coins/images/BTC_1204_1024.png"
   },
   "network": {
-    "t_available_supply": 18685943,
+    "t_available_supply": 18686000,
     "t_block_reward": 0,
     "t_max_supply": 21000000,
-    "t_total_supply": 18685943
+    "t_total_supply": 18686000
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/BTC"],

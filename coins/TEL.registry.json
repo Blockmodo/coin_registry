@@ -11,9 +11,9 @@
   "is_minable": false,
   "name": "Telcoin",
   "network": {
-    "t_available_supply": 34904447575,
+    "t_available_supply": 51270110195.29,
     "t_block_reward": 0,
-    "t_max_supply": 0,
+    "t_max_supply": 100000000000,
     "t_total_supply": 100000000000
   },
   "proof_type": "",

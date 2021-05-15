@@ -1,0 +1,47 @@
+{
+    "algorithm": "Ethhash",
+    "chat": [
+        "https://t.me/PancakeSwap"
+    ],
+    "community": [
+        "https://www.reddit.com/r/pancakeswap"
+    ],
+    "description": {
+        "en": "PancakeSwap is an automated market maker (AMM) — a decentralized finance (DeFi) application that allows users to exchange tokens, providing liquidity via farming and earning fees in return."
+    },
+    "explorer": [
+        "https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+    ],
+    "fromSymbol": "CAKE",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "PancakeSwap",
+    "wallets": [
+        "https://neptune.so"
+    ],
+    "network": {
+        "t_available_supply": 18673787,
+        "t_block_reward": 0,
+        "t_max_supply": 21000000,
+        "t_total_supply": 18673787
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/CAKE"
+    ],
+    "social": [
+        "https://twitter.com/pancakeswap"
+    ],
+    "source_code": [
+        "https://github.com/pancakeswap/pancake-frontend",
+        "https://github.com/pancakeswap/pancakeswap-sdk-v2",
+        "https://github.com/pancakeswap/pancake-toolkit",
+        "https://github.com/pancakeswap/pancake-subgraph",
+        "https://github.com/pancakeswap/pancake-farm"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://pancakeswap.finance/",
+    "adoptedFromSymbol": "CAKE"
+}

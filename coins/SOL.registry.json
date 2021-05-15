@@ -1,0 +1,48 @@
+{
+    "algorithm": "N/A",
+    "chat": [
+        "https://discord.com/invite/Rz737rP",
+        "https://t.me/solana"
+    ],
+    "community": [
+        "https://www.reddit.com/r/solana/"
+    ],
+    "description": {
+        "en": "Solana is a highly functional open source project that banks on blockchain technology’s permissionless nature to provide decentralized finance (DeFi) solutions. While the idea and initial work on the project began in 2017, Solana was officially launched in March 2020 by the Solana Foundation with headquarters in Geneva, Switzerland."
+    },
+    "explorer": [
+        "https://explorer.solana.com/"
+    ],
+    "fromSymbol": "SOL",
+    "is_crypto": true,
+    "is_minable": false,
+    "name": "Solana",
+    "wallets": [
+        "https://neptune.so"
+    ],
+    "network": {
+        "t_available_supply": 18673787,
+        "t_block_reward": 0,
+        "t_max_supply": 21000000,
+        "t_total_supply": 18673787
+    },
+    "proof_type": "PoS",
+    "quote": [
+        "https://blockmodo.com/quotes/SOL"
+    ],
+    "social": [
+        "https://twitter.com/solana"
+    ],
+    "source_code": [
+        "https://github.com/solana-labs/solana-web3.js",
+        "https://github.com/solana-labs/stake-o-matic",
+        "https://github.com/solana-labs/solana-program-library",
+        "https://github.com/solana-labs/explorer",
+        "https://github.com/solana-labs/solana"
+    ],
+    "toSymbol": "ALL",
+    "type": "COINREGISTRY",
+    "version": 1,
+    "website": "https://solana.com/",
+    "adoptedFromSymbol": "SOL"
+}

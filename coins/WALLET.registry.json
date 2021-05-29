@@ -1,0 +1,29 @@
+{
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/neptuneWallet"],
+  "description": {
+    "en": "Wallet is the governance and rewards token for Neptune Wallet. Neptune Wallet is a high end DeFi wallet allowing users to manage multiple HD workspaces and multiple coins scale."
+  },
+  "explorer": [],
+  "fromSymbol": "WALLET",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Neptune Wallet Token",
+  "wallets": ["https://neptune.so"],
+  "network": {
+    "t_available_supply": 1000000000,
+    "t_block_reward": 0,
+    "t_max_supply": 1000000000,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/WALLET"],
+  "social": ["https://twitter.com/neptune_so"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://neptune.so",
+  "adoptedFromSymbol": "WALLET"
+}

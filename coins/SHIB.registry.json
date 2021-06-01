@@ -1,0 +1,29 @@
+{
+  "algorithm": "SHA256",
+  "chat": [],
+  "community": ["https://www.reddit.com/r/SHIBArmy"],
+  "description": {
+    "en": "Legend has it this dog created the word 'wow'."
+  },
+  "explorer": [],
+  "fromSymbol": "SHIB",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Shiba Inu",
+  "wallets": ["https://shibatoken.com/"],
+  "network": {
+    "t_available_supply": 1000000000,
+    "t_block_reward": 0,
+    "t_max_supply": 1000000000,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": "PoS",
+  "quote": ["https://blockmodo.com/quotes/SHIB"],
+  "social": ["https://twitter.com/shibtoken"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://shibatoken.com/",
+  "adoptedFromSymbol": "SHIB"
+}

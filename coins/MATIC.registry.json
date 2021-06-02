@@ -1,15 +1,15 @@
 {
   "algorithm": "SHA256",
   "chat": [],
-  "community": ["https://www.reddit.com/r/SHIBArmy"],
+  "community": ["https://www.reddit.com/r/0xPolygon"],
   "description": {
-    "en": "Legend has it this dog created the word 'wow'."
+    "en": "Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks."
   },
   "explorer": [],
-  "fromSymbol": "SHIB",
+  "fromSymbol": "MATIC",
   "is_crypto": true,
   "is_minable": false,
-  "name": "Shiba Inu",
+  "name": "Polygon Matic",
   "wallets": ["https://neptune.so/"],
   "network": {
     "t_available_supply": 1000000000,
@@ -18,12 +18,12 @@
     "t_total_supply": 1000000000
   },
   "proof_type": "PoS",
-  "quote": ["https://blockmodo.com/quotes/SHIB"],
-  "social": ["https://twitter.com/shibtoken"],
+  "quote": ["https://blockmodo.com/quotes/MATIC"],
+  "social": ["https://twitter.com/0xPolygon"],
   "source_code": [],
   "toSymbol": "ALL",
   "type": "COINREGISTRY",
   "version": 1,
-  "website": "https://shibatoken.com/",
-  "adoptedFromSymbol": "SHIB"
+  "website": "https://polygon.technology",
+  "adoptedFromSymbol": "MATIC"
 }

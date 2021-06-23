@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "SecretCoin",
   "network": {
-    "t_available_supply": 4228672,
+    "t_available_supply": 69703477,
     "t_block_reward": 0,
-    "t_max_supply": 0,
-    "t_total_supply": 4228672
+    "t_max_supply": 176306272,
+    "t_total_supply": 186564398
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/SCRT"],

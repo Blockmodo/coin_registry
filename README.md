@@ -114,7 +114,7 @@ NOTE: This is a temporal value and might change frequently. If you wish to updat
 
 > root → network → t_available_supply
 
-The number of coins that are available to trade. For example, if a currency has coins locked up in escrow the available supply will be a subset of the total supply. 
+The number of coins that are available to trade. For example, if a currency has coins locked up in escrow, the available supply will be a subset of the total supply. 
 
 NOTE: This is a temporal value and might change frequently. If you wish to update this field, please make sure to update it no more than 3 times a day via a pull request. 
 
@@ -152,7 +152,7 @@ The algorithm used to sign blocks.
 
 > root → description
 
-Hash of description types. The key in this block will be the language code and the value will be a string. 
+Hash of description types. The key in this block will be the language code, and the value will be a string. 
 
 > root → quote
 

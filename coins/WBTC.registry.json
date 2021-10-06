@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "WBTC",
   "network": {
-    "t_available_supply": 206869.97494263,
+    "t_available_supply": 207669.57494263,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 206869.97494263
+    "t_total_supply": 207669.57494263
   },
   "wallets": ["https://neptune.so"],
   "proof_type": "PoW/PoS",

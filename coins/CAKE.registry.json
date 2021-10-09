@@ -12,10 +12,10 @@
   "name": "PancakeSwap",
   "wallets": ["https://neptune.so"],
   "network": {
-    "t_available_supply": 230241668.01682106,
+    "t_available_supply": 230276770.28724456,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 230241668.01682106
+    "t_total_supply": 230276770.28724456
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/CAKE"],

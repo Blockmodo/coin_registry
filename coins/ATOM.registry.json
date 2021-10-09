@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Atomic Coin",
   "network": {
-    "t_available_supply": 222629706.479652,
+    "t_available_supply": 222633913.724711,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 280414309.479652
+    "t_total_supply": 280418516.724711
   },
   "proof_type": "PoW/PoS",
   "quote": ["https://blockmodo.com/quotes/ATOM"],

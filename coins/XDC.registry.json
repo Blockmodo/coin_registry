@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "XinFin Coin",
   "network": {
-    "t_available_supply": 12304737779.5,
+    "t_available_supply": 12304757482,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 37704737779.5
+    "t_total_supply": 37704757476.45
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/XDC"],

@@ -12,10 +12,10 @@
   "name": "Shiba Inu",
   "wallets": ["https://neptune.so/"],
   "network": {
-    "t_available_supply": 549057285724508.3,
+    "t_available_supply": 549057262757947.2,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 589735761737320.8
+    "t_total_supply": 589735761394390.5
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/SHIB"],

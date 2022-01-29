@@ -1,31 +1,27 @@
 {
-    "algorithm": "",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "RNDR",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Render Token",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 0,
-        "t_total_supply": 0
-    },
-    "proof_type": "",
-    "quote": [
-        "https://blockmodo.com/quotes/RNDR"
-    ],
-    "social": [
-        "https://twitter.com/@RenderToken"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "https://rendertoken.com/index.html"
+  "algorithm": "",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "RNDR",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Render Token",
+  "network": {
+    "t_available_supply": 199341980.48758665,
+    "t_block_reward": 0,
+    "t_max_supply": 536870912,
+    "t_total_supply": 523984854.7687832
+  },
+  "proof_type": "",
+  "quote": ["https://blockmodo.com/quotes/RNDR"],
+  "social": ["https://twitter.com/@RenderToken"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "https://rendertoken.com/index.html"
 }

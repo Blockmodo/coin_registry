@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "BnrtxCoin",
   "network": {
-    "t_available_supply": 34774501,
+    "t_available_supply": 2022897.56980632,
     "t_block_reward": 0,
-    "t_max_supply": 0,
-    "t_total_supply": 34774501
+    "t_max_supply": 21000000,
+    "t_total_supply": 2485629.41653268
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/BNX"],

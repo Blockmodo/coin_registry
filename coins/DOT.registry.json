@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Polkadot",
   "network": {
-    "t_available_supply": 1117746164.4319062,
+    "t_available_supply": 1117746163.8544202,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 1233169834.757086
+    "t_total_supply": 1233169834.1796
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/DOT"],

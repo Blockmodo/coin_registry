@@ -1,31 +1,27 @@
 {
-    "algorithm": "Scrypt-n",
-    "chat": [],
-    "community": [],
-    "description": {
-        "en": ""
-    },
-    "explorer": [],
-    "fromSymbol": "APT",
-    "is_crypto": true,
-    "is_minable": false,
-    "name": "Aptcoin",
-    "network": {
-        "t_available_supply": 0,
-        "t_block_reward": 0,
-        "t_max_supply": 42000000,
-        "t_total_supply": 0
-    },
-    "proof_type": "PoW",
-    "quote": [
-        "https://blockmodo.com/quotes/APT"
-    ],
-    "social": [
-        "https://twitter.com/@aptcoin"
-    ],
-    "source_code": [],
-    "toSymbol": "ALL",
-    "type": "COINREGISTRY",
-    "version": 1,
-    "website": "-"
+  "algorithm": "Scrypt-n",
+  "chat": [],
+  "community": [],
+  "description": {
+    "en": ""
+  },
+  "explorer": [],
+  "fromSymbol": "APT",
+  "is_crypto": true,
+  "is_minable": false,
+  "name": "Aptcoin",
+  "network": {
+    "t_available_supply": 130000000,
+    "t_block_reward": 0,
+    "t_max_supply": 0,
+    "t_total_supply": 1000000000
+  },
+  "proof_type": "PoW",
+  "quote": ["https://blockmodo.com/quotes/APT"],
+  "social": ["https://twitter.com/@aptcoin"],
+  "source_code": [],
+  "toSymbol": "ALL",
+  "type": "COINREGISTRY",
+  "version": 1,
+  "website": "-"
 }

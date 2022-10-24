@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Tether",
   "network": {
-    "t_available_supply": 68453108029.790016,
+    "t_available_supply": 68453108028.56337,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 70141766321.78476
+    "t_total_supply": 70141766321.7781
   },
   "wallets": ["https://neptune.so"],
   "proof_type": null,

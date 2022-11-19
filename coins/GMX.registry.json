@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Goldmaxcoin",
   "network": {
-    "t_available_supply": 0,
+    "t_available_supply": 7990696,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 84078950
+    "t_total_supply": 8648199.74
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/GMX"],

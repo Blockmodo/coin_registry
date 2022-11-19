@@ -12,10 +12,10 @@
   "name": "XRP",
   "wallets": ["https://neptune.so"],
   "network": {
-    "t_available_supply": 50215300844,
+    "t_available_supply": 50298735565,
     "t_block_reward": 0,
     "t_max_supply": 100000000000,
-    "t_total_supply": 99989233161
+    "t_total_supply": 99989214572
   },
   "proof_type": "",
   "quote": ["https://blockmodo.com/quotes/XRP"],

@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Stellar",
   "network": {
-    "t_available_supply": 26109567729.718235,
+    "t_available_supply": 26109567667.529705,
     "t_block_reward": 0,
     "t_max_supply": 50001806812,
-    "t_total_supply": 50001787524.61639
+    "t_total_supply": 50001787518.61639
   },
   "proof_type": null,
   "quote": ["https://blockmodo.com/quotes/XLM"],

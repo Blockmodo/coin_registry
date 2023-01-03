@@ -12,10 +12,10 @@
   "name": "Solana",
   "wallets": ["https://neptune.so"],
   "network": {
-    "t_available_supply": 367801066.9614624,
+    "t_available_supply": 367800992.2723902,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 537635537.2684615
+    "t_total_supply": 537635462.3564594
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/SOL"],

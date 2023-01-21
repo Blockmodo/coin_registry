@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Grantcoin",
   "network": {
-    "t_available_supply": 8765444583.42213,
+    "t_available_supply": 8765631784.971996,
     "t_block_reward": 0,
     "t_max_supply": 10556361679,
-    "t_total_supply": 10566308534.948587
+    "t_total_supply": 10566495736.498455
   },
   "proof_type": "Pow",
   "quote": ["https://blockmodo.com/quotes/GRT"],

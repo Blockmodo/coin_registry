@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Cardano",
   "network": {
-    "t_available_supply": 34658779978.767,
+    "t_available_supply": 34658761914.549,
     "t_block_reward": 0,
     "t_max_supply": 45000000000,
-    "t_total_supply": 35502866590.527
+    "t_total_supply": 35520414310.289
   },
   "proof_type": "PoS",
   "quote": ["https://blockmodo.com/quotes/ADA"],

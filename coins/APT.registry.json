@@ -11,10 +11,10 @@
   "is_minable": false,
   "name": "Aptcoin",
   "network": {
-    "t_available_supply": 162624556,
+    "t_available_supply": 171819136,
     "t_block_reward": 0,
     "t_max_supply": 0,
-    "t_total_supply": 1015668377
+    "t_total_supply": 1023645224
   },
   "proof_type": "PoW",
   "quote": ["https://blockmodo.com/quotes/APT"],
